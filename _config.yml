@@ -24,6 +24,7 @@ plugins:
 
 # Beautiful Jekyll Settings
 avatar: ""
+show-avatar: false
 nav-links:
   - name: "홈"
     url: "/"
@@ -32,6 +33,10 @@ nav-links:
 social-links:
   github: danielseol9250
   email: your.email@example.com
+
+# Pagination
+paginate: 10
+paginate_path: "/page:num/"
 
 # Markdown Settings
 markdown: kramdown
