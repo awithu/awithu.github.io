@@ -260,6 +260,7 @@ int main() {
 
 ## 실전 예제: 행렬 곱셈
 
+{% raw %}
 ```c
 #include <stdio.h>
 
@@ -292,6 +293,7 @@ int main() {
     return 0;
 }
 ```
+{% endraw %}
 
 ## 배열의 한계
 
