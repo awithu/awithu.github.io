@@ -11,7 +11,13 @@ permalink: /categories/프로그래밍/
         <p class="page-subtitle">프로그래밍 카테고리의 모든 포스트</p>
     </header>
     
-    {% assign category_posts = site.posts | where_exp: "post", "post.categories contains '프로그래밍'" | sort: 'date' | reverse %}
+    {% assign all_posts = site.posts | sort: 'date' | reverse %}
+    {% assign category_posts = '' | split: '' %}
+    {% for post in all_posts %}
+        {% if post.categories contains '프로그래밍' %}
+            {% assign category_posts = category_posts | push: post %}
+        {% endif %}
+    {% endfor %}
     <p class="category-count">총 {{ category_posts.size }}개의 포스트</p>
     
     <div class="posts-list">
