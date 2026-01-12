@@ -37,6 +37,62 @@ permalink: /categories/
     </div>
 </div>
 
+<script>
+// 카테고리 링크 클릭 시 필터링
+document.addEventListener('DOMContentLoaded', function() {
+    const categoryLinks = document.querySelectorAll('.category-title a, .category-more-link');
+    categoryLinks.forEach(link => {
+        link.addEventListener('click', function(e) {
+            const href = this.getAttribute('href');
+            if (href && href.includes('/categories/')) {
+                const category = href.split('/categories/')[1].replace('/', '');
+                // URL 파라미터로 카테고리 전달
+                e.preventDefault();
+                window.location.href = '{{ "/categories/" | relative_url }}?category=' + encodeURIComponent(category);
+            }
+        });
+    });
+    
+    // URL 파라미터에서 카테고리 읽기
+    const urlParams = new URLSearchParams(window.location.search);
+    const selectedCategory = urlParams.get('category');
+    if (selectedCategory) {
+        // 카테고리별 포스트만 표시
+        filterByCategory(selectedCategory);
+    }
+});
+
+function filterByCategory(category) {
+    // 모든 카테고리 섹션 숨기기
+    const sections = document.querySelectorAll('.category-section');
+    sections.forEach(section => {
+        const sectionCategory = section.querySelector('.category-title a').textContent.trim();
+        if (sectionCategory === category) {
+            section.style.display = 'block';
+        } else {
+            section.style.display = 'none';
+        }
+    });
+    
+    // 제목 업데이트
+    const pageTitle = document.querySelector('.page-title');
+    if (pageTitle) {
+        pageTitle.textContent = category;
+    }
+    
+    // 뒤로가기 버튼 추가
+    const pageHeader = document.querySelector('.page-header');
+    if (pageHeader && !document.querySelector('.back-to-categories')) {
+        const backLink = document.createElement('a');
+        backLink.href = '{{ "/categories/" | relative_url }}';
+        backLink.className = 'back-to-categories';
+        backLink.textContent = '← 모든 카테고리';
+        backLink.style.cssText = 'display: inline-block; margin-bottom: 1rem; color: #007bff; text-decoration: none;';
+        pageHeader.insertBefore(backLink, pageTitle);
+    }
+}
+</script>
+
 <style>
 .categories-list {
     display: grid;
