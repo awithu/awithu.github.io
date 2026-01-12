@@ -1,0 +1,60 @@
+---
+layout: default
+title: 태그
+permalink: /tags/
+---
+
+<div class="tags-page">
+    <header class="page-header">
+        <h1 class="page-title">태그</h1>
+        <p class="page-subtitle">태그별로 정리된 포스트를 확인하세요</p>
+    </header>
+    
+    <div class="tags-cloud">
+        {% assign all_tags = site.posts | map: 'tags' | flatten | uniq | sort %}
+        {% for tag in all_tags %}
+            {% assign tag_count = 0 %}
+            {% for post in site.posts %}
+                {% if post.tags contains tag %}
+                    {% assign tag_count = tag_count | plus: 1 %}
+                {% endif %}
+            {% endfor %}
+            {% assign font_size = tag_count | times: 0.1 | plus: 0.9 %}
+            <a href="{{ '/tags/' | append: tag | relative_url }}" 
+               class="tag-link" 
+               style="font-size: {{ font_size }}rem;"
+               data-count="{{ tag_count }}">
+                {{ tag }} ({{ tag_count }})
+            </a>
+        {% endfor %}
+    </div>
+</div>
+
+<style>
+.tags-cloud {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    justify-content: center;
+    padding: 2rem 0;
+}
+
+.tag-link {
+    display: inline-block;
+    padding: 0.5rem 1rem;
+    background-color: #f8f9fa;
+    color: #495057;
+    text-decoration: none;
+    border-radius: 20px;
+    transition: all 0.2s;
+    border: 2px solid transparent;
+}
+
+.tag-link:hover {
+    background-color: #007bff;
+    color: white;
+    transform: translateY(-2px);
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+</style>
+

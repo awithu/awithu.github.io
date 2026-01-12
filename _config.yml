@@ -16,11 +16,10 @@ twitter: ""
 email: "your.email@example.com"
 
 # Build Settings
-remote_theme: daattali/beautiful-jekyll
+# remote_theme: daattali/beautiful-jekyll  # 커스텀 레이아웃 사용으로 주석 처리
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
-  - jekyll-remote-theme
 
 # Beautiful Jekyll Settings
 avatar: ""
@@ -52,6 +51,26 @@ paginate_path: "/page:num/"
 
 # Posts
 future: true  # 미래 날짜 포스트도 표시
+
+# Layout Settings
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
+  - scope:
+      path: ""
+    values:
+      layout: "default"
+
+# Search
+search_enabled: true
 
 # Permalink (URL 구조)
 permalink: /posts/:title/

@@ -1,0 +1,192 @@
+---
+layout: default
+title: 검색
+permalink: /search/
+---
+
+<div class="search-page">
+    <header class="page-header">
+        <h1 class="page-title">검색</h1>
+        <p class="page-subtitle">블로그에서 원하는 내용을 검색하세요</p>
+    </header>
+    
+    <div class="search-container">
+        <form class="search-form-large" onsubmit="return false;">
+            <input type="text" 
+                   id="search-query" 
+                   placeholder="검색어를 입력하세요..." 
+                   class="search-input-large"
+                   autofocus>
+            <button type="submit" class="search-button-large">검색</button>
+        </form>
+        
+        <div id="search-results" class="search-results"></div>
+    </div>
+</div>
+
+<style>
+.search-container {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.search-form-large {
+    display: flex;
+    gap: 1rem;
+    margin-bottom: 2rem;
+}
+
+.search-input-large {
+    flex: 1;
+    padding: 1rem;
+    font-size: 1.1rem;
+    border: 2px solid #e9ecef;
+    border-radius: 8px;
+    transition: border-color 0.2s;
+}
+
+.search-input-large:focus {
+    outline: none;
+    border-color: #007bff;
+}
+
+.search-button-large {
+    padding: 1rem 2rem;
+    background-color: #3d4144;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    font-size: 1.1rem;
+    cursor: pointer;
+    transition: background-color 0.2s;
+}
+
+.search-button-large:hover {
+    background-color: #007bff;
+}
+
+.search-results {
+    margin-top: 2rem;
+}
+
+.search-result-item {
+    background: #f8f9fa;
+    border-radius: 12px;
+    padding: 1.5rem;
+    margin-bottom: 1.5rem;
+    border-left: 4px solid #007bff;
+    transition: transform 0.2s;
+}
+
+.search-result-item:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+.search-result-title {
+    font-size: 1.3rem;
+    margin-bottom: 0.5rem;
+}
+
+.search-result-title a {
+    color: #3d4144;
+    text-decoration: none;
+    transition: color 0.2s;
+}
+
+.search-result-title a:hover {
+    color: #007bff;
+}
+
+.search-result-meta {
+    color: #6c757d;
+    font-size: 0.9rem;
+    margin-bottom: 0.75rem;
+}
+
+.search-result-excerpt {
+    color: #495057;
+    line-height: 1.6;
+}
+
+.no-results {
+    text-align: center;
+    padding: 3rem;
+    color: #6c757d;
+}
+</style>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    const searchInput = document.getElementById('search-query');
+    const searchForm = document.querySelector('.search-form-large');
+    const resultsDiv = document.getElementById('search-results');
+    
+    // URL 파라미터에서 검색어 가져오기
+    const urlParams = new URLSearchParams(window.location.search);
+    const query = urlParams.get('q');
+    if (query) {
+        searchInput.value = query;
+        performSearch(query);
+    }
+    
+    searchForm.addEventListener('submit', function(e) {
+        e.preventDefault();
+        const query = searchInput.value.trim();
+        if (query) {
+            window.history.pushState({}, '', '/ait26/search/?q=' + encodeURIComponent(query));
+            performSearch(query);
+        }
+    });
+    
+    function performSearch(query) {
+        const results = [];
+        const queryLower = query.toLowerCase();
+        
+        {% for post in site.posts %}
+            const postTitle = "{{ post.title }}".toLowerCase();
+            const postContent = "{{ post.content | strip_html | strip_newlines }}".toLowerCase();
+            const postDescription = "{{ post.description | default: '' }}".toLowerCase();
+            
+            if (postTitle.includes(queryLower) || 
+                postContent.includes(queryLower) || 
+                postDescription.includes(queryLower)) {
+                results.push({
+                    title: "{{ post.title }}",
+                    url: "{{ post.url | relative_url }}",
+                    date: "{{ post.date | date: '%Y-%m-%d' }}",
+                    description: "{{ post.description | default: post.excerpt | strip_html | truncate: 150 }}",
+                    categories: {{ post.categories | jsonify }}
+                });
+            }
+        {% endfor %}
+        
+        displayResults(results, query);
+    }
+    
+    function displayResults(results, query) {
+        if (results.length === 0) {
+            resultsDiv.innerHTML = '<div class="no-results">검색 결과가 없습니다. 다른 검색어를 시도해보세요.</div>';
+            return;
+        }
+        
+        let html = '<h2>검색 결과: ' + results.length + '개</h2>';
+        results.forEach(function(result) {
+            html += '<div class="search-result-item">';
+            html += '<h3 class="search-result-title"><a href="' + result.url + '">' + result.title + '</a></h3>';
+            html += '<div class="search-result-meta">' + result.date;
+            if (result.categories && result.categories.length > 0) {
+                html += ' • ' + result.categories.join(', ');
+            }
+            html += '</div>';
+            if (result.description) {
+                html += '<p class="search-result-excerpt">' + result.description + '</p>';
+            }
+            html += '</div>';
+        });
+        
+        resultsDiv.innerHTML = html;
+    }
+});
+</script>
+

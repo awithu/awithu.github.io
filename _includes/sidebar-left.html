@@ -1,0 +1,30 @@
+<div class="sidebar-left-content">
+    <div class="site-branding">
+        <h1 class="site-title">
+            <a href="{{ '/' | relative_url }}">{{ site.title }}</a>
+        </h1>
+        <p class="site-description">{{ site.description }}</p>
+    </div>
+    
+    <nav class="main-navigation">
+        <ul class="nav-menu">
+            <li><a href="{{ '/' | relative_url }}" class="nav-link">홈</a></li>
+            <li><a href="{{ '/categories/' | relative_url }}" class="nav-link">카테고리</a></li>
+            <li><a href="{{ '/tags/' | relative_url }}" class="nav-link">태그</a></li>
+            <li><a href="{{ '/about/' | relative_url }}" class="nav-link">About</a></li>
+        </ul>
+    </nav>
+    
+    <div class="sidebar-footer">
+        <div class="social-links">
+            {% if site.github %}
+                <a href="https://github.com/{{ site.github }}" target="_blank" rel="noopener" class="social-link">GitHub</a>
+            {% endif %}
+            {% if site.email %}
+                <a href="mailto:{{ site.email }}" class="social-link">Email</a>
+            {% endif %}
+        </div>
+        <p class="copyright">&copy; {{ 'now' | date: "%Y" }} {{ site.title }}</p>
+    </div>
+</div>
+

@@ -1,0 +1,31 @@
+<article class="post-card">
+    <a href="{{ include.post.url | relative_url }}" class="post-card-link">
+        <h2 class="post-card-title">{{ include.post.title }}</h2>
+    </a>
+    
+    <div class="post-card-meta">
+        <time datetime="{{ include.post.date | date: '%Y-%m-%d' }}" class="post-card-date">
+            {{ include.post.date | date: "%Y년 %m월 %d일" }}
+        </time>
+        {% if include.post.categories.size > 0 %}
+            <span class="post-card-categories">
+                {% for category in include.post.categories %}
+                    <a href="{{ '/categories/' | append: category | relative_url }}" class="category-badge">{{ category }}</a>
+                {% endfor %}
+            </span>
+        {% endif %}
+    </div>
+    
+    {% if include.post.description %}
+        <p class="post-card-description">{{ include.post.description }}</p>
+    {% endif %}
+    
+    {% if include.post.tags.size > 0 %}
+        <div class="post-card-tags">
+            {% for tag in include.post.tags %}
+                <a href="{{ '/tags/' | append: tag | relative_url }}" class="tag-badge">{{ tag }}</a>
+            {% endfor %}
+        </div>
+    {% endif %}
+</article>
+

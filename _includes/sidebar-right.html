@@ -1,0 +1,74 @@
+<div class="sidebar-right-content">
+    <!-- 검색 -->
+    <section class="widget search-widget">
+        <h3 class="widget-title">검색</h3>
+        <form class="search-form" action="{{ '/search/' | relative_url }}" method="get">
+            <input type="text" name="q" placeholder="검색어 입력..." class="search-input" id="search-input">
+            <button type="submit" class="search-button">검색</button>
+        </form>
+    </section>
+    
+    <!-- 최근 포스트 -->
+    <section class="widget recent-posts-widget">
+        <h3 class="widget-title">최근 포스트</h3>
+        <ul class="recent-posts-list">
+            {% for post in site.posts limit: 10 %}
+                <li class="recent-post-item">
+                    <a href="{{ post.url | relative_url }}" class="recent-post-link">
+                        <span class="recent-post-title">{{ post.title }}</span>
+                        <span class="recent-post-date">{{ post.date | date: "%Y-%m-%d" }}</span>
+                    </a>
+                </li>
+            {% endfor %}
+        </ul>
+    </section>
+    
+    <!-- 인기 태그 -->
+    <section class="widget tags-widget">
+        <h3 class="widget-title">인기 태그</h3>
+        <div class="tag-cloud">
+            {% assign all_tags = site.posts | map: 'tags' | flatten | uniq | sort %}
+            {% for tag in all_tags limit: 20 %}
+                {% assign tag_count = 0 %}
+                {% for post in site.posts %}
+                    {% if post.tags contains tag %}
+                        {% assign tag_count = tag_count | plus: 1 %}
+                    {% endif %}
+                {% endfor %}
+                <a href="{{ '/tags/' | append: tag | relative_url }}" class="tag-cloud-item" data-count="{{ tag_count }}">
+                    {{ tag }}
+                </a>
+            {% endfor %}
+        </div>
+    </section>
+    
+    <!-- 블로그 통계 -->
+    <section class="widget stats-widget">
+        <h3 class="widget-title">블로그 통계</h3>
+        <ul class="stats-list">
+            <li class="stat-item">
+                <span class="stat-label">총 포스트</span>
+                <span class="stat-value">{{ site.posts.size }}</span>
+            </li>
+            {% assign categories = site.posts | map: 'categories' | flatten | uniq %}
+            <li class="stat-item">
+                <span class="stat-label">카테고리</span>
+                <span class="stat-value">{{ categories.size }}</span>
+            </li>
+            {% assign tags = site.posts | map: 'tags' | flatten | uniq %}
+            <li class="stat-item">
+                <span class="stat-label">태그</span>
+                <span class="stat-value">{{ tags.size }}</span>
+            </li>
+        </ul>
+    </section>
+    
+    <!-- 목차 (포스트 페이지에서만 표시) -->
+    {% if page.layout == 'post' %}
+    <section class="widget toc-widget">
+        <h3 class="widget-title">목차</h3>
+        <nav class="table-of-contents" id="toc"></nav>
+    </section>
+    {% endif %}
+</div>
+

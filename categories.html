@@ -1,0 +1,126 @@
+---
+layout: default
+title: 카테고리
+permalink: /categories/
+---
+
+<div class="categories-page">
+    <header class="page-header">
+        <h1 class="page-title">카테고리</h1>
+        <p class="page-subtitle">주제별로 정리된 포스트를 확인하세요</p>
+    </header>
+    
+    <div class="categories-list">
+        {% assign categories = site.posts | map: 'categories' | flatten | uniq | sort %}
+        {% for category in categories %}
+            <section class="category-section">
+                <h2 class="category-title">
+                    <a href="{{ '/categories/' | append: category | relative_url }}">{{ category }}</a>
+                </h2>
+                {% assign category_posts = site.posts | where_exp: "post", "post.categories contains category" %}
+                <p class="category-count">{{ category_posts.size }}개의 포스트</p>
+                <ul class="category-posts">
+                    {% for post in category_posts limit: 5 %}
+                        <li class="category-post-item">
+                            <a href="{{ post.url | relative_url }}" class="category-post-link">
+                                <span class="category-post-title">{{ post.title }}</span>
+                                <span class="category-post-date">{{ post.date | date: "%Y-%m-%d" }}</span>
+                            </a>
+                        </li>
+                    {% endfor %}
+                </ul>
+                {% if category_posts.size > 5 %}
+                    <a href="{{ '/categories/' | append: category | relative_url }}" class="category-more-link">더보기 →</a>
+                {% endif %}
+            </section>
+        {% endfor %}
+    </div>
+</div>
+
+<style>
+.categories-list {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 2rem;
+}
+
+.category-section {
+    background: #f8f9fa;
+    border-radius: 12px;
+    padding: 2rem;
+    border-left: 4px solid #007bff;
+}
+
+.category-title {
+    font-size: 1.5rem;
+    margin-bottom: 0.5rem;
+}
+
+.category-title a {
+    color: #3d4144;
+    text-decoration: none;
+    transition: color 0.2s;
+}
+
+.category-title a:hover {
+    color: #007bff;
+}
+
+.category-count {
+    color: #6c757d;
+    font-size: 0.9rem;
+    margin-bottom: 1rem;
+}
+
+.category-posts {
+    list-style: none;
+    margin-bottom: 1rem;
+}
+
+.category-post-item {
+    margin-bottom: 0.75rem;
+    padding-bottom: 0.75rem;
+    border-bottom: 1px solid #e9ecef;
+}
+
+.category-post-item:last-child {
+    border-bottom: none;
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+
+.category-post-link {
+    display: block;
+    text-decoration: none;
+    color: #495057;
+    transition: color 0.2s;
+}
+
+.category-post-link:hover {
+    color: #007bff;
+}
+
+.category-post-title {
+    display: block;
+    margin-bottom: 0.25rem;
+}
+
+.category-post-date {
+    display: block;
+    font-size: 0.85rem;
+    color: #adb5bd;
+}
+
+.category-more-link {
+    display: inline-block;
+    color: #007bff;
+    text-decoration: none;
+    font-size: 0.9rem;
+    transition: transform 0.2s;
+}
+
+.category-more-link:hover {
+    transform: translateX(5px);
+}
+</style>
+

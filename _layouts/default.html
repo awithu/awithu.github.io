@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
+    <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+    
+    <!-- CSS -->
+    <link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
+    {% if site.head_custom %}
+        {% include head_custom.html %}
+    {% endif %}
+    
+    <!-- Jekyll SEO Tag -->
+    {% seo %}
+</head>
+<body>
+    <div class="container-wrapper">
+        <!-- 왼쪽 사이드바 -->
+        <aside class="sidebar-left">
+            {% include sidebar-left.html %}
+        </aside>
+        
+        <!-- 메인 콘텐츠 -->
+        <main class="main-content">
+            {{ content }}
+        </main>
+        
+        <!-- 오른쪽 사이드바 -->
+        <aside class="sidebar-right">
+            {% include sidebar-right.html %}
+        </aside>
+    </div>
+    
+    <!-- JavaScript -->
+    {% if site.search_enabled %}
+        <script src="{{ '/assets/js/search.js' | relative_url }}" defer></script>
+    {% endif %}
+</body>
+</html>
+

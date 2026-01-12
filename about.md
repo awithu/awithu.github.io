@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "About"
 subtitle: "소개"
 permalink: /about/
