@@ -16,7 +16,7 @@ twitter: ""
 email: "your.email@example.com"
 
 # Build Settings
-# theme: minima  # 기본 테마 (필요시 활성화)
+# GitHub Pages는 기본 테마를 사용하지만, 커스텀 레이아웃이 우선됩니다
 plugins:
   - jekyll-feed
   - jekyll-seo-tag

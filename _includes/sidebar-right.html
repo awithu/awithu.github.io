@@ -29,13 +29,8 @@
         <div class="tag-cloud">
             {% assign all_tags = site.posts | map: 'tags' | flatten | uniq | sort %}
             {% for tag in all_tags limit: 20 %}
-                {% assign tag_count = 0 %}
-                {% for post in site.posts %}
-                    {% if post.tags contains tag %}
-                        {% assign tag_count = tag_count | plus: 1 %}
-                    {% endif %}
-                {% endfor %}
-                <a href="{{ '/tags/' | append: tag | relative_url }}" class="tag-cloud-item" data-count="{{ tag_count }}">
+                {% assign tag_posts = site.posts | where_exp: "post", "post.tags contains tag" %}
+                <a href="{{ '/tags/' | append: tag | relative_url }}" class="tag-cloud-item" data-count="{{ tag_posts.size }}">
                     {{ tag }}
                 </a>
             {% endfor %}
@@ -50,15 +45,15 @@
                 <span class="stat-label">총 포스트</span>
                 <span class="stat-value">{{ site.posts.size }}</span>
             </li>
-            {% assign categories = site.posts | map: 'categories' | flatten | uniq %}
+            {% assign all_categories = site.posts | map: 'categories' | flatten | uniq %}
             <li class="stat-item">
                 <span class="stat-label">카테고리</span>
-                <span class="stat-value">{{ categories.size }}</span>
+                <span class="stat-value">{{ all_categories.size }}</span>
             </li>
-            {% assign tags = site.posts | map: 'tags' | flatten | uniq %}
+            {% assign all_tags = site.posts | map: 'tags' | flatten | uniq %}
             <li class="stat-item">
                 <span class="stat-label">태그</span>
-                <span class="stat-value">{{ tags.size }}</span>
+                <span class="stat-value">{{ all_tags.size }}</span>
             </li>
         </ul>
     </section>
