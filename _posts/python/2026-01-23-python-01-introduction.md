@@ -2,7 +2,7 @@
 layout: post
 title:  "파이썬 강의 1편: 파이썬 소개 및 설치하기"
 date:   2026-01-23 10:00:00 +0900
-categories: [IT, 프로그래밍 언어, 파이썬 강의]
+categories: [IT, 파이썬 강의]
 tags: [파이썬, Python, 기초, 설치, 시작하기]
 description: "파이썬이란 무엇인지 알아보고, Windows와 Mac에서 파이썬을 설치하고 첫 번째 프로그램을 실행해봅니다."
 ---

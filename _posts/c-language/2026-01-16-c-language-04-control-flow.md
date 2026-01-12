@@ -2,7 +2,7 @@
 layout: post
 title:  "C언어 강의 4편: 제어문 (if, switch)"
 date:   2026-01-16 10:00:00 +0900
-categories: [IT, 프로그래밍 언어, C언어 강의]
+categories: [IT, C언어 강의]
 tags: [C언어, 제어문, if문, switch문, 조건문]
 ---
 

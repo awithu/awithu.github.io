@@ -2,7 +2,7 @@
 layout: post
 title:  "파이썬 강의 4편: 제어문 (if, elif, else)"
 date:   2026-01-26 10:00:00 +0900
-categories: [IT, 프로그래밍 언어, 파이썬 강의]
+categories: [IT, 파이썬 강의]
 tags: [파이썬, 제어문, if문, 조건문, elif]
 description: "파이썬의 조건문(if, elif, else)을 배우고 다양한 실전 예제를 통해 조건에 따른 프로그램 흐름 제어를 학습합니다."
 ---

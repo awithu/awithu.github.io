@@ -2,7 +2,7 @@
 layout: post
 title:  "C언어 강의 9편: 문자열 처리"
 date:   2026-01-21 10:00:00 +0900
-categories: [IT, 프로그래밍 언어, C언어 강의]
+categories: [IT, C언어 강의]
 tags: [C언어, 문자열, string, 문자배열]
 ---
 

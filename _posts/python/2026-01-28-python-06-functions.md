@@ -2,7 +2,7 @@
 layout: post
 title:  "파이썬 강의 6편: 함수"
 date:   2026-01-28 10:00:00 +0900
-categories: [IT, 프로그래밍 언어, 파이썬 강의]
+categories: [IT, 파이썬 강의]
 tags: [파이썬, 함수, function, 모듈화, 재사용]
 description: "파이썬 함수의 정의와 호출, 매개변수, 반환값, 기본값 인자, 가변 인자 등 함수의 모든 기능을 배웁니다."
 ---

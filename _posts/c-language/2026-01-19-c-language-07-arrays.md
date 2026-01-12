@@ -2,7 +2,7 @@
 layout: post
 title:  "C언어 강의 7편: 배열"
 date:   2026-01-19 10:00:00 +0900
-categories: [IT, 프로그래밍 언어, C언어 강의]
+categories: [IT, C언어 강의]
 tags: [C언어, 배열, array, 자료구조]
 ---
 

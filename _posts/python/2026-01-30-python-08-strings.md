@@ -2,7 +2,7 @@
 layout: post
 title:  "파이썬 강의 8편: 문자열 처리"
 date:   2026-01-30 10:00:00 +0900
-categories: [IT, 프로그래밍 언어, 파이썬 강의]
+categories: [IT, 파이썬 강의]
 tags: [파이썬, 문자열, string, 텍스트처리]
 description: "파이썬의 문자열 메서드, 포맷팅, 슬라이싱, 정규표현식 기초 등 문자열 처리의 모든 기능을 배웁니다."
 ---

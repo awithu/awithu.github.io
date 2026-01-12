@@ -2,7 +2,7 @@
 layout: post
 title:  "파이썬 강의 5편: 반복문 (for, while)"
 date:   2026-01-27 10:00:00 +0900
-categories: [IT, 프로그래밍 언어, 파이썬 강의]
+categories: [IT, 파이썬 강의]
 tags: [파이썬, 반복문, for문, while문, 반복]
 description: "파이썬의 for문과 while문을 배우고, 리스트 순회, 범위 함수, 중첩 반복문 등 다양한 반복문 활용법을 학습합니다."
 ---

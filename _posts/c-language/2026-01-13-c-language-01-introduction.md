@@ -2,7 +2,7 @@
 layout: post
 title:  "C언어 강의 1편: C언어 소개 및 개발 환경 설정"
 date:   2026-01-13 10:00:00 +0900
-categories: [IT, 프로그래밍 언어, C언어 강의]
+categories: [IT, C언어 강의]
 tags: [C언어, 기초, 개발환경, 시작하기]
 description: "C언어의 특징과 장단점을 알아보고, Windows 환경에서 개발 도구를 설치하고 첫 번째 프로그램을 작성해봅니다."
 ---

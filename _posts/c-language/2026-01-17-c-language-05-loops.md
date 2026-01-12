@@ -2,7 +2,7 @@
 layout: post
 title:  "C언어 강의 5편: 반복문 (for, while)"
 date:   2026-01-17 10:00:00 +0900
-categories: [IT, 프로그래밍 언어, C언어 강의]
+categories: [IT, C언어 강의]
 tags: [C언어, 반복문, for문, while문, 반복]
 ---
 

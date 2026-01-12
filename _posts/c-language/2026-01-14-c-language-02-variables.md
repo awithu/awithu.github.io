@@ -2,7 +2,7 @@
 layout: post
 title:  "C언어 강의 2편: 변수와 데이터 타입"
 date:   2026-01-14 10:00:00 +0900
-categories: [IT, 프로그래밍 언어, C언어 강의]
+categories: [IT, C언어 강의]
 tags: [C언어, 변수, 데이터타입, 기초]
 ---
 

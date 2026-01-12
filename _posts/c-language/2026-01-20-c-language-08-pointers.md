@@ -2,7 +2,7 @@
 layout: post
 title:  "C언어 강의 8편: 포인터 기초"
 date:   2026-01-20 10:00:00 +0900
-categories: [IT, 프로그래밍 언어, C언어 강의]
+categories: [IT, C언어 강의]
 tags: [C언어, 포인터, pointer, 메모리, 주소]
 ---
 

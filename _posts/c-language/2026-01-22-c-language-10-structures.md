@@ -2,7 +2,7 @@
 layout: post
 title:  "C언어 강의 10편: 구조체"
 date:   2026-01-22 10:00:00 +0900
-categories: [IT, 프로그래밍 언어, C언어 강의]
+categories: [IT, C언어 강의]
 tags: [C언어, 구조체, struct, 사용자정의타입]
 ---
 

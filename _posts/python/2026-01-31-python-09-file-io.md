@@ -2,7 +2,7 @@
 layout: post
 title:  "파이썬 강의 9편: 파일 입출력"
 date:   2026-01-31 10:00:00 +0900
-categories: [IT, 프로그래밍 언어, 파이썬 강의]
+categories: [IT, 파이썬 강의]
 tags: [파이썬, 파일입출력, 파일처리, file, IO]
 description: "파이썬으로 파일을 읽고 쓰는 방법, with 문 사용, CSV/JSON 파일 처리 등 파일 입출력의 모든 기능을 배웁니다."
 ---
