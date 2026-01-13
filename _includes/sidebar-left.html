@@ -31,6 +31,14 @@
         </div>
         
         <div class="category-tree">
+            <div class="category-header">
+                <svg class="category-icon folder-icon" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <path d="M2 3.5C2 2.67157 2.67157 2 3.5 2H6.58579C6.98361 2 7.36514 2.15804 7.64645 2.43934L8.35355 3.14645C8.63486 3.42776 9.01639 3.58579 9.41421 3.58579H12.5C13.3284 3.58579 14 4.25722 14 5.08579V12.5C14 13.3284 13.3284 14 12.5 14H3.5C2.67157 14 2 13.3284 2 12.5V3.5Z" fill="currentColor"/>
+                </svg>
+                <a href="{{ '/categories/' | relative_url }}" class="category-all-link">분류 전체보기</a>
+                <span class="category-count">{{ site.posts.size }}개</span>
+            </div>
+            
             <ul class="category-list">
                 {% assign top_level = 'IT' %}
                 {% assign it_posts = site.categories[top_level] | default: '' %}
@@ -48,7 +56,7 @@
                         <svg class="category-icon folder-icon" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
                             <path d="M2 3.5C2 2.67157 2.67157 2 3.5 2H6.58579C6.98361 2 7.36514 2.15804 7.64645 2.43934L8.35355 3.14645C8.63486 3.42776 9.01639 3.58579 9.41421 3.58579H12.5C13.3284 3.58579 14 4.25722 14 5.08579V12.5C14 13.3284 13.3284 14 12.5 14H3.5C2.67157 14 2 13.3284 2 12.5V3.5Z" fill="currentColor"/>
                         </svg>
-                        <a href="{{ '/categories/' | append: top_level | relative_url }}" class="category-link">{{ top_level }}</a>
+                        <a href="{{ '/categories/' | append: top_level | uri_escape | relative_url }}" class="category-link">{{ top_level }}</a>
                         <span class="category-count">{{ it_posts.size }}개</span>
                         <span class="toggle-icon">▼</span>
                     </div>
@@ -78,7 +86,7 @@
                                                 <svg class="category-icon file-icon" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
                                                     <path d="M4 2C3.44772 2 3 2.44772 3 3V13C3 13.5523 3.44772 14 4 14H12C12.5523 14 13 13.5523 13 13V5.41421C13 5.149 12.8946 4.89464 12.7071 4.70711L9.29289 1.29289C9.10536 1.10536 8.851 1 8.58579 1H4Z" fill="currentColor"/>
                                                 </svg>
-                                                <a href="{{ '/categories/' | append: cat_name | relative_url }}" class="category-link">{{ cat_name }}</a>
+                                                <a href="{{ '/categories/' | append: cat_name | uri_escape | relative_url }}" class="category-link">{{ cat_name }}</a>
                                                 <span class="category-count">{{ final_posts.size }}개</span>
                                             </div>
                                         </li>
