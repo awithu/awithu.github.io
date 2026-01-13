@@ -15,7 +15,7 @@ permalink: /categories/
         {% for category in categories %}
             <section class="category-section">
                 <h2 class="category-title">
-                    <a href="{{ '/categories/' | append: category | relative_url }}">{{ category }}</a>
+                    <a href="{{ '/categories/' | append: category | uri_escape | relative_url }}">{{ category }}</a>
                 </h2>
                 {% assign category_posts = site.posts | where_exp: "post", "post.categories contains category" %}
                 <p class="category-count">{{ category_posts.size }}개의 포스트</p>
@@ -30,7 +30,7 @@ permalink: /categories/
                     {% endfor %}
                 </ul>
                 {% if category_posts.size > 5 %}
-                    <a href="{{ '/categories/' | append: category | relative_url }}" class="category-more-link">더보기 →</a>
+                    <a href="{{ '/categories/' | append: category | uri_escape | relative_url }}" class="category-more-link">더보기 →</a>
                 {% endif %}
             </section>
         {% endfor %}
