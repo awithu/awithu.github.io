@@ -31,14 +31,6 @@
         </div>
         
         <div class="category-tree">
-            <div class="category-header">
-                <svg class="category-icon folder-icon" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
-                    <path d="M2 3.5C2 2.67157 2.67157 2 3.5 2H6.58579C6.98361 2 7.36514 2.15804 7.64645 2.43934L8.35355 3.14645C8.63486 3.42776 9.01639 3.58579 9.41421 3.58579H12.5C13.3284 3.58579 14 4.25722 14 5.08579V12.5C14 13.3284 13.3284 14 12.5 14H3.5C2.67157 14 2 13.3284 2 12.5V3.5Z" fill="currentColor"/>
-                </svg>
-                <a href="{{ '/categories/' | relative_url }}" class="category-all-link">분류 전체보기</a>
-                <span class="category-count">{{ site.posts.size }}개</span>
-            </div>
-            
             <ul class="category-list">
                 {% assign top_level = 'IT' %}
                 {% assign it_posts = site.categories[top_level] | default: '' %}
