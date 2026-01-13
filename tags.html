@@ -9,195 +9,119 @@ permalink: /tags/
         <h1 class="page-title">태그</h1>
         <p class="page-subtitle">태그별로 정리된 포스트를 확인하세요</p>
     </header>
-    
-    <div class="tags-cloud" id="tags-cloud">
+
+    <div class="tags-list">
         {% assign all_tags = site.posts | map: 'tags' | flatten | uniq | sort %}
         {% for tag in all_tags %}
-            {% assign tag_count = 0 %}
-            {% for post in site.posts %}
-                {% if post.tags contains tag %}
-                    {% assign tag_count = tag_count | plus: 1 %}
+            {% assign tag_posts = site.posts | where_exp: "post", "post.tags contains tag" %}
+            <section class="tag-section">
+                <h2 class="tag-title">
+                    <a href="{{ '/tags/' | append: tag | uri_escape | relative_url }}">{{ tag }}</a>
+                </h2>
+                <p class="tag-count">{{ tag_posts.size }}개의 포스트</p>
+                <ul class="tag-posts">
+                    {% for post in tag_posts limit: 3 %}
+                        <li class="tag-post-item">
+                            <a href="{{ post.url | relative_url }}" class="tag-post-link">
+                                <span class="tag-post-title">{{ post.title }}</span>
+                                <span class="tag-post-date">{{ post.date | date: "%Y-%m-%d" }}</span>
+                            </a>
+                        </li>
+                    {% endfor %}
+                </ul>
+                {% if tag_posts.size > 3 %}
+                    <a href="{{ '/tags/' | append: tag | uri_escape | relative_url }}" class="tag-more-link">더보기 →</a>
                 {% endif %}
-            {% endfor %}
-            {% assign font_size = tag_count | times: 0.1 | plus: 0.9 %}
-            <a href="#" 
-               class="tag-link" 
-               data-tag="{{ tag }}"
-               style="font-size: {{ font_size }}rem;"
-               data-count="{{ tag_count }}">
-                {{ tag }} ({{ tag_count }})
-            </a>
+            </section>
         {% endfor %}
-    </div>
-    
-    <div id="tag-posts" class="tag-posts-section" style="display: none;">
-        <a href="{{ '/tags/' | relative_url }}" class="back-link">← 모든 태그</a>
-        <h2 id="tag-title" class="tag-title"></h2>
-        <p id="tag-count" class="tag-count"></p>
-        <div id="tag-posts-list" class="posts-list"></div>
     </div>
 </div>
 
-<script>
-document.addEventListener('DOMContentLoaded', function() {
-    const tagLinks = document.querySelectorAll('.tag-link');
-    const tagsCloud = document.getElementById('tags-cloud');
-    const tagPostsSection = document.getElementById('tag-posts');
-    const tagTitle = document.getElementById('tag-title');
-    const tagCount = document.getElementById('tag-count');
-    const tagPostsList = document.getElementById('tag-posts-list');
-    
-    // 모든 포스트 데이터 (Jekyll에서 생성)
-    const allPosts = [
-        {% for post in site.posts %}
-        {
-            title: {{ post.title | jsonify }},
-            url: {{ post.url | relative_url | jsonify }},
-            date: {{ post.date | date: "%Y년 %m월 %d일" | jsonify }},
-            tags: {{ post.tags | jsonify }},
-            description: {{ post.description | jsonify }}
-        }{% unless forloop.last %},{% endunless %}
-        {% endfor %}
-    ];
-    
-    tagLinks.forEach(link => {
-        link.addEventListener('click', function(e) {
-            e.preventDefault();
-            const selectedTag = this.getAttribute('data-tag');
-            showTagPosts(selectedTag);
-        });
-    });
-    
-    // URL 파라미터에서 태그 읽기
-    const urlParams = new URLSearchParams(window.location.search);
-    const selectedTag = urlParams.get('tag');
-    if (selectedTag) {
-        showTagPosts(selectedTag);
-    }
-    
-    function showTagPosts(tag) {
-        const filteredPosts = allPosts.filter(post => post.tags.includes(tag));
-        
-        tagsCloud.style.display = 'none';
-        tagPostsSection.style.display = 'block';
-        tagTitle.textContent = tag;
-        tagCount.textContent = `총 ${filteredPosts.length}개의 포스트`;
-        
-        tagPostsList.innerHTML = '';
-        filteredPosts.forEach(post => {
-            const postCard = document.createElement('article');
-            postCard.className = 'post-card';
-            
-            let tagsHtml = '';
-            if (post.tags && post.tags.length > 0) {
-                tagsHtml = '<div class="post-card-tags">';
-                post.tags.forEach(t => {
-                    tagsHtml += `<a href="#" class="tag-badge" data-tag="${t}">${t}</a>`;
-                });
-                tagsHtml += '</div>';
-            }
-            
-            postCard.innerHTML = `
-                <a href="${post.url}" class="post-card-link">
-                    <h2 class="post-card-title">${post.title}</h2>
-                </a>
-                <div class="post-card-meta">
-                    <time datetime="${post.date}" class="post-card-date">${post.date}</time>
-                    ${tagsHtml}
-                </div>
-                ${post.description ? `<p class="post-card-description">${post.description}</p>` : ''}
-            `;
-            
-            tagPostsList.appendChild(postCard);
-        });
-        
-        // 태그 클릭 이벤트 추가
-        tagPostsList.querySelectorAll('.tag-badge').forEach(badge => {
-            badge.addEventListener('click', function(e) {
-                e.preventDefault();
-                const newTag = this.getAttribute('data-tag');
-                showTagPosts(newTag);
-                window.history.pushState({tag: newTag}, '', `{{ '/tags/' | relative_url }}?tag=${encodeURIComponent(newTag)}`);
-            });
-        });
-        
-        // URL 업데이트
-        window.history.pushState({tag: tag}, '', `{{ '/tags/' | relative_url }}?tag=${encodeURIComponent(tag)}`);
-    }
-    
-    // 브라우저 뒤로가기 처리
-    window.addEventListener('popstate', function(e) {
-        if (e.state && e.state.tag) {
-            showTagPosts(e.state.tag);
-        } else {
-            tagsCloud.style.display = 'flex';
-            tagPostsSection.style.display = 'none';
-        }
-    });
-});
-</script>
 
 <style>
-.tags-cloud {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 1rem;
-    justify-content: center;
-    padding: 2rem 0;
+.tags-list {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 2rem;
 }
 
-.tag-link {
-    display: inline-block;
-    padding: 0.5rem 1rem;
-    background-color: #f8f9fa;
-    color: #495057;
-    text-decoration: none;
-    border-radius: 20px;
-    transition: all 0.2s;
-    border: 2px solid transparent;
-    cursor: pointer;
-}
-
-.tag-link:hover {
-    background-color: #007bff;
-    color: white;
-    transform: translateY(-2px);
-    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
-}
-
-.tag-posts-section {
-    margin-top: 2rem;
-}
-
-.back-link {
-    display: inline-block;
-    margin-bottom: 1rem;
-    color: #007bff;
-    text-decoration: none;
-    font-size: 0.9rem;
-    transition: color 0.2s;
-}
-
-.back-link:hover {
-    color: #0056b3;
+.tag-section {
+    background: #f8f9fa;
+    border-radius: 12px;
+    padding: 2rem;
+    border-left: 4px solid #28a745;
 }
 
 .tag-title {
-    font-size: 2rem;
+    font-size: 1.5rem;
     margin-bottom: 0.5rem;
+}
+
+.tag-title a {
     color: #3d4144;
+    text-decoration: none;
+    transition: color 0.2s;
+}
+
+.tag-title a:hover {
+    color: #28a745;
 }
 
 .tag-count {
     color: #6c757d;
     font-size: 0.9rem;
-    margin-bottom: 2rem;
+    margin-bottom: 1rem;
 }
 
-.posts-list {
-    display: flex;
-    flex-direction: column;
-    gap: 1.5rem;
+.tag-posts {
+    list-style: none;
+    margin-bottom: 1rem;
+}
+
+.tag-post-item {
+    margin-bottom: 0.75rem;
+    padding-bottom: 0.75rem;
+    border-bottom: 1px solid #e9ecef;
+}
+
+.tag-post-item:last-child {
+    border-bottom: none;
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+
+.tag-post-link {
+    display: block;
+    text-decoration: none;
+    color: #495057;
+    transition: color 0.2s;
+}
+
+.tag-post-link:hover {
+    color: #28a745;
+}
+
+.tag-post-title {
+    display: block;
+    margin-bottom: 0.25rem;
+}
+
+.tag-post-date {
+    display: block;
+    font-size: 0.85rem;
+    color: #adb5bd;
+}
+
+.tag-more-link {
+    display: inline-block;
+    color: #28a745;
+    text-decoration: none;
+    font-size: 0.9rem;
+    transition: transform 0.2s;
+}
+
+.tag-more-link:hover {
+    transform: translateX(5px);
 }
 </style>
 
