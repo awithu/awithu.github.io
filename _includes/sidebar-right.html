@@ -35,8 +35,13 @@
                 {% endif %}
             {% endfor %}
             {% for tag in all_tags limit: 20 %}
-                {% assign tag_posts = site.posts | where_exp: "post", "post.tags contains tag" %}
-                <a href="{{ '/tags/' | append: tag | relative_url }}" class="tag-cloud-item" data-count="{{ tag_posts.size }}">
+                {% assign tag_posts_count = 0 %}
+                {% for post in site.posts %}
+                    {% if post.tags and post.tags contains tag %}
+                        {% assign tag_posts_count = tag_posts_count | plus: 1 %}
+                    {% endif %}
+                {% endfor %}
+                <a href="{{ '/tags/' | append: tag | relative_url }}" class="tag-cloud-item" data-count="{{ tag_posts_count }}">
                     {{ tag }}
                 </a>
             {% endfor %}
