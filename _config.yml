@@ -1,16 +1,16 @@
 # Site Settings
 title: "IT 블로그"
 description: "IT 기술과 개발에 관한 블로그"
-url: "https://danielseol9250.github.io"
+url: "https://awithu.github.io"
 baseurl: "/ait26"
 
 # Author
 author: "AI 연구원"
 email: "your.email@example.com"
-github_username: "danielseol9250"
+github_username: "awithu"
 
 # Social
-github: "danielseol9250"
+github: "awithu"
 linkedin: ""
 twitter: ""
 email: "your.email@example.com"
@@ -29,7 +29,7 @@ nav-links:
   - name: "About"
     url: "/about"
 social-links:
-  github: danielseol9250
+  github: awithu
   email: your.email@example.com
 
 # Pagination
