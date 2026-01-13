@@ -15,7 +15,15 @@ permalink: /categories/
         {% for category in categories %}
             <section class="category-section">
                 <h2 class="category-title">
-                    <a href="{{ '/categories/' | append: category | uri_escape | relative_url }}">{{ category }}</a>
+                    {% if category == 'IT' %}
+                        <a href="{{ '/categories/IT.html' | relative_url }}">{{ category }}</a>
+                    {% elsif category == 'C언어 강의' %}
+                        <a href="{{ '/categories/C언어 강의.html' | relative_url }}">{{ category }}</a>
+                    {% elsif category == '파이썬 강의' %}
+                        <a href="{{ '/categories/파이썬 강의.html' | relative_url }}">{{ category }}</a>
+                    {% else %}
+                        <a href="{{ '/categories/' | append: category | uri_escape | relative_url }}">{{ category }}</a>
+                    {% endif %}
                 </h2>
                 {% assign category_posts = site.posts | where_exp: "post", "post.categories contains category" %}
                 <p class="category-count">{{ category_posts.size }}개의 포스트</p>
@@ -30,7 +38,15 @@ permalink: /categories/
                     {% endfor %}
                 </ul>
                 {% if category_posts.size > 5 %}
-                    <a href="{{ '/categories/' | append: category | uri_escape | relative_url }}" class="category-more-link">더보기 →</a>
+                    {% if category == 'IT' %}
+                        <a href="{{ '/categories/IT.html' | relative_url }}" class="category-more-link">더보기 →</a>
+                    {% elsif category == 'C언어 강의' %}
+                        <a href="{{ '/categories/C언어 강의.html' | relative_url }}" class="category-more-link">더보기 →</a>
+                    {% elsif category == '파이썬 강의' %}
+                        <a href="{{ '/categories/파이썬 강의.html' | relative_url }}" class="category-more-link">더보기 →</a>
+                    {% else %}
+                        <a href="{{ '/categories/' | append: category | uri_escape | relative_url }}" class="category-more-link">더보기 →</a>
+                    {% endif %}
                 {% endif %}
             </section>
         {% endfor %}
