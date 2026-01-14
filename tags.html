@@ -11,10 +11,9 @@ permalink: /tags/
     </header>
 
     <div class="tags-container">
-        {% assign sorted_tags = site.tags | sort %}
-        {% for tag in sorted_tags %}
-            {% assign tag_name = tag[0] %}
-            {% assign tag_posts = tag[1] %}
+        {% for tag_item in site.tags %}
+            {% assign tag_name = tag_item[0] %}
+            {% assign tag_posts = tag_item[1] %}
             <section class="tag-section">
                 <h3 class="tag-title">
                     <span class="tag-name">{{ tag_name }}</span>
