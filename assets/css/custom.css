@@ -200,6 +200,9 @@ body {
     line-height: 1.5;
     display: flex;
     align-items: center;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
 }
 
 .category-all-link:hover {
@@ -259,6 +262,7 @@ body {
     min-height: 2rem;
     gap: 0.5rem;
     flex-wrap: nowrap;
+    overflow: hidden;
 }
 
 .category-row:hover {
@@ -290,6 +294,9 @@ body {
     display: inline-block;
     vertical-align: middle;
     word-break: keep-all;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
 }
 
 .category-link:hover {
