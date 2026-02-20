@@ -1,72 +1,72 @@
 ---
 layout: post
-title:  "협상 영어: 비즈니스 협상 표현하기"
-date:   2025-11-26 09:00:00 +0900
-categories: [영어, 실전 영어]
-tags: [영어, 협상, negotiation, business negotiation]
-description: "비즈니스 협상에서 사용하는 영어 표현을 배우고 효과적으로 협상하는 방법을 익힙니다."
+title:  "?묒긽 ?곸뼱: 鍮꾩쫰?덉뒪 ?묒긽 ?쒗쁽?섍린"
+date:   2025-02-20 09:00:00 +0900
+categories: [?곸뼱, ?ㅼ쟾 ?곸뼱]
+tags: [?곸뼱, ?묒긽, negotiation, business negotiation]
+description: "鍮꾩쫰?덉뒪 ?묒긽?먯꽌 ?ъ슜?섎뒗 ?곸뼱 ?쒗쁽??諛곗슦怨??④낵?곸쑝濡??묒긽?섎뒗 諛⑸쾿???듯옓?덈떎."
 ---
 
-# 협상 영어: 비즈니스 협상 표현하기
+# ?묒긽 ?곸뼱: 鍮꾩쫰?덉뒪 ?묒긽 ?쒗쁽?섍린
 
-협상 영어는 **조건과 대안을 명확히 말하는 기술**입니다. "요구"보다 "조건부 제안"을 잘 쓰면 협상이 훨씬 부드럽게 진행됩니다.
+?묒긽 ?곸뼱??**議곌굔怨???덉쓣 紐낇솗??留먰븯??湲곗닠**?낅땲?? "?붽뎄"蹂대떎 "議곌굔遺 ?쒖븞"?????곕㈃ ?묒긽???⑥뵮 遺?쒕읇寃?吏꾪뻾?⑸땲??
 
-## 1. 학습 목표
+## 1. ?숈뒿 紐⑺몴
 
-- 요구와 조건을 부드럽게 표현할 수 있다.
-- 양보와 대안을 구조적으로 제시할 수 있다.
-- 합의 내용을 정확히 마무리할 수 있다.
+- ?붽뎄? 議곌굔??遺?쒕읇寃??쒗쁽?????덈떎.
+- ?묐낫? ??덉쓣 援ъ“?곸쑝濡??쒖떆?????덈떎.
+- ?⑹쓽 ?댁슜???뺥솗??留덈Т由ы븷 ???덈떎.
 
-## 2. 협상 시작
+## 2. ?묒긽 ?쒖옉
 
-- **I'd like to discuss the pricing and timeline.** (가격과 일정에 대해 논의하고 싶습니다.)
-- **Our priority is delivery by the end of June.** (우리의 우선순위는 6월 말 납기입니다.)
-- **We are open to options.** (옵션에 열려 있습니다.)
+- **I'd like to discuss the pricing and timeline.** (媛寃⑷낵 ?쇱젙??????쇱쓽?섍퀬 ?띠뒿?덈떎.)
+- **Our priority is delivery by the end of June.** (?곕━???곗꽑?쒖쐞??6??留??⑷린?낅땲??)
+- **We are open to options.** (?듭뀡???대젮 ?덉뒿?덈떎.)
 
-## 3. 조건부 제안
+## 3. 議곌굔遺 ?쒖븞
 
-- **If you can meet the timeline, we can accept the price.** (일정을 맞추면 가격을 수용할 수 있습니다.)
-- **We can increase the volume if the unit price drops.** (단가가 내려가면 물량을 늘릴 수 있습니다.)
-- **Would you consider a two-year contract?** (2년 계약을 고려하실 수 있나요?)
+- **If you can meet the timeline, we can accept the price.** (?쇱젙??留욎텛硫?媛寃⑹쓣 ?섏슜?????덉뒿?덈떎.)
+- **We can increase the volume if the unit price drops.** (?④?媛 ?대젮媛硫?臾쇰웾???섎┫ ???덉뒿?덈떎.)
+- **Would you consider a two-year contract?** (2??怨꾩빟??怨좊젮?섏떎 ???덈굹??)
 
-## 4. 반박과 양보
+## 4. 諛섎컯怨??묐낫
 
-- **I understand your position, but our budget is fixed.** (입장은 이해하지만 예산은 고정입니다.)
-- **That's reasonable, however we need a longer warranty.** (합리적이지만 더 긴 보증이 필요합니다.)
-- **We could agree to that if you include support.** (지원이 포함된다면 동의할 수 있습니다.)
+- **I understand your position, but our budget is fixed.** (?낆옣? ?댄빐?섏?留??덉궛? 怨좎젙?낅땲??)
+- **That's reasonable, however we need a longer warranty.** (?⑸━?곸씠吏留???湲?蹂댁쬆???꾩슂?⑸땲??)
+- **We could agree to that if you include support.** (吏?먯씠 ?ы븿?쒕떎硫??숈쓽?????덉뒿?덈떎.)
 
-## 5. 합의 정리
+## 5. ?⑹쓽 ?뺣━
 
-- **So we agree on A, and B will be confirmed by Friday.** (A에 합의했고 B는 금요일까지 확정)
-- **Let's summarize the terms before we proceed.** (진행 전에 조건을 요약하겠습니다.)
-- **I'll send the revised proposal today.** (수정 제안을 오늘 보내겠습니다.)
+- **So we agree on A, and B will be confirmed by Friday.** (A???⑹쓽?덇퀬 B??湲덉슂?쇨퉴吏 ?뺤젙)
+- **Let's summarize the terms before we proceed.** (吏꾪뻾 ?꾩뿉 議곌굔???붿빟?섍쿋?듬땲??)
+- **I'll send the revised proposal today.** (?섏젙 ?쒖븞???ㅻ뒛 蹂대궡寃좎뒿?덈떎.)
 
-## 6. 미니 대화 예시
+## 6. 誘몃땲 ????덉떆
 
 **Client:** We need delivery in four weeks.  
 **Vendor:** If you can confirm the order today, we can meet that timeline.  
 **Client:** That works, but we need a 10 percent discount.  
 **Vendor:** We can offer 5 percent if the volume increases.
 
-## 7. 흔한 실수
+## 7. ?뷀븳 ?ㅼ닔
 
-- "discounted price" 남발 → **조건부 제안**으로 바꾸기  
-- 결론 없이 끝내기 → **합의 요약** 필수  
-- 요구를 단정적으로 말하기 → **could/would**로 완화  
+- "discounted price" ?⑤컻 ??**議곌굔遺 ?쒖븞**?쇰줈 諛붽씀湲? 
+- 寃곕줎 ?놁씠 ?앸궡湲???**?⑹쓽 ?붿빟** ?꾩닔  
+- ?붽뎄瑜??⑥젙?곸쑝濡?留먰븯湲???**could/would**濡??꾪솕  
 
-## 8. 연습 과제
+## 8. ?곗뒿 怨쇱젣
 
-1) 일정이 1주 늦어지면 비용을 낮출 수 있나요?  
-2) 1년 계약이면 가격을 조정할 수 있습니다.  
-3) 오늘 주문을 확정하면 바로 진행하겠습니다.  
-4) 조건을 먼저 요약하고 진행하겠습니다.  
+1) ?쇱젙??1二???뼱吏硫?鍮꾩슜????텧 ???덈굹??  
+2) 1??怨꾩빟?대㈃ 媛寃⑹쓣 議곗젙?????덉뒿?덈떎.  
+3) ?ㅻ뒛 二쇰Ц???뺤젙?섎㈃ 諛붾줈 吏꾪뻾?섍쿋?듬땲??  
+4) 議곌굔??癒쇱? ?붿빟?섍퀬 吏꾪뻾?섍쿋?듬땲??  
 
-## 9. 핵심 요약
+## 9. ?듭떖 ?붿빟
 
-- 협상은 "조건부 제안 + 합의 정리"가 핵심  
-- 부드러운 표현이 강한 협상력을 만든다.
+- ?묒긽? "議곌굔遺 ?쒖븞 + ?⑹쓽 ?뺣━"媛 ?듭떖  
+- 遺?쒕윭???쒗쁽??媛뺥븳 ?묒긽?μ쓣 留뚮뱺??
 
-## 10. 다음 단계
+## 10. ?ㅼ쓬 ?④퀎
 
-다음 글에서는 **고객 서비스 영어**로 넘어가 고객 응대 표현과 문제 해결 문장을 정리합니다.
+?ㅼ쓬 湲?먯꽌??**怨좉컼 ?쒕퉬???곸뼱**濡??섏뼱媛 怨좉컼 ?묐? ?쒗쁽怨?臾몄젣 ?닿껐 臾몄옣???뺣━?⑸땲??
 

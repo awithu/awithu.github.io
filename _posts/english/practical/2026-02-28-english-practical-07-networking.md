@@ -1,77 +1,77 @@
 ---
 layout: post
-title:  "네트워킹 영어: 비즈니스 네트워킹 표현하기"
-date:   2025-11-28 09:00:00 +0900
-categories: [영어, 실전 영어]
-tags: [영어, 네트워킹, networking, business networking]
-description: "비즈니스 네트워킹에서 사용하는 영어 표현을 배우고 효과적으로 네트워킹하는 방법을 익힙니다."
+title:  "?ㅽ듃?뚰궧 ?곸뼱: 鍮꾩쫰?덉뒪 ?ㅽ듃?뚰궧 ?쒗쁽?섍린"
+date:   2025-02-20 09:00:00 +0900
+categories: [?곸뼱, ?ㅼ쟾 ?곸뼱]
+tags: [?곸뼱, ?ㅽ듃?뚰궧, networking, business networking]
+description: "鍮꾩쫰?덉뒪 ?ㅽ듃?뚰궧?먯꽌 ?ъ슜?섎뒗 ?곸뼱 ?쒗쁽??諛곗슦怨??④낵?곸쑝濡??ㅽ듃?뚰궧?섎뒗 諛⑸쾿???듯옓?덈떎."
 ---
 
-# 네트워킹 영어: 비즈니스 네트워킹 표현하기
+# ?ㅽ듃?뚰궧 ?곸뼱: 鍮꾩쫰?덉뒪 ?ㅽ듃?뚰궧 ?쒗쁽?섍린
 
-네트워킹은 **첫 인상 + 짧은 자기소개 + 후속 연락**으로 결정됩니다. 아래 표현은 행사, 컨퍼런스, 미팅에서 바로 사용할 수 있도록 구성했습니다.
+?ㅽ듃?뚰궧? **泥??몄긽 + 吏㏃? ?먭린?뚭컻 + ?꾩냽 ?곕씫**?쇰줈 寃곗젙?⑸땲?? ?꾨옒 ?쒗쁽? ?됱궗, 而⑦띁?곗뒪, 誘명똿?먯꽌 諛붾줈 ?ъ슜?????덈룄濡?援ъ꽦?덉뒿?덈떎.
 
-## 1. 학습 목표
+## 1. ?숈뒿 紐⑺몴
 
-- 첫 만남에서 자연스럽게 자기소개를 할 수 있다.
-- 대화를 확장하는 질문을 던질 수 있다.
-- 후속 연락을 예의 있게 요청할 수 있다.
+- 泥?留뚮궓?먯꽌 ?먯뿰?ㅻ읇寃??먭린?뚭컻瑜??????덈떎.
+- ??붾? ?뺤옣?섎뒗 吏덈Ц???섏쭏 ???덈떎.
+- ?꾩냽 ?곕씫???덉쓽 ?덇쾶 ?붿껌?????덈떎.
 
-## 2. 첫 만남 표현
+## 2. 泥?留뚮궓 ?쒗쁽
 
-- **Hi, I'm Jisoo from ABC Labs.** (안녕하세요, ABC Labs의 지수입니다.)
-- **Nice to meet you. What brings you here?** (만나서 반갑습니다. 이번 행사엔 어떤 일로 오셨어요?)
-- **What line of work are you in?** (어떤 일을 하시나요?)
+- **Hi, I'm Jisoo from ABC Labs.** (?덈뀞?섏꽭?? ABC Labs??吏?섏엯?덈떎.)
+- **Nice to meet you. What brings you here?** (留뚮굹??諛섍컩?듬땲?? ?대쾲 ?됱궗???대뼡 ?쇰줈 ?ㅼ뀲?댁슂?)
+- **What line of work are you in?** (?대뼡 ?쇱쓣 ?섏떆?섏슂?)
 
-## 3. 짧은 자기소개 (30초)
+## 3. 吏㏃? ?먭린?뚭컻 (30珥?
 
-- **I work on data pipelines for AI products.** (AI 제품 데이터 파이프라인을 담당합니다.)
-- **Recently, we've been focusing on...** (최근에는 ...에 집중하고 있습니다.)
-- **I'm looking to learn more about...** (...에 대해 더 알아보고 싶습니다.)
+- **I work on data pipelines for AI products.** (AI ?쒗뭹 ?곗씠???뚯씠?꾨씪?몄쓣 ?대떦?⑸땲??)
+- **Recently, we've been focusing on...** (理쒓렐?먮뒗 ...??吏묒쨷?섍퀬 ?덉뒿?덈떎.)
+- **I'm looking to learn more about...** (...????????뚯븘蹂닿퀬 ?띠뒿?덈떎.)
 
-## 4. 대화 이어가기 질문
+## 4. ????댁뼱媛湲?吏덈Ц
 
-- **How did you get into this field?** (어떻게 이 분야에 오게 되셨나요?)
-- **What projects are you excited about?** (요즘 기대되는 프로젝트가 있나요?)
-- **What's the biggest challenge you're facing?** (가장 큰 과제가 무엇인가요?)
+- **How did you get into this field?** (?대뼸寃???遺꾩빞???ㅺ쾶 ?섏뀲?섏슂?)
+- **What projects are you excited about?** (?붿쬁 湲곕??섎뒗 ?꾨줈?앺듃媛 ?덈굹??)
+- **What's the biggest challenge you're facing?** (媛????怨쇱젣媛 臾댁뾿?멸???)
 
-## 5. 명함/연락처 교환
+## 5. 紐낇븿/?곕씫泥?援먰솚
 
-- **Here's my card.** (제 명함입니다.)
-- **Would you like to connect on LinkedIn?** (링크드인으로 연결할까요?)
-- **May I follow up by email?** (이메일로 후속 연락드려도 될까요?)
+- **Here's my card.** (??紐낇븿?낅땲??)
+- **Would you like to connect on LinkedIn?** (留곹겕?쒖씤?쇰줈 ?곌껐?좉퉴??)
+- **May I follow up by email?** (?대찓?쇰줈 ?꾩냽 ?곕씫?쒕젮???좉퉴??)
 
-## 6. 마무리와 후속 연락
+## 6. 留덈Т由ъ? ?꾩냽 ?곕씫
 
-- **It was great talking with you.** (대화 즐거웠습니다.)
-- **Let's keep in touch.** (계속 연락해요.)
-- **I'll send a quick note after the event.** (행사 후 간단히 연락드릴게요.)
+- **It was great talking with you.** (???利먭굅?좎뒿?덈떎.)
+- **Let's keep in touch.** (怨꾩냽 ?곕씫?댁슂.)
+- **I'll send a quick note after the event.** (?됱궗 ??媛꾨떒???곕씫?쒕┫寃뚯슂.)
 
-## 7. 미니 대화 예시
+## 7. 誘몃땲 ????덉떆
 
 **A:** Hi, I'm Jisoo from ABC Labs. What brings you here?  
 **B:** I'm here to learn about LLM ops.  
 **A:** Same here. I'm working on AI infrastructure.  
 **B:** Great. Let's connect on LinkedIn.
 
-## 8. 흔한 실수
+## 8. ?뷀븳 ?ㅼ닔
 
-- "What do you do?"만 반복 → **맥락 질문**으로 확장  
-- 자기소개가 너무 길다 → **1~2문장 요약**  
-- 후속 연락 없이 종료 → **연락처 요청**  
+- "What do you do?"留?諛섎났 ??**留λ씫 吏덈Ц**?쇰줈 ?뺤옣  
+- ?먭린?뚭컻媛 ?덈Т 湲몃떎 ??**1~2臾몄옣 ?붿빟**  
+- ?꾩냽 ?곕씫 ?놁씠 醫낅즺 ??**?곕씫泥??붿껌**  
 
-## 9. 연습 과제
+## 9. ?곗뒿 怨쇱젣
 
-1) 간단한 자기소개 2문장을 만들어 보세요.  
-2) 상대방의 프로젝트를 묻는 질문을 적어 보세요.  
-3) 후속 연락 요청 문장을 영어로 작성해 보세요.  
+1) 媛꾨떒???먭린?뚭컻 2臾몄옣??留뚮뱾??蹂댁꽭??  
+2) ?곷?諛⑹쓽 ?꾨줈?앺듃瑜?臾삳뒗 吏덈Ц???곸뼱 蹂댁꽭??  
+3) ?꾩냽 ?곕씫 ?붿껌 臾몄옣???곸뼱濡??묒꽦??蹂댁꽭??  
 
-## 10. 핵심 요약
+## 10. ?듭떖 ?붿빟
 
-- 첫 만남 → 자기소개 → 질문 → 후속 연락  
-- 짧고 명확한 메시지가 기억에 남는다.
+- 泥?留뚮궓 ???먭린?뚭컻 ??吏덈Ц ???꾩냽 ?곕씫  
+- 吏㏐퀬 紐낇솗??硫붿떆吏媛 湲곗뼲???⑤뒗??
 
-## 11. 다음 단계
+## 11. ?ㅼ쓬 ?④퀎
 
-다음 글에서는 **영어 프레젠테이션 스킬**로 넘어가 발표 전달력을 높이는 방법을 다룹니다.
+?ㅼ쓬 湲?먯꽌??**?곸뼱 ?꾨젅?좏뀒?댁뀡 ?ㅽ궗**濡??섏뼱媛 諛쒗몴 ?꾨떖?μ쓣 ?믪씠??諛⑸쾿???ㅻ９?덈떎.
 

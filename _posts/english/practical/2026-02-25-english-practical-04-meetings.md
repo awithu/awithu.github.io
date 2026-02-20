@@ -1,83 +1,83 @@
 ---
 layout: post
-title:  "회의 영어 표현: 회의에서 사용하는 표현들"
-date:   2025-11-25 09:00:00 +0900
-categories: [영어, 실전 영어]
-tags: [영어, 회의, meeting, business meeting]
-description: "회의에서 사용하는 영어 표현을 배우고 효과적으로 회의에 참여하는 방법을 익힙니다."
+title:  "?뚯쓽 ?곸뼱 ?쒗쁽: ?뚯쓽?먯꽌 ?ъ슜?섎뒗 ?쒗쁽??
+date:   2025-02-20 09:00:00 +0900
+categories: [?곸뼱, ?ㅼ쟾 ?곸뼱]
+tags: [?곸뼱, ?뚯쓽, meeting, business meeting]
+description: "?뚯쓽?먯꽌 ?ъ슜?섎뒗 ?곸뼱 ?쒗쁽??諛곗슦怨??④낵?곸쑝濡??뚯쓽??李몄뿬?섎뒗 諛⑸쾿???듯옓?덈떎."
 ---
 
-# 회의 영어 표현: 회의에서 사용하는 표현들
+# ?뚯쓽 ?곸뼱 ?쒗쁽: ?뚯쓽?먯꽌 ?ъ슜?섎뒗 ?쒗쁽??
 
-회의 영어는 "표현"보다 **회의 흐름을 관리하는 문장**이 중요합니다. 회의 진행, 의견 정리, 액션 아이템 합의까지 자연스럽게 이어지는 표현을 정리했습니다.
+?뚯쓽 ?곸뼱??"?쒗쁽"蹂대떎 **?뚯쓽 ?먮쫫??愿由ы븯??臾몄옣**??以묒슂?⑸땲?? ?뚯쓽 吏꾪뻾, ?섍껄 ?뺣━, ?≪뀡 ?꾩씠???⑹쓽源뚯? ?먯뿰?ㅻ읇寃??댁뼱吏???쒗쁽???뺣━?덉뒿?덈떎.
 
-## 1. 학습 목표
+## 1. ?숈뒿 紐⑺몴
 
-- 회의 시작부터 마무리까지 흐름을 잡는 문장을 사용할 수 있다.
-- 의견을 구조화하고 합의점을 정리할 수 있다.
-- 액션 아이템을 명확히 마무리할 수 있다.
+- ?뚯쓽 ?쒖옉遺??留덈Т由ш퉴吏 ?먮쫫???〓뒗 臾몄옣???ъ슜?????덈떎.
+- ?섍껄??援ъ“?뷀븯怨??⑹쓽?먯쓣 ?뺣━?????덈떎.
+- ?≪뀡 ?꾩씠?쒖쓣 紐낇솗??留덈Т由ы븷 ???덈떎.
 
-## 2. 회의 시작과 목적 설정
+## 2. ?뚯쓽 ?쒖옉怨?紐⑹쟻 ?ㅼ젙
 
-- **Let's get started.** (시작하겠습니다.)
-- **The purpose of this meeting is to...** (이 회의의 목적은 ...입니다.)
-- **We have 30 minutes, so let's focus on...** (30분이니 ...에 집중하겠습니다.)
+- **Let's get started.** (?쒖옉?섍쿋?듬땲??)
+- **The purpose of this meeting is to...** (???뚯쓽??紐⑹쟻? ...?낅땲??)
+- **We have 30 minutes, so let's focus on...** (30遺꾩씠??...??吏묒쨷?섍쿋?듬땲??)
 
-## 3. 안건 진행과 전환
+## 3. ?덇굔 吏꾪뻾怨??꾪솚
 
-- **First, let's review...** (먼저 ...을 검토하겠습니다.)
-- **Moving on to the next item...** (다음 안건으로 넘어가겠습니다.)
-- **Let's park this topic and revisit it later.** (이 이슈는 잠시 보류하고 나중에 다시 보겠습니다.)
+- **First, let's review...** (癒쇱? ...??寃?좏븯寃좎뒿?덈떎.)
+- **Moving on to the next item...** (?ㅼ쓬 ?덇굔?쇰줈 ?섏뼱媛寃좎뒿?덈떎.)
+- **Let's park this topic and revisit it later.** (???댁뒋???좎떆 蹂대쪟?섍퀬 ?섏쨷???ㅼ떆 蹂닿쿋?듬땲??)
 
-## 4. 의견 정리와 합의
+## 4. ?섍껄 ?뺣━? ?⑹쓽
 
-### 의견 제시
-- **My view is that...** (제 의견은 ...입니다.)
-- **I'd like to propose...** (...을 제안하고 싶습니다.)
+### ?섍껄 ?쒖떆
+- **My view is that...** (???섍껄? ...?낅땲??)
+- **I'd like to propose...** (...???쒖븞?섍퀬 ?띠뒿?덈떎.)
 
-### 동의/반대
-- **I agree with that approach.** (그 접근에 동의합니다.)
-- **I see your point, but...** (말씀 이해하지만...)
-- **Can we consider an alternative?** (대안을 고려해볼 수 있을까요?)
+### ?숈쓽/諛섎?
+- **I agree with that approach.** (洹??묎렐???숈쓽?⑸땲??)
+- **I see your point, but...** (留먯? ?댄빐?섏?留?..)
+- **Can we consider an alternative?** (??덉쓣 怨좊젮?대낵 ???덉쓣源뚯슂?)
 
-### 합의 도출
-- **So we are aligned on...** (...에 합의한 것으로 하겠습니다.)
-- **Let's finalize this as the decision.** (이것을 결론으로 정리하겠습니다.)
+### ?⑹쓽 ?꾩텧
+- **So we are aligned on...** (...???⑹쓽??寃껋쑝濡??섍쿋?듬땲??)
+- **Let's finalize this as the decision.** (?닿쾬??寃곕줎?쇰줈 ?뺣━?섍쿋?듬땲??)
 
-## 5. 액션 아이템 정리
+## 5. ?≪뀡 ?꾩씠???뺣━
 
-- **Action item: A will do B by Friday.** (액션 아이템: A가 금요일까지 B를 수행)
-- **I'll send a summary after the meeting.** (회의 후 요약을 공유하겠습니다.)
-- **Next meeting will be on...** (다음 회의는 ...입니다.)
+- **Action item: A will do B by Friday.** (?≪뀡 ?꾩씠?? A媛 湲덉슂?쇨퉴吏 B瑜??섑뻾)
+- **I'll send a summary after the meeting.** (?뚯쓽 ???붿빟??怨듭쑀?섍쿋?듬땲??)
+- **Next meeting will be on...** (?ㅼ쓬 ?뚯쓽??...?낅땲??)
 
-## 6. 미니 대화 예시
+## 6. 誘몃땲 ????덉떆
 
 **Lead:** The purpose of this meeting is to decide the rollout plan.  
 **Member:** My view is that we should start with a pilot.  
 **Lead:** I agree with that approach. Let's finalize a two-week pilot.  
 **Lead:** Action item: Sarah will draft the pilot checklist by Friday.
 
-## 7. 흔한 실수
+## 7. ?뷀븳 ?ㅼ닔
 
-- "discuss about" → **discuss**  
-- "We will finish this meeting" → **Let's wrap up this meeting**  
-- 결론 없이 끝내기 → **Action item**을 반드시 남기기
+- "discuss about" ??**discuss**  
+- "We will finish this meeting" ??**Let's wrap up this meeting**  
+- 寃곕줎 ?놁씠 ?앸궡湲???**Action item**??諛섎뱶???④린湲?
 
-## 8. 연습 과제
+## 8. ?곗뒿 怨쇱젣
 
-아래 문장을 영어로 말해보세요.
+?꾨옒 臾몄옣???곸뼱濡?留먰빐蹂댁꽭??
 
-1) 이 회의의 목적은 일정 확정입니다.  
-2) 다음 안건으로 넘어가겠습니다.  
-3) 오늘 결론은 파일럿 진행입니다.  
-4) 금요일까지 요약을 공유하겠습니다.  
+1) ???뚯쓽??紐⑹쟻? ?쇱젙 ?뺤젙?낅땲??  
+2) ?ㅼ쓬 ?덇굔?쇰줈 ?섏뼱媛寃좎뒿?덈떎.  
+3) ?ㅻ뒛 寃곕줎? ?뚯씪??吏꾪뻾?낅땲??  
+4) 湲덉슂?쇨퉴吏 ?붿빟??怨듭쑀?섍쿋?듬땲??  
 
-## 9. 핵심 요약
+## 9. ?듭떖 ?붿빟
 
-- 목적 → 안건 → 합의 → 액션 아이템  
-- 회의는 "결정"과 "다음 행동"으로 마무리한다.
+- 紐⑹쟻 ???덇굔 ???⑹쓽 ???≪뀡 ?꾩씠?? 
+- ?뚯쓽??"寃곗젙"怨?"?ㅼ쓬 ?됰룞"?쇰줈 留덈Т由ы븳??
 
-## 10. 다음 단계
+## 10. ?ㅼ쓬 ?④퀎
 
-다음 글에서는 **협상 영어**로 넘어가서 제안과 양보를 자연스럽게 표현하는 방법을 정리합니다.
+?ㅼ쓬 湲?먯꽌??**?묒긽 ?곸뼱**濡??섏뼱媛???쒖븞怨??묐낫瑜??먯뿰?ㅻ읇寃??쒗쁽?섎뒗 諛⑸쾿???뺣━?⑸땲??
 
