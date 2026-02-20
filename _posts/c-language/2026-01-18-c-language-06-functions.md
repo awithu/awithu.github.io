@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "C?紐꾨선 揶쏅벡??6?? ??λ땾"
+title: "C?紐꾨선 揶쏅벡??6?? ??λ땾"
 date:   2025-01-18 10:00:00 +0900
-categories: [IT, C?紐꾨선 揶쏅벡??]
-tags: [C, functions]
+categories: ["IT", "C?紐꾨선 揶쏅벡??"]
+tags: ["C", "functions"]
 ---
 
 # C?紐꾨선 揶쏅벡??6?? ??λ땾

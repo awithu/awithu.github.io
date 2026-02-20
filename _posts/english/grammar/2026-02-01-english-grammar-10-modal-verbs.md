@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "議곕룞??湲곗큹: can, should, must ?꾨꼍 ?뺣━"
+title: "議곕룞??湲곗큹: can, should, must ?꾨꼍 ?뺣━"
 date:   2025-02-01 09:00:00 +0900
-categories: [?곸뼱, 臾몃쾿 湲곗큹]
-tags: [?곸뼱, 臾몃쾿, 議곕룞?? can, should, must, modal verbs]
-description: "議곕룞?ъ쓽 媛쒕뀗怨?can, should, must ??二쇱슂 議곕룞?ъ쓽 ?ъ슜踰뺤쓣 諛곗슦怨?媛?μ꽦, ?섎Т, ?덇?瑜??쒗쁽?섎뒗 諛⑸쾿???듯옓?덈떎."
+categories: ["?곸뼱", "臾몃쾿 湲곗큹"]
+tags: ["?곸뼱", "臾몃쾿", "議곕룞?? can", "should", "must", "modal verbs"]
+description: "議곕룞?ъ쓽 媛쒕뀗怨?can, should, must ??二쇱슂 議곕룞?ъ쓽 ?ъ슜踰뺤쓣 諛곗슦怨?媛?μ꽦, ?섎Т, ?덇?瑜??쒗쁽?섎뒗 諛⑸쾿???듯옓?덈떎."
 ---
 
 # 議곕룞??湲곗큹: can, should, must ?꾨꼍 ?뺣━

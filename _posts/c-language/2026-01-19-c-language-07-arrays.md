@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "C?몄뼱 媛뺤쓽 7?? 諛곗뿴"
+title: "C?몄뼱 媛뺤쓽 7?? 諛곗뿴"
 date:   2025-01-19 10:00:00 +0900
-categories: [IT, C?몄뼱 媛뺤쓽]
-tags: [C?몄뼱, 諛곗뿴, array, ?먮즺援ъ“]
+categories: ["IT", "C?몄뼱 媛뺤쓽"]
+tags: ["C?몄뼱", "諛곗뿴", "array", "?먮즺援ъ“"]
 ---
 
 # C?몄뼱 媛뺤쓽 7?? 諛곗뿴

@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "C?紐꾨선 揶쏅벡??10?? ?닌듼쒙㎗?"
+title: "C?紐꾨선 揶쏅벡??10?? ?닌듼쒙㎗?"
 date:   2025-01-22 10:00:00 +0900
-categories: [IT, C?紐꾨선 揶쏅벡??]
-tags: [C, struct]
+categories: ["IT", "C?紐꾨선 揶쏅벡??"]
+tags: ["C", "struct"]
 ---
 
 # C?紐꾨선 揶쏅벡??10?? ?닌듼쒙㎗?

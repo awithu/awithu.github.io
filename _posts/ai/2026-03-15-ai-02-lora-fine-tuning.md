@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "LoRA濡?LLM ?뚯씤?쒕떇?섍린: ?⑥쑉?곸씤 紐⑤뜽 ?숈뒿 媛?대뱶"
+title: "LoRA濡?LLM ?뚯씤?쒕떇?섍린: ?⑥쑉?곸씤 紐⑤뜽 ?숈뒿 媛?대뱶"
 date: 2025-02-20 09:00:00 +0900
-categories: [IT, AI]
-tags: [AI, LLM, LoRA, ?뚯씤?쒕떇, fine-tuning, Qwen, PEFT]
+categories: ["IT", "AI"]
+tags: ["AI", "LLM", "LoRA", "?뚯씤?쒕떇", "fine-tuning", "Qwen", "PEFT"]
 description: "LoRA濡?LLM???⑥쑉?곸쑝濡??뚯씤?쒕떇?섎뒗 諛⑸쾿怨??ㅼ젣 ?숈뒿 ?먮쫫???④퀎蹂꾨줈 ?뺣━?⑸땲??"
 ---
 

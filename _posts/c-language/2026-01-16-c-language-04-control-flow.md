@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "C?紐꾨선 揶쏅벡??4?? ??뽯선??(if, switch)"
+title: "C?紐꾨선 揶쏅벡??4?? ??뽯선??(if, switch)"
 date:   2025-01-16 10:00:00 +0900
-categories: [IT, C?紐꾨선 揶쏅벡??]
-tags: [C, control-flow, if, switch]
+categories: ["IT", "C?紐꾨선 揶쏅벡??"]
+tags: ["C", "control-flow", "if", "switch"]
 ---
 
 # C?紐꾨선 揶쏅벡??4?? ??뽯선??(if, switch)

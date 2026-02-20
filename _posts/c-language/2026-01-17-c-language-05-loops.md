@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "C?몄뼱 媛뺤쓽 5?? 諛섎났臾?(for, while)"
+title: "C?몄뼱 媛뺤쓽 5?? 諛섎났臾?(for, while)"
 date:   2025-01-17 10:00:00 +0900
-categories: [IT, C?몄뼱 媛뺤쓽]
-tags: [C?몄뼱, 諛섎났臾? for臾? while臾? 諛섎났]
+categories: ["IT", "C?몄뼱 媛뺤쓽"]
+tags: ["C?몄뼱", "諛섎났臾? for臾? while臾? 諛섎났"]
 ---
 
 # C?몄뼱 媛뺤쓽 5?? 諛섎났臾?(for, while)
