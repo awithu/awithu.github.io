@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "湲곕낯 臾몄옣 援ъ“: ?곸뼱 臾몄옣 留뚮뱾湲?
+title:  "湲곕낯 臾몄옣 援ъ“: ?곸뼱 臾몄옣 留뚮뱾湲?"
 date:   2025-02-15 09:00:00 +0900
 categories: [?곸뼱, 醫낇빀 ?숈뒿]
 tags: [?곸뼱, 臾몄옣援ъ“, 臾몃쾿, sentence structure]

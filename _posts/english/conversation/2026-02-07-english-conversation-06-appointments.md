@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "?쎌냽 ?↔린: 留뚮궇 ?쒓컙 ?뺥븯湲?
+title:  "?쎌냽 ?↔린: 留뚮궇 ?쒓컙 ?뺥븯湲?"
 date:   2025-02-07 09:00:00 +0900
 categories: [?곸뼱, ?쇱긽 ?뚰솕]
 tags: [?곸뼱, ?뚰솕, ?쎌냽, 留뚮궓, appointment, meeting]
