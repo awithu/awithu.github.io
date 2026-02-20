@@ -1,267 +1,267 @@
 ---
 layout: post
-title: "?꾩튂??湲곗큹: in, on, at ?꾨꼍 ?뺣━"
-date:   2025-01-30 09:00:00 +0900
-categories: ["?곸뼱", "臾몃쾿 湲곗큹"]
-tags: ["?곸뼱", "臾몃쾿", "?꾩튂?? in", "on", "at", "preposition"]
-description: "媛???먯＜ ?ъ슜?섎뒗 ?꾩튂??in, on, at???ъ슜踰뺤쓣 諛곗슦怨??쒓컙怨??μ냼瑜??뺥솗?섍쾶 ?쒗쁽?섎뒗 諛⑸쾿???듯옓?덈떎."
+title:  "전치사 기초: in, on, at 완벽 정리"
+date:   2025-02-20 09:00:00 +0900
+categories: [영어, 문법 기초]
+tags: [영어, 문법, 전치사, in, on, at, preposition]
+description: "가장 자주 사용되는 전치사 in, on, at의 사용법을 배우고 시간과 장소를 정확하게 표현하는 방법을 익힙니다."
 ---
 
-# ?꾩튂??湲곗큹: in, on, at ?꾨꼍 ?뺣━
+# 전치사 기초: in, on, at 완벽 정리
 
-?꾩튂??Preposition)??紐낆궗???紐낆궗 ?욎뿉 遺숈뼱??**?쒓컙, ?μ냼, 諛⑺뼢** ?깆쓣 ?섑??대뒗 ?⑥뼱?낅땲?? 媛???먯＜ ?ъ슜?섎뒗 **in, on, at**???꾨꼍?섍쾶 留덉뒪?고빐遊낆떆??
+전치사(Preposition)는 명사나 대명사 앞에 붙어서 **시간, 장소, 방향** 등을 나타내는 단어입니다. 가장 자주 사용되는 **in, on, at**을 완벽하게 마스터해봅시다.
 
-## 1. ?꾩튂?щ??
+## 1. 전치사란?
 
-?꾩튂?щ뒗 紐낆궗???紐낆궗 ?욎뿉 遺숈뼱??**?ㅻⅨ ?⑥뼱???愿怨?*瑜??섑??대뒗 ?⑥뼱?낅땲??
+전치사는 명사나 대명사 앞에 붙어서 **다른 단어와의 관계**를 나타내는 단어입니다.
 
-### ?꾩튂?ъ쓽 ??븷
-- **?쒓컙** ?쒗쁽: in the morning, on Monday, at 3 o'clock
-- **?μ냼** ?쒗쁽: in the room, on the table, at the station
-- **諛⑺뼢** ?쒗쁽: to, from, into, out of
+### 전치사의 역할
+- **시간** 표현: in the morning, on Monday, at 3 o'clock
+- **장소** 표현: in the room, on the table, at the station
+- **방향** 표현: to, from, into, out of
 
-## 2. in, on, at??湲곕낯 媛쒕뀗
+## 2. in, on, at의 기본 개념
 
-### ?ш린 媛쒕뀗?쇰줈 ?댄빐?섍린
-- **at**: ??(媛???묒? 踰붿쐞)
-- **on**: ??硫?(以묎컙 踰붿쐞)
-- **in**: 怨듦컙/?곸뿭 (媛????踰붿쐞)
+### 크기 개념으로 이해하기
+- **at**: 점 (가장 작은 범위)
+- **on**: 선/면 (중간 범위)
+- **in**: 공간/영역 (가장 큰 범위)
 
-## 3. ?쒓컙 ?쒗쁽?먯꽌??in, on, at
+## 3. 시간 표현에서의 in, on, at
 
-### at: ?뺥솗???쒓컙 (??
-**at**? **?뺥솗???쒓컖**???섑??????ъ슜?⑸땲??
+### at: 정확한 시간 (점)
+**at**은 **정확한 시각**을 나타낼 때 사용합니다.
 
-#### at ?ъ슜 ?덉떆
-- **at** 3 o'clock (3?쒖뿉)
-- **at** noon (?뺤삤??
-- **at** midnight (?먯젙??
-- **at** night (諛ㅼ뿉)
-- **at** the moment (吏湲?
-- **at** breakfast time (?꾩묠 ?앹궗 ?쒓컙??
+#### at 사용 예시
+- **at** 3 o'clock (3시에)
+- **at** noon (정오에)
+- **at** midnight (자정에)
+- **at** night (밤에)
+- **at** the moment (지금)
+- **at** breakfast time (아침 식사 시간에)
 
-#### ?덈Ц
-- I wake up **at** 7 o'clock. (?섎뒗 7?쒖뿉 ?쇱뼱?쒕떎.)
-- The meeting starts **at** 3 PM. (?뚯쓽???ㅽ썑 3?쒖뿉 ?쒖옉?쒕떎.)
-- I usually eat dinner **at** 6:30. (?섎뒗 蹂댄넻 6??30遺꾩뿉 ??곸쓣 癒밸뒗??)
+#### 예문
+- I wake up **at** 7 o'clock. (나는 7시에 일어난다.)
+- The meeting starts **at** 3 PM. (회의는 오후 3시에 시작한다.)
+- I usually eat dinner **at** 6:30. (나는 보통 6시 30분에 저녁을 먹는다.)
 
-### on: ?뱀젙???좎쭨/?붿씪 (硫?
-**on**? **?뱀젙???좎쭨???붿씪**???섑??????ъ슜?⑸땲??
+### on: 특정한 날짜/요일 (면)
+**on**은 **특정한 날짜나 요일**을 나타낼 때 사용합니다.
 
-#### on ?ъ슜 ?덉떆
-- **on** Monday (?붿슂?쇱뿉)
-- **on** January 1st (1??1?쇱뿉)
-- **on** my birthday (???앹씪??
-- **on** Christmas Day (?щ━?ㅻ쭏?ㅼ뿉)
-- **on** the weekend (二쇰쭚??
-- **on** weekdays (?됱씪??
+#### on 사용 예시
+- **on** Monday (월요일에)
+- **on** January 1st (1월 1일에)
+- **on** my birthday (내 생일에)
+- **on** Christmas Day (크리스마스에)
+- **on** the weekend (주말에)
+- **on** weekdays (평일에)
 
-#### ?덈Ц
-- I have class **on** Monday. (?섎뒗 ?붿슂?쇱뿉 ?섏뾽???덈떎.)
-- My birthday is **on** May 15th. (???앹씪? 5??15?쇱씠??)
-- We go shopping **on** weekends. (?곕━??二쇰쭚???쇳븨??媛꾨떎.)
+#### 예문
+- I have class **on** Monday. (나는 월요일에 수업이 있다.)
+- My birthday is **on** May 15th. (내 생일은 5월 15일이다.)
+- We go shopping **on** weekends. (우리는 주말에 쇼핑을 간다.)
 
-### in: 湲곌컙/??怨꾩젅/?꾨룄 (怨듦컙)
-**in**? **湲곌컙, ?? 怨꾩젅, ?꾨룄**瑜??섑??????ъ슜?⑸땲??
+### in: 기간/월/계절/년도 (공간)
+**in**은 **기간, 월, 계절, 년도**를 나타낼 때 사용합니다.
 
-#### in ?ъ슜 ?덉떆
-- **in** the morning (?꾩묠??
-- **in** the afternoon (?ㅽ썑??
-- **in** the evening (??곸뿉)
-- **in** January (1?붿뿉)
-- **in** 2024 (2024?꾩뿉)
-- **in** spring (遊꾩뿉)
-- **in** summer (?щ쫫??
-- **in** a week (?쇱＜???덉뿉)
-- **in** a month (?????덉뿉)
+#### in 사용 예시
+- **in** the morning (아침에)
+- **in** the afternoon (오후에)
+- **in** the evening (저녁에)
+- **in** January (1월에)
+- **in** 2024 (2024년에)
+- **in** spring (봄에)
+- **in** summer (여름에)
+- **in** a week (일주일 안에)
+- **in** a month (한 달 안에)
 
-#### ?덈Ц
-- I study **in** the morning. (?섎뒗 ?꾩묠??怨듬??쒕떎.)
-- She was born **in** 1990. (洹몃???1990?꾩뿉 ?쒖뼱?щ떎.)
-- We go on vacation **in** summer. (?곕━???щ쫫???닿?瑜?媛꾨떎.)
+#### 예문
+- I study **in** the morning. (나는 아침에 공부한다.)
+- She was born **in** 1990. (그녀는 1990년에 태어났다.)
+- We go on vacation **in** summer. (우리는 여름에 휴가를 간다.)
 
-### ?쒓컙 ?쒗쁽 鍮꾧탳??
+### 시간 표현 비교표
 
-| ?꾩튂??| 踰붿쐞 | ?덉떆 |
+| 전치사 | 범위 | 예시 |
 |--------|------|------|
-| **at** | ?뺥솗???쒓컖 | at 3 o'clock, at noon |
-| **on** | ?뱀젙 ?좎쭨/?붿씪 | on Monday, on May 1st |
-| **in** | 湲곌컙/??怨꾩젅/?꾨룄 | in the morning, in 2024 |
+| **at** | 정확한 시각 | at 3 o'clock, at noon |
+| **on** | 특정 날짜/요일 | on Monday, on May 1st |
+| **in** | 기간/월/계절/년도 | in the morning, in 2024 |
 
-## 4. ?μ냼 ?쒗쁽?먯꽌??in, on, at
+## 4. 장소 표현에서의 in, on, at
 
-### at: ?뱀젙??吏???μ냼
-**at**? **?뱀젙??吏?먯씠???μ냼**瑜??섑??????ъ슜?⑸땲??
+### at: 특정한 지점/장소
+**at**은 **특정한 지점이나 장소**를 나타낼 때 사용합니다.
 
-#### at ?ъ슜 ?덉떆
-- **at** the station (??뿉??
-- **at** the airport (怨듯빆?먯꽌)
-- **at** school (?숆탳?먯꽌)
-- **at** home (吏묒뿉??
-- **at** work (吏곸옣?먯꽌)
-- **at** the door (臾몄뿉??
-- **at** the corner (紐⑦뎮?댁뿉??
+#### at 사용 예시
+- **at** the station (역에서)
+- **at** the airport (공항에서)
+- **at** school (학교에서)
+- **at** home (집에서)
+- **at** work (직장에서)
+- **at** the door (문에서)
+- **at** the corner (모퉁이에서)
 
-#### ?덈Ц
-- I'll meet you **at** the station. (?섎뒗 ??뿉???덈? 留뚮궇 寃껋씠??)
-- She is **at** school now. (洹몃???吏湲??숆탳???덈떎.)
-- Wait for me **at** the door. (臾몄뿉???섎? 湲곕떎??)
+#### 예문
+- I'll meet you **at** the station. (나는 역에서 너를 만날 것이다.)
+- She is **at** school now. (그녀는 지금 학교에 있다.)
+- Wait for me **at** the door. (문에서 나를 기다려.)
 
-### on: ?쒕㈃ ???묒큺
-**on**? **?쒕㈃ ?꾩뿉** ?먮뒗 **?묒큺**???섑??????ъ슜?⑸땲??
+### on: 표면 위/접촉
+**on**은 **표면 위에** 또는 **접촉**을 나타낼 때 사용합니다.
 
-#### on ?ъ슜 ?덉떆
-- **on** the table (?뚯씠釉??꾩뿉)
-- **on** the wall (踰쎌뿉)
-- **on** the floor (諛붾떏??
-- **on** the desk (梨낆긽 ?꾩뿉)
-- **on** the bus (踰꾩뒪 ?덉뿉 - ?쒕㈃ 媛쒕뀗)
-- **on** the train (湲곗감 ?덉뿉)
-- **on** TV (TV?먯꽌)
-- **on** the phone (?꾪솕濡?
+#### on 사용 예시
+- **on** the table (테이블 위에)
+- **on** the wall (벽에)
+- **on** the floor (바닥에)
+- **on** the desk (책상 위에)
+- **on** the bus (버스 안에 - 표면 개념)
+- **on** the train (기차 안에)
+- **on** TV (TV에서)
+- **on** the phone (전화로)
 
-#### ?덈Ц
-- The book is **on** the table. (梨낆씠 ?뚯씠釉??꾩뿉 ?덈떎.)
-- There's a picture **on** the wall. (踰쎌뿉 ?ъ쭊???덈떎.)
-- I saw it **on** TV. (?섎뒗 洹멸쾬??TV?먯꽌 遊ㅻ떎.)
+#### 예문
+- The book is **on** the table. (책이 테이블 위에 있다.)
+- There's a picture **on** the wall. (벽에 사진이 있다.)
+- I saw it **on** TV. (나는 그것을 TV에서 봤다.)
 
-### in: 怨듦컙 ???곸뿭 ??
-**in**? **怨듦컙 ?덉뿉** ?먮뒗 **?곸뿭 ?덉뿉**瑜??섑??????ъ슜?⑸땲??
+### in: 공간 안/영역 안
+**in**은 **공간 안에** 또는 **영역 안에**를 나타낼 때 사용합니다.
 
-#### in ?ъ슜 ?덉떆
-- **in** the room (諛??덉뿉)
-- **in** the box (?곸옄 ?덉뿉)
-- **in** the car (?먮룞李??덉뿉)
-- **in** the building (嫄대Ъ ?덉뿉)
-- **in** Seoul (?쒖슱??
-- **in** Korea (?쒓뎅??
-- **in** the park (怨듭썝??
-- **in** the library (?꾩꽌愿??
+#### in 사용 예시
+- **in** the room (방 안에)
+- **in** the box (상자 안에)
+- **in** the car (자동차 안에)
+- **in** the building (건물 안에)
+- **in** Seoul (서울에)
+- **in** Korea (한국에)
+- **in** the park (공원에)
+- **in** the library (도서관에)
 
-#### ?덈Ц
-- The cat is **in** the box. (怨좎뼇?닿? ?곸옄 ?덉뿉 ?덈떎.)
-- I live **in** Seoul. (?섎뒗 ?쒖슱???곕떎.)
-- She works **in** the library. (洹몃????꾩꽌愿?먯꽌 ?쇳븳??)
+#### 예문
+- The cat is **in** the box. (고양이가 상자 안에 있다.)
+- I live **in** Seoul. (나는 서울에 산다.)
+- She works **in** the library. (그녀는 도서관에서 일한다.)
 
-### ?μ냼 ?쒗쁽 鍮꾧탳??
+### 장소 표현 비교표
 
-| ?꾩튂??| 媛쒕뀗 | ?덉떆 |
+| 전치사 | 개념 | 예시 |
 |--------|------|------|
-| **at** | ?뱀젙 吏??| at the station, at home |
-| **on** | ?쒕㈃ ???묒큺 | on the table, on the wall |
-| **in** | 怨듦컙 ???곸뿭 | in the room, in Seoul |
+| **at** | 특정 지점 | at the station, at home |
+| **on** | 표면 위/접촉 | on the table, on the wall |
+| **in** | 공간 안/영역 | in the room, in Seoul |
 
-## 5. ?뱀닔??寃쎌슦
+## 5. 특수한 경우
 
-### in vs on (援먰넻?섎떒)
-- **in** the car (?먮룞李??덉뿉)
-- **on** the bus (踰꾩뒪 ?덉뿉 - ?쒕㈃ 媛쒕뀗)
-- **on** the train (湲곗감 ?덉뿉)
-- **on** the plane (鍮꾪뻾湲??덉뿉)
+### in vs on (교통수단)
+- **in** the car (자동차 안에)
+- **on** the bus (버스 안에 - 표면 개념)
+- **on** the train (기차 안에)
+- **on** the plane (비행기 안에)
 
-### at vs in (嫄대Ъ)
-- **at** the hospital (蹂묒썝?먯꽌 - ?μ냼 媛쒕뀗)
-- **in** the hospital (蹂묒썝 ?덉뿉 - 怨듦컙 媛쒕뀗)
-- **at** school (?숆탳?먯꽌 - ?쇰컲??
-- **in** the school (?숆탳 嫄대Ъ ?덉뿉 - 援ъ껜??
+### at vs in (건물)
+- **at** the hospital (병원에서 - 장소 개념)
+- **in** the hospital (병원 안에 - 공간 개념)
+- **at** school (학교에서 - 일반적)
+- **in** the school (학교 건물 안에 - 구체적)
 
-### ?쒓컙 ?쒗쁽 ?덉쇅
-- **in** the morning (?꾩묠??
-- **in** the afternoon (?ㅽ썑??
-- **in** the evening (??곸뿉)
-- **at** night (諛ㅼ뿉) - ?덉쇅!
+### 시간 표현 예외
+- **in** the morning (아침에)
+- **in** the afternoon (오후에)
+- **in** the evening (저녁에)
+- **at** night (밤에) - 예외!
 
-## 6. ?ㅼ쟾 ?곗뒿
+## 6. 실전 연습
 
-### ?곗뒿 1: ?쒓컙 ?꾩튂???좏깮
-?ㅼ쓬 鍮덉뭏??in, on, at???ｌ쑝?몄슂:
+### 연습 1: 시간 전치사 선택
+다음 빈칸에 in, on, at을 넣으세요:
 
-1. I wake up ___ 7 o'clock. ??**at**
-2. I have class ___ Monday. ??**on**
-3. I study ___ the morning. ??**in**
-4. My birthday is ___ May 1st. ??**on**
-5. I was born ___ 1990. ??**in**
+1. I wake up ___ 7 o'clock. → **at**
+2. I have class ___ Monday. → **on**
+3. I study ___ the morning. → **in**
+4. My birthday is ___ May 1st. → **on**
+5. I was born ___ 1990. → **in**
 
-### ?곗뒿 2: ?μ냼 ?꾩튂???좏깮
-?ㅼ쓬 鍮덉뭏??in, on, at???ｌ쑝?몄슂:
+### 연습 2: 장소 전치사 선택
+다음 빈칸에 in, on, at을 넣으세요:
 
-1. The book is ___ the table. ??**on**
-2. I live ___ Seoul. ??**in**
-3. I'll meet you ___ the station. ??**at**
-4. The cat is ___ the box. ??**in**
-5. There's a picture ___ the wall. ??**on**
+1. The book is ___ the table. → **on**
+2. I live ___ Seoul. → **in**
+3. I'll meet you ___ the station. → **at**
+4. The cat is ___ the box. → **in**
+5. There's a picture ___ the wall. → **on**
 
-### ?곗뒿 3: 臾몄옣 留뚮뱾湲?
-?ㅼ쓬 ?⑥뼱?ㅻ줈 ?꾩튂?щ? ?ъ슜??臾몄옣??留뚮뱶?몄슂:
+### 연습 3: 문장 만들기
+다음 단어들로 전치사를 사용한 문장을 만드세요:
 
 1. I / study / the morning
 2. She / work / Monday
 3. They / meet / 3 o'clock
 
-**?뺣떟:**
-1. I study **in** the morning. (?섎뒗 ?꾩묠??怨듬??쒕떎.)
-2. She works **on** Monday. (洹몃????붿슂?쇱뿉 ?쇳븳??)
-3. They meet **at** 3 o'clock. (洹몃뱾? 3?쒖뿉 留뚮궃??)
+**정답:**
+1. I study **in** the morning. (나는 아침에 공부한다.)
+2. She works **on** Monday. (그녀는 월요일에 일한다.)
+3. They meet **at** 3 o'clock. (그들은 3시에 만난다.)
 
-## 7. ?먯＜ ?섎뒗 ?ㅼ닔
+## 7. 자주 하는 실수
 
-### ?ㅼ닔 1: ?쒓컙 ?쒗쁽?먯꽌 ?꾩튂???쇰룞
-- ??I wake up **in** 7 o'clock.
-- ??I wake up **at** 7 o'clock.
+### 실수 1: 시간 표현에서 전치사 혼동
+- ❌ I wake up **in** 7 o'clock.
+- ✅ I wake up **at** 7 o'clock.
 
-### ?ㅼ닔 2: ?좎쭨 ?쒗쁽?먯꽌 ?꾩튂???쇰룞
-- ??I have class **in** Monday.
-- ??I have class **on** Monday.
+### 실수 2: 날짜 표현에서 전치사 혼동
+- ❌ I have class **in** Monday.
+- ✅ I have class **on** Monday.
 
-### ?ㅼ닔 3: ?μ냼 ?쒗쁽?먯꽌 ?꾩튂???쇰룞
-- ??The book is **in** the table.
-- ??The book is **on** the table.
+### 실수 3: 장소 표현에서 전치사 혼동
+- ❌ The book is **in** the table.
+- ✅ The book is **on** the table.
 
-### ?ㅼ닔 4: at night ?덉쇅 湲곗뼲 紐삵븯湲?
-- ??**in** night
-- ??**at** night
+### 실수 4: at night 예외 기억 못하기
+- ❌ **in** night
+- ✅ **at** night
 
-## 8. ?ㅻⅨ 以묒슂???꾩튂??
+## 8. 다른 중요한 전치사
 
-### 諛⑺뼢 ?꾩튂??
-- **to** (~濡? ~?먭쾶)
-- **from** (~?먯꽌)
-- **into** (~?덉쑝濡?
-- **out of** (~諛뽰쑝濡?
+### 방향 전치사
+- **to** (~로, ~에게)
+- **from** (~에서)
+- **into** (~안으로)
+- **out of** (~밖으로)
 
-### ?꾩튂 ?꾩튂??
-- **under** (~?꾨옒??
-- **over** (~?꾩뿉)
-- **beside** (~?놁뿉)
-- **between** (~?ъ씠??
-- **behind** (~?ㅼ뿉)
-- **in front of** (~?욎뿉)
+### 위치 전치사
+- **under** (~아래에)
+- **over** (~위에)
+- **beside** (~옆에)
+- **between** (~사이에)
+- **behind** (~뒤에)
+- **in front of** (~앞에)
 
-## 9. ?듭떖 ?붿빟
+## 9. 핵심 요약
 
-### ?쒓컙 ?쒗쁽
-- **at**: ?뺥솗???쒓컖 (at 3 o'clock)
-- **on**: ?뱀젙 ?좎쭨/?붿씪 (on Monday)
-- **in**: 湲곌컙/??怨꾩젅/?꾨룄 (in the morning)
+### 시간 표현
+- **at**: 정확한 시각 (at 3 o'clock)
+- **on**: 특정 날짜/요일 (on Monday)
+- **in**: 기간/월/계절/년도 (in the morning)
 
-### ?μ냼 ?쒗쁽
-- **at**: ?뱀젙 吏??(at the station)
-- **on**: ?쒕㈃ ??(on the table)
-- **in**: 怨듦컙 ??(in the room)
+### 장소 표현
+- **at**: 특정 지점 (at the station)
+- **on**: 표면 위 (on the table)
+- **in**: 공간 안 (in the room)
 
-### 湲곗뼲?섍린 ?ъ슫 諛⑸쾿
-- **at** = ??(媛???묒쓬)
-- **on** = ??硫?(以묎컙)
-- **in** = 怨듦컙 (媛????
+### 기억하기 쉬운 방법
+- **at** = 점 (가장 작음)
+- **on** = 선/면 (중간)
+- **in** = 공간 (가장 큼)
 
-## 10. ?ㅼ쓬 ?④퀎
+## 10. 다음 단계
 
-?꾩튂??in, on, at???댄빐?섏뀲?섏슂? ?ㅼ쓬 湲?먯꽌??**?꾩옱吏꾪뻾?뺢낵 怨쇨굅吏꾪뻾??*?????諛곗썙蹂닿쿋?듬땲?? "~?섍퀬 ?덈떎"???쒗쁽??諛곗썙遊낆떆??
+전치사 in, on, at을 이해하셨나요? 다음 글에서는 **현재진행형과 과거진행형**에 대해 배워보겠습니다. "~하고 있다"는 표현을 배워봅시다!
 
-**異붽? ?숈뒿 ??**
-- ?쒓컙怨??μ냼瑜??쒗쁽?????꾩튂?щ? ??긽 ?앷컖?섏꽭??
-- ?쇱긽 ?앺솢???쒓컙怨??μ냼瑜??곸뼱濡??쒗쁽?대낫?몄슂
-- ?덉쇅 ?ы빆(at night)???몄썙?먯꽭??
+**추가 학습 팁:**
+- 시간과 장소를 표현할 때 전치사를 항상 생각하세요
+- 일상 생활의 시간과 장소를 영어로 표현해보세요
+- 예외 사항(at night)을 외워두세요
 
-?꾩튂?щ? ?뺥솗???ъ슜?섎㈃ ?곸뼱 ?ㅻ젰???ш쾶 ?μ긽?⑸땲?? ?뱧??
+전치사를 정확히 사용하면 영어 실력이 크게 향상됩니다! 📍⏰
 

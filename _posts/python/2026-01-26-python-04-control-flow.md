@@ -1,90 +1,90 @@
 ---
 layout: post
-title: "?뚯씠??媛뺤쓽 4?? ?쒖뼱臾?(if, elif, else)"
-date:   2025-01-26 10:00:00 +0900
-categories: ["IT", "?뚯씠??媛뺤쓽"]
-tags: ["?뚯씠?? ?쒖뼱臾? if臾? 議곌굔臾? elif"]
-description: "?뚯씠?ъ쓽 議곌굔臾?if, elif, else)??諛곗슦怨??ㅼ뼇???ㅼ쟾 ?덉젣瑜??듯빐 議곌굔???곕Ⅸ ?꾨줈洹몃옩 ?먮쫫 ?쒖뼱瑜??숈뒿?⑸땲??"
+title:  "파이썬 강의 4편: 제어문 (if, elif, else)"
+date:   2025-02-20 10:00:00 +0900
+categories: [IT, 파이썬 강의]
+tags: [파이썬, 제어문, if문, 조건문, elif]
+description: "파이썬의 조건문(if, elif, else)을 배우고 다양한 실전 예제를 통해 조건에 따른 프로그램 흐름 제어를 학습합니다."
 ---
 
-# ?뚯씠??媛뺤쓽 4?? ?쒖뼱臾?(if, elif, else)
+# 파이썬 강의 4편: 제어문 (if, elif, else)
 
-## ?쒖뼱臾몄씠??
+## 제어문이란?
 
-?쒖뼱臾몄? ?꾨줈洹몃옩???ㅽ뻾 ?먮쫫???쒖뼱?섎뒗 臾몄옣?낅땲?? 議곌굔???곕씪 ?ㅻⅨ 肄붾뱶瑜??ㅽ뻾?????덇쾶 ?댁쨳?덈떎.
+제어문은 프로그램의 실행 흐름을 제어하는 문장입니다. 조건에 따라 다른 코드를 실행할 수 있게 해줍니다.
 
-## if 臾?
+## if 문
 
-議곌굔??李몄씪 ??肄붾뱶瑜??ㅽ뻾?⑸땲??
+조건이 참일 때 코드를 실행합니다:
 
-### 湲곕낯 ?뺤떇
+### 기본 형식
 
 ```python
-if 議곌굔:
-    # 議곌굔??李몄씪 ???ㅽ뻾??肄붾뱶
-    ?ㅽ뻾??肄붾뱶
+if 조건:
+    # 조건이 참일 때 실행할 코드
+    실행할 코드
 ```
 
-**二쇱쓽?ы빆:**
-- ?뚯씠?ъ? ?ㅼ뿬?곌린(Indentation)濡?肄붾뱶 釉붾줉??援щ텇?⑸땲??
-- ?ㅼ뿬?곌린??4移??ㅽ럹?댁뒪 ?먮뒗 ??쓣 ?ъ슜?⑸땲??
+**주의사항:**
+- 파이썬은 들여쓰기(Indentation)로 코드 블록을 구분합니다
+- 들여쓰기는 4칸 스페이스 또는 탭을 사용합니다
 
-### ?덉떆
+### 예시
 
 ```python
 age = 20
 
 if age >= 18:
-    print("?깆씤?낅땲??")
+    print("성인입니다.")
 ```
 
-## if-else 臾?
+## if-else 문
 
-議곌굔??嫄곗쭞???뚮룄 肄붾뱶瑜??ㅽ뻾?⑸땲??
+조건이 거짓일 때도 코드를 실행합니다:
 
 ```python
 score = 85
 
 if score >= 60:
-    print("?⑷꺽?낅땲??")
+    print("합격입니다!")
 else:
-    print("遺덊빀寃⑹엯?덈떎.")
+    print("불합격입니다.")
 ```
 
-## if-elif-else 臾?
+## if-elif-else 문
 
-?щ윭 議곌굔???뺤씤?⑸땲??
+여러 조건을 확인합니다:
 
 ```python
 score = 85
 
 if score >= 90:
-    print("A?깃툒")
+    print("A등급")
 elif score >= 80:
-    print("B?깃툒")
+    print("B등급")
 elif score >= 70:
-    print("C?깃툒")
+    print("C등급")
 else:
-    print("F?깃툒")
+    print("F등급")
 ```
 
-**elif???щ윭 媛??ъ슜 媛??**
+**elif는 여러 개 사용 가능:**
 ```python
 temperature = 25
 
 if temperature > 30:
-    print("?붿썙??)
+    print("더워요")
 elif temperature > 20:
-    print("?곕쑜?댁슂")
+    print("따뜻해요")
 elif temperature > 10:
-    print("?쒖썝?댁슂")
+    print("시원해요")
 else:
-    print("異붿썙??)
+    print("추워요")
 ```
 
-## 以묒꺽 if 臾?
+## 중첩 if 문
 
-if 臾??덉뿉 ???ㅻⅨ if 臾몄쓣 ?ъ슜?????덉뒿?덈떎:
+if 문 안에 또 다른 if 문을 사용할 수 있습니다:
 
 ```python
 age = 25
@@ -92,76 +92,76 @@ has_license = True
 
 if age >= 18:
     if has_license:
-        print("?댁쟾 媛?ν빀?덈떎.")
+        print("운전 가능합니다.")
     else:
-        print("硫댄뿀媛 ?꾩슂?⑸땲??")
+        print("면허가 필요합니다.")
 else:
-    print("誘몄꽦?꾩옄?낅땲??")
+    print("미성년자입니다.")
 ```
 
-## 議곌굔??(?쇳빆 ?곗궛??
+## 조건식 (삼항 연산자)
 
-媛꾨떒??議곌굔臾몄쓣 ??以꾨줈 ?묒꽦?????덉뒿?덈떎:
+간단한 조건문을 한 줄로 작성할 수 있습니다:
 
 ```python
 a = 10
 b = 5
 
-# 諛⑸쾿 1: if-else ?ъ슜
+# 방법 1: if-else 사용
 max_value = a if a > b else b
 print(max_value)  # 10
 
-# 諛⑸쾿 2: ?쇰컲 if臾?
+# 방법 2: 일반 if문
 if a > b:
     max_value = a
 else:
     max_value = b
 ```
 
-## ?쇰━ ?곗궛?먯? ?④퍡 ?ъ슜
+## 논리 연산자와 함께 사용
 
 ```python
 age = 25
 score = 85
 
-# and ?곗궛??
+# and 연산자
 if age >= 18 and score >= 60:
-    print("?깆씤?닿퀬 ?⑷꺽?낅땲??")
+    print("성인이고 합격입니다.")
 
-# or ?곗궛??
+# or 연산자
 if age < 18 or age > 65:
-    print("?좎씤 ??곸엯?덈떎.")
+    print("할인 대상입니다.")
 
-# not ?곗궛??
+# not 연산자
 if not (age < 18):
-    print("?깆씤?낅땲??")
+    print("성인입니다.")
 ```
 
-## ?ㅼ쟾 ?덉젣: ?깆쟻 怨꾩궛湲?
+## 실전 예제: 성적 계산기
 
 ```python
-score = float(input("?먯닔瑜??낅젰?섏꽭?? "))
+score = float(input("점수를 입력하세요: "))
 
 if score < 0 or score > 100:
-    print("?섎せ???먯닔?낅땲?? (0-100 ?ъ씠)")
+    print("잘못된 점수입니다. (0-100 사이)")
 elif score >= 90:
-    print("A?깃툒?낅땲??")
+    print("A등급입니다.")
 elif score >= 80:
-    print("B?깃툒?낅땲??")
+    print("B등급입니다.")
 elif score >= 70:
-    print("C?깃툒?낅땲??")
+    print("C등급입니다.")
 elif score >= 60:
-    print("D?깃툒?낅땲??")
+    print("D등급입니다.")
 else:
-    print("F?깃툒?낅땲??")
+    print("F등급입니다.")
 ```
 
-## ?ㅼ쟾 ?덉젣: 怨꾩궛湲??꾨줈洹몃옩
+## 실전 예제: 계산기 프로그램
 
 ```python
-num1 = float(input("泥?踰덉㎏ ?レ옄: "))
-operator = input("?곗궛?먮? ?낅젰?섏꽭??(+, -, *, /): ")
-num2 = float(input("??踰덉㎏ ?レ옄: "))
+num1 = float(input("첫 번째 숫자: "))
+operator = input("연산자를 입력하세요 (+, -, *, /): ")
+num2 = float(input("두 번째 숫자: "))
 
 if operator == "+":
     result = num1 + num2
@@ -173,95 +173,95 @@ elif operator == "/":
     if num2 != 0:
         result = num1 / num2
     else:
-        print("0?쇰줈 ?섎닃 ???놁뒿?덈떎!")
+        print("0으로 나눌 수 없습니다!")
         result = None
 else:
-    print("?섎せ???곗궛?먯엯?덈떎!")
+    print("잘못된 연산자입니다!")
     result = None
 
 if result is not None:
     print(f"{num1} {operator} {num2} = {result}")
 ```
 
-## ?ㅼ쟾 ?덉젣: 濡쒓렇???쒖뒪??
+## 실전 예제: 로그인 시스템
 
 ```python
 correct_username = "admin"
 correct_pass = "1234"
 
-username = input("?ъ슜?먮챸: ")
-user_pass = input("鍮꾨?踰덊샇: ")
+username = input("사용자명: ")
+user_pass = input("비밀번호: ")
 
 if username == correct_username and user_pass == correct_pass:
-    print("濡쒓렇???깃났!")
+    print("로그인 성공!")
 else:
-    print("濡쒓렇???ㅽ뙣! ?ъ슜?먮챸 ?먮뒗 鍮꾨?踰덊샇媛 ?섎せ?섏뿀?듬땲??")
+    print("로그인 실패! 사용자명 또는 비밀번호가 잘못되었습니다.")
 ```
 
-## ?ㅼ쟾 ?덉젣: ?ㅻ뀈 ?먮퀎
+## 실전 예제: 윤년 판별
 
 ```python
-year = int(input("?꾨룄瑜??낅젰?섏꽭?? "))
+year = int(input("년도를 입력하세요: "))
 
 if (year % 4 == 0 and year % 100 != 0) or (year % 400 == 0):
-    print(f"{year}?꾩? ?ㅻ뀈?낅땲??")
+    print(f"{year}년은 윤년입니다.")
 else:
-    print(f"{year}?꾩? ?됰뀈?낅땲??")
+    print(f"{year}년은 평년입니다.")
 ```
 
-## ?ㅼ쟾 ?덉젣: BMI 怨꾩궛湲?
+## 실전 예제: BMI 계산기
 
 ```python
-weight = float(input("紐몃Т寃?kg): "))
-height = float(input("??m): "))
+weight = float(input("몸무게(kg): "))
+height = float(input("키(m): "))
 
 bmi = weight / (height ** 2)
 
 print(f"BMI: {bmi:.2f}")
 
 if bmi < 18.5:
-    print("?泥댁쨷?낅땲??")
+    print("저체중입니다.")
 elif bmi < 25:
-    print("?뺤긽?낅땲??")
+    print("정상입니다.")
 elif bmi < 30:
-    print("怨쇱껜以묒엯?덈떎.")
+    print("과체중입니다.")
 else:
-    print("鍮꾨쭔?낅땲??")
+    print("비만입니다.")
 ```
 
-## in ?곗궛?먯? ?④퍡 ?ъ슜
+## in 연산자와 함께 사용
 
 ```python
-fruits = ["?ш낵", "諛붾굹??, "?ㅻ젋吏"]
+fruits = ["사과", "바나나", "오렌지"]
 
-fruit = input("怨쇱씪 ?대쫫: ")
+fruit = input("과일 이름: ")
 
 if fruit in fruits:
-    print(f"{fruit}??媛) 紐⑸줉???덉뒿?덈떎.")
+    print(f"{fruit}이(가) 목록에 있습니다.")
 else:
-    print(f"{fruit}??媛) 紐⑸줉???놁뒿?덈떎.")
+    print(f"{fruit}이(가) 목록에 없습니다.")
 ```
 
-## pass 臾?
+## pass 문
 
-?꾨Т寃껊룄 ?섏? ?딆?留?臾몃쾿???꾩슂?????ъ슜:
+아무것도 하지 않지만 문법상 필요할 때 사용:
 
 ```python
 age = 20
 
 if age >= 18:
-    pass  # ?섏쨷??肄붾뱶瑜?異붽????덉젙
+    pass  # 나중에 코드를 추가할 예정
 else:
-    print("誘몄꽦?꾩옄?낅땲??")
+    print("미성년자입니다.")
 ```
 
-## 二쇱쓽?ы빆
+## 주의사항
 
-1. **?ㅼ뿬?곌린**: 諛섎뱶???쇨??섍쾶 ?ъ슜 (4移??ㅽ럹?댁뒪 沅뚯옣)
-2. **肄쒕줎(:)**: if, elif, else ?ㅼ뿉 諛섎뱶??肄쒕줎 ?꾩슂
-3. **鍮꾧탳 ?곗궛??*: `==` (媛숈쓬), `!=` (?ㅻ쫫) 二쇱쓽
+1. **들여쓰기**: 반드시 일관되게 사용 (4칸 스페이스 권장)
+2. **콜론(:)**: if, elif, else 뒤에 반드시 콜론 필요
+3. **비교 연산자**: `==` (같음), `!=` (다름) 주의
 
-## ?ㅼ쓬??怨듬????댁슜
+## 다음에 공부할 내용
 
-?ㅼ쓬 ?ъ뒪?몄뿉?쒕뒗 諛섎났臾?for, while)?????怨듬??대낫寃좎뒿?덈떎.
+다음 포스트에서는 반복문(for, while)에 대해 공부해보겠습니다.
 

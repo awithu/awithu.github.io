@@ -1,30 +1,30 @@
 ---
 layout: post
-title: "C?紐꾨선 揶쏅벡??10?? ?닌듼쒙㎗?"
-date:   2025-01-22 10:00:00 +0900
-categories: ["IT", "C?紐꾨선 揶쏅벡??"]
-tags: ["C", "struct"]
+title:  "C언어 강의 10편: 구조체"
+date:   2025-02-20 10:00:00 +0900
+categories: [IT, C언어 강의]
+tags: [C언어, 구조체, struct, 사용자정의타입]
 ---
 
-# C?紐꾨선 揶쏅벡??10?? ?닌듼쒙㎗?
+# C언어 강의 10편: 구조체
 
-## ?닌듼쒙㎗???
+## 구조체란?
 
-?닌듼쒙㎗?Structure)????뺤쨮 ??삘뀲 ????놁벥 ?怨쀬뵠?怨? ??롪돌??域밸챶竊??곗쨮 ?얜씈堉???온?귐뗫막 ????뉗쓺 ??곻폒????????類ㅼ벥 ?怨쀬뵠??????놁뿯??덈뼄.
+구조체(Structure)는 서로 다른 타입의 데이터를 하나의 그룹으로 묶어서 관리할 수 있게 해주는 사용자 정의 데이터 타입입니다.
 
-## ?닌듼쒙㎗??醫롫섧
+## 구조체 선언
 
-### 疫꿸퀡???類ㅻ뻼
+### 기본 형식
 
 ```c
-struct ?닌듼쒙㎗?梨?{
-    ?怨쀬뵠?怨???筌롢끇苡?;
-    ?怨쀬뵠?怨???筌롢끇苡?;
+struct 구조체명 {
+    데이터타입 멤버1;
+    데이터타입 멤버2;
     // ...
 };
 ```
 
-### ??됰뻻: ??덇문 ?類ｋ궖 ?닌듼쒙㎗?
+### 예시: 학생 정보 구조체
 
 ```c
 struct Student {
@@ -34,10 +34,10 @@ struct Student {
 };
 ```
 
-## ?닌듼쒙㎗?癰궰???醫롫섧
+## 구조체 변수 선언
 
 ```c
-// 獄쎻뫖苡?1: ?닌듼쒙㎗??醫롫섧 ??癰궰???醫롫섧
+// 방법 1: 구조체 선언 후 변수 선언
 struct Student {
     char name[50];
     int age;
@@ -46,26 +46,26 @@ struct Student {
 
 struct Student student1;
 
-// 獄쎻뫖苡?2: ?醫롫섧????덈뻻??癰궰???醫롫섧
+// 방법 2: 선언과 동시에 변수 선언
 struct Student {
     char name[50];
     int age;
     float score;
 } student1, student2;
 
-// 獄쎻뫖苡?3: typedef ????(亦낅슣??
+// 방법 3: typedef 사용 (권장)
 typedef struct {
     char name[50];
     int age;
     float score;
 } Student;
 
-Student student1;  // struct ??쇱뜖????곸뵠 ????揶쎛??
+Student student1;  // struct 키워드 없이 사용 가능
 ```
 
-## ?닌듼쒙㎗?筌롢끇苡??臾롫젏
+## 구조체 멤버 접근
 
-??`.`) ?怨쀪텦?癒? ?????뤿연 筌롢끇苡???臾롫젏??몃빍??
+점(`.`) 연산자를 사용하여 멤버에 접근합니다:
 
 ```c
 struct Student {
@@ -76,115 +76,115 @@ struct Student {
 
 struct Student student1;
 
-// 揶??醫딅뼣
-strcpy(student1.name, "??삳쭔??);
+// 값 할당
+strcpy(student1.name, "홍길동");
 student1.age = 20;
 student1.score = 85.5;
 
-// 揶??곗뮆??
-printf("??已? %s\n", student1.name);
-printf("??륁뵠: %d\n", student1.age);
-printf("?癒?땾: %.1f\n", student1.score);
+// 값 출력
+printf("이름: %s\n", student1.name);
+printf("나이: %d\n", student1.age);
+printf("점수: %.1f\n", student1.score);
 ```
 
-## ?닌듼쒙㎗??λ뜃由??
+## 구조체 초기화
 
-### 獄쎻뫖苡?1: ?醫롫섧????덈뻻???λ뜃由??
+### 방법 1: 선언과 동시에 초기화
 
 ```c
 struct Student student1 = {
-    "??삳쭔??,
+    "홍길동",
     20,
     85.5
 };
 ```
 
-### 獄쎻뫖苡?2: 筌왖???λ뜃由??(C99)
+### 방법 2: 지정 초기화 (C99)
 
 ```c
 struct Student student1 = {
-    .name = "??삳쭔??,
+    .name = "홍길동",
     .age = 20,
     .score = 85.5
 };
 ```
 
-## ?닌듼쒙㎗?獄쏄퀣肉?
+## 구조체 배열
 
-????揶쏆뮇???닌듼쒙㎗?? 獄쏄퀣肉닸에??온?귐뗫막 ????됰뮸??덈뼄:
+여러 개의 구조체를 배열로 관리할 수 있습니다:
 
 ```c
 struct Student students[5];
 
-// ??낆젾
+// 입력
 for (int i = 0; i < 5; i++) {
-    printf("??덇문 %d ?類ｋ궖 ??낆젾:\n", i + 1);
-    printf("??已? ");
+    printf("학생 %d 정보 입력:\n", i + 1);
+    printf("이름: ");
     scanf("%s", students[i].name);
-    printf("??륁뵠: ");
+    printf("나이: ");
     scanf("%d", &students[i].age);
-    printf("?癒?땾: ");
+    printf("점수: ");
     scanf("%f", &students[i].score);
 }
 
-// ?곗뮆??
+// 출력
 for (int i = 0; i < 5; i++) {
-    printf("??덇문 %d: %s, %d?? %.1f??n", 
+    printf("학생 %d: %s, %d세, %.1f점\n", 
            i + 1, students[i].name, students[i].age, students[i].score);
 }
 ```
 
-## ?닌듼쒙㎗??????
+## 구조체 포인터
 
-?닌듼쒙㎗?? 揶쎛?귐뗪텕??????怨? ?????????됰뮸??덈뼄:
+구조체를 가리키는 포인터를 사용할 수 있습니다:
 
 ```c
-struct Student student1 = {"??삳쭔??, 20, 85.5};
+struct Student student1 = {"홍길동", 20, 85.5};
 struct Student *ptr = &student1;
 
-// ????怨? ???립 筌롢끇苡??臾롫젏
-printf("%s\n", (*ptr).name);  // 獄쎻뫖苡?1
-printf("%s\n", ptr->name);    // 獄쎻뫖苡?2 (?遺욧땀???怨쀪텦?? 亦낅슣??
+// 포인터를 통한 멤버 접근
+printf("%s\n", (*ptr).name);  // 방법 1
+printf("%s\n", ptr->name);    // 방법 2 (화살표 연산자, 권장)
 printf("%d\n", ptr->age);
 printf("%.1f\n", ptr->score);
 ```
 
-**?遺욧땀???怨쀪텦??`->`)**: ????怨? ???퉸 ?닌듼쒙㎗?筌롢끇苡???臾롫젏????????
+**화살표 연산자(`->`)**: 포인터를 통해 구조체 멤버에 접근할 때 사용
 
-## ?닌듼쒙㎗?? ??λ땾???袁⑤뼎
+## 구조체를 함수에 전달
 
-### 揶쏅?肉???묐립 ?袁⑤뼎
+### 값에 의한 전달
 
 ```c
 void printStudent(struct Student s) {
-    printf("??已? %s\n", s.name);
-    printf("??륁뵠: %d\n", s.age);
-    printf("?癒?땾: %.1f\n", s.score);
+    printf("이름: %s\n", s.name);
+    printf("나이: %d\n", s.age);
+    printf("점수: %.1f\n", s.score);
 }
 
 int main() {
-    struct Student student1 = {"??삳쭔??, 20, 85.5};
+    struct Student student1 = {"홍길동", 20, 85.5};
     printStudent(student1);
     return 0;
 }
 ```
 
-### 筌〓챷?????묐립 ?袁⑤뼎 (?????
+### 참조에 의한 전달 (포인터)
 
 ```c
 void printStudent(struct Student *s) {
-    printf("??已? %s\n", s->name);
-    printf("??륁뵠: %d\n", s->age);
-    printf("?癒?땾: %.1f\n", s->score);
+    printf("이름: %s\n", s->name);
+    printf("나이: %d\n", s->age);
+    printf("점수: %.1f\n", s->score);
 }
 
 void modifyStudent(struct Student *s) {
-    s->age = 21;  // 揶?癰궰野?揶쎛??
+    s->age = 21;  // 값 변경 가능
     s->score = 90.0;
 }
 
 int main() {
-    struct Student student1 = {"??삳쭔??, 20, 85.5};
+    struct Student student1 = {"홍길동", 20, 85.5};
     printStudent(&student1);
     modifyStudent(&student1);
     printStudent(&student1);
@@ -192,9 +192,9 @@ int main() {
 }
 ```
 
-## 餓λ쵐爰??닌듼쒙㎗?
+## 중첩 구조체
 
-?닌듼쒙㎗???됰퓠 ??삘뀲 ?닌듼쒙㎗?? ??釉??????됰뮸??덈뼄:
+구조체 안에 다른 구조체를 포함할 수 있습니다:
 
 ```c
 struct Date {
@@ -211,12 +211,12 @@ struct Student {
 
 int main() {
     struct Student student1 = {
-        "??삳쭔??,
+        "홍길동",
         {2000, 1, 15},
         85.5
     };
     
-    printf("??몃?遺우뵬: %d??%d??%d??n", 
+    printf("생년월일: %d년 %d월 %d일\n", 
            student1.birthDate.year,
            student1.birthDate.month,
            student1.birthDate.day);
@@ -225,21 +225,21 @@ int main() {
 }
 ```
 
-## ?닌듼쒙㎗???由?? 筌롫뗀?덄뵳??類ｌ졊
+## 구조체 크기와 메모리 정렬
 
-?닌듼쒙㎗?곸벥 ??由??筌롢끇苡??쇱벥 ??由???룸궢 ??? ????됰뮸??덈뼄 (筌롫뗀?덄뵳??類ｌ졊 ????:
+구조체의 크기는 멤버들의 크기 합과 다를 수 있습니다 (메모리 정렬 때문):
 
 ```c
 struct Example {
-    char a;    // 1獄쏅뗄???
-    int b;     // 4獄쏅뗄???
-    char c;    // 1獄쏅뗄???
+    char a;    // 1바이트
+    int b;     // 4바이트
+    char c;    // 1바이트
 };
 
-printf("??由? %zu\n", sizeof(struct Example));  // 12獄쏅뗄???(?類ｌ졊??
+printf("크기: %zu\n", sizeof(struct Example));  // 12바이트 (정렬됨)
 ```
 
-## ??쇱읈 ??됱젫: ??덇문 ?온????뽯뮞??
+## 실전 예제: 학생 관리 시스템
 
 ```c
 #include <stdio.h>
@@ -252,16 +252,16 @@ typedef struct {
 } Student;
 
 void inputStudent(Student *s) {
-    printf("??已? ");
+    printf("이름: ");
     scanf("%s", s->name);
-    printf("??륁뵠: ");
+    printf("나이: ");
     scanf("%d", &s->age);
-    printf("?癒?땾: ");
+    printf("점수: ");
     scanf("%f", &s->score);
 }
 
 void printStudent(Student *s) {
-    printf("??已? %s, ??륁뵠: %d, ?癒?땾: %.1f\n", 
+    printf("이름: %s, 나이: %d, 점수: %.1f\n", 
            s->name, s->age, s->score);
 }
 
@@ -276,28 +276,28 @@ float calculateAverage(Student students[], int count) {
 int main() {
     Student students[5];
     
-    // ??덇문 ?類ｋ궖 ??낆젾
-    printf("5筌뤿굞????덇문 ?類ｋ궖????낆젾??뤾쉭??\n");
+    // 학생 정보 입력
+    printf("5명의 학생 정보를 입력하세요:\n");
     for (int i = 0; i < 5; i++) {
-        printf("\n??덇문 %d:\n", i + 1);
+        printf("\n학생 %d:\n", i + 1);
         inputStudent(&students[i]);
     }
     
-    // ??덇문 ?類ｋ궖 ?곗뮆??
-    printf("\n=== ??덇문 ?類ｋ궖 ===\n");
+    // 학생 정보 출력
+    printf("\n=== 학생 정보 ===\n");
     for (int i = 0; i < 5; i++) {
         printStudent(&students[i]);
     }
     
-    // ???뇧 ?④쑴沅?
+    // 평균 계산
     float avg = calculateAverage(students, 5);
-    printf("\n???뇧 ?癒?땾: %.2f\n", avg);
+    printf("\n평균 점수: %.2f\n", avg);
     
     return 0;
 }
 ```
 
-## ??쇱읈 ??됱젫: ?袁⑷퐣 ?온????뽯뮞??
+## 실전 예제: 도서 관리 시스템
 
 ```c
 #include <stdio.h>
@@ -318,21 +318,21 @@ void addBook(Book *book, char *title, char *author, int year, float price) {
 }
 
 void printBook(Book *book) {
-    printf("??뺛걠: %s\n", book->title);
-    printf("???? %s\n", book->author);
-    printf("?곗뮉??袁⑤즲: %d\n", book->year);
-    printf("揶쎛野? %.2f??n", book->price);
+    printf("제목: %s\n", book->title);
+    printf("저자: %s\n", book->author);
+    printf("출판년도: %d\n", book->year);
+    printf("가격: %.2f원\n", book->price);
     printf("---\n");
 }
 
 int main() {
     Book library[3];
     
-    addBook(&library[0], "C?紐꾨선 ?袁⑥쨮域밸챶?믦쳸?, "??삳쭔??, 2020, 25000);
-    addBook(&library[1], "?癒?┷?닌듼?, "繹먃筌ｌ쥙??, 2021, 30000);
-    addBook(&library[2], "???х뵳?弛?, "??곸겫??, 2022, 35000);
+    addBook(&library[0], "C언어 프로그래밍", "홍길동", 2020, 25000);
+    addBook(&library[1], "자료구조", "김철수", 2021, 30000);
+    addBook(&library[2], "알고리즘", "이영희", 2022, 35000);
     
-    printf("=== ?袁⑷퐣 筌뤴뫖以?===\n");
+    printf("=== 도서 목록 ===\n");
     for (int i = 0; i < 3; i++) {
         printBook(&library[i]);
     }
@@ -341,9 +341,9 @@ int main() {
 }
 ```
 
-## ?닌듼쒙㎗?? ??λ땾 ?????
+## 구조체와 함수 포인터
 
-?닌듼쒙㎗?곷퓠 ??λ땾 ????怨? ??釉??????됰뮸??덈뼄:
+구조체에 함수 포인터를 포함할 수 있습니다:
 
 ```c
 typedef struct {
@@ -362,24 +362,24 @@ int main() {
 }
 ```
 
-## ?닌듼쒙㎗?곸벥 ?關??
+## 구조체의 장점
 
-1. **?怨쀬뵠??域밸챶竊??*: ?온??ㅻ쭆 ?怨쀬뵠?怨? ??롪돌嚥??얜씈堉??온??
-2. **?꾨뗀諭?揶쎛??녾쉐**: ??? ??덈뮉 ??μ맄嚥??怨쀬뵠???온??
-3. **??沅??밴쉐**: ?닌듼쒙㎗?? ????놁퓗??????揶쎛??
-4. **?類ㅼ삢??*: ?袁⑹뒄???怨뺤뵬 筌롢끇苡??곕떽? 揶쎛??
+1. **데이터 그룹화**: 관련된 데이터를 하나로 묶어 관리
+2. **코드 가독성**: 의미 있는 단위로 데이터 관리
+3. **재사용성**: 구조체를 타입처럼 사용 가능
+4. **확장성**: 필요에 따라 멤버 추가 가능
 
-## ??쇱벉 ??ｍ?
+## 다음 단계
 
-??곸젫 C?紐꾨선??疫꿸퀡??揶쏆뮆???쇱뱽 筌뤴뫀紐?獄쏄퀣???щ빍?? ??쇱벉?癒?뮉:
-- ???뵬 ??놃뀱??
-- ??덉읅 筌롫뗀?덄뵳??醫딅뼣 ????
-- ?⑥쥒???????疫꿸퀡苡?
-- ?袁⑥쨮??븍뱜 ??쇰뮸
+이제 C언어의 기본 개념들을 모두 배웠습니다! 다음에는:
+- 파일 입출력
+- 동적 메모리 할당 심화
+- 고급 포인터 기법
+- 프로젝트 실습
 
-?源놁뱽 ???퉸 ??살젾?????關湲??쀪텢 ????됰뮸??덈뼄.
+등을 통해 실력을 더 향상시킬 수 있습니다.
 
-## 筌띾뜄龜??
+## 마무리
 
-C?紐꾨선 ?⑤벉??????껃칰??類ｂ봺?????곸뒄! ??곸젫 疫꿸퀡??묾怨? 獄쏅?源??곗쨮 ??쇰펶???袁⑥쨮??븍뱜??筌띾슢諭?????블???곸뒄. 熬곷챷????怨쀫뮸????살젾 ?關湲????곷눨??⑦???룹퍟??곸뒄.
+C언어 공부를 이렇게 정리해봤어요! 이제 기본기를 바탕으로 다양한 프로젝트를 만들어보려고 해요. 꾸준한 연습이 실력 향상의 열쇠라고 생각해요.
 

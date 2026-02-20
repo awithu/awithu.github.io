@@ -1,253 +1,253 @@
 ---
 layout: post
-title: "?숈궗 ?쒖젣 湲곗큹: ?꾩옱, 怨쇨굅, 誘몃옒 ?꾨꼍 ?뺣━"
-date:   2025-01-25 09:00:00 +0900
-categories: ["?곸뼱", "臾몃쾿 湲곗큹"]
-tags: ["?곸뼱", "臾몃쾿", "?쒖젣", "?꾩옱", "怨쇨굅", "誘몃옒"]
-description: "?곸뼱??湲곕낯 ?쒖젣???꾩옱, 怨쇨굅, 誘몃옒 ?쒖젣瑜?諛곗슦怨??몄젣 ?쇱뼱???쇱씤吏 ?뺥솗?섍쾶 ?쒗쁽?섎뒗 諛⑸쾿???듯옓?덈떎."
+title:  "동사 시제 기초: 현재, 과거, 미래 완벽 정리"
+date:   2025-02-20 09:00:00 +0900
+categories: [영어, 문법 기초]
+tags: [영어, 문법, 시제, 현재, 과거, 미래]
+description: "영어의 기본 시제인 현재, 과거, 미래 시제를 배우고 언제 일어난 일인지 정확하게 표현하는 방법을 익힙니다."
 ---
 
-# ?숈궗 ?쒖젣 湲곗큹: ?꾩옱, 怨쇨굅, 誘몃옒 ?꾨꼍 ?뺣━
+# 동사 시제 기초: 현재, 과거, 미래 완벽 정리
 
-?쒖젣(Tense)??**?몄젣 ?쇱뼱???쇱씤吏**瑜??섑??대뒗 臾몃쾿 ?붿냼?낅땲?? ?곸뼱?먯꽌 媛??湲곕낯???섎뒗 ?꾩옱, 怨쇨굅, 誘몃옒 ?쒖젣瑜??꾨꼍?섍쾶 ?댄빐?대큶?쒕떎.
+시제(Tense)는 **언제 일어난 일인지**를 나타내는 문법 요소입니다. 영어에서 가장 기본이 되는 현재, 과거, 미래 시제를 완벽하게 이해해봅시다.
 
-## 1. ?쒖젣? 臾댁뾿?멸??
+## 1. 시제란 무엇인가?
 
-?쒖젣???숈옉?대굹 ?곹깭媛 **?몄젣 ?쇱뼱?щ뒗吏**瑜??섑??낅땲??
+시제는 동작이나 상태가 **언제 일어났는지**를 나타냅니다.
 
-### 湲곕낯 ?쒖젣 3媛吏
-- **?꾩옱 ?쒖젣 (Present Tense)**: 吏湲??쇱뼱?섎뒗 ??
-- **怨쇨굅 ?쒖젣 (Past Tense)**: 怨쇨굅???쇱뼱????
-- **誘몃옒 ?쒖젣 (Future Tense)**: 誘몃옒???쇱뼱????
+### 기본 시제 3가지
+- **현재 시제 (Present Tense)**: 지금 일어나는 일
+- **과거 시제 (Past Tense)**: 과거에 일어난 일
+- **미래 시제 (Future Tense)**: 미래에 일어날 일
 
-## 2. ?꾩옱 ?쒖젣 (Present Tense)
+## 2. 현재 시제 (Present Tense)
 
-### ?꾩옱 ?쒖젣???⑸룄
+### 현재 시제의 용도
 
-#### 1. 吏湲??쇱뼱?섎뒗 ??
-- I **study** English. (?섎뒗 ?곸뼱瑜?怨듬??⑸땲??)
-- She **works** at a hospital. (洹몃???蹂묒썝?먯꽌 ?쇳빀?덈떎.)
+#### 1. 지금 일어나는 일
+- I **study** English. (나는 영어를 공부합니다.)
+- She **works** at a hospital. (그녀는 병원에서 일합니다.)
 
-#### 2. ?듦??곸씤 ?됰룞
-- I **drink** coffee every morning. (?섎뒗 留ㅼ씪 ?꾩묠 而ㅽ뵾瑜?留덉떗?덈떎.)
-- They **play** soccer on weekends. (洹몃뱾? 二쇰쭚??異뺢뎄瑜??⑸땲??)
+#### 2. 습관적인 행동
+- I **drink** coffee every morning. (나는 매일 아침 커피를 마십니다.)
+- They **play** soccer on weekends. (그들은 주말에 축구를 합니다.)
 
-#### 3. ?쇰컲?곸씤 ?ъ떎
-- The sun **rises** in the east. (?쒖뼇? ?숈そ?먯꽌 ?밸땲??)
-- Water **boils** at 100 degrees. (臾쇱? 100?꾩뿉???볦뒿?덈떎.)
+#### 3. 일반적인 사실
+- The sun **rises** in the east. (태양은 동쪽에서 뜹니다.)
+- Water **boils** at 100 degrees. (물은 100도에서 끓습니다.)
 
-### ?꾩옱 ?쒖젣 ?숈궗 蹂??
+### 현재 시제 동사 변화
 
-#### 二쇱뼱媛 3?몄묶 ?⑥닔 (he, she, it)????
-- ?숈궗??**-s** ?먮뒗 **-es** 異붽?
-- **I/You/We/They** + ?숈궗 ?먰삎
-- **He/She/It** + ?숈궗 + s/es
+#### 주어가 3인칭 단수 (he, she, it)일 때
+- 동사에 **-s** 또는 **-es** 추가
+- **I/You/We/They** + 동사 원형
+- **He/She/It** + 동사 + s/es
 
-### ?덈Ц
+### 예문
 
-#### 1?몄묶/2?몄묶/蹂듭닔
-- I **like** pizza. (?섎뒗 ?쇱옄瑜?醫뗭븘?⑸땲??)
-- You **study** hard. (?덈뒗 ?댁떖??怨듬??쒕떎.)
-- We **play** games. (?곕━??寃뚯엫???쒕떎.)
-- They **go** to school. (洹몃뱾? ?숆탳??媛꾨떎.)
+#### 1인칭/2인칭/복수
+- I **like** pizza. (나는 피자를 좋아합니다.)
+- You **study** hard. (너는 열심히 공부한다.)
+- We **play** games. (우리는 게임을 한다.)
+- They **go** to school. (그들은 학교에 간다.)
 
-#### 3?몄묶 ?⑥닔
-- He **likes** pizza. (洹몃뒗 ?쇱옄瑜?醫뗭븘?⑸땲??)
-- She **studies** hard. (洹몃????댁떖??怨듬??쒕떎.)
-- It **works** well. (洹멸쾬? ???묐룞?쒕떎.)
+#### 3인칭 단수
+- He **likes** pizza. (그는 피자를 좋아합니다.)
+- She **studies** hard. (그녀는 열심히 공부한다.)
+- It **works** well. (그것은 잘 작동한다.)
 
-### 3?몄묶 ?⑥닔 ?숈궗 蹂??洹쒖튃
+### 3인칭 단수 동사 변화 규칙
 
-#### 1. ?쇰컲?곸씤 寃쎌슦: -s 異붽?
-- like ??**likes**
-- play ??**plays**
-- read ??**reads**
+#### 1. 일반적인 경우: -s 추가
+- like → **likes**
+- play → **plays**
+- read → **reads**
 
-#### 2. -s, -sh, -ch, -x, -o濡??앸굹??寃쎌슦: -es 異붽?
-- go ??**goes**
-- watch ??**watches**
-- fix ??**fixes**
+#### 2. -s, -sh, -ch, -x, -o로 끝나는 경우: -es 추가
+- go → **goes**
+- watch → **watches**
+- fix → **fixes**
 
-#### 3. ?먯쓬 + y濡??앸굹??寃쎌슦: y瑜?i濡?諛붽씀怨?-es 異붽?
-- study ??**studies**
-- try ??**tries**
-- fly ??**flies**
+#### 3. 자음 + y로 끝나는 경우: y를 i로 바꾸고 -es 추가
+- study → **studies**
+- try → **tries**
+- fly → **flies**
 
-#### 4. 紐⑥쓬 + y濡??앸굹??寃쎌슦: -s留?異붽?
-- play ??**plays**
-- enjoy ??**enjoys**
+#### 4. 모음 + y로 끝나는 경우: -s만 추가
+- play → **plays**
+- enjoy → **enjoys**
 
-## 3. 怨쇨굅 ?쒖젣 (Past Tense)
+## 3. 과거 시제 (Past Tense)
 
-### 怨쇨굅 ?쒖젣???⑸룄
-怨쇨굅???쇱뼱???쇱쓣 ?섑??낅땲??
+### 과거 시제의 용도
+과거에 일어난 일을 나타냅니다.
 
-### 洹쒖튃 ?숈궗 (Regular Verbs)
-?숈궗 ?먰삎??**-ed**瑜?異붽??⑸땲??
+### 규칙 동사 (Regular Verbs)
+동사 원형에 **-ed**를 추가합니다.
 
-#### 1. ?쇰컲?곸씤 寃쎌슦: -ed 異붽?
-- walk ??**walked**
-- play ??**played**
-- study ??**studied**
+#### 1. 일반적인 경우: -ed 추가
+- walk → **walked**
+- play → **played**
+- study → **studied**
 
-#### 2. -e濡??앸굹??寃쎌슦: -d留?異붽?
-- like ??**liked**
-- live ??**lived**
-- use ??**used**
+#### 2. -e로 끝나는 경우: -d만 추가
+- like → **liked**
+- live → **lived**
+- use → **used**
 
-#### 3. ?먯쓬 + y濡??앸굹??寃쎌슦: y瑜?i濡?諛붽씀怨?-ed 異붽?
-- study ??**studied**
-- try ??**tried**
-- cry ??**cried**
+#### 3. 자음 + y로 끝나는 경우: y를 i로 바꾸고 -ed 추가
+- study → **studied**
+- try → **tried**
+- cry → **cried**
 
-#### 4. ?⑤え??+ ?⑥옄?뚯쑝濡??앸굹??寃쎌슦: ?먯쓬 以묐났 + -ed
-- stop ??**stopped**
-- plan ??**planned**
-- prefer ??**preferred**
+#### 4. 단모음 + 단자음으로 끝나는 경우: 자음 중복 + -ed
+- stop → **stopped**
+- plan → **planned**
+- prefer → **preferred**
 
-### 遺덇퇋移??숈궗 (Irregular Verbs)
-?쇰? ?숈궗???밸퀎???뺥깭濡?蹂?뷀빀?덈떎.
+### 불규칙 동사 (Irregular Verbs)
+일부 동사는 특별한 형태로 변화합니다.
 
-#### ?먯＜ ?곕뒗 遺덇퇋移??숈궗
-- be ??**was/were**
-- go ??**went**
-- come ??**came**
-- see ??**saw**
-- do ??**did**
-- have ??**had**
-- eat ??**ate**
-- take ??**took**
-- make ??**made**
-- get ??**got**
+#### 자주 쓰는 불규칙 동사
+- be → **was/were**
+- go → **went**
+- come → **came**
+- see → **saw**
+- do → **did**
+- have → **had**
+- eat → **ate**
+- take → **took**
+- make → **made**
+- get → **got**
 
-### 怨쇨굅 ?쒖젣 ?덈Ц
+### 과거 시제 예문
 
-#### 洹쒖튃 ?숈궗
-- I **walked** to school. (?섎뒗 ?숆탳源뚯? 嫄몄뼱媛붾떎.)
-- She **studied** English. (洹몃????곸뼱瑜?怨듬??덈떎.)
-- They **played** soccer. (洹몃뱾? 異뺢뎄瑜??덈떎.)
+#### 규칙 동사
+- I **walked** to school. (나는 학교까지 걸어갔다.)
+- She **studied** English. (그녀는 영어를 공부했다.)
+- They **played** soccer. (그들은 축구를 했다.)
 
-#### 遺덇퇋移??숈궗
-- I **went** to the store. (?섎뒗 媛寃뚯뿉 媛붾떎.)
-- She **saw** a movie. (洹몃????곹솕瑜?遊ㅻ떎.)
-- We **ate** pizza. (?곕━???쇱옄瑜?癒뱀뿀??)
+#### 불규칙 동사
+- I **went** to the store. (나는 가게에 갔다.)
+- She **saw** a movie. (그녀는 영화를 봤다.)
+- We **ate** pizza. (우리는 피자를 먹었다.)
 
-## 4. 誘몃옒 ?쒖젣 (Future Tense)
+## 4. 미래 시제 (Future Tense)
 
-### 誘몃옒 ?쒖젣 ?쒗쁽 諛⑸쾿
+### 미래 시제 표현 방법
 
-#### 1. will + ?숈궗 ?먰삎
-- I **will go** to school tomorrow. (?섎뒗 ?댁씪 ?숆탳??媛?寃껋씠??)
-- She **will study** English. (洹몃????곸뼱瑜?怨듬???寃껋씠??)
-- They **will play** games. (洹몃뱾? 寃뚯엫????寃껋씠??)
+#### 1. will + 동사 원형
+- I **will go** to school tomorrow. (나는 내일 학교에 갈 것이다.)
+- She **will study** English. (그녀는 영어를 공부할 것이다.)
+- They **will play** games. (그들은 게임을 할 것이다.)
 
-#### 2. be going to + ?숈궗 ?먰삎
-- I **am going to** visit my friend. (?섎뒗 移쒓뎄瑜?諛⑸Ц???덉젙?대떎.)
-- She **is going to** study. (洹몃???怨듬????덉젙?대떎.)
-- We **are going to** travel. (?곕━???ы뻾???덉젙?대떎.)
+#### 2. be going to + 동사 원형
+- I **am going to** visit my friend. (나는 친구를 방문할 예정이다.)
+- She **is going to** study. (그녀는 공부할 예정이다.)
+- We **are going to** travel. (우리는 여행할 예정이다.)
 
 ### will vs be going to
 
-#### will: 利됱꽍 寃곗젙, ?덉륫
-- A: I'm hungry. (諛곌퀬??)
-- B: I **will** make you a sandwich. (?덉뿉寃??뚮뱶?꾩튂瑜?留뚮뱾?댁쨪寃?)
+#### will: 즉석 결정, 예측
+- A: I'm hungry. (배고파.)
+- B: I **will** make you a sandwich. (너에게 샌드위치를 만들어줄게.)
 
-#### be going to: 怨꾪쉷??誘몃옒
-- I **am going to** study tonight. (?섎뒗 ?ㅻ뒛 諛?怨듬????덉젙?대떎.)
-- She **is going to** travel next month. (洹몃????ㅼ쓬 ???ы뻾???덉젙?대떎.)
+#### be going to: 계획된 미래
+- I **am going to** study tonight. (나는 오늘 밤 공부할 예정이다.)
+- She **is going to** travel next month. (그녀는 다음 달 여행할 예정이다.)
 
-### 誘몃옒 ?쒖젣 ?덈Ц
+### 미래 시제 예문
 
-1. I **will call** you later. (?섎뒗 ?섏쨷???덉뿉寃??꾪솕??寃껋씠??)
-2. She **is going to** buy a car. (洹몃????먮룞李⑤? ???덉젙?대떎.)
-3. We **will meet** at 3 o'clock. (?곕━??3?쒖뿉 留뚮궇 寃껋씠??)
-4. They **are going to** move to Seoul. (洹몃뱾? ?쒖슱濡??댁궗媛??덉젙?대떎.)
+1. I **will call** you later. (나는 나중에 너에게 전화할 것이다.)
+2. She **is going to** buy a car. (그녀는 자동차를 살 예정이다.)
+3. We **will meet** at 3 o'clock. (우리는 3시에 만날 것이다.)
+4. They **are going to** move to Seoul. (그들은 서울로 이사갈 예정이다.)
 
-## 5. ?쒖젣 鍮꾧탳??
+## 5. 시제 비교표
 
-| ?쒖젣 | ?뺥깭 | ?덈Ц |
+| 시제 | 형태 | 예문 |
 |------|------|------|
-| ?꾩옱 | ?숈궗 ?먰삎 (+s/es) | I **study** English. |
-| 怨쇨굅 | ?숈궗 + ed / 遺덇퇋移?| I **studied** English. |
-| 誘몃옒 | will + ?숈궗 / be going to + ?숈궗 | I **will study** English. |
+| 현재 | 동사 원형 (+s/es) | I **study** English. |
+| 과거 | 동사 + ed / 불규칙 | I **studied** English. |
+| 미래 | will + 동사 / be going to + 동사 | I **will study** English. |
 
-## 6. ?ㅼ쟾 ?곗뒿
+## 6. 실전 연습
 
-### ?곗뒿 1: ?꾩옱 ?쒖젣濡?諛붽씀湲?
-?ㅼ쓬 臾몄옣???꾩옱 ?쒖젣濡?諛붽씀?몄슂:
+### 연습 1: 현재 시제로 바꾸기
+다음 문장을 현재 시제로 바꾸세요:
 
-1. I walked to school. ??I **walk** to school.
-2. She studied English. ??She **studies** English.
-3. They played games. ??They **play** games.
+1. I walked to school. → I **walk** to school.
+2. She studied English. → She **studies** English.
+3. They played games. → They **play** games.
 
-### ?곗뒿 2: 怨쇨굅 ?쒖젣濡?諛붽씀湲?
-?ㅼ쓬 臾몄옣??怨쇨굅 ?쒖젣濡?諛붽씀?몄슂:
+### 연습 2: 과거 시제로 바꾸기
+다음 문장을 과거 시제로 바꾸세요:
 
-1. I go to school. ??I **went** to school.
-2. She studies English. ??She **studied** English.
-3. They play games. ??They **played** games.
+1. I go to school. → I **went** to school.
+2. She studies English. → She **studied** English.
+3. They play games. → They **played** games.
 
-### ?곗뒿 3: 誘몃옒 ?쒖젣濡?諛붽씀湲?
-?ㅼ쓬 臾몄옣??誘몃옒 ?쒖젣濡?諛붽씀?몄슂:
+### 연습 3: 미래 시제로 바꾸기
+다음 문장을 미래 시제로 바꾸세요:
 
-1. I study English. ??I **will study** English.
-2. She goes to school. ??She **will go** to school.
-3. They play soccer. ??They **will play** soccer.
+1. I study English. → I **will study** English.
+2. She goes to school. → She **will go** to school.
+3. They play soccer. → They **will play** soccer.
 
-## 7. ?먯＜ ?섎뒗 ?ㅼ닔
+## 7. 자주 하는 실수
 
-### ?ㅼ닔 1: 3?몄묶 ?⑥닔??-s 鍮쇰㉨湲?
-- ??She **like** pizza.
-- ??She **likes** pizza.
+### 실수 1: 3인칭 단수에 -s 빼먹기
+- ❌ She **like** pizza.
+- ✅ She **likes** pizza.
 
-### ?ㅼ닔 2: 怨쇨굅 ?쒖젣??-ed 鍮쇰㉨湲?
-- ??I **walk** to school yesterday.
-- ??I **walked** to school yesterday.
+### 실수 2: 과거 시제에 -ed 빼먹기
+- ❌ I **walk** to school yesterday.
+- ✅ I **walked** to school yesterday.
 
-### ?ㅼ닔 3: 誘몃옒 ?쒖젣?먯꽌 will ?ㅼ뿉 ?숈궗 ?먰삎 ???곌린
-- ??I will **went** to school.
-- ??I will **go** to school.
+### 실수 3: 미래 시제에서 will 뒤에 동사 원형 안 쓰기
+- ❌ I will **went** to school.
+- ✅ I will **go** to school.
 
-### ?ㅼ닔 4: be going to?먯꽌 be ?숈궗 鍮쇰㉨湲?
-- ??I **going to** study.
-- ??I **am going to** study.
+### 실수 4: be going to에서 be 동사 빼먹기
+- ❌ I **going to** study.
+- ✅ I **am going to** study.
 
-## 8. ?쒓컙 ?쒗쁽怨??④퍡 ?ъ슜?섍린
+## 8. 시간 표현과 함께 사용하기
 
-### ?꾩옱 ?쒖젣? ?④퍡
-- **every day** (留ㅼ씪)
-- **always** (??긽)
-- **usually** (蹂댄넻)
-- **often** (?먯＜)
-- **sometimes** (媛??
+### 현재 시제와 함께
+- **every day** (매일)
+- **always** (항상)
+- **usually** (보통)
+- **often** (자주)
+- **sometimes** (가끔)
 
-### 怨쇨굅 ?쒖젣? ?④퍡
-- **yesterday** (?댁젣)
-- **last week** (吏??二?
-- **two days ago** (?댄? ??
-- **in 2020** (2020?꾩뿉)
+### 과거 시제와 함께
+- **yesterday** (어제)
+- **last week** (지난 주)
+- **two days ago** (이틀 전)
+- **in 2020** (2020년에)
 
-### 誘몃옒 ?쒖젣? ?④퍡
-- **tomorrow** (?댁씪)
-- **next week** (?ㅼ쓬 二?
-- **soon** (怨?
-- **in the future** (誘몃옒??
+### 미래 시제와 함께
+- **tomorrow** (내일)
+- **next week** (다음 주)
+- **soon** (곧)
+- **in the future** (미래에)
 
-## 9. ?듭떖 ?붿빟
+## 9. 핵심 요약
 
-- **?꾩옱 ?쒖젣**: ?숈궗 ?먰삎 (+s/es for 3?몄묶 ?⑥닔)
-- **怨쇨굅 ?쒖젣**: ?숈궗 + ed / 遺덇퇋移?蹂??
-- **誘몃옒 ?쒖젣**: will + ?숈궗 / be going to + ?숈궗
-- **?쒓컙 ?쒗쁽**: 媛??쒖젣? ?④퍡 ?ъ슜?섎뒗 ?쒓컙 遺??湲곗뼲?섍린
+- **현재 시제**: 동사 원형 (+s/es for 3인칭 단수)
+- **과거 시제**: 동사 + ed / 불규칙 변화
+- **미래 시제**: will + 동사 / be going to + 동사
+- **시간 표현**: 각 시제와 함께 사용하는 시간 부사 기억하기
 
-## 10. ?ㅼ쓬 ?④퀎
+## 10. 다음 단계
 
-?쒖젣??湲곕낯???댄빐?섏뀲?섏슂? ?ㅼ쓬 湲?먯꽌??**be?숈궗? ?쇰컲?숈궗**??李⑥씠?먯쓣 諛곗썙蹂닿쿋?듬땲?? be?숈궗???곹깭瑜??섑??대뒗 ?밸퀎???숈궗?낅땲??
+시제의 기본을 이해하셨나요? 다음 글에서는 **be동사와 일반동사**의 차이점을 배워보겠습니다. be동사는 상태를 나타내는 특별한 동사입니다!
 
-**異붽? ?숈뒿 ??**
-- ?쇱긽 ?앺솢???됰룞???꾩옱/怨쇨굅/誘몃옒濡??쒗쁽?대낫?몄슂
-- 遺덇퇋移??숈궗瑜??몄썙?먮㈃ 留ㅼ슦 ?좎슜?⑸땲??
-- ?쒓컙 ?쒗쁽怨??④퍡 臾몄옣??留뚮뱾?대낫?몄슂
+**추가 학습 팁:**
+- 일상 생활의 행동을 현재/과거/미래로 표현해보세요
+- 불규칙 동사를 외워두면 매우 유용합니다
+- 시간 표현과 함께 문장을 만들어보세요
 
-?쒖젣瑜??뺥솗???ъ슜?섎㈃ ?곸뼱 ?ㅻ젰???ш쾶 ?μ긽?⑸땲?? ?곧윋?
+시제를 정확히 사용하면 영어 실력이 크게 향상됩니다! ⏰📚
 

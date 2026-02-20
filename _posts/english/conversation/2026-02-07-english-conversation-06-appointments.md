@@ -1,189 +1,189 @@
 ---
 layout: post
-title: "?쎌냽 ?↔린: 留뚮궇 ?쒓컙 ?뺥븯湲?"
-date:   2025-02-07 09:00:00 +0900
-categories: ["?곸뼱", "?쇱긽 ?뚰솕"]
-tags: ["?곸뼱", "?뚰솕", "?쎌냽", "留뚮궓", "appointment", "meeting"]
-description: "移쒓뎄???숇즺? ?쎌냽???↔퀬 留뚮궇 ?쒓컙???뺥븯???쒗쁽??諛곗슦怨??먯뿰?ㅻ읇寃??쇱젙??議곗쑉?섎뒗 諛⑸쾿???듯옓?덈떎."
+title:  "약속 잡기: 만날 시간 정하기"
+date:   2025-02-20 09:00:00 +0900
+categories: [영어, 일상 회화]
+tags: [영어, 회화, 약속, 만남, appointment, meeting]
+description: "친구나 동료와 약속을 잡고 만날 시간을 정하는 표현을 배우고 자연스럽게 일정을 조율하는 방법을 익힙니다."
 ---
 
-# ?쎌냽 ?↔린: 留뚮궇 ?쒓컙 ?뺥븯湲?
+# 약속 잡기: 만날 시간 정하기
 
-?쎌냽???〓뒗 寃껋? ?쇱긽 ?앺솢?먯꽌 ?먯＜ ?섎뒗 ?쇱엯?덈떎. 移쒓뎄???숇즺? 留뚮궇 ?쒓컙???뺥븯???쒗쁽??諛곗썙遊낆떆??
+약속을 잡는 것은 일상 생활에서 자주 하는 일입니다. 친구나 동료와 만날 시간을 정하는 표현을 배워봅시다.
 
-## 1. ?쎌냽 ?쒖븞?섍린
+## 1. 약속 제안하기
 
-### 留뚮굹?먭퀬 ?쒖븞?섍린
-- **Would you like to meet?** (留뚮굹?쒓쿋?댁슂?)
-- **Do you want to meet up?** (留뚮궇?섏슂?)
-- **How about meeting tomorrow?** (?댁씪 留뚮굹??寃껋? ?대븣??)
-- **Are you free tomorrow?** (?댁씪 ?쒓컙 ?덉쑝?몄슂?)
-- **Can we meet this weekend?** (?대쾲 二쇰쭚??留뚮궇 ???덉쓣源뚯슂?)
+### 만나자고 제안하기
+- **Would you like to meet?** (만나시겠어요?)
+- **Do you want to meet up?** (만날래요?)
+- **How about meeting tomorrow?** (내일 만나는 것은 어때요?)
+- **Are you free tomorrow?** (내일 시간 있으세요?)
+- **Can we meet this weekend?** (이번 주말에 만날 수 있을까요?)
 
-### ?덈Ц
-- **Would you like to meet for coffee?** (而ㅽ뵾 留덉떆??留뚮굹?쒓쿋?댁슂?)
-- **Do you want to have lunch together?** (?④퍡 ?먯떖 癒뱀쓣?섏슂?)
-- **How about going to the movies?** (?곹솕 蹂대윭 媛??寃껋? ?대븣??)
+### 예문
+- **Would you like to meet for coffee?** (커피 마시러 만나시겠어요?)
+- **Do you want to have lunch together?** (함께 점심 먹을래요?)
+- **How about going to the movies?** (영화 보러 가는 것은 어때요?)
 
-## 2. ?쒓컙 ?쒖븞?섍린
+## 2. 시간 제안하기
 
-### ?쒓컙 ?쒖븞
-- **How about 3 PM?** (?ㅽ썑 3?쒕뒗 ?대븣??)
-- **What time works for you?** (紐??쒓? ?명븯?몄슂?)
-- **Are you available at 2 o'clock?** (2?쒖뿉 ?쒓컙 ?덉쑝?몄슂?)
-- **When is a good time for you?** (?몄젣媛 醫뗭쑝?몄슂?)
-- **Does 3 PM work for you?** (?ㅽ썑 3??愿쒖갖?쇱꽭??)
+### 시간 제안
+- **How about 3 PM?** (오후 3시는 어때요?)
+- **What time works for you?** (몇 시가 편하세요?)
+- **Are you available at 2 o'clock?** (2시에 시간 있으세요?)
+- **When is a good time for you?** (언제가 좋으세요?)
+- **Does 3 PM work for you?** (오후 3시 괜찮으세요?)
 
-### ?좎쭨 ?쒖븞
-- **How about tomorrow?** (?댁씪? ?대븣??)
-- **What about this weekend?** (?대쾲 二쇰쭚? ?대븣??)
-- **Are you free on Saturday?** (?좎슂?쇱뿉 ?쒓컙 ?덉쑝?몄슂?)
-- **Can we meet next week?** (?ㅼ쓬 二쇱뿉 留뚮궇 ???덉쓣源뚯슂?)
+### 날짜 제안
+- **How about tomorrow?** (내일은 어때요?)
+- **What about this weekend?** (이번 주말은 어때요?)
+- **Are you free on Saturday?** (토요일에 시간 있으세요?)
+- **Can we meet next week?** (다음 주에 만날 수 있을까요?)
 
-## 3. ?쎌냽 ?↔린 ????덈Ц
+## 3. 약속 잡기 대화 예문
 
-### ???1: 而ㅽ뵾 留덉떆??留뚮굹湲?
+### 대화 1: 커피 마시러 만나기
 **A:** Hi! Would you like to meet for coffee this weekend?
-(?덈뀞! ?대쾲 二쇰쭚??而ㅽ뵾 留덉떆??留뚮궇??)
+(안녕! 이번 주말에 커피 마시러 만날래?)
 
 **B:** Sure! When are you free?
-(臾쇰줎?댁빞! ?몄젣 ?쒓컙 ?덉뼱?)
+(물론이야! 언제 시간 있어?)
 
 **A:** How about Saturday afternoon?
-(?좎슂???ㅽ썑???대븣?)
+(토요일 오후는 어때?)
 
 **B:** That works for me! What time?
-(?섑븳??愿쒖갖?? 紐??쒖뿉?)
+(나한테 괜찮아! 몇 시에?)
 
 **A:** How about 3 PM?
-(?ㅽ썑 3?쒕뒗 ?대븣?)
+(오후 3시는 어때?)
 
 **B:** Perfect! See you then!
-(?꾨꼍?? 洹몃븣 遊?)
+(완벽해! 그때 봐!)
 
-### ???2: ?먯떖 ?쎌냽
+### 대화 2: 점심 약속
 **A:** Are you free for lunch tomorrow?
-(?댁씪 ?먯떖 ?쒓컙 ?덉쑝?몄슂?)
+(내일 점심 시간 있으세요?)
 
 **B:** Yes, I am. What time?
-(?? ?덉뼱?? 紐??쒖뿉??)
+(네, 있어요. 몇 시에요?)
 
 **A:** How about 12:30?
-(12??30遺꾩? ?대븣??)
+(12시 30분은 어때요?)
 
 **B:** That sounds good! Where should we meet?
-(醫뗭븘 蹂댁씠?ㅼ슂! ?대뵒??留뚮궇源뚯슂?)
+(좋아 보이네요! 어디서 만날까요?)
 
 **A:** How about the restaurant near the station?
-(??洹쇱쿂 ?앸떦? ?대븣??)
+(역 근처 식당은 어때요?)
 
 **B:** Perfect! See you there at 12:30.
-(?꾨꼍?댁슂! 12??30遺꾩뿉 嫄곌린??遊먯슂.)
+(완벽해요! 12시 30분에 거기서 봐요.)
 
-## 4. ?쎌냽 ?섎씫/嫄곗젅?섍린
+## 4. 약속 수락/거절하기
 
-### ?쎌냽 ?섎씫
-- **Sure!** (臾쇰줎?댁빞!)
-- **That sounds good!** (醫뗭븘 蹂댁씠?ㅼ슂!)
-- **That works for me.** (?섑븳??愿쒖갖??)
-- **Perfect!** (?꾨꼍??)
-- **I'd love to!** (?뺣쭚 醫뗭븘??)
+### 약속 수락
+- **Sure!** (물론이야!)
+- **That sounds good!** (좋아 보이네요!)
+- **That works for me.** (나한테 괜찮아.)
+- **Perfect!** (완벽해!)
+- **I'd love to!** (정말 좋아요!)
 
-### ?쎌냽 嫄곗젅
-- **I'm sorry, I'm busy.** (二꾩넚?⑸땲?? 諛붿겑?덈떎.)
-- **I can't make it.** (媛????놁뼱??)
-- **I'm not available.** (?쒓컙???놁뼱??)
-- **Maybe another time?** (?ㅻⅨ ?쒓컙? ?대뼚?몄슂?)
-- **How about next week?** (?ㅼ쓬 二쇰뒗 ?대븣??)
+### 약속 거절
+- **I'm sorry, I'm busy.** (죄송합니다, 바쁩니다.)
+- **I can't make it.** (갈 수 없어요.)
+- **I'm not available.** (시간이 없어요.)
+- **Maybe another time?** (다른 시간은 어떠세요?)
+- **How about next week?** (다음 주는 어때요?)
 
-### ????쒖떆
-- **I'm busy tomorrow, but I'm free on Friday.** (?댁씪? 諛붿걯吏留?湲덉슂?쇱? ?쒓컙 ?덉뼱??)
-- **Can we meet next week instead?** (????ㅼ쓬 二쇱뿉 留뚮궇 ???덉쓣源뚯슂?)
-- **What about the day after tomorrow?** (紐⑤젅???대븣??)
+### 대안 제시
+- **I'm busy tomorrow, but I'm free on Friday.** (내일은 바쁘지만 금요일은 시간 있어요.)
+- **Can we meet next week instead?** (대신 다음 주에 만날 수 있을까요?)
+- **What about the day after tomorrow?** (모레는 어때요?)
 
-## 5. ?μ냼 ?뺥븯湲?
+## 5. 장소 정하기
 
-### ?μ냼 ?쒖븞
-- **Where should we meet?** (?대뵒??留뚮궇源뚯슂?)
-- **How about meeting at the station?** (??뿉??留뚮굹??寃껋? ?대븣??)
-- **Let's meet at the coffee shop.** (而ㅽ뵾?띿뿉??留뚮굹??)
-- **I'll see you at the restaurant.** (?앸떦?먯꽌 遊먯슂.)
+### 장소 제안
+- **Where should we meet?** (어디서 만날까요?)
+- **How about meeting at the station?** (역에서 만나는 것은 어때요?)
+- **Let's meet at the coffee shop.** (커피숍에서 만나자.)
+- **I'll see you at the restaurant.** (식당에서 봐요.)
 
-### ?μ냼 ?뺤씤
-- **Do you know where it is?** (?대뵒 ?덈뒗吏 ?꾩떆?섏슂?)
-- **It's near the station.** (??洹쇱쿂???덉뼱??)
-- **I'll send you the address.** (二쇱냼瑜?蹂대궡?쒕┫寃뚯슂.)
+### 장소 확인
+- **Do you know where it is?** (어디 있는지 아시나요?)
+- **It's near the station.** (역 근처에 있어요.)
+- **I'll send you the address.** (주소를 보내드릴게요.)
 
-## 6. ?쎌냽 蹂寃쏀븯湲?
+## 6. 약속 변경하기
 
-### ?쎌냽 痍⑥냼
-- **I'm sorry, but I need to cancel.** (二꾩넚?⑸땲?? 痍⑥냼?댁빞 ?⑸땲??)
-- **Something came up.** (萸붽? ?앷꼈?댁슂.)
-- **Can we reschedule?** (?쇱젙???ㅼ떆 ?≪쓣 ???덉쓣源뚯슂?)
+### 약속 취소
+- **I'm sorry, but I need to cancel.** (죄송합니다, 취소해야 합니다.)
+- **Something came up.** (뭔가 생겼어요.)
+- **Can we reschedule?** (일정을 다시 잡을 수 있을까요?)
 
-### ?쎌냽 ?곌린
-- **Can we meet a bit later?** (議곌툑 ??쾶 留뚮궇 ???덉쓣源뚯슂?)
-- **I'm running late.** (??퀬 ?덉뼱??)
-- **Can we push it back 30 minutes?** (30遺???떠???좉퉴??)
+### 약속 연기
+- **Can we meet a bit later?** (조금 늦게 만날 수 있을까요?)
+- **I'm running late.** (늦고 있어요.)
+- **Can we push it back 30 minutes?** (30분 늦춰도 될까요?)
 
-## 7. ?ㅼ쟾 ?곗뒿
+## 7. 실전 연습
 
-### ?곗뒿 1: ?쎌냽 ?쒖븞
-?ㅼ쓬 ?곹솴??留욌뒗 ?쒗쁽???좏깮?섏꽭??
+### 연습 1: 약속 제안
+다음 상황에 맞는 표현을 선택하세요:
 
-1. 留뚮굹?먭퀬 ?쒖븞: **Would you like to meet?**
-2. ?쒓컙 ?쒖븞: **How about 3 PM?**
-3. ?μ냼 ?쒖븞: **Where should we meet?**
+1. 만나자고 제안: **Would you like to meet?**
+2. 시간 제안: **How about 3 PM?**
+3. 장소 제안: **Where should we meet?**
 
-### ?곗뒿 2: ?쎌냽 ?↔린
-?ㅼ쓬 ?쎌냽???곸뼱濡??쒗쁽?섏꽭??
+### 연습 2: 약속 잡기
+다음 약속을 영어로 표현하세요:
 
-1. ?댁씪 留뚮궇?섏슂: **Would you like to meet tomorrow?**
-2. ?ㅽ썑 3?쒕뒗 ?대븣?? **How about 3 PM?**
-3. ??뿉??留뚮굹?? **Let's meet at the station.**
+1. 내일 만날래요: **Would you like to meet tomorrow?**
+2. 오후 3시는 어때요: **How about 3 PM?**
+3. 역에서 만나요: **Let's meet at the station.**
 
-### ?곗뒿 3: ????꾩꽦?섍린
-?ㅼ쓬 ??붾? ?꾩꽦?섏꽭??
+### 연습 3: 대화 완성하기
+다음 대화를 완성하세요:
 
 **A:** Are you free tomorrow?
-**B:** Yes, I am. What ___? (?쒓컙)
+**B:** Yes, I am. What ___? (시간)
 **A:** How about 3 PM?
-**B:** That ___ for me! (愿쒖갖??
+**B:** That ___ for me! (괜찮아)
 
-**?뺣떟:**
+**정답:**
 **A:** Are you free tomorrow?
 **B:** Yes, I am. What **time**?
 **A:** How about 3 PM?
 **B:** That **works** for me!
 
-## 8. ?먯＜ ?섎뒗 ?ㅼ닔
+## 8. 자주 하는 실수
 
-### ?ㅼ닔 1: ?쒓컙 ?쒗쁽 ?쇰룞
-- ??How about 3 o'clock PM?
-- ??**How about 3 PM?** (PM? ?レ옄 ?ㅼ뿉)
+### 실수 1: 시간 표현 혼동
+- ❌ How about 3 o'clock PM?
+- ✅ **How about 3 PM?** (PM은 숫자 뒤에)
 
-### ?ㅼ닔 2: ?쎌냽 嫄곗젅?????뺤쨷?섏? ?딆쓬
-- ??I can't.
-- ??**I'm sorry, but I can't make it.** (?뺤쨷?섍쾶)
+### 실수 2: 약속 거절할 때 정중하지 않음
+- ❌ I can't.
+- ✅ **I'm sorry, but I can't make it.** (정중하게)
 
-### ?ㅼ닔 3: ?μ냼 ?뺤씤 ???섍린
-- ?쎌냽???≪쓣 ???μ냼瑜?紐낇솗???뺥븯??寃껋씠 以묒슂?⑸땲??
+### 실수 3: 장소 확인 안 하기
+- 약속을 잡을 때 장소를 명확히 정하는 것이 중요합니다
 
-## 9. ?듭떖 ?붿빟
+## 9. 핵심 요약
 
-- **?쎌냽 ?쒖븞**: Would you like to meet? / How about...?
-- **?쒓컙 ?쒖븞**: What time works for you? / How about 3 PM?
-- **?쎌냽 ?섎씫**: Sure! / That works for me!
-- **?쎌냽 嫄곗젅**: I'm sorry, I'm busy. / Maybe another time?
+- **약속 제안**: Would you like to meet? / How about...?
+- **시간 제안**: What time works for you? / How about 3 PM?
+- **약속 수락**: Sure! / That works for me!
+- **약속 거절**: I'm sorry, I'm busy. / Maybe another time?
 
-## 10. ?ㅼ쓬 ?④퀎
+## 10. 다음 단계
 
-?쎌냽 ?↔린瑜?諛곗슦?⑤굹?? ?ㅼ쓬 湲?먯꽌??**媛먯젙 ?쒗쁽?섍린**?????諛곗썙蹂닿쿋?듬땲?? 湲곗겏, ?ы뵒, ?붾궓 ??媛먯젙???쒗쁽?섎뒗 諛⑸쾿???듯?遊낆떆??
+약속 잡기를 배우셨나요? 다음 글에서는 **감정 표현하기**에 대해 배워보겠습니다. 기쁨, 슬픔, 화남 등 감정을 표현하는 방법을 익혀봅시다!
 
-**異붽? ?숈뒿 ??**
-- ?쎌냽 ?↔린 ?쒗쁽???몄썙???먯＜ ?ъ슜?섏꽭??
-- ?ㅼ젣 ?곹솴???곸긽?섎ŉ ?곗뒿?대낫?몄슂
-- ?쒓컙怨??μ냼瑜?紐낇솗???뺥븯???듦???湲곕Ⅴ?몄슂
+**추가 학습 팁:**
+- 약속 잡기 표현을 외워서 자주 사용하세요
+- 실제 상황을 상상하며 연습해보세요
+- 시간과 장소를 명확히 정하는 습관을 기르세요
 
-?쎌냽?????≪쑝硫??쇱긽 ?앺솢???⑥뵮 ?ъ썙吏묐땲?? ?뱟?쩃
+약속을 잘 잡으면 일상 생활이 훨씬 쉬워집니다! 📅🤝
 

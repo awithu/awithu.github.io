@@ -1,74 +1,74 @@
 ---
 layout: post
-title: "C?紐꾨선 揶쏅벡??4?? ??뽯선??(if, switch)"
-date:   2025-01-16 10:00:00 +0900
-categories: ["IT", "C?紐꾨선 揶쏅벡??"]
-tags: ["C", "control-flow", "if", "switch"]
+title:  "C언어 강의 4편: 제어문 (if, switch)"
+date:   2025-02-20 10:00:00 +0900
+categories: [IT, C언어 강의]
+tags: [C언어, 제어문, if문, switch문, 조건문]
 ---
 
-# C?紐꾨선 揶쏅벡??4?? ??뽯선??(if, switch)
+# C언어 강의 4편: 제어문 (if, switch)
 
-## ??뽯선?얜챷????
+## 제어문이란?
 
-??뽯선?얜챷? ?袁⑥쨮域밸챶?????쎈뻬 ?癒?カ????뽯선??롫뮉 ?얜챷???낅빍?? 鈺곌퀗援???怨뺤뵬 ??삘뀲 ?꾨뗀諭띄몴???쎈뻬??띻탢?? ?諭???꾨뗀諭띄몴?獄쏆꼶????쎈뻬??????됰뮸??덈뼄.
+제어문은 프로그램의 실행 흐름을 제어하는 문장입니다. 조건에 따라 다른 코드를 실행하거나, 특정 코드를 반복 실행할 수 있습니다.
 
-## if ??
+## if 문
 
-鈺곌퀗援??筌〓챷?????꾨뗀諭띄몴???쎈뻬??몃빍??
+조건이 참일 때 코드를 실행합니다:
 
-### 疫꿸퀡???類ㅻ뻼
+### 기본 형식
 
 ```c
-if (鈺곌퀗援? {
-    // 鈺곌퀗援??筌〓챷??????쎈뻬???꾨뗀諭?
+if (조건) {
+    // 조건이 참일 때 실행할 코드
 }
 ```
 
-### ??됰뻻
+### 예시
 
 ```c
 int age = 20;
 
 if (age >= 18) {
-    printf("?源놁뵥??낅빍??\n");
+    printf("성인입니다.\n");
 }
 ```
 
-## if-else ??
+## if-else 문
 
-鈺곌퀗援??椰꾧퀣彛?????즲 ?꾨뗀諭띄몴???쎈뻬??몃빍??
+조건이 거짓일 때도 코드를 실행합니다:
 
 ```c
 int score = 85;
 
 if (score >= 60) {
-    printf("??룰봄??낅빍??\n");
+    printf("합격입니다!\n");
 } else {
-    printf("?븍뜇鍮野꺿뫗???덈뼄.\n");
+    printf("불합격입니다.\n");
 }
 ```
 
-## if-else if-else ??
+## if-else if-else 문
 
-????鈺곌퀗援???類ㅼ뵥??몃빍??
+여러 조건을 확인합니다:
 
 ```c
 int score = 85;
 
 if (score >= 90) {
-    printf("A?源껎닋\n");
+    printf("A등급\n");
 } else if (score >= 80) {
-    printf("B?源껎닋\n");
+    printf("B등급\n");
 } else if (score >= 70) {
-    printf("C?源껎닋\n");
+    printf("C등급\n");
 } else {
-    printf("F?源껎닋\n");
+    printf("F등급\n");
 }
 ```
 
-## 餓λ쵐爰?if ??
+## 중첩 if 문
 
-if ????됰퓠 ????삘뀲 if ?얜챷???????????됰뮸??덈뼄:
+if 문 안에 또 다른 if 문을 사용할 수 있습니다:
 
 ```c
 int age = 25;
@@ -76,79 +76,79 @@ bool hasLicense = true;
 
 if (age >= 18) {
     if (hasLicense) {
-        printf("??곸읈 揶쎛?館鍮??덈뼄.\n");
+        printf("운전 가능합니다.\n");
     } else {
-        printf("筌롫똾肉揶쎛 ?袁⑹뒄??몃빍??\n");
+        printf("면허가 필요합니다.\n");
     }
 } else {
-    printf("沃섎챷苑?袁⑹쁽??낅빍??\n");
+    printf("미성년자입니다.\n");
 }
 ```
 
-## ??노퉮 ?怨쀪텦??
+## 삼항 연산자
 
-揶쏄쑬???鈺곌퀗援붻눧紐꾩뱽 ??餓κ쑬以??臾믨쉐??????됰뮸??덈뼄:
+간단한 조건문을 한 줄로 작성할 수 있습니다:
 
 ```c
 int a = 10, b = 5;
-int max = (a > b) ? a : b;  // a揶쎛 ????a, ?袁⑤빍筌?b
-printf("??揶? %d\n", max);
+int max = (a > b) ? a : b;  // a가 크면 a, 아니면 b
+printf("큰 값: %d\n", max);
 ```
 
-## switch ??
+## switch 문
 
-????野껋럩??餓???롪돌???醫뤾문?????????몃빍??
+여러 경우 중 하나를 선택할 때 사용합니다:
 
-### 疫꿸퀡???類ㅻ뻼
+### 기본 형식
 
 ```c
-switch (癰궰?? {
-    case 揶?:
-        // 揶???????쎈뻬
+switch (변수) {
+    case 값1:
+        // 값1일 때 실행
         break;
-    case 揶?:
-        // 揶???????쎈뻬
+    case 값2:
+        // 값2일 때 실행
         break;
     default:
-        // ?袁⑹벥 野껋럩??첎? ?袁⑤빜 ????쎈뻬
+        // 위의 경우가 아닐 때 실행
         break;
 }
 ```
 
-### ??됰뻻
+### 예시
 
 ```c
 int day = 3;
 
 switch (day) {
     case 1:
-        printf("?遺우뒄??n");
+        printf("월요일\n");
         break;
     case 2:
-        printf("?遺우뒄??n");
+        printf("화요일\n");
         break;
     case 3:
-        printf("??륁뒄??n");
+        printf("수요일\n");
         break;
     case 4:
-        printf("筌뤴뫗???n");
+        printf("목요일\n");
         break;
     case 5:
-        printf("疫뀀뜆???n");
+        printf("금요일\n");
         break;
     default:
-        printf("雅뚯눖彛?n");
+        printf("주말\n");
         break;
 }
 ```
 
-**雅뚯눘???鍮?**
-- `break`????눖???겹늺 ??쇱벉 case????쎈뻬??몃빍??(fall-through)
-- `default`???醫뤾문??鍮??낅빍??
+**주의사항:**
+- `break`를 빼먹으면 다음 case도 실행됩니다 (fall-through)
+- `default`는 선택사항입니다
 
-## switch ?얜챷??fall-through ??뽰뒠
+## switch 문의 fall-through 활용
 
-??롫즲?怨몄몵嚥?break????몄셽??????됰뮸??덈뼄:
+의도적으로 break를 생략할 수 있습니다:
 
 ```c
 int month = 2;
@@ -157,55 +157,55 @@ switch (month) {
     case 12:
     case 1:
     case 2:
-        printf("野꺿뫁??n");
+        printf("겨울\n");
         break;
     case 3:
     case 4:
     case 5:
-        printf("??n");
+        printf("봄\n");
         break;
     case 6:
     case 7:
     case 8:
-        printf("??已?n");
+        printf("여름\n");
         break;
     case 9:
     case 10:
     case 11:
-        printf("揶쎛??n");
+        printf("가을\n");
         break;
 }
 ```
 
-## ??쇱읈 ??됱젫: ?源놁읅 ?④쑴沅쎿묾?
+## 실전 예제: 성적 계산기
 
 ```c
 #include <stdio.h>
 
 int main() {
     int score;
-    printf("?癒?땾????낆젾??뤾쉭?? ");
+    printf("점수를 입력하세요: ");
     scanf("%d", &score);
     
     if (score < 0 || score > 100) {
-        printf("??롢걵???癒?땾??낅빍??\n");
+        printf("잘못된 점수입니다.\n");
     } else if (score >= 90) {
-        printf("A?源껎닋??낅빍??\n");
+        printf("A등급입니다.\n");
     } else if (score >= 80) {
-        printf("B?源껎닋??낅빍??\n");
+        printf("B등급입니다.\n");
     } else if (score >= 70) {
-        printf("C?源껎닋??낅빍??\n");
+        printf("C등급입니다.\n");
     } else if (score >= 60) {
-        printf("D?源껎닋??낅빍??\n");
+        printf("D등급입니다.\n");
     } else {
-        printf("F?源껎닋??낅빍??\n");
+        printf("F등급입니다.\n");
     }
     
     return 0;
 }
 ```
 
-## ??쇱읈 ??됱젫: ?④쑴沅쎿묾?
+## 실전 예제: 계산기
 
 ```c
 #include <stdio.h>
@@ -214,10 +214,10 @@ int main() {
     char operator;
     double num1, num2, result;
     
-    printf("?怨쀪텦?癒? ??낆젾??뤾쉭??(+, -, *, /): ");
+    printf("연산자를 입력하세요 (+, -, *, /): ");
     scanf(" %c", &operator);
     
-    printf("????ъ쁽????낆젾??뤾쉭?? ");
+    printf("두 숫자를 입력하세요: ");
     scanf("%lf %lf", &num1, &num2);
     
     switch (operator) {
@@ -234,12 +234,12 @@ int main() {
             if (num2 != 0) {
                 result = num1 / num2;
             } else {
-                printf("0??곗쨮 ??롫땭 ????곷뮸??덈뼄.\n");
+                printf("0으로 나눌 수 없습니다.\n");
                 return 1;
             }
             break;
         default:
-            printf("??롢걵???怨쀪텦?癒?뿯??덈뼄.\n");
+            printf("잘못된 연산자입니다.\n");
             return 1;
     }
     
@@ -248,12 +248,12 @@ int main() {
 }
 ```
 
-## if vs switch ?紐꾩젫 ????醫됲돱?
+## if vs switch 언제 사용할까?
 
-- **if ??*: 甕곕뗄??野꺜?? 癰귣벊???鈺곌퀗援? ?봔????쀬겱??
-- **switch ??*: ?類μ넇??揶???쑨?? ????野껋럩??餓??醫뤾문
+- **if 문**: 범위 검사, 복잡한 조건, 부울 표현식
+- **switch 문**: 정확한 값 비교, 여러 경우 중 선택
 
-## ??쇱벉???⑤벉?????곸뒠
+## 다음에 공부할 내용
 
-??쇱벉 ????紐꾨퓠??뺣뮉 獄쏆꼶?ц눧?for, while)???????⑤벉????ュ칰醫롫뮸??덈뼄.
+다음 포스트에서는 반복문(for, while)에 대해 공부해보겠습니다.
 

@@ -1,52 +1,52 @@
 ---
 layout: post
-title: "怨좉툒 ?먮즺援ъ“? ?뚭퀬由ъ쬁: ?ㅼ쟾 ?쒖뒪??援ы쁽"
-date:   2025-01-22 09:00:00 +0900
-categories: ["IT", "?뚭퀬由ъ쬁"]
-tags: ["?뚭퀬由ъ쬁", "?먮즺援ъ“", "?댁떆?뚯씠釉? ?? B?몃━", "怨좉툒?뺣젹"]
-description: "?ㅼ쟾 ?쒖뒪?쒖뿉???ъ슜?섎뒗 怨좉툒 ?먮즺援ъ“? ?뚭퀬由ъ쬁?ㅼ쓣 諛곗썎?덈떎."
+title:  "고급 자료구조와 알고리즘: 실전 시스템 구현"
+date:   2025-02-20 09:00:00 +0900
+categories: [IT, 알고리즘]
+tags: [알고리즘, 자료구조, 해시테이블, 힙, B트리, 고급정렬]
+description: "실전 시스템에서 사용되는 고급 자료구조와 알고리즘들을 배웁니다."
 ---
 
-# 怨좉툒 ?먮즺援ъ“? ?뚭퀬由ъ쬁: ?ㅼ쟾 ?쒖뒪??援ы쁽
+# 고급 자료구조와 알고리즘: 실전 시스템 구현
 
-吏湲덇퉴吏 湲곕낯?곸씤 ?뚭퀬由ъ쬁?ㅼ쓣 諛곗썱?듬땲?? ?댁젣 ?ㅼ쟾 ?쒖뒪?쒖뿉???ㅼ젣濡??ъ슜?섎뒗 怨좉툒 ?먮즺援ъ“? ?뚭퀬由ъ쬁?ㅼ쓣 ?뚯븘蹂닿쿋?듬땲?? ?곗씠?곕쿋?댁뒪, ?뚯씪 ?쒖뒪?? 寃???붿쭊 ?깆뿉???듭떖?곸쑝濡??ъ슜?섎뒗 湲곗닠?ㅼ엯?덈떎.
+지금까지 기본적인 알고리즘들을 배웠습니다. 이제 실전 시스템에서 실제로 사용되는 고급 자료구조와 알고리즘들을 알아보겠습니다. 데이터베이스, 파일 시스템, 검색 엔진 등에서 핵심적으로 사용되는 기술들입니다.
 
-## 1. ?댁떆 ?뚯씠釉?(Hash Table)
+## 1. 해시 테이블 (Hash Table)
 
-### ?댁떆 ?⑥닔???먮━
-?ㅻ? 怨좎젙???ш린??媛믪쑝濡?留ㅽ븨?섎뒗 ?⑥닔?낅땲??
+### 해시 함수의 원리
+키를 고정된 크기의 값으로 매핑하는 함수입니다.
 
 ```python
 def simple_hash(key, table_size):
-    """媛꾨떒???댁떆 ?⑥닔 ?덉떆"""
+    """간단한 해시 함수 예시"""
     return sum(ord(char) for char in str(key)) % table_size
 
 print(simple_hash("hello", 10))  # 2
 print(simple_hash("world", 10))  # 1
 ```
 
-### 異⑸룎 ?닿껐 湲곕쾿
+### 충돌 해결 기법
 
-#### 1. 泥댁씠??(Chaining)
+#### 1. 체이닝 (Chaining)
 ```python
 class HashTableChaining:
-    """泥댁씠??諛⑹떇 ?댁떆 ?뚯씠釉?""
+    """체이닝 방식 해시 테이블"""
 
     def __init__(self, size):
         self.size = size
-        self.table = [[] for _ in range(size)]  # 由ъ뒪?몄쓽 由ъ뒪??
+        self.table = [[] for _ in range(size)]  # 리스트의 리스트
 
     def _hash(self, key):
         return hash(key) % self.size
 
     def insert(self, key, value):
         index = self._hash(key)
-        # 湲곗〈 ?ㅺ? ?덉쑝硫??낅뜲?댄듃
+        # 기존 키가 있으면 업데이트
         for i, (k, v) in enumerate(self.table[index]):
             if k == key:
                 self.table[index][i] = (key, value)
                 return
-        # ???ㅻ㈃ 異붽?
+        # 새 키면 추가
         self.table[index].append((key, value))
 
     def get(self, key):
@@ -64,7 +64,7 @@ class HashTableChaining:
                 return True
         return False
 
-# ?뚯뒪??
+# 테스트
 ht = HashTableChaining(10)
 ht.insert("apple", 5)
 ht.insert("banana", 7)
@@ -72,21 +72,21 @@ print(ht.get("apple"))   # 5
 print(ht.get("banana"))  # 7
 ```
 
-#### 2. 媛쒕갑 二쇱냼踰?(Open Addressing)
+#### 2. 개방 주소법 (Open Addressing)
 ```python
 class HashTableOpenAddressing:
-    """?좏삎 ?먯궗 諛⑹떇 ?댁떆 ?뚯씠釉?""
+    """선형 탐사 방식 해시 테이블"""
 
     def __init__(self, size):
         self.size = size
         self.table = [None] * size
-        self.deleted = object()  # ??젣 ?쒖떆??
+        self.deleted = object()  # 삭제 표시용
 
     def _hash(self, key):
         return hash(key) % self.size
 
     def _probe(self, index, i):
-        """?좏삎 ?먯궗"""
+        """선형 탐사"""
         return (index + i) % self.size
 
     def insert(self, key, value):
@@ -104,7 +104,7 @@ class HashTableOpenAddressing:
                 self.table[probe_index] = (key, value)
                 return True
 
-        return False  # ?뚯씠釉붿씠 媛??李?
+        return False  # 테이블이 가득 참
 
     def get(self, key):
         index = self._hash(key)
@@ -121,107 +121,107 @@ class HashTableOpenAddressing:
 
         return None
 
-# ?뚯뒪??
+# 테스트
 ht = HashTableOpenAddressing(10)
 ht.insert("apple", 5)
 ht.insert("banana", 7)
 print(ht.get("apple"))   # 5
 ```
 
-### ?댁떆 ?⑥닔 ?ㅺ퀎
+### 해시 함수 설계
 ```python
 def djb2_hash(key):
-    """DJB2 ?댁떆 ?⑥닔"""
+    """DJB2 해시 함수"""
     hash_value = 5381
     for char in str(key):
         hash_value = ((hash_value << 5) + hash_value) + ord(char)
     return hash_value
 
 def sdbm_hash(key):
-    """SDBM ?댁떆 ?⑥닔"""
+    """SDBM 해시 함수"""
     hash_value = 0
     for char in str(key):
         hash_value = ord(char) + (hash_value << 6) + (hash_value << 16) - hash_value
     return hash_value
 
 def combined_hash(key, table_size):
-    """?ㅼ쨷 ?댁떆 ?⑥닔 寃고빀"""
+    """다중 해시 함수 결합"""
     h1 = djb2_hash(key)
     h2 = sdbm_hash(key)
     return (h1 + h2) % table_size
 ```
 
-## 2. ??(Heap)怨??곗꽑?쒖쐞 ??
+## 2. 힙 (Heap)과 우선순위 큐
 
-### ?숈쓽 ?띿꽦
-- **?꾩쟾 ?댁쭊 ?몃━**: 留덉?留??덈꺼???쒖쇅?섍퀬 紐⑤뱺 ?덈꺼??媛??李??덉쓬
-- **???띿꽦**: 遺紐??몃뱶媛 ?먯떇 ?몃뱶蹂대떎 ?ш굅???묒쓬 (理쒕???理쒖냼??
+### 힙의 속성
+- **완전 이진 트리**: 마지막 레벨을 제외하고 모든 레벨이 가득 차 있음
+- **힙 속성**: 부모 노드가 자식 노드보다 크거나 작음 (최대힙/최소힙)
 
-### ???뺣젹 援ы쁽
+### 힙 정렬 구현
 ```python
 def heapify(arr, n, i):
-    """???띿꽦 ?좎?"""
+    """힙 속성 유지"""
     largest = i
     left = 2 * i + 1
     right = 2 * i + 2
 
-    # ?쇱そ ?먯떇??????寃쎌슦
+    # 왼쪽 자식이 더 큰 경우
     if left < n and arr[left] > arr[largest]:
         largest = left
 
-    # ?ㅻⅨ履??먯떇??????寃쎌슦
+    # 오른쪽 자식이 더 큰 경우
     if right < n and arr[right] > arr[largest]:
         largest = right
 
-    # largest媛 猷⑦듃媛 ?꾨땶 寃쎌슦 援먰솚
+    # largest가 루트가 아닌 경우 교환
     if largest != i:
         arr[i], arr[largest] = arr[largest], arr[i]
         heapify(arr, n, largest)
 
 def heap_sort(arr):
-    """???뺣젹"""
+    """힙 정렬"""
     n = len(arr)
 
-    # 理쒕? ??援ъ꽦
+    # 최대 힙 구성
     for i in range(n // 2 - 1, -1, -1):
         heapify(arr, n, i)
 
-    # ?숈뿉???붿냼瑜??섎굹??異붿텧
+    # 힙에서 요소를 하나씩 추출
     for i in range(n - 1, 0, -1):
-        arr[i], arr[0] = arr[0], arr[i]  # 理쒕?媛믪쓣 ?앹쑝濡??대룞
-        heapify(arr, i, 0)  # ???띿꽦 蹂듭썝
+        arr[i], arr[0] = arr[0], arr[i]  # 최대값을 끝으로 이동
+        heapify(arr, i, 0)  # 힙 속성 복원
 
-# ?뚯뒪??
+# 테스트
 arr = [12, 11, 13, 5, 6, 7]
 heap_sort(arr)
-print("???뺣젹 寃곌낵:", arr)
+print("힙 정렬 결과:", arr)
 ```
 
-### ?곗꽑?쒖쐞 ??援ы쁽
+### 우선순위 큐 구현
 ```python
 import heapq
 
 class PriorityQueue:
-    """理쒖냼 ??湲곕컲 ?곗꽑?쒖쐞 ??""
+    """최소 힙 기반 우선순위 큐"""
 
     def __init__(self):
         self.heap = []
         self.entry_count = 0
 
     def push(self, priority, item):
-        """??ぉ ?쎌엯"""
+        """항목 삽입"""
         entry = (priority, self.entry_count, item)
         heapq.heappush(self.heap, entry)
         self.entry_count += 1
 
     def pop(self):
-        """理쒖냼 ?곗꽑?쒖쐞 ??ぉ 異붿텧"""
+        """최소 우선순위 항목 추출"""
         if self.heap:
             return heapq.heappop(self.heap)[2]
         return None
 
     def peek(self):
-        """理쒖냼 ?곗꽑?쒖쐞 ??ぉ ?뺤씤"""
+        """최소 우선순위 항목 확인"""
         if self.heap:
             return self.heap[0][2]
         return None
@@ -229,26 +229,26 @@ class PriorityQueue:
     def is_empty(self):
         return len(self.heap) == 0
 
-# ?뚯뒪??
+# 테스트
 pq = PriorityQueue()
 pq.push(3, "low")
 pq.push(1, "high")
 pq.push(2, "medium")
 
-print(pq.pop())  # "high" (?곗꽑?쒖쐞 1)
-print(pq.pop())  # "medium" (?곗꽑?쒖쐞 2)
+print(pq.pop())  # "high" (우선순위 1)
+print(pq.pop())  # "medium" (우선순위 2)
 ```
 
-## 3. B-?몃━? ?곗씠?곕쿋?댁뒪 ?몃뜳??
+## 3. B-트리와 데이터베이스 인덱싱
 
-### B-?몃━??援ъ“
-- **洹좏삎 ?≫엺 ?ㅼ쭊 ?몃━**: 紐⑤뱺 由ы봽 ?몃뱶媛 媛숈? ?덈꺼???덉쓬
-- **李⑥닔(Order)**: ?몃뱶媛 媛吏????덈뒗 理쒕? ?먯떇 ??
-- **??遺꾨같**: 媛??몃뱶媛 ?щ윭 媛쒖쓽 ?ㅻ? 媛吏?
+### B-트리의 구조
+- **균형 잡힌 다진 트리**: 모든 리프 노드가 같은 레벨에 있음
+- **차수(Order)**: 노드가 가질 수 있는 최대 자식 수
+- **키 분배**: 각 노드가 여러 개의 키를 가짐
 
 ```python
 class BTreeNode:
-    """B-?몃━ ?몃뱶"""
+    """B-트리 노드"""
 
     def __init__(self, leaf=False):
         self.leaf = leaf
@@ -256,14 +256,14 @@ class BTreeNode:
         self.children = []
 
 class BTree:
-    """媛꾨떒??B-?몃━ 援ы쁽 (李⑥닔 t=2)"""
+    """간단한 B-트리 구현 (차수 t=2)"""
 
     def __init__(self, t=2):
         self.root = BTreeNode(True)
-        self.t = t  # 理쒖냼 李⑥닔
+        self.t = t  # 최소 차수
 
     def search(self, key, node=None):
-        """??寃??""
+        """키 검색"""
         if node is None:
             node = self.root
 
@@ -280,11 +280,11 @@ class BTree:
         return self.search(key, node.children[i])
 
     def insert(self, key):
-        """???쎌엯"""
+        """키 삽입"""
         root = self.root
 
         if len(root.keys) == 2 * self.t - 1:
-            # 猷⑦듃媛 媛??李?寃쎌슦 遺꾪븷
+            # 루트가 가득 찬 경우 분할
             new_root = BTreeNode(False)
             new_root.children.append(self.root)
             self._split_child(new_root, 0)
@@ -293,18 +293,18 @@ class BTree:
         self._insert_non_full(self.root, key)
 
     def _insert_non_full(self, node, key):
-        """媛??李⑥? ?딆? ?몃뱶?????쎌엯"""
+        """가득 차지 않은 노드에 키 삽입"""
         i = len(node.keys) - 1
 
         if node.leaf:
-            # 由ы봽 ?몃뱶???쎌엯
+            # 리프 노드에 삽입
             node.keys.append(None)
             while i >= 0 and key < node.keys[i]:
                 node.keys[i + 1] = node.keys[i]
                 i -= 1
             node.keys[i + 1] = key
         else:
-            # ?대? ?몃뱶 泥섎━
+            # 내부 노드 처리
             while i >= 0 and key < node.keys[i]:
                 i -= 1
             i += 1
@@ -317,12 +317,12 @@ class BTree:
             self._insert_non_full(node.children[i], key)
 
     def _split_child(self, parent, i):
-        """?먯떇 ?몃뱶 遺꾪븷"""
+        """자식 노드 분할"""
         t = self.t
         y = parent.children[i]
         z = BTreeNode(y.leaf)
 
-        # ?덈줈???몃뱶?????대룞
+        # 새로운 노드에 키 이동
         parent.children.insert(i + 1, z)
         parent.keys.insert(i, y.keys[t - 1])
 
@@ -333,77 +333,77 @@ class BTree:
             z.children = y.children[t: 2 * t]
             y.children = y.children[0: t]
 
-# ?뚯뒪??
+# 테스트
 btree = BTree(t=2)
 for key in [10, 20, 5, 6, 12, 30, 7, 17]:
     btree.insert(key)
 
-print("B-?몃━?먯꽌 12 寃??", btree.search(12))  # True
-print("B-?몃━?먯꽌 15 寃??", btree.search(15))  # False
+print("B-트리에서 12 검색:", btree.search(12))  # True
+print("B-트리에서 15 검색:", btree.search(15))  # False
 ```
 
-### ?곗씠?곕쿋?댁뒪 ?몃뜳??
-- **B-?몃━ ?몃뜳??*: 踰붿쐞 荑쇰━???⑥쑉??
-- **?댁떆 ?몃뜳??*: ?깃? 荑쇰━???⑥쑉??
-- **鍮꾪듃留??몃뜳??*: ?移대뵒?먮━??而щ읆???⑥쑉??
+### 데이터베이스 인덱싱
+- **B-트리 인덱스**: 범위 쿼리에 효율적
+- **해시 인덱스**: 등가 쿼리에 효율적
+- **비트맵 인덱스**: 저카디널리티 컬럼에 효율적
 
-## 4. 怨좉툒 ?뺣젹 ?뚭퀬由ъ쬁
+## 4. 고급 정렬 알고리즘
 
-### 怨꾩닔 ?뺣젹 (Counting Sort)
+### 계수 정렬 (Counting Sort)
 ```python
 def counting_sort(arr):
-    """怨꾩닔 ?뺣젹 (踰붿쐞媛 ?쒗븳???뺤닔???⑥쑉??"""
+    """계수 정렬 (범위가 제한된 정수에 효율적)"""
     if not arr:
         return arr
 
-    # 踰붿쐞 ?뚯븙
+    # 범위 파악
     max_val = max(arr)
     min_val = min(arr)
     range_val = max_val - min_val + 1
 
-    # 怨꾩닔 諛곗뿴 ?앹꽦
+    # 계수 배열 생성
     count = [0] * range_val
     output = [0] * len(arr)
 
-    # 鍮덈룄 怨꾩궛
+    # 빈도 계산
     for num in arr:
         count[num - min_val] += 1
 
-    # ?꾩쟻 ??怨꾩궛
+    # 누적 합 계산
     for i in range(1, len(count)):
         count[i] += count[i - 1]
 
-    # ?뺣젹??諛곗뿴 ?앹꽦
+    # 정렬된 배열 생성
     for num in reversed(arr):
         output[count[num - min_val] - 1] = num
         count[num - min_val] -= 1
 
     return output
 
-# ?뚯뒪??
+# 테스트
 arr = [4, 2, 2, 8, 3, 3, 1]
 sorted_arr = counting_sort(arr)
-print("怨꾩닔 ?뺣젹 寃곌낵:", sorted_arr)
+print("계수 정렬 결과:", sorted_arr)
 ```
 
-### 湲곗닔 ?뺣젹 (Radix Sort)
+### 기수 정렬 (Radix Sort)
 ```python
 def counting_sort_by_digit(arr, exp):
-    """?먮┸?섎퀎 怨꾩닔 ?뺣젹"""
+    """자릿수별 계수 정렬"""
     n = len(arr)
     output = [0] * n
     count = [0] * 10
 
-    # ?꾩옱 ?먮┸??鍮덈룄 怨꾩궛
+    # 현재 자릿수 빈도 계산
     for num in arr:
         digit = (num // exp) % 10
         count[digit] += 1
 
-    # ?꾩쟻 ??怨꾩궛
+    # 누적 합 계산
     for i in range(1, 10):
         count[i] += count[i - 1]
 
-    # ?뺣젹
+    # 정렬
     for i in range(n - 1, -1, -1):
         digit = (arr[i] // exp) % 10
         output[count[digit] - 1] = arr[i]
@@ -412,14 +412,14 @@ def counting_sort_by_digit(arr, exp):
     return output
 
 def radix_sort(arr):
-    """湲곗닔 ?뺣젹"""
+    """기수 정렬"""
     if not arr:
         return arr
 
-    # 理쒕?媛?李얘린
+    # 최대값 찾기
     max_val = max(arr)
 
-    # 媛??먮┸?섎퀎 ?뺣젹
+    # 각 자릿수별 정렬
     exp = 1
     while max_val // exp > 0:
         arr = counting_sort_by_digit(arr, exp)
@@ -427,18 +427,18 @@ def radix_sort(arr):
 
     return arr
 
-# ?뚯뒪??
+# 테스트
 arr = [170, 45, 75, 90, 802, 24, 2, 66]
 sorted_arr = radix_sort(arr)
-print("湲곗닔 ?뺣젹 寃곌낵:", sorted_arr)
+print("기수 정렬 결과:", sorted_arr)
 ```
 
-## 5. 怨좉툒 ?몃━ 援ъ“
+## 5. 고급 트리 구조
 
-### AVL ?몃━ (洹좏삎 ?댁쭊 ?먯깋 ?몃━)
+### AVL 트리 (균형 이진 탐색 트리)
 ```python
 class AVLNode:
-    """AVL ?몃━ ?몃뱶"""
+    """AVL 트리 노드"""
 
     def __init__(self, key):
         self.key = key
@@ -447,7 +447,7 @@ class AVLNode:
         self.height = 1
 
 class AVLTree:
-    """AVL ?몃━ 援ы쁽"""
+    """AVL 트리 구현"""
 
     def get_height(self, node):
         return node.height if node else 0
@@ -458,7 +458,7 @@ class AVLTree:
         return self.get_height(node.left) - self.get_height(node.right)
 
     def rotate_right(self, y):
-        """?ㅻⅨ履??뚯쟾"""
+        """오른쪽 회전"""
         x = y.left
         T2 = x.right
 
@@ -471,7 +471,7 @@ class AVLTree:
         return x
 
     def rotate_left(self, x):
-        """?쇱そ ?뚯쟾"""
+        """왼쪽 회전"""
         y = x.right
         T2 = y.left
 
@@ -484,7 +484,7 @@ class AVLTree:
         return y
 
     def insert(self, root, key):
-        """AVL ?몃━???몃뱶 ?쎌엯"""
+        """AVL 트리에 노드 삽입"""
         if not root:
             return AVLNode(key)
 
@@ -497,7 +497,7 @@ class AVLTree:
 
         balance = self.get_balance(root)
 
-        # 遺덇퇏??泥섎━
+        # 불균형 처리
         if balance > 1 and key < root.left.key:  # LL
             return self.rotate_right(root)
 
@@ -514,21 +514,21 @@ class AVLTree:
 
         return root
 
-# ?뚯뒪??
+# 테스트
 avl = AVLTree()
 root = None
 for key in [10, 20, 30, 40, 50, 25]:
     root = avl.insert(root, key)
 ```
 
-## 6. ?ㅼ쟾 ?쒖뒪???곸슜
+## 6. 실전 시스템 적용
 
-### 硫붾え由?罹먯떆 (LRU Cache)
+### 메모리 캐시 (LRU Cache)
 ```python
 from collections import OrderedDict
 
 class LRUCache:
-    """Least Recently Used 罹먯떆"""
+    """Least Recently Used 캐시"""
 
     def __init__(self, capacity):
         self.cache = OrderedDict()
@@ -538,37 +538,37 @@ class LRUCache:
         if key not in self.cache:
             return -1
 
-        # 理쒓렐???ъ슜??寃껋쑝濡??대룞
+        # 최근에 사용된 것으로 이동
         self.cache.move_to_end(key)
         return self.cache[key]
 
     def put(self, key, value):
         if key in self.cache:
-            # 湲곗〈 媛??낅뜲?댄듃
+            # 기존 값 업데이트
             self.cache.move_to_end(key)
         else:
-            # ??媛?異붽?
+            # 새 값 추가
             if len(self.cache) >= self.capacity:
-                # 媛???ㅻ옒????ぉ ?쒓굅
+                # 가장 오래된 항목 제거
                 self.cache.popitem(last=False)
             self.cache[key] = value
             self.cache.move_to_end(key)
 
-# ?뚯뒪??
+# 테스트
 cache = LRUCache(2)
 cache.put(1, 1)
 cache.put(2, 2)
 print(cache.get(1))    # 1
-cache.put(3, 3)        # 2 ?쒓굅
-print(cache.get(2))    # -1 (?쒓굅??
+cache.put(3, 3)        # 2 제거
+print(cache.get(2))    # -1 (제거됨)
 ```
 
-### 釉붾８ ?꾪꽣 (Bloom Filter)
+### 블룸 필터 (Bloom Filter)
 ```python
 import hashlib
 
 class BloomFilter:
-    """釉붾８ ?꾪꽣 援ы쁽"""
+    """블룸 필터 구현"""
 
     def __init__(self, size, hash_count):
         self.size = size
@@ -576,7 +576,7 @@ class BloomFilter:
         self.bit_array = [0] * size
 
     def _hashes(self, item):
-        """?щ윭 ?댁떆 ?⑥닔 ?앹꽦"""
+        """여러 해시 함수 생성"""
         hashes = []
         for i in range(self.hash_count):
             hash_obj = hashlib.md5((str(item) + str(i)).encode())
@@ -585,67 +585,67 @@ class BloomFilter:
         return hashes
 
     def add(self, item):
-        """??ぉ 異붽?"""
+        """항목 추가"""
         for hash_val in self._hashes(item):
             self.bit_array[hash_val] = 1
 
     def check(self, item):
-        """??ぉ 議댁옱 ?щ? ?뺤씤 (嫄곗쭞 ?묒꽦 媛??"""
+        """항목 존재 여부 확인 (거짓 양성 가능)"""
         for hash_val in self._hashes(item):
             if self.bit_array[hash_val] == 0:
-                return False  # ?뺤떎???놁쓬
-        return True  # ?덉쓣 ???덉쓬
+                return False  # 확실히 없음
+        return True  # 있을 수 있음
 
-# ?뚯뒪??
+# 테스트
 bf = BloomFilter(100, 3)
 bf.add("apple")
 bf.add("banana")
 
-print("apple 議댁옱:", bf.check("apple"))      # True
-print("banana 議댁옱:", bf.check("banana"))    # True
-print("orange 議댁옱:", bf.check("orange"))    # False (嫄곗쭞 ?뚯꽦 ?놁쓬)
+print("apple 존재:", bf.check("apple"))      # True
+print("banana 존재:", bf.check("banana"))    # True
+print("orange 존재:", bf.check("orange"))    # False (거짓 음성 없음)
 ```
 
-## 7. ?깅뒫 遺꾩꽍怨?理쒖쟻??
+## 7. 성능 분석과 최적화
 
-### ?댁떆 ?뚯씠釉??깅뒫
-- **?됯퇏 ?쒓컙 蹂듭옟??*: O(1)
-- **理쒖븙 ?쒓컙 蹂듭옟??*: O(n) (異⑸룎???ы븳 寃쎌슦)
-- **?곸옱??*: 0.75 ?댄븯 ?좎? 沅뚯옣
+### 해시 테이블 성능
+- **평균 시간 복잡도**: O(1)
+- **최악 시간 복잡도**: O(n) (충돌이 심한 경우)
+- **적재율**: 0.75 이하 유지 권장
 
-### ?몃━ 援ъ“ ?깅뒫
-- **AVL ?몃━**: O(log n) 蹂댁옣
-- **B-?몃━**: ?붿뒪??I/O 理쒖쟻??
-- **?덈뱶-釉붾옓 ?몃━**: ?ㅼ쟾?먯꽌 留롮씠 ?ъ슜
+### 트리 구조 성능
+- **AVL 트리**: O(log n) 보장
+- **B-트리**: 디스크 I/O 최적화
+- **레드-블랙 트리**: 실전에서 많이 사용
 
-### 罹먯떆 ?꾨왂
-- **LRU**: 理쒓렐 ?ъ슜????ぉ ?좎?
-- **LFU**: ?먯＜ ?ъ슜????ぉ ?좎?
-- **ARC**: LRU? LFU???섏씠釉뚮━??
+### 캐시 전략
+- **LRU**: 최근 사용된 항목 유지
+- **LFU**: 자주 사용된 항목 유지
+- **ARC**: LRU와 LFU의 하이브리드
 
-## 8. ?곗뒿 臾몄젣
+## 8. 연습 문제
 
-1. ?댁떆 ?뚯씠釉붿뿉??異⑸룎??諛쒖깮?섎뒗 ?댁쑀? ?닿껐 諛⑸쾿???ㅻ챸?섏꽭??
+1. 해시 테이블에서 충돌이 발생하는 이유와 해결 방법을 설명하세요.
 
-2. ???뺣젹???쒓컙 蹂듭옟?꾨? 遺꾩꽍?섍퀬, ?ㅻⅨ ?뺣젹 ?뚭퀬由ъ쬁怨?鍮꾧탳?대낫?몄슂.
+2. 힙 정렬의 시간 복잡도를 분석하고, 다른 정렬 알고리즘과 비교해보세요.
 
-3. B-?몃━媛 ?곗씠?곕쿋?댁뒪 ?몃뜳?ㅻ줈 ?곹빀???댁쑀瑜??ㅻ챸?섏꽭??
+3. B-트리가 데이터베이스 인덱스로 적합한 이유를 설명하세요.
 
-4. 釉붾８ ?꾪꽣媛 "嫄곗쭞 ?묒꽦"???덉슜?섎뒗 ?댁쑀? ?μ젏???ㅻ챸?섏꽭??
+4. 블룸 필터가 "거짓 양성"을 허용하는 이유와 장점을 설명하세요.
 
-## 留덈Т由?
+## 마무리
 
-怨좉툒 ?먮즺援ъ“? ?뚭퀬由ъ쬁? ?ㅼ쟾 ?쒖뒪??媛쒕컻?먯꽌 ?듭떖?곸씤 ??븷???⑸땲?? ?곗씠?곕쿋?댁뒪, ?뚯씪 ?쒖뒪?? 寃???붿쭊, 罹먯떆 ?쒖뒪???깆뿉???꾩닔?곸쑝濡??ъ슜?⑸땲??
+고급 자료구조와 알고리즘은 실전 시스템 개발에서 핵심적인 역할을 합니다. 데이터베이스, 파일 시스템, 검색 엔진, 캐시 시스템 등에서 필수적으로 사용됩니다.
 
-**?듭떖 ?붿빟:**
-- ?댁떆 ?뚯씠釉? O(1) ?됯퇏 寃?? 異⑸룎 ?닿껐 湲곕쾿 ?꾩슂
-- ?? ?곗꽑?쒖쐞 ??援ы쁽, ???뺣젹???쒖슜
-- B-?몃━: 洹좏삎 ?≫엺 ?ㅼ쭊 ?몃━, ?곗씠?곕쿋?댁뒪 ?몃뜳?ㅼ뿉 理쒖쟻
-- 怨좉툒 ?뺣젹: 怨꾩닔 ?뺣젹, 湲곗닔 ?뺣젹 (?뱀젙 議곌굔?먯꽌 ?⑥쑉??
-- ?ㅼ쟾 ?곸슜: LRU 罹먯떆, 釉붾８ ?꾪꽣 ??
+**핵심 요약:**
+- 해시 테이블: O(1) 평균 검색, 충돌 해결 기법 필요
+- 힙: 우선순위 큐 구현, 힙 정렬에 활용
+- B-트리: 균형 잡힌 다진 트리, 데이터베이스 인덱스에 최적
+- 고급 정렬: 계수 정렬, 기수 정렬 (특정 조건에서 효율적)
+- 실전 적용: LRU 캐시, 블룸 필터 등
 
-?댁젣 ?뚭퀬由ъ쬁 而ㅻ━?섎읆???꾩꽦?섏뿀?듬땲?? ?럦
+이제 알고리즘 커리큘럼이 완성되었습니다! 🎉
 
-**異붽? ?숈뒿:** 媛??먮즺援ъ“???λ떒?먯쓣 ?댄빐?섍퀬, ?곹솴??留욊쾶 ?좏깮?섎뒗 ?λ젰??湲곕Ⅴ?몄슂. ?대줎怨??ㅼ쟾 援ы쁽??蹂묓뻾?섎뒗 寃껋씠 以묒슂?⑸땲?? ?룛截뤴슒
+**추가 학습:** 각 자료구조의 장단점을 이해하고, 상황에 맞게 선택하는 능력을 기르세요. 이론과 실전 구현을 병행하는 것이 중요합니다! 🏗️⚡
 
-?대줈??**?뚭퀬由ъ쬁 移댄뀒怨좊━**媛 ?꾩꽦?섏뿀?듬땲?? 珥?10?몄쓽 湲???묒꽦?덉뒿?덈떎! ?뱴??
+이로써 **알고리즘 카테고리**가 완성되었습니다. 총 10편의 글을 작성했습니다! 📚✨

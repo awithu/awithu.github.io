@@ -1,38 +1,38 @@
 ---
 layout: post
-title: "C?몄뼱 媛뺤쓽 9?? 臾몄옄??泥섎━"
-date:   2025-01-21 10:00:00 +0900
-categories: ["IT", "C?몄뼱 媛뺤쓽"]
-tags: ["C?몄뼱", "臾몄옄?? string", "臾몄옄諛곗뿴"]
+title:  "C언어 강의 9편: 문자열 처리"
+date:   2025-02-20 10:00:00 +0900
+categories: [IT, C언어 강의]
+tags: [C언어, 문자열, string, 문자배열]
 ---
 
-# C?몄뼱 媛뺤쓽 9?? 臾몄옄??泥섎━
+# C언어 강의 9편: 문자열 처리
 
-## 臾몄옄?댁씠??
+## 문자열이란?
 
-C?몄뼱?먯꽌 臾몄옄?댁? 臾몄옄 諛곗뿴濡??쒗쁽?⑸땲?? 臾몄옄?댁쓽 ?앹? ??臾몄옄(`\0`)濡??쒖떆?⑸땲??
+C언어에서 문자열은 문자 배열로 표현됩니다. 문자열의 끝은 널 문자(`\0`)로 표시됩니다.
 
-## 臾몄옄???좎뼵
+## 문자열 선언
 
-### 諛⑸쾿 1: 臾몄옄 諛곗뿴
+### 방법 1: 문자 배열
 
 ```c
 char str[20] = "Hello";
-// ?먮뒗
-char str[] = "Hello";  // ?ш린 ?먮룞 ?ㅼ젙 (6: 5臾몄옄 + ??臾몄옄)
+// 또는
+char str[] = "Hello";  // 크기 자동 설정 (6: 5문자 + 널 문자)
 ```
 
-### 諛⑸쾿 2: ?ъ씤??
+### 방법 2: 포인터
 
 ```c
 char *str = "Hello";
 ```
 
-**李⑥씠??**
-- 諛곗뿴: ?섏젙 媛??
-- ?ъ씤?? ?섏젙 遺덇???(臾몄옄??由ы꽣??
+**차이점:**
+- 배열: 수정 가능
+- 포인터: 수정 불가능 (문자열 리터럴)
 
-## 臾몄옄??珥덇린??
+## 문자열 초기화
 
 ```c
 char str1[10] = "Hello";
@@ -40,38 +40,38 @@ char str2[] = "World";
 char str3[10] = {'H', 'e', 'l', 'l', 'o', '\0'};
 ```
 
-## 臾몄옄???낅젰/異쒕젰
+## 문자열 입력/출력
 
-### printf? scanf ?ъ슜
+### printf와 scanf 사용
 
 ```c
 char name[50];
 
-printf("?대쫫???낅젰?섏꽭?? ");
-scanf("%s", name);  // 怨듬갚 ?꾧퉴吏留??낅젰??
-printf("?덈뀞?섏꽭?? %s??\n", name);
+printf("이름을 입력하세요: ");
+scanf("%s", name);  // 공백 전까지만 입력됨
+printf("안녕하세요, %s님!\n", name);
 ```
 
-### gets? puts ?ъ슜 (鍮꾩텛泥?
+### gets와 puts 사용 (비추천)
 
 ```c
 char str[100];
-gets(str);    // ??以??꾩껜 ?낅젰 (?꾪뿕!)
-puts(str);    // 異쒕젰 ??以꾨컮轅?
+gets(str);    // 한 줄 전체 입력 (위험!)
+puts(str);    // 출력 후 줄바꿈
 ```
 
-### fgets ?ъ슜 (沅뚯옣)
+### fgets 사용 (권장)
 
 ```c
 char str[100];
-printf("臾몄옄???낅젰: ");
-fgets(str, sizeof(str), stdin);  // ?덉쟾???낅젰
-printf("?낅젰??臾몄옄?? %s", str);
+printf("문자열 입력: ");
+fgets(str, sizeof(str), stdin);  // 안전한 입력
+printf("입력한 문자열: %s", str);
 ```
 
-## 臾몄옄??湲몄씠 援ы븯湲?
+## 문자열 길이 구하기
 
-### 吏곸젒 援ы쁽
+### 직접 구현
 
 ```c
 int stringLength(char *str) {
@@ -83,7 +83,7 @@ int stringLength(char *str) {
 }
 ```
 
-### strlen ?⑥닔 ?ъ슜
+### strlen 함수 사용
 
 ```c
 #include <string.h>
@@ -92,9 +92,9 @@ char str[] = "Hello";
 int len = strlen(str);  // 5
 ```
 
-## 臾몄옄??蹂듭궗
+## 문자열 복사
 
-### 吏곸젒 援ы쁽
+### 직접 구현
 
 ```c
 void stringCopy(char *dest, char *src) {
@@ -107,7 +107,7 @@ void stringCopy(char *dest, char *src) {
 }
 ```
 
-### strcpy ?⑥닔 ?ъ슜
+### strcpy 함수 사용
 
 ```c
 #include <string.h>
@@ -118,18 +118,18 @@ strcpy(dest, src);
 printf("%s\n", dest);  // Hello
 ```
 
-### strncpy ?ъ슜 (?덉쟾)
+### strncpy 사용 (안전)
 
 ```c
 char src[] = "Hello";
 char dest[20];
 strncpy(dest, src, sizeof(dest) - 1);
-dest[sizeof(dest) - 1] = '\0';  // ?덉쟾???꾪빐
+dest[sizeof(dest) - 1] = '\0';  // 안전을 위해
 ```
 
-## 臾몄옄???곌껐 (Concatenation)
+## 문자열 연결 (Concatenation)
 
-### 吏곸젒 援ы쁽
+### 직접 구현
 
 ```c
 void stringConcat(char *dest, char *src) {
@@ -143,7 +143,7 @@ void stringConcat(char *dest, char *src) {
 }
 ```
 
-### strcat ?⑥닔 ?ъ슜
+### strcat 함수 사용
 
 ```c
 #include <string.h>
@@ -154,7 +154,7 @@ strcat(str1, str2);
 printf("%s\n", str1);  // Hello World
 ```
 
-### strncat ?ъ슜 (?덉쟾)
+### strncat 사용 (안전)
 
 ```c
 char str1[20] = "Hello";
@@ -162,9 +162,9 @@ char str2[] = " World";
 strncat(str1, str2, sizeof(str1) - strlen(str1) - 1);
 ```
 
-## 臾몄옄??鍮꾧탳
+## 문자열 비교
 
-### 吏곸젒 援ы쁽
+### 직접 구현
 
 ```c
 int stringCompare(char *str1, char *str2) {
@@ -179,7 +179,7 @@ int stringCompare(char *str1, char *str2) {
 }
 ```
 
-### strcmp ?⑥닔 ?ъ슜
+### strcmp 함수 사용
 
 ```c
 #include <string.h>
@@ -189,22 +189,22 @@ char str2[] = "Hello";
 char str3[] = "World";
 
 if (strcmp(str1, str2) == 0) {
-    printf("媛숈뒿?덈떎.\n");
+    printf("같습니다.\n");
 }
 
 if (strcmp(str1, str3) < 0) {
-    printf("str1??str3蹂대떎 ?묒뒿?덈떎.\n");
+    printf("str1이 str3보다 작습니다.\n");
 }
 ```
 
-**諛섑솚媛?**
-- 0: ??臾몄옄?댁씠 媛숈쓬
-- ?묒닔: 泥?踰덉㎏ 臾몄옄?댁씠 ??
-- ?뚯닔: 泥?踰덉㎏ 臾몄옄?댁씠 ?묒쓬
+**반환값:**
+- 0: 두 문자열이 같음
+- 양수: 첫 번째 문자열이 큼
+- 음수: 첫 번째 문자열이 작음
 
-## 臾몄옄??寃??
+## 문자열 검색
 
-### strchr: 臾몄옄 寃??
+### strchr: 문자 검색
 
 ```c
 #include <string.h>
@@ -212,12 +212,12 @@ if (strcmp(str1, str3) < 0) {
 char str[] = "Hello World";
 char *result = strchr(str, 'o');
 if (result != NULL) {
-    printf("李얠? ?꾩튂: %s\n", result);  // o World
-    printf("?몃뜳?? %ld\n", result - str);  // 4
+    printf("찾은 위치: %s\n", result);  // o World
+    printf("인덱스: %ld\n", result - str);  // 4
 }
 ```
 
-### strstr: 臾몄옄??寃??
+### strstr: 문자열 검색
 
 ```c
 #include <string.h>
@@ -225,13 +225,13 @@ if (result != NULL) {
 char str[] = "Hello World";
 char *result = strstr(str, "World");
 if (result != NULL) {
-    printf("李얠? ?꾩튂: %s\n", result);  // World
+    printf("찾은 위치: %s\n", result);  // World
 }
 ```
 
-## 臾몄옄???좏겙??(Tokenization)
+## 문자열 토큰화 (Tokenization)
 
-### strtok ?⑥닔 ?ъ슜
+### strtok 함수 사용
 
 ```c
 #include <string.h>
@@ -245,7 +245,7 @@ while (part != NULL) {
 }
 ```
 
-異쒕젰:
+출력:
 ```
 Hello
 World
@@ -253,9 +253,9 @@ C
 Programming
 ```
 
-## 臾몄옄??蹂??
+## 문자열 변환
 
-### ?レ옄瑜?臾몄옄?대줈
+### 숫자를 문자열로
 
 ```c
 #include <stdio.h>
@@ -266,21 +266,21 @@ sprintf(str, "%d", num);
 printf("%s\n", str);  // 123
 ```
 
-### 臾몄옄?댁쓣 ?レ옄濡?
+### 문자열을 숫자로
 
 ```c
 #include <stdlib.h>
 
 char str[] = "123";
-int num = atoi(str);        // 臾몄옄?댁쓣 ?뺤닔濡?
-long lnum = atol(str);      // 臾몄옄?댁쓣 long?쇰줈
-double dnum = atof("3.14"); // 臾몄옄?댁쓣 ?ㅼ닔濡?
+int num = atoi(str);        // 문자열을 정수로
+long lnum = atol(str);      // 문자열을 long으로
+double dnum = atof("3.14"); // 문자열을 실수로
 
 printf("%d\n", num);   // 123
 printf("%.2f\n", dnum); // 3.14
 ```
 
-## ?ㅼ쟾 ?덉젣: 臾몄옄???ㅼ쭛湲?
+## 실전 예제: 문자열 뒤집기
 
 ```c
 #include <stdio.h>
@@ -308,7 +308,7 @@ int main() {
 }
 ```
 
-## ?ㅼ쟾 ?덉젣: ?⑥뼱 媛쒖닔 ?멸린
+## 실전 예제: 단어 개수 세기
 
 ```c
 #include <stdio.h>
@@ -333,12 +333,12 @@ int countWords(char *str) {
 
 int main() {
     char str[] = "Hello World C Programming";
-    printf("?⑥뼱 媛쒖닔: %d\n", countWords(str));  // 4
+    printf("단어 개수: %d\n", countWords(str));  // 4
     return 0;
 }
 ```
 
-## ?ㅼ쟾 ?덉젣: ?뚮Ц(Palindrome) ?뺤씤
+## 실전 예제: 회문(Palindrome) 확인
 
 ```c
 #include <stdio.h>
@@ -351,51 +351,51 @@ int isPalindrome(char *str) {
     int end = len - 1;
     
     while (start < end) {
-        // 怨듬갚怨???뚮Ц??臾댁떆
+        // 공백과 대소문자 무시
         while (isspace(str[start])) start++;
         while (isspace(str[end])) end--;
         
         if (tolower(str[start]) != tolower(str[end])) {
-            return 0;  // ?뚮Ц???꾨떂
+            return 0;  // 회문이 아님
         }
         start++;
         end--;
     }
     
-    return 1;  // ?뚮Ц??
+    return 1;  // 회문임
 }
 
 int main() {
     char str[] = "A man a plan a canal Panama";
     if (isPalindrome(str)) {
-        printf("?뚮Ц?낅땲??\n");
+        printf("회문입니다.\n");
     } else {
-        printf("?뚮Ц???꾨떃?덈떎.\n");
+        printf("회문이 아닙니다.\n");
     }
     return 0;
 }
 ```
 
-## 二쇱슂 臾몄옄???⑥닔 ?뺣━
+## 주요 문자열 함수 정리
 
-| ?⑥닔 | ?ㅻ챸 | ?ㅻ뜑 |
+| 함수 | 설명 | 헤더 |
 |------|------|------|
-| `strlen()` | 臾몄옄??湲몄씠 | `<string.h>` |
-| `strcpy()` | 臾몄옄??蹂듭궗 | `<string.h>` |
-| `strcat()` | 臾몄옄???곌껐 | `<string.h>` |
-| `strcmp()` | 臾몄옄??鍮꾧탳 | `<string.h>` |
-| `strchr()` | 臾몄옄 寃??| `<string.h>` |
-| `strstr()` | 臾몄옄??寃??| `<string.h>` |
-| `strtok()` | 臾몄옄???좏겙??| `<string.h>` |
+| `strlen()` | 문자열 길이 | `<string.h>` |
+| `strcpy()` | 문자열 복사 | `<string.h>` |
+| `strcat()` | 문자열 연결 | `<string.h>` |
+| `strcmp()` | 문자열 비교 | `<string.h>` |
+| `strchr()` | 문자 검색 | `<string.h>` |
+| `strstr()` | 문자열 검색 | `<string.h>` |
+| `strtok()` | 문자열 토큰화 | `<string.h>` |
 
-## 二쇱쓽?ы빆
+## 주의사항
 
-1. **諛곗뿴 ?ш린**: 異⑸텇???ш린瑜??좊떦?댁빞 ??
-2. **??臾몄옄**: 臾몄옄???앹뿉 `\0` ?꾩슂
-3. **踰꾪띁 ?ㅻ쾭?뚮줈??*: `strcpy`, `strcat` ?ъ슜 ??二쇱쓽
-4. **?덉쟾???⑥닔**: `strncpy`, `strncat` ?ъ슜 沅뚯옣
+1. **배열 크기**: 충분한 크기를 할당해야 함
+2. **널 문자**: 문자열 끝에 `\0` 필요
+3. **버퍼 오버플로우**: `strcpy`, `strcat` 사용 시 주의
+4. **안전한 함수**: `strncpy`, `strncat` 사용 권장
 
-## ?ㅼ쓬??怨듬????댁슜
+## 다음에 공부할 내용
 
-?ㅼ쓬 ?ъ뒪?몄뿉?쒕뒗 援ъ“泥댁뿉 ???怨듬??대낫寃좎뒿?덈떎.
+다음 포스트에서는 구조체에 대해 공부해보겠습니다.
 
