@@ -1,3 +1,5 @@
+# Build marker (forces GitHub Pages to rebuild)
+site_build: "2026-02-20T00:00:00+09:00"
 # Site Settings
 title: "IT 블로그"
 description: "IT 기술과 개발에 관한 블로그"
