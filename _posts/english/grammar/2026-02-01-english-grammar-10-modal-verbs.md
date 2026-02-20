@@ -1,265 +1,265 @@
 ---
 layout: post
-title:  "조동사 기초: can, should, must 완벽 정리"
-date:   2026-02-01 09:00:00 +0900
-categories: [영어, 문법 기초]
-tags: [영어, 문법, 조동사, can, should, must, modal verbs]
-description: "조동사의 개념과 can, should, must 등 주요 조동사의 사용법을 배우고 가능성, 의무, 허가를 표현하는 방법을 익힙니다."
+title:  "議곕룞??湲곗큹: can, should, must ?꾨꼍 ?뺣━"
+date:   2025-02-01 09:00:00 +0900
+categories: [?곸뼱, 臾몃쾿 湲곗큹]
+tags: [?곸뼱, 臾몃쾿, 議곕룞?? can, should, must, modal verbs]
+description: "議곕룞?ъ쓽 媛쒕뀗怨?can, should, must ??二쇱슂 議곕룞?ъ쓽 ?ъ슜踰뺤쓣 諛곗슦怨?媛?μ꽦, ?섎Т, ?덇?瑜??쒗쁽?섎뒗 諛⑸쾿???듯옓?덈떎."
 ---
 
-# 조동사 기초: can, should, must 완벽 정리
+# 議곕룞??湲곗큹: can, should, must ?꾨꼍 ?뺣━
 
-조동사(Modal Verb)는 **가능성, 의무, 허가, 추측** 등을 표현하는 특별한 동사입니다. can, should, must 등은 영어에서 매우 자주 사용되므로 정확히 이해하는 것이 중요합니다.
+議곕룞??Modal Verb)??**媛?μ꽦, ?섎Т, ?덇?, 異붿륫** ?깆쓣 ?쒗쁽?섎뒗 ?밸퀎???숈궗?낅땲?? can, should, must ?깆? ?곸뼱?먯꽌 留ㅼ슦 ?먯＜ ?ъ슜?섎?濡??뺥솗???댄빐?섎뒗 寃껋씠 以묒슂?⑸땲??
 
-## 1. 조동사란?
+## 1. 議곕룞?щ??
 
-조동사는 **본동사 앞에 붙어서** 의미를 추가하는 특별한 동사입니다.
+議곕룞?щ뒗 **蹂몃룞???욎뿉 遺숈뼱??* ?섎?瑜?異붽??섎뒗 ?밸퀎???숈궗?낅땲??
 
-### 조동사의 특징
-- 조동사 뒤에는 **항상 동사 원형**이 옵니다
-- 주어에 따라 형태가 변하지 않습니다 (3인칭 단수에도 -s 안 붙음)
-- 부정문은 조동사 뒤에 **not**을 붙입니다
-- 의문문은 조동사를 문장 앞으로 이동합니다
+### 議곕룞?ъ쓽 ?뱀쭠
+- 議곕룞???ㅼ뿉??**??긽 ?숈궗 ?먰삎**???듬땲??
+- 二쇱뼱???곕씪 ?뺥깭媛 蹂?섏? ?딆뒿?덈떎 (3?몄묶 ?⑥닔?먮룄 -s ??遺숈쓬)
+- 遺?뺣Ц? 議곕룞???ㅼ뿉 **not**??遺숈엯?덈떎
+- ?섎Ц臾몄? 議곕룞?щ? 臾몄옣 ?욎쑝濡??대룞?⑸땲??
 
-### 주요 조동사
-- **can** (할 수 있다)
-- **should** (해야 한다)
-- **must** (반드시 해야 한다)
-- **may** (할 수 있다, ~일 수도 있다)
-- **will** (할 것이다)
-- **would** (할 것이다 - 과거형 또는 정중한 표현)
+### 二쇱슂 議곕룞??
+- **can** (?????덈떎)
+- **should** (?댁빞 ?쒕떎)
+- **must** (諛섎뱶???댁빞 ?쒕떎)
+- **may** (?????덈떎, ~???섎룄 ?덈떎)
+- **will** (??寃껋씠??
+- **would** (??寃껋씠??- 怨쇨굅???먮뒗 ?뺤쨷???쒗쁽)
 
-## 2. can (할 수 있다)
+## 2. can (?????덈떎)
 
-### can의 의미
-- **능력**: ~할 수 있다
-- **가능성**: ~일 수 있다
-- **허가**: ~해도 된다 (구어체)
+### can???섎?
+- **?λ젰**: ~?????덈떎
+- **媛?μ꽦**: ~?????덈떎
+- **?덇?**: ~?대룄 ?쒕떎 (援ъ뼱泥?
 
-### can 사용법
-**주어 + can + 동사 원형**
+### can ?ъ슜踰?
+**二쇱뼱 + can + ?숈궗 ?먰삎**
 
-### can 예문
+### can ?덈Ц
 
-#### 능력 표현
-- I **can** speak English. (나는 영어를 말할 수 있다.)
-- She **can** play the piano. (그녀는 피아노를 칠 수 있다.)
-- They **can** swim. (그들은 수영할 수 있다.)
+#### ?λ젰 ?쒗쁽
+- I **can** speak English. (?섎뒗 ?곸뼱瑜?留먰븷 ???덈떎.)
+- She **can** play the piano. (洹몃????쇱븘?몃? 移????덈떎.)
+- They **can** swim. (洹몃뱾? ?섏쁺?????덈떎.)
 
-#### 가능성 표현
-- It **can** rain tomorrow. (내일 비가 올 수 있다.)
-- He **can** be at home. (그는 집에 있을 수 있다.)
+#### 媛?μ꽦 ?쒗쁽
+- It **can** rain tomorrow. (?댁씪 鍮꾧? ?????덈떎.)
+- He **can** be at home. (洹몃뒗 吏묒뿉 ?덉쓣 ???덈떎.)
 
-#### 허가 표현 (구어체)
-- You **can** go now. (너는 지금 가도 된다.)
-- **Can** I use your phone? (너의 전화기를 써도 될까?)
+#### ?덇? ?쒗쁽 (援ъ뼱泥?
+- You **can** go now. (?덈뒗 吏湲?媛???쒕떎.)
+- **Can** I use your phone? (?덉쓽 ?꾪솕湲곕? ?⑤룄 ?좉퉴?)
 
-### can의 부정문
+### can??遺?뺣Ц
 **can + not = cannot / can't**
 
-- I **cannot** speak French. (나는 프랑스어를 말할 수 없다.)
-- She **can't** drive. (그녀는 운전할 수 없다.)
-- They **can't** come today. (그들은 오늘 올 수 없다.)
+- I **cannot** speak French. (?섎뒗 ?꾨옉?ㅼ뼱瑜?留먰븷 ???녿떎.)
+- She **can't** drive. (洹몃????댁쟾?????녿떎.)
+- They **can't** come today. (洹몃뱾? ?ㅻ뒛 ?????녿떎.)
 
-### can의 의문문
-**Can + 주어 + 동사 원형?**
+### can???섎Ц臾?
+**Can + 二쇱뼱 + ?숈궗 ?먰삎?**
 
-- **Can** you speak English? (너는 영어를 말할 수 있니?)
-- **Can** she play the piano? (그녀는 피아노를 칠 수 있니?)
-- **Can** I help you? (도와드릴까요?)
+- **Can** you speak English? (?덈뒗 ?곸뼱瑜?留먰븷 ???덈땲?)
+- **Can** she play the piano? (洹몃????쇱븘?몃? 移????덈땲?)
+- **Can** I help you? (?꾩??쒕┫源뚯슂?)
 
-### can의 과거형: could
-- I **could** swim when I was young. (나는 어렸을 때 수영할 수 있었다.)
-- **Could** you help me? (도와주실 수 있나요?) - 정중한 표현
+### can??怨쇨굅?? could
+- I **could** swim when I was young. (?섎뒗 ?대졇?????섏쁺?????덉뿀??)
+- **Could** you help me? (?꾩?二쇱떎 ???덈굹??) - ?뺤쨷???쒗쁽
 
-## 3. should (해야 한다)
+## 3. should (?댁빞 ?쒕떎)
 
-### should의 의미
-- **의무/권고**: ~해야 한다
-- **충고**: ~하는 것이 좋다
-- **추측**: ~일 것이다
+### should???섎?
+- **?섎Т/沅뚭퀬**: ~?댁빞 ?쒕떎
+- **異⑷퀬**: ~?섎뒗 寃껋씠 醫뗫떎
+- **異붿륫**: ~??寃껋씠??
 
-### should 사용법
-**주어 + should + 동사 원형**
+### should ?ъ슜踰?
+**二쇱뼱 + should + ?숈궗 ?먰삎**
 
-### should 예문
+### should ?덈Ц
 
-#### 의무/권고 표현
-- You **should** study hard. (너는 열심히 공부해야 한다.)
-- She **should** see a doctor. (그녀는 의사를 봐야 한다.)
-- We **should** be careful. (우리는 조심해야 한다.)
+#### ?섎Т/沅뚭퀬 ?쒗쁽
+- You **should** study hard. (?덈뒗 ?댁떖??怨듬??댁빞 ?쒕떎.)
+- She **should** see a doctor. (洹몃????섏궗瑜?遊먯빞 ?쒕떎.)
+- We **should** be careful. (?곕━??議곗떖?댁빞 ?쒕떎.)
 
-#### 충고 표현
-- You **should** eat more vegetables. (너는 채소를 더 먹는 것이 좋다.)
-- He **should** get more sleep. (그는 더 많이 자는 것이 좋다.)
+#### 異⑷퀬 ?쒗쁽
+- You **should** eat more vegetables. (?덈뒗 梨꾩냼瑜???癒밸뒗 寃껋씠 醫뗫떎.)
+- He **should** get more sleep. (洹몃뒗 ??留롮씠 ?먮뒗 寃껋씠 醫뗫떎.)
 
-#### 추측 표현
-- She **should** be at home now. (그녀는 지금 집에 있을 것이다.)
-- They **should** arrive soon. (그들은 곧 도착할 것이다.)
+#### 異붿륫 ?쒗쁽
+- She **should** be at home now. (洹몃???吏湲?吏묒뿉 ?덉쓣 寃껋씠??)
+- They **should** arrive soon. (洹몃뱾? 怨??꾩갑??寃껋씠??)
 
-### should의 부정문
+### should??遺?뺣Ц
 **should + not = shouldn't**
 
-- You **should not** smoke. (너는 담배를 피우면 안 된다.)
-- She **shouldn't** be late. (그녀는 늦으면 안 된다.)
-- They **shouldn't** worry. (그들은 걱정하지 않아도 된다.)
+- You **should not** smoke. (?덈뒗 ?대같瑜??쇱슦硫????쒕떎.)
+- She **shouldn't** be late. (洹몃?????쑝硫????쒕떎.)
+- They **shouldn't** worry. (洹몃뱾? 嫄깆젙?섏? ?딆븘???쒕떎.)
 
-### should의 의문문
-**Should + 주어 + 동사 원형?**
+### should???섎Ц臾?
+**Should + 二쇱뼱 + ?숈궗 ?먰삎?**
 
-- **Should** I go now? (나는 지금 가야 하나요?)
-- **Should** we wait? (우리는 기다려야 하나요?)
-- **Should** she study more? (그녀는 더 공부해야 하나요?)
+- **Should** I go now? (?섎뒗 吏湲?媛???섎굹??)
+- **Should** we wait? (?곕━??湲곕떎?ㅼ빞 ?섎굹??)
+- **Should** she study more? (洹몃?????怨듬??댁빞 ?섎굹??)
 
-## 4. must (반드시 해야 한다)
+## 4. must (諛섎뱶???댁빞 ?쒕떎)
 
-### must의 의미
-- **강한 의무**: 반드시 ~해야 한다
-- **강한 추측**: 틀림없이 ~이다
+### must???섎?
+- **媛뺥븳 ?섎Т**: 諛섎뱶??~?댁빞 ?쒕떎
+- **媛뺥븳 異붿륫**: ?由쇱뾾??~?대떎
 
-### must 사용법
-**주어 + must + 동사 원형**
+### must ?ъ슜踰?
+**二쇱뼱 + must + ?숈궗 ?먰삎**
 
-### must 예문
+### must ?덈Ц
 
-#### 강한 의무 표현
-- You **must** study hard. (너는 반드시 열심히 공부해야 한다.)
-- She **must** finish her homework. (그녀는 반드시 숙제를 끝내야 한다.)
-- We **must** be on time. (우리는 반드시 시간을 지켜야 한다.)
+#### 媛뺥븳 ?섎Т ?쒗쁽
+- You **must** study hard. (?덈뒗 諛섎뱶???댁떖??怨듬??댁빞 ?쒕떎.)
+- She **must** finish her homework. (洹몃???諛섎뱶???숈젣瑜??앸궡???쒕떎.)
+- We **must** be on time. (?곕━??諛섎뱶???쒓컙??吏耳쒖빞 ?쒕떎.)
 
-#### 강한 추측 표현
-- He **must** be tired. (그는 틀림없이 피곤할 것이다.)
-- It **must** be true. (그것은 틀림없이 사실일 것이다.)
-- She **must** know the answer. (그녀는 틀림없이 답을 알고 있을 것이다.)
+#### 媛뺥븳 異붿륫 ?쒗쁽
+- He **must** be tired. (洹몃뒗 ?由쇱뾾???쇨낀??寃껋씠??)
+- It **must** be true. (洹멸쾬? ?由쇱뾾???ъ떎??寃껋씠??)
+- She **must** know the answer. (洹몃????由쇱뾾???듭쓣 ?뚭퀬 ?덉쓣 寃껋씠??)
 
-### must의 부정문
-**must + not = mustn't** (금지)
+### must??遺?뺣Ц
+**must + not = mustn't** (湲덉?)
 
-- You **must not** smoke here. (여기서는 담배를 피우면 안 된다.)
-- She **mustn't** be late. (그녀는 늦으면 안 된다.)
+- You **must not** smoke here. (?ш린?쒕뒗 ?대같瑜??쇱슦硫????쒕떎.)
+- She **mustn't** be late. (洹몃?????쑝硫????쒕떎.)
 
-**주의**: must not은 "~하면 안 된다"는 강한 금지의 의미입니다.
+**二쇱쓽**: must not? "~?섎㈃ ???쒕떎"??媛뺥븳 湲덉????섎??낅땲??
 
-### must의 의문문
-**Must + 주어 + 동사 원형?**
+### must???섎Ц臾?
+**Must + 二쇱뼱 + ?숈궗 ?먰삎?**
 
-- **Must** I go now? (나는 지금 가야 하나요?)
-- **Must** we finish this? (우리는 이것을 끝내야 하나요?)
+- **Must** I go now? (?섎뒗 吏湲?媛???섎굹??)
+- **Must** we finish this? (?곕━???닿쾬???앸궡???섎굹??)
 
-## 5. 조동사 비교표
+## 5. 議곕룞??鍮꾧탳??
 
-| 조동사 | 의미 | 강도 | 예문 |
+| 議곕룞??| ?섎? | 媛뺣룄 | ?덈Ц |
 |--------|------|------|------|
-| **can** | 할 수 있다 | 중간 | I can swim. |
-| **should** | 해야 한다 | 중간 | You should study. |
-| **must** | 반드시 해야 한다 | 강함 | You must finish. |
-| **may** | 할 수 있다, ~일 수도 있다 | 약함 | May I go? |
-| **will** | 할 것이다 | 확실함 | I will go. |
+| **can** | ?????덈떎 | 以묎컙 | I can swim. |
+| **should** | ?댁빞 ?쒕떎 | 以묎컙 | You should study. |
+| **must** | 諛섎뱶???댁빞 ?쒕떎 | 媛뺥븿 | You must finish. |
+| **may** | ?????덈떎, ~???섎룄 ?덈떎 | ?쏀븿 | May I go? |
+| **will** | ??寃껋씠??| ?뺤떎??| I will go. |
 
-## 6. 실전 연습
+## 6. ?ㅼ쟾 ?곗뒿
 
-### 연습 1: 조동사 선택하기
-다음 빈칸에 적절한 조동사를 넣으세요:
+### ?곗뒿 1: 議곕룞???좏깮?섍린
+?ㅼ쓬 鍮덉뭏???곸젅??議곕룞?щ? ?ｌ쑝?몄슂:
 
-1. I ___ speak English. (능력) → **can**
-2. You ___ study hard. (권고) → **should**
-3. You ___ finish your homework. (강한 의무) → **must**
+1. I ___ speak English. (?λ젰) ??**can**
+2. You ___ study hard. (沅뚭퀬) ??**should**
+3. You ___ finish your homework. (媛뺥븳 ?섎Т) ??**must**
 
-### 연습 2: 부정문 만들기
-다음 문장을 부정문으로 바꾸세요:
+### ?곗뒿 2: 遺?뺣Ц 留뚮뱾湲?
+?ㅼ쓬 臾몄옣??遺?뺣Ц?쇰줈 諛붽씀?몄슂:
 
-1. I can swim. → I **cannot** swim. / I **can't** swim.
-2. You should go. → You **should not** go. / You **shouldn't** go.
-3. She must finish. → She **must not** finish. / She **mustn't** finish.
+1. I can swim. ??I **cannot** swim. / I **can't** swim.
+2. You should go. ??You **should not** go. / You **shouldn't** go.
+3. She must finish. ??She **must not** finish. / She **mustn't** finish.
 
-### 연습 3: 의문문 만들기
-다음 문장을 의문문으로 바꾸세요:
+### ?곗뒿 3: ?섎Ц臾?留뚮뱾湲?
+?ㅼ쓬 臾몄옣???섎Ц臾몄쑝濡?諛붽씀?몄슂:
 
-1. I can help you. → **Can** I help you?
-2. You should study. → **Should** you study?
-3. She must go. → **Must** she go?
+1. I can help you. ??**Can** I help you?
+2. You should study. ??**Should** you study?
+3. She must go. ??**Must** she go?
 
-## 7. 자주 하는 실수
+## 7. ?먯＜ ?섎뒗 ?ㅼ닔
 
-### 실수 1: 조동사 뒤에 동사에 -s/-es 추가
-- ❌ She **can speaks** English.
-- ✅ She **can speak** English. (조동사 뒤는 항상 동사 원형)
+### ?ㅼ닔 1: 議곕룞???ㅼ뿉 ?숈궗??-s/-es 異붽?
+- ??She **can speaks** English.
+- ??She **can speak** English. (議곕룞???ㅻ뒗 ??긽 ?숈궗 ?먰삎)
 
-### 실수 2: 조동사에 -s/-es 추가
-- ❌ He **cans** swim.
-- ✅ He **can** swim. (조동사는 형태 변화 없음)
+### ?ㅼ닔 2: 議곕룞?ъ뿉 -s/-es 異붽?
+- ??He **cans** swim.
+- ??He **can** swim. (議곕룞?щ뒗 ?뺥깭 蹂???놁쓬)
 
-### 실수 3: 조동사 두 개 함께 사용
-- ❌ I **can should** go.
-- ✅ I **should** go. (조동사는 하나만 사용)
+### ?ㅼ닔 3: 議곕룞????媛??④퍡 ?ъ슜
+- ??I **can should** go.
+- ??I **should** go. (議곕룞?щ뒗 ?섎굹留??ъ슜)
 
-### 실수 4: to 부정사 사용
-- ❌ I can **to** swim.
-- ✅ I can **swim**. (조동사 뒤는 to 없이 동사 원형)
+### ?ㅼ닔 4: to 遺?뺤궗 ?ъ슜
+- ??I can **to** swim.
+- ??I can **swim**. (議곕룞???ㅻ뒗 to ?놁씠 ?숈궗 ?먰삎)
 
-## 8. 다른 중요한 조동사
+## 8. ?ㅻⅨ 以묒슂??議곕룞??
 
-### may (할 수 있다, ~일 수도 있다)
-- **May** I go? (가도 될까요?) - 정중한 허가 요청
-- It **may** rain. (비가 올 수도 있다.) - 가능성
+### may (?????덈떎, ~???섎룄 ?덈떎)
+- **May** I go? (媛???좉퉴??) - ?뺤쨷???덇? ?붿껌
+- It **may** rain. (鍮꾧? ???섎룄 ?덈떎.) - 媛?μ꽦
 
-### will (할 것이다)
-- I **will** go tomorrow. (나는 내일 갈 것이다.)
-- She **will** study. (그녀는 공부할 것이다.)
+### will (??寃껋씠??
+- I **will** go tomorrow. (?섎뒗 ?댁씪 媛?寃껋씠??)
+- She **will** study. (洹몃???怨듬???寃껋씠??)
 
-### would (할 것이다 - 과거형 또는 정중한 표현)
-- I **would** like some coffee. (커피를 좀 마시고 싶습니다.) - 정중한 표현
-- **Would** you help me? (도와주실 수 있나요?) - 정중한 요청
+### would (??寃껋씠??- 怨쇨굅???먮뒗 ?뺤쨷???쒗쁽)
+- I **would** like some coffee. (而ㅽ뵾瑜?醫 留덉떆怨??띠뒿?덈떎.) - ?뺤쨷???쒗쁽
+- **Would** you help me? (?꾩?二쇱떎 ???덈굹??) - ?뺤쨷???붿껌
 
-## 9. 조동사 활용 예문
+## 9. 議곕룞???쒖슜 ?덈Ц
 
-### 능력 표현
-- I **can** speak three languages. (나는 세 가지 언어를 말할 수 있다.)
-- She **can't** drive. (그녀는 운전할 수 없다.)
+### ?λ젰 ?쒗쁽
+- I **can** speak three languages. (?섎뒗 ??媛吏 ?몄뼱瑜?留먰븷 ???덈떎.)
+- She **can't** drive. (洹몃????댁쟾?????녿떎.)
 
-### 의무/권고 표현
-- You **should** exercise regularly. (너는 정기적으로 운동해야 한다.)
-- We **must** finish this project. (우리는 이 프로젝트를 반드시 끝내야 한다.)
+### ?섎Т/沅뚭퀬 ?쒗쁽
+- You **should** exercise regularly. (?덈뒗 ?뺢린?곸쑝濡??대룞?댁빞 ?쒕떎.)
+- We **must** finish this project. (?곕━?????꾨줈?앺듃瑜?諛섎뱶???앸궡???쒕떎.)
 
-### 허가 표현
-- **Can** I use your pen? (너의 펜을 써도 될까?)
-- **May** I come in? (들어가도 될까요?) - 더 정중
+### ?덇? ?쒗쁽
+- **Can** I use your pen? (?덉쓽 ?쒖쓣 ?⑤룄 ?좉퉴?)
+- **May** I come in? (?ㅼ뼱媛???좉퉴??) - ???뺤쨷
 
-### 추측 표현
-- He **must** be at home. (그는 틀림없이 집에 있을 것이다.)
-- It **may** rain tomorrow. (내일 비가 올 수도 있다.)
+### 異붿륫 ?쒗쁽
+- He **must** be at home. (洹몃뒗 ?由쇱뾾??吏묒뿉 ?덉쓣 寃껋씠??)
+- It **may** rain tomorrow. (?댁씪 鍮꾧? ???섎룄 ?덈떎.)
 
-## 10. 핵심 요약
+## 10. ?듭떖 ?붿빟
 
-- **조동사**: 본동사 앞에 붙어 의미 추가
-- **주요 조동사**: can (능력), should (권고), must (강한 의무)
-- **규칙**: 조동사 뒤는 항상 동사 원형
-- **부정문**: 조동사 + not
-- **의문문**: 조동사를 문장 앞으로
+- **議곕룞??*: 蹂몃룞???욎뿉 遺숈뼱 ?섎? 異붽?
+- **二쇱슂 議곕룞??*: can (?λ젰), should (沅뚭퀬), must (媛뺥븳 ?섎Т)
+- **洹쒖튃**: 議곕룞???ㅻ뒗 ??긽 ?숈궗 ?먰삎
+- **遺?뺣Ц**: 議곕룞??+ not
+- **?섎Ц臾?*: 議곕룞?щ? 臾몄옣 ?욎쑝濡?
 
-## 11. 문법 기초 완성!
+## 11. 臾몃쾿 湲곗큹 ?꾩꽦!
 
-축하합니다! 문법 기초 카테고리의 10편을 모두 완성하셨습니다! 이제 영어 문장의 기본 구조를 이해하셨습니다.
+異뺥븯?⑸땲?? 臾몃쾿 湲곗큹 移댄뀒怨좊━??10?몄쓣 紐⑤몢 ?꾩꽦?섏뀲?듬땲?? ?댁젣 ?곸뼱 臾몄옣??湲곕낯 援ъ“瑜??댄빐?섏뀲?듬땲??
 
-**학습한 내용 요약:**
-1. 영어의 기본 구조 (주어, 동사, 목적어)
-2. 명사와 관사 (a, an, the)
-3. 동사 시제 (현재, 과거, 미래)
-4. be동사와 일반동사
-5. 의문문 만들기
-6. 부정문 만들기
-7. 형용사와 부사
-8. 전치사 (in, on, at)
-9. 진행형 (현재/과거)
-10. 조동사 (can, should, must)
+**?숈뒿???댁슜 ?붿빟:**
+1. ?곸뼱??湲곕낯 援ъ“ (二쇱뼱, ?숈궗, 紐⑹쟻??
+2. 紐낆궗? 愿??(a, an, the)
+3. ?숈궗 ?쒖젣 (?꾩옱, 怨쇨굅, 誘몃옒)
+4. be?숈궗? ?쇰컲?숈궗
+5. ?섎Ц臾?留뚮뱾湲?
+6. 遺?뺣Ц 留뚮뱾湲?
+7. ?뺤슜?ъ? 遺??
+8. ?꾩튂??(in, on, at)
+9. 吏꾪뻾??(?꾩옱/怨쇨굅)
+10. 議곕룞??(can, should, must)
 
-**다음 단계:**
-이제 **일상 회화** 카테고리로 넘어가서 배운 문법을 실제 대화에 활용해봅시다!
+**?ㅼ쓬 ?④퀎:**
+?댁젣 **?쇱긽 ?뚰솕** 移댄뀒怨좊━濡??섏뼱媛??諛곗슫 臾몃쾿???ㅼ젣 ??붿뿉 ?쒖슜?대큶?쒕떎!
 
-**추가 학습 팁:**
-- 배운 문법을 일상 생활에서 활용해보세요
-- 간단한 문장을 많이 만들어보세요
-- 영어로 생각하는 습관을 기르세요
+**異붽? ?숈뒿 ??**
+- 諛곗슫 臾몃쾿???쇱긽 ?앺솢?먯꽌 ?쒖슜?대낫?몄슂
+- 媛꾨떒??臾몄옣??留롮씠 留뚮뱾?대낫?몄슂
+- ?곸뼱濡??앷컖?섎뒗 ?듦???湲곕Ⅴ?몄슂
 
-문법 기초를 완성하셨으니 이제 영어 실력이 크게 향상될 것입니다! 🎉📚✨
+臾몃쾿 湲곗큹瑜??꾩꽦?섏뀲?쇰땲 ?댁젣 ?곸뼱 ?ㅻ젰???ш쾶 ?μ긽??寃껋엯?덈떎! ?럦?뱴??
 

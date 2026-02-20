@@ -1,178 +1,178 @@
 ---
 layout: post
-title:  "출장 영어 10편: 여행 기본 표현"
-date:   2026-03-13 09:00:00 +0900
-categories: [영어, 실전 영어]
-tags: [영어, 출장, business travel, travel basics, directions, transportation]
-description: "출장 중 길 물어보기, 교통수단 이용, 쇼핑, 응급 상황 등 여행 기본 표현을 배우고 다양한 상황에 대비합니다."
+title:  "異쒖옣 ?곸뼱 10?? ?ы뻾 湲곕낯 ?쒗쁽"
+date:   2025-03-13 09:00:00 +0900
+categories: [?곸뼱, ?ㅼ쟾 ?곸뼱]
+tags: [?곸뼱, 異쒖옣, business travel, travel basics, directions, transportation]
+description: "異쒖옣 以?湲?臾쇱뼱蹂닿린, 援먰넻?섎떒 ?댁슜, ?쇳븨, ?묎툒 ?곹솴 ???ы뻾 湲곕낯 ?쒗쁽??諛곗슦怨??ㅼ뼇???곹솴???鍮꾪빀?덈떎."
 ---
 
-# 출장 영어 10편: 여행 기본 표현
+# 異쒖옣 ?곸뼱 10?? ?ы뻾 湲곕낯 ?쒗쁽
 
-출장 중에는 다양한 상황이 발생할 수 있습니다. 길 물어보기, 교통수단 이용, 쇼핑, 응급 상황에 필요한 기본 영어 표현을 배워봅시다.
+異쒖옣 以묒뿉???ㅼ뼇???곹솴??諛쒖깮?????덉뒿?덈떎. 湲?臾쇱뼱蹂닿린, 援먰넻?섎떒 ?댁슜, ?쇳븨, ?묎툒 ?곹솴???꾩슂??湲곕낯 ?곸뼱 ?쒗쁽??諛곗썙遊낆떆??
 
-## 1. 길 물어보기
+## 1. 湲?臾쇱뼱蹂닿린
 
-### 기본 질문
-- **Excuse me, where is [place]?** (실례합니다, [장소]는 어디에 있나요?)
-- **How do I get to [location]?** ([장소]로 어떻게 가나요?)
-- **Can you tell me how to get to [place]?** ([장소]로 가는 방법을 알려주실 수 있나요?)
-- **I'm looking for [place].** ([장소]를 찾고 있습니다.)
+### 湲곕낯 吏덈Ц
+- **Excuse me, where is [place]?** (?ㅻ??⑸땲?? [?μ냼]???대뵒???덈굹??)
+- **How do I get to [location]?** ([?μ냼]濡??대뼸寃?媛?섏슂?)
+- **Can you tell me how to get to [place]?** ([?μ냼]濡?媛??諛⑸쾿???뚮젮二쇱떎 ???덈굹??)
+- **I'm looking for [place].** ([?μ냼]瑜?李얘퀬 ?덉뒿?덈떎.)
 
-### 거리 및 시간
-- **Is it far from here?** (여기서 멀리 있나요?)
-- **How far is it?** (얼마나 멀리 있나요?)
-- **How long does it take to get there?** (거기까지 얼마나 걸리나요?)
-- **Can I walk there?** (걸어서 갈 수 있나요?)
+### 嫄곕━ 諛??쒓컙
+- **Is it far from here?** (?ш린??硫由??덈굹??)
+- **How far is it?** (?쇰쭏??硫由??덈굹??)
+- **How long does it take to get there?** (嫄곌린源뚯? ?쇰쭏??嫄몃━?섏슂?)
+- **Can I walk there?** (嫄몄뼱??媛????덈굹??)
 
-### 방향 안내
-- **Can you show me on the map?** (지도에 표시해 주실 수 있나요?)
-- **Which way should I go?** (어느 쪽으로 가야 하나요?)
-- **Is it on the left or right?** (왼쪽인가요, 오른쪽인가요?)
-- **Should I walk or take a taxi?** (걸어가야 하나요, 택시를 타야 하나요?)
+### 諛⑺뼢 ?덈궡
+- **Can you show me on the map?** (吏?꾩뿉 ?쒖떆??二쇱떎 ???덈굹??)
+- **Which way should I go?** (?대뒓 履쎌쑝濡?媛???섎굹??)
+- **Is it on the left or right?** (?쇱そ?멸??? ?ㅻⅨ履쎌씤媛??)
+- **Should I walk or take a taxi?** (嫄몄뼱媛???섎굹?? ?앹떆瑜?????섎굹??)
 
-## 2. 교통수단 이용
+## 2. 援먰넻?섎떒 ?댁슜
 
-### 지하철
-- **Where is the subway station?** (지하철역은 어디에 있나요?)
-- **Which line goes to [destination]?** ([목적지]로 가는 노선이 뭔가요?)
-- **How much is a ticket?** (티켓은 얼마인가요?)
-- **Do I need to transfer?** (환승해야 하나요?)
-- **Which stop should I get off at?** (어느 역에서 내려야 하나요?)
+### 吏?섏쿋
+- **Where is the subway station?** (吏?섏쿋??? ?대뵒???덈굹??)
+- **Which line goes to [destination]?** ([紐⑹쟻吏]濡?媛???몄꽑??萸붽???)
+- **How much is a ticket?** (?곗폆? ?쇰쭏?멸???)
+- **Do I need to transfer?** (?섏듅?댁빞 ?섎굹??)
+- **Which stop should I get off at?** (?대뒓 ??뿉???대젮???섎굹??)
 
-### 버스
-- **Where is the bus stop?** (버스 정류장은 어디에 있나요?)
-- **Does this bus go to [destination]?** (이 버스가 [목적지]로 가나요?)
-- **How many stops until [place]?** ([장소]까지 몇 정거장 남았나요?)
-- **Can you tell me when to get off?** (내릴 때 알려주실 수 있나요?)
+### 踰꾩뒪
+- **Where is the bus stop?** (踰꾩뒪 ?뺣쪟?μ? ?대뵒???덈굹??)
+- **Does this bus go to [destination]?** (??踰꾩뒪媛 [紐⑹쟻吏]濡?媛?섏슂?)
+- **How many stops until [place]?** ([?μ냼]源뚯? 紐??뺢굅???⑥븯?섏슂?)
+- **Can you tell me when to get off?** (?대┫ ???뚮젮二쇱떎 ???덈굹??)
 
-### 택시
-- **Can I get a taxi?** (택시를 탈 수 있나요?)
-- **How much will it cost to go to [place]?** ([장소]까지 얼마나 드나요?)
-- **Can you take me to [address]?** ([주소]로 가주실 수 있나요?)
-- **How long will it take?** (얼마나 걸리나요?)
-- **Can you use the meter?** (미터기를 사용하실 수 있나요?)
+### ?앹떆
+- **Can I get a taxi?** (?앹떆瑜??????덈굹??)
+- **How much will it cost to go to [place]?** ([?μ냼]源뚯? ?쇰쭏???쒕굹??)
+- **Can you take me to [address]?** ([二쇱냼]濡?媛二쇱떎 ???덈굹??)
+- **How long will it take?** (?쇰쭏??嫄몃━?섏슂?)
+- **Can you use the meter?** (誘명꽣湲곕? ?ъ슜?섏떎 ???덈굹??)
 
-### 렌터카
-- **I'd like to rent a car.** (차를 렌트하고 싶습니다.)
-- **What's the daily rate?** (일일 요금이 얼마인가요?)
-- **Do you have GPS?** (GPS가 있나요?)
-- **What's included in the insurance?** (보험에 무엇이 포함되어 있나요?)
+### ?뚰꽣移?
+- **I'd like to rent a car.** (李⑤? ?뚰듃?섍퀬 ?띠뒿?덈떎.)
+- **What's the daily rate?** (?쇱씪 ?붽툑???쇰쭏?멸???)
+- **Do you have GPS?** (GPS媛 ?덈굹??)
+- **What's included in the insurance?** (蹂댄뿕??臾댁뾿???ы븿?섏뼱 ?덈굹??)
 
-## 3. 쇼핑
+## 3. ?쇳븨
 
-### 기본 질문
-- **How much does this cost?** (이것은 얼마인가요?)
-- **What's the price?** (가격이 얼마인가요?)
-- **Do you have this in a different size?** (다른 사이즈 있나요?)
-- **Can I try this on?** (이것 입어볼 수 있나요?)
+### 湲곕낯 吏덈Ц
+- **How much does this cost?** (?닿쾬? ?쇰쭏?멸???)
+- **What's the price?** (媛寃⑹씠 ?쇰쭏?멸???)
+- **Do you have this in a different size?** (?ㅻⅨ ?ъ씠利??덈굹??)
+- **Can I try this on?** (?닿쾬 ?낆뼱蹂????덈굹??)
 
-### 결제
-- **Do you accept credit cards?** (신용카드를 받으시나요?)
-- **Can I pay in cash?** (현금으로 결제할 수 있나요?)
-- **Do you take US dollars?** (미국 달러를 받으시나요?)
-- **Can I get a receipt?** (영수증 받을 수 있나요?)
+### 寃곗젣
+- **Do you accept credit cards?** (?좎슜移대뱶瑜?諛쏆쑝?쒕굹??)
+- **Can I pay in cash?** (?꾧툑?쇰줈 寃곗젣?????덈굹??)
+- **Do you take US dollars?** (誘멸뎅 ?щ윭瑜?諛쏆쑝?쒕굹??)
+- **Can I get a receipt?** (?곸닔利?諛쏆쓣 ???덈굹??)
 
-### 환불 및 교환
-- **Can I return this?** (이것을 반품할 수 있나요?)
-- **What's your return policy?** (반품 정책이 무엇인가요?)
-- **Can I exchange this?** (이것을 교환할 수 있나요?)
-- **I'd like a refund.** (환불 받고 싶습니다.)
+### ?섎텋 諛?援먰솚
+- **Can I return this?** (?닿쾬??諛섑뭹?????덈굹??)
+- **What's your return policy?** (諛섑뭹 ?뺤콉??臾댁뾿?멸???)
+- **Can I exchange this?** (?닿쾬??援먰솚?????덈굹??)
+- **I'd like a refund.** (?섎텋 諛쏄퀬 ?띠뒿?덈떎.)
 
-## 4. 응급 상황
+## 4. ?묎툒 ?곹솴
 
-### 도움 요청
-- **I need help.** (도움이 필요합니다.)
-- **Can you help me?** (도와주실 수 있나요?)
-- **I'm lost.** (길을 잃었습니다.)
-- **I don't speak English well.** (영어를 잘 못합니다.)
+### ?꾩? ?붿껌
+- **I need help.** (?꾩????꾩슂?⑸땲??)
+- **Can you help me?** (?꾩?二쇱떎 ???덈굹??)
+- **I'm lost.** (湲몄쓣 ?껋뿀?듬땲??)
+- **I don't speak English well.** (?곸뼱瑜???紐삵빀?덈떎.)
 
-### 의료 응급 상황
-- **Call an ambulance, please.** (구급차를 불러주세요.)
-- **I need a doctor.** (의사가 필요합니다.)
-- **Where is the nearest hospital?** (가장 가까운 병원은 어디에 있나요?)
-- **I'm not feeling well.** (기분이 좋지 않습니다.)
-- **I have a headache.** (두통이 있습니다.)
+### ?섎즺 ?묎툒 ?곹솴
+- **Call an ambulance, please.** (援ш툒李⑤? 遺덈윭二쇱꽭??)
+- **I need a doctor.** (?섏궗媛 ?꾩슂?⑸땲??)
+- **Where is the nearest hospital?** (媛??媛源뚯슫 蹂묒썝? ?대뵒???덈굹??)
+- **I'm not feeling well.** (湲곕텇??醫뗭? ?딆뒿?덈떎.)
+- **I have a headache.** (?먰넻???덉뒿?덈떎.)
 
-### 분실 및 도난
-- **I lost my passport.** (여권을 잃어버렸습니다.)
-- **My wallet was stolen.** (지갑을 도난당했습니다.)
-- **I need to report a theft.** (도난을 신고해야 합니다.)
-- **Where is the police station?** (경찰서는 어디에 있나요?)
+### 遺꾩떎 諛??꾨궃
+- **I lost my passport.** (?ш텒???껋뼱踰꾨졇?듬땲??)
+- **My wallet was stolen.** (吏媛묒쓣 ?꾨궃?뱁뻽?듬땲??)
+- **I need to report a theft.** (?꾨궃???좉퀬?댁빞 ?⑸땲??)
+- **Where is the police station?** (寃쎌같?쒕뒗 ?대뵒???덈굹??)
 
-### 대사관 연락
-- **Can you help me contact the embassy?** (대사관에 연락하는 것을 도와주실 수 있나요?)
-- **I need to contact my embassy.** (대사관에 연락해야 합니다.)
-- **Where is the Korean embassy?** (한국 대사관은 어디에 있나요?)
+### ??ш? ?곕씫
+- **Can you help me contact the embassy?** (??ш????곕씫?섎뒗 寃껋쓣 ?꾩?二쇱떎 ???덈굹??)
+- **I need to contact my embassy.** (??ш????곕씫?댁빞 ?⑸땲??)
+- **Where is the Korean embassy?** (?쒓뎅 ??ш?? ?대뵒???덈굹??)
 
-## 5. 실전 대화 예문
+## 5. ?ㅼ쟾 ????덈Ц
 
-### 대화 1: 길 물어보기
+### ???1: 湲?臾쇱뼱蹂닿린
 **You:** Excuse me, where is the conference center?
-(실례합니다, 컨퍼런스 센터는 어디에 있나요?)
+(?ㅻ??⑸땲?? 而⑦띁?곗뒪 ?쇳꽣???대뵒???덈굹??)
 
 **Local:** It's about 10 minutes walk from here. Go straight, then turn left at the second traffic light.
-(여기서 약 10분 걸어가면 됩니다. 직진하신 후 두 번째 신호등에서 왼쪽으로 도세요.)
+(?ш린????10遺?嫄몄뼱媛硫??⑸땲?? 吏곸쭊?섏떊 ????踰덉㎏ ?좏샇?깆뿉???쇱そ?쇰줈 ?꾩꽭??)
 
 **You:** Is it far? Should I take a taxi?
-(멀리 있나요? 택시를 타야 하나요?)
+(硫由??덈굹?? ?앹떆瑜?????섎굹??)
 
 **Local:** No, it's not far. You can walk there easily.
-(아니요, 멀지 않습니다. 쉽게 걸어가실 수 있습니다.)
+(?꾨땲?? 硫吏 ?딆뒿?덈떎. ?쎄쾶 嫄몄뼱媛?????덉뒿?덈떎.)
 
-### 대화 2: 응급 상황
+### ???2: ?묎툒 ?곹솴
 **You:** Excuse me, I need help. I lost my passport.
-(실례합니다, 도움이 필요합니다. 여권을 잃어버렸습니다.)
+(?ㅻ??⑸땲?? ?꾩????꾩슂?⑸땲?? ?ш텒???껋뼱踰꾨졇?듬땲??)
 
 **Hotel Staff:** I'm sorry to hear that. Let me help you contact the embassy.
-(그렇다니 안타깝습니다. 대사관에 연락하는 것을 도와드리겠습니다.)
+(洹몃젃?ㅻ땲 ?덊?源앹뒿?덈떎. ??ш????곕씫?섎뒗 寃껋쓣 ?꾩??쒕━寃좎뒿?덈떎.)
 
 **You:** Thank you. Can you also help me report this to the police?
-(감사합니다. 경찰에 신고하는 것도 도와주실 수 있나요?)
+(媛먯궗?⑸땲?? 寃쎌같???좉퀬?섎뒗 寃껊룄 ?꾩?二쇱떎 ???덈굹??)
 
 **Hotel Staff:** Of course. I'll call the police station for you.
-(물론입니다. 경찰서에 전화해드리겠습니다.)
+(臾쇰줎?낅땲?? 寃쎌같?쒖뿉 ?꾪솕?대뱶由ш쿋?듬땲??)
 
-## 6. 실전 연습
+## 6. ?ㅼ쟾 ?곗뒿
 
-### 연습 1: 길 물어보기
-다음 표현을 사용하여 길을 물어보세요:
-- 위치 질문: **Where is [place]?**
-- 거리 확인: **Is it far from here?**
-- 방향 확인: **How do I get there?**
+### ?곗뒿 1: 湲?臾쇱뼱蹂닿린
+?ㅼ쓬 ?쒗쁽???ъ슜?섏뿬 湲몄쓣 臾쇱뼱蹂댁꽭??
+- ?꾩튂 吏덈Ц: **Where is [place]?**
+- 嫄곕━ ?뺤씤: **Is it far from here?**
+- 諛⑺뼢 ?뺤씤: **How do I get there?**
 
-### 연습 2: 응급 상황
-- 도움 요청: **I need help.**
-- 의료 응급: **Call an ambulance, please.**
-- 분실 신고: **I lost my passport.**
+### ?곗뒿 2: ?묎툒 ?곹솴
+- ?꾩? ?붿껌: **I need help.**
+- ?섎즺 ?묎툒: **Call an ambulance, please.**
+- 遺꾩떎 ?좉퀬: **I lost my passport.**
 
-## 7. 핵심 요약
+## 7. ?듭떖 ?붿빟
 
-- **길 물어보기**: where is, how to get, far, walk, taxi
-- **교통수단**: subway, bus, taxi, rent a car, ticket
-- **쇼핑**: how much, price, size, try on, credit card, receipt
-- **응급 상황**: help, ambulance, hospital, lost, stolen, embassy
+- **湲?臾쇱뼱蹂닿린**: where is, how to get, far, walk, taxi
+- **援먰넻?섎떒**: subway, bus, taxi, rent a car, ticket
+- **?쇳븨**: how much, price, size, try on, credit card, receipt
+- **?묎툒 ?곹솴**: help, ambulance, hospital, lost, stolen, embassy
 
-## 8. 출장 영어 완성
+## 8. 異쒖옣 ?곸뼱 ?꾩꽦
 
-출장 영어 10편을 모두 배우셨습니다! 이제 AI 컨퍼런스 출장에 필요한 모든 영어 표현을 익히셨습니다.
+異쒖옣 ?곸뼱 10?몄쓣 紐⑤몢 諛곗슦?⑥뒿?덈떎! ?댁젣 AI 而⑦띁?곗뒪 異쒖옣???꾩슂??紐⑤뱺 ?곸뼱 ?쒗쁽???듯엳?⑥뒿?덈떎.
 
-**출장 영어 시리즈 요약:**
-1. 항공편 체크인과 탑승
-2. 항공편 기내 서비스와 환승
-3. 호텔 체크인과 기본 서비스
-4. 호텔 시설 이용과 문제 해결
-5. 레스토랑 예약과 주문
-6. 식사 중 대화와 계산
-7. AI 컨퍼런스 부스 방문과 제품 문의
-8. AI 컨퍼런스 기술 질문과 데모
-9. AI 컨퍼런스 비즈니스 미팅과 네트워킹
-10. 여행 기본 표현
+**異쒖옣 ?곸뼱 ?쒕━利??붿빟:**
+1. ??났??泥댄겕?멸낵 ?묒듅
+2. ??났??湲곕궡 ?쒕퉬?ㅼ? ?섏듅
+3. ?명뀛 泥댄겕?멸낵 湲곕낯 ?쒕퉬??
+4. ?명뀛 ?쒖꽕 ?댁슜怨?臾몄젣 ?닿껐
+5. ?덉뒪?좊옉 ?덉빟怨?二쇰Ц
+6. ?앹궗 以???붿? 怨꾩궛
+7. AI 而⑦띁?곗뒪 遺??諛⑸Ц怨??쒗뭹 臾몄쓽
+8. AI 而⑦띁?곗뒪 湲곗닠 吏덈Ц怨??곕え
+9. AI 而⑦띁?곗뒪 鍮꾩쫰?덉뒪 誘명똿怨??ㅽ듃?뚰궧
+10. ?ы뻾 湲곕낯 ?쒗쁽
 
-**추가 학습 팁:**
-- 주요 표현을 카드로 만들어 외우세요
-- 실제 상황을 상상하며 연습하세요
-- 비즈니스 카드와 여권을 항상 준비하세요
+**異붽? ?숈뒿 ??**
+- 二쇱슂 ?쒗쁽??移대뱶濡?留뚮뱾???몄슦?몄슂
+- ?ㅼ젣 ?곹솴???곸긽?섎ŉ ?곗뒿?섏꽭??
+- 鍮꾩쫰?덉뒪 移대뱶? ?ш텒????긽 以鍮꾪븯?몄슂
 
-이제 자신감 있게 AI 컨퍼런스 출장을 다녀오세요! ✈️🤖🌍
+?댁젣 ?먯떊媛??덇쾶 AI 而⑦띁?곗뒪 異쒖옣???ㅻ??ㅼ꽭?? ?덌툘?쨼?뙇
 

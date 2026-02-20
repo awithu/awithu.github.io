@@ -1,55 +1,55 @@
 ---
 layout: post
-title:  "파이썬 강의 6편: 함수"
-date:   2026-01-28 10:00:00 +0900
-categories: [IT, 파이썬 강의]
-tags: [파이썬, 함수, function, 모듈화, 재사용]
-description: "파이썬 함수의 정의와 호출, 매개변수, 반환값, 기본값 인자, 가변 인자 등 함수의 모든 기능을 배웁니다."
+title:  "?뚯씠??媛뺤쓽 6?? ?⑥닔"
+date:   2025-01-28 10:00:00 +0900
+categories: [IT, ?뚯씠??媛뺤쓽]
+tags: [?뚯씠?? ?⑥닔, function, 紐⑤뱢?? ?ъ궗??
+description: "?뚯씠???⑥닔???뺤쓽? ?몄텧, 留ㅺ컻蹂?? 諛섑솚媛? 湲곕낯媛??몄옄, 媛蹂 ?몄옄 ???⑥닔??紐⑤뱺 湲곕뒫??諛곗썎?덈떎."
 ---
 
-# 파이썬 강의 6편: 함수
+# ?뚯씠??媛뺤쓽 6?? ?⑥닔
 
-## 함수란?
+## ?⑥닔??
 
-함수(Function)는 특정 작업을 수행하는 코드 블록입니다. 코드를 재사용하고 모듈화할 수 있게 해줍니다.
+?⑥닔(Function)???뱀젙 ?묒뾽???섑뻾?섎뒗 肄붾뱶 釉붾줉?낅땲?? 肄붾뱶瑜??ъ궗?⑺븯怨?紐⑤뱢?뷀븷 ???덇쾶 ?댁쨳?덈떎.
 
-## 함수의 장점
+## ?⑥닔???μ젏
 
-1. **코드 재사용**: 같은 코드를 여러 번 작성하지 않아도 됨
-2. **모듈화**: 프로그램을 작은 단위로 나눌 수 있음
-3. **가독성**: 코드가 더 읽기 쉬워짐
-4. **유지보수**: 수정이 필요할 때 한 곳만 수정하면 됨
+1. **肄붾뱶 ?ъ궗??*: 媛숈? 肄붾뱶瑜??щ윭 踰??묒꽦?섏? ?딆븘????
+2. **紐⑤뱢??*: ?꾨줈洹몃옩???묒? ?⑥쐞濡??섎닃 ???덉쓬
+3. **媛?낆꽦**: 肄붾뱶媛 ???쎄린 ?ъ썙吏?
+4. **?좎?蹂댁닔**: ?섏젙???꾩슂??????怨노쭔 ?섏젙?섎㈃ ??
 
-## 함수 정의
+## ?⑥닔 ?뺤쓽
 
-### 기본 형식
+### 湲곕낯 ?뺤떇
 
 ```python
-def 함수명(매개변수):
-    # 함수 본문
-    return 값
+def ?⑥닔紐?留ㅺ컻蹂??:
+    # ?⑥닔 蹂몃Ц
+    return 媛?
 ```
 
-### 예시: 간단한 함수
+### ?덉떆: 媛꾨떒???⑥닔
 
 ```python
 def greet():
     print("Hello, World!")
 
-# 함수 호출
+# ?⑥닔 ?몄텧
 greet()  # Hello, World!
 ```
 
-## 매개변수가 있는 함수
+## 留ㅺ컻蹂?섍? ?덈뒗 ?⑥닔
 
 ```python
 def greet(name):
-    print(f"안녕하세요, {name}님!")
+    print(f"?덈뀞?섏꽭?? {name}??")
 
-greet("홍길동")  # 안녕하세요, 홍길동님!
+greet("?띻만??)  # ?덈뀞?섏꽭?? ?띻만?숇떂!
 ```
 
-## 반환값이 있는 함수
+## 諛섑솚媛믪씠 ?덈뒗 ?⑥닔
 
 ```python
 def add(a, b):
@@ -59,42 +59,42 @@ result = add(5, 3)
 print(result)  # 8
 ```
 
-## 여러 매개변수
+## ?щ윭 留ㅺ컻蹂??
 
 ```python
 def introduce(name, age, city):
-    print(f"이름: {name}, 나이: {age}, 거주지: {city}")
+    print(f"?대쫫: {name}, ?섏씠: {age}, 嫄곗＜吏: {city}")
 
-introduce("홍길동", 25, "서울")
+introduce("?띻만??, 25, "?쒖슱")
 ```
 
-## 기본값 인자 (Default Arguments)
+## 湲곕낯媛??몄옄 (Default Arguments)
 
-매개변수에 기본값을 설정할 수 있습니다:
+留ㅺ컻蹂?섏뿉 湲곕낯媛믪쓣 ?ㅼ젙?????덉뒿?덈떎:
 
 ```python
-def greet(name, greeting="안녕하세요"):
-    print(f"{greeting}, {name}님!")
+def greet(name, greeting="?덈뀞?섏꽭??):
+    print(f"{greeting}, {name}??")
 
-greet("홍길동")              # 안녕하세요, 홍길동님!
-greet("홍길동", "반갑습니다")  # 반갑습니다, 홍길동님!
+greet("?띻만??)              # ?덈뀞?섏꽭?? ?띻만?숇떂!
+greet("?띻만??, "諛섍컩?듬땲??)  # 諛섍컩?듬땲?? ?띻만?숇떂!
 ```
 
-## 키워드 인자 (Keyword Arguments)
+## ?ㅼ썙???몄옄 (Keyword Arguments)
 
-매개변수 이름을 지정하여 호출할 수 있습니다:
+留ㅺ컻蹂???대쫫??吏?뺥븯???몄텧?????덉뒿?덈떎:
 
 ```python
 def introduce(name, age, city):
-    print(f"이름: {name}, 나이: {age}, 거주지: {city}")
+    print(f"?대쫫: {name}, ?섏씠: {age}, 嫄곗＜吏: {city}")
 
-# 순서와 관계없이 호출 가능
-introduce(age=25, city="서울", name="홍길동")
+# ?쒖꽌? 愿怨꾩뾾???몄텧 媛??
+introduce(age=25, city="?쒖슱", name="?띻만??)
 ```
 
-## 가변 인자 (*args)
+## 媛蹂 ?몄옄 (*args)
 
-개수가 정해지지 않은 인자를 받을 수 있습니다:
+媛쒖닔媛 ?뺥빐吏吏 ?딆? ?몄옄瑜?諛쏆쓣 ???덉뒿?덈떎:
 
 ```python
 def sum_all(*args):
@@ -107,26 +107,26 @@ print(sum_all(1, 2, 3))        # 6
 print(sum_all(1, 2, 3, 4, 5)) # 15
 ```
 
-## 키워드 가변 인자 (**kwargs)
+## ?ㅼ썙??媛蹂 ?몄옄 (**kwargs)
 
-키워드 인자를 딕셔너리로 받을 수 있습니다:
+?ㅼ썙???몄옄瑜??뺤뀛?덈━濡?諛쏆쓣 ???덉뒿?덈떎:
 
 ```python
 def print_info(**kwargs):
     for key, value in kwargs.items():
         print(f"{key}: {value}")
 
-print_info(name="홍길동", age=25, city="서울")
+print_info(name="?띻만??, age=25, city="?쒖슱")
 ```
 
-출력:
+異쒕젰:
 ```
-name: 홍길동
+name: ?띻만??
 age: 25
-city: 서울
+city: ?쒖슱
 ```
 
-## 실전 예제: 계산기 함수들
+## ?ㅼ쟾 ?덉젣: 怨꾩궛湲??⑥닔??
 
 ```python
 def add(a, b):
@@ -142,16 +142,16 @@ def divide(a, b):
     if b != 0:
         return a / b
     else:
-        return "0으로 나눌 수 없습니다!"
+        return "0?쇰줈 ?섎닃 ???놁뒿?덈떎!"
 
-# 사용
+# ?ъ슜
 print(add(10, 5))        # 15
 print(subtract(10, 5))   # 5
 print(multiply(10, 5))   # 50
 print(divide(10, 5))     # 2.0
 ```
 
-## 실전 예제: 최대값/최소값 찾기
+## ?ㅼ쟾 ?덉젣: 理쒕?媛?理쒖냼媛?李얘린
 
 ```python
 def find_max(numbers):
@@ -169,11 +169,11 @@ def find_min(numbers):
     return min_num
 
 numbers = [5, 2, 8, 1, 9]
-print(f"최대값: {find_max(numbers)}")  # 9
-print(f"최소값: {find_min(numbers)}")  # 1
+print(f"理쒕?媛? {find_max(numbers)}")  # 9
+print(f"理쒖냼媛? {find_min(numbers)}")  # 1
 ```
 
-## 실전 예제: 팩토리얼 함수
+## ?ㅼ쟾 ?덉젣: ?⑺넗由ъ뼹 ?⑥닔
 
 ```python
 def factorial(n):
@@ -187,9 +187,9 @@ def factorial(n):
 print(factorial(5))  # 120
 ```
 
-## 재귀 함수
+## ?ш? ?⑥닔
 
-함수가 자기 자신을 호출하는 함수입니다:
+?⑥닔媛 ?먭린 ?먯떊???몄텧?섎뒗 ?⑥닔?낅땲??
 
 ```python
 def factorial_recursive(n):
@@ -200,34 +200,34 @@ def factorial_recursive(n):
 print(factorial_recursive(5))  # 120
 ```
 
-## 람다 함수 (Lambda)
+## ?뚮떎 ?⑥닔 (Lambda)
 
-간단한 함수를 한 줄로 정의할 수 있습니다:
+媛꾨떒???⑥닔瑜???以꾨줈 ?뺤쓽?????덉뒿?덈떎:
 
 ```python
-# 일반 함수
+# ?쇰컲 ?⑥닔
 def add(a, b):
     return a + b
 
-# 람다 함수
+# ?뚮떎 ?⑥닔
 add_lambda = lambda a, b: a + b
 
 print(add(5, 3))         # 8
 print(add_lambda(5, 3))  # 8
 ```
 
-**람다 함수 활용:**
+**?뚮떎 ?⑥닔 ?쒖슜:**
 ```python
 numbers = [1, 2, 3, 4, 5]
 squared = list(map(lambda x: x ** 2, numbers))
 print(squared)  # [1, 4, 9, 16, 25]
 ```
 
-## 지역 변수와 전역 변수
+## 吏??蹂?섏? ?꾩뿭 蹂??
 
-### 지역 변수
+### 吏??蹂??
 
-함수 내부에서 선언된 변수:
+?⑥닔 ?대??먯꽌 ?좎뼵??蹂??
 
 ```python
 def function():
@@ -235,25 +235,25 @@ def function():
     print(local_var)
 
 function()  # 10
-# print(local_var)  # 오류! 접근 불가
+# print(local_var)  # ?ㅻ쪟! ?묎렐 遺덇?
 ```
 
-### 전역 변수
+### ?꾩뿭 蹂??
 
-함수 밖에서 선언된 변수:
+?⑥닔 諛뽰뿉???좎뼵??蹂??
 
 ```python
 global_var = 100
 
 def function():
-    print(global_var)  # 접근 가능
+    print(global_var)  # ?묎렐 媛??
 
 function()  # 100
 ```
 
-### global 키워드
+### global ?ㅼ썙??
 
-함수 내에서 전역 변수를 수정하려면 `global` 키워드 사용:
+?⑥닔 ?댁뿉???꾩뿭 蹂?섎? ?섏젙?섎젮硫?`global` ?ㅼ썙???ъ슜:
 
 ```python
 count = 0
@@ -266,39 +266,39 @@ increment()
 print(count)  # 1
 ```
 
-## docstring (문서 문자열)
+## docstring (臾몄꽌 臾몄옄??
 
-함수에 대한 설명을 추가할 수 있습니다:
+?⑥닔??????ㅻ챸??異붽??????덉뒿?덈떎:
 
 ```python
 def add(a, b):
     """
-    두 숫자를 더하는 함수
+    ???レ옄瑜??뷀븯???⑥닔
     
-    매개변수:
-        a: 첫 번째 숫자
-        b: 두 번째 숫자
+    留ㅺ컻蹂??
+        a: 泥?踰덉㎏ ?レ옄
+        b: ??踰덉㎏ ?レ옄
     
-    반환값:
-        두 숫자의 합
+    諛섑솚媛?
+        ???レ옄????
     """
     return a + b
 
-# 도움말 보기
+# ?꾩?留?蹂닿린
 help(add)
 ```
 
-## 실전 예제: 학생 성적 관리
+## ?ㅼ쟾 ?덉젣: ?숈깮 ?깆쟻 愿由?
 
 ```python
 def calculate_average(scores):
-    """점수 리스트의 평균을 계산"""
+    """?먯닔 由ъ뒪?몄쓽 ?됯퇏??怨꾩궛"""
     if len(scores) == 0:
         return 0
     return sum(scores) / len(scores)
 
 def get_grade(score):
-    """점수에 따른 등급 반환"""
+    """?먯닔???곕Ⅸ ?깃툒 諛섑솚"""
     if score >= 90:
         return "A"
     elif score >= 80:
@@ -310,22 +310,22 @@ def get_grade(score):
     else:
         return "F"
 
-# 사용
+# ?ъ슜
 student_scores = [85, 90, 78, 92, 88]
 average = calculate_average(student_scores)
 grade = get_grade(average)
 
-print(f"평균: {average:.2f}, 등급: {grade}")
+print(f"?됯퇏: {average:.2f}, ?깃툒: {grade}")
 ```
 
-## 함수 작성 시 주의사항
+## ?⑥닔 ?묒꽦 ??二쇱쓽?ы빆
 
-1. **명확한 이름**: 함수가 하는 일을 이름으로 알 수 있어야 함
-2. **단일 책임**: 하나의 함수는 하나의 작업만 수행
-3. **적절한 크기**: 함수가 너무 길면 작은 함수로 나누기
-4. **문서화**: 복잡한 함수는 docstring으로 설명
+1. **紐낇솗???대쫫**: ?⑥닔媛 ?섎뒗 ?쇱쓣 ?대쫫?쇰줈 ?????덉뼱????
+2. **?⑥씪 梨낆엫**: ?섎굹???⑥닔???섎굹???묒뾽留??섑뻾
+3. **?곸젅???ш린**: ?⑥닔媛 ?덈Т 湲몃㈃ ?묒? ?⑥닔濡??섎늻湲?
+4. **臾몄꽌??*: 蹂듭옟???⑥닔??docstring?쇰줈 ?ㅻ챸
 
-## 다음에 공부할 내용
+## ?ㅼ쓬??怨듬????댁슜
 
-다음 포스트에서는 리스트와 딕셔너리에 대해 공부해보겠습니다.
+?ㅼ쓬 ?ъ뒪?몄뿉?쒕뒗 由ъ뒪?몄? ?뺤뀛?덈━?????怨듬??대낫寃좎뒿?덈떎.
 

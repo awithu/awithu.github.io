@@ -1,66 +1,66 @@
 ---
 layout: post
-title:  "여행 영어 기초: 여행 중 필요한 표현들"
-date:   2026-02-20 09:00:00 +0900
-categories: [영어, 종합 학습]
-tags: [영어, 여행, travel, tourism]
-description: "여행 중에 필요한 기본 영어 표현을 배우고 공항, 호텔, 관광지에서 사용하는 표현을 익힙니다."
+title:  "?ы뻾 ?곸뼱 湲곗큹: ?ы뻾 以??꾩슂???쒗쁽??
+date:   2025-02-20 09:00:00 +0900
+categories: [?곸뼱, 醫낇빀 ?숈뒿]
+tags: [?곸뼱, ?ы뻾, travel, tourism]
+description: "?ы뻾 以묒뿉 ?꾩슂??湲곕낯 ?곸뼱 ?쒗쁽??諛곗슦怨?怨듯빆, ?명뀛, 愿愿묒??먯꽌 ?ъ슜?섎뒗 ?쒗쁽???듯옓?덈떎."
 ---
 
-# 여행 영어 기초: 여행 중 필요한 표현들
+# ?ы뻾 ?곸뼱 湲곗큹: ?ы뻾 以??꾩슂???쒗쁽??
 
-여행 중에는 영어가 매우 유용합니다. 공항, 호텔, 관광지에서 필요한 기본 표현을 배워봅시다.
+?ы뻾 以묒뿉???곸뼱媛 留ㅼ슦 ?좎슜?⑸땲?? 怨듯빆, ?명뀛, 愿愿묒??먯꽌 ?꾩슂??湲곕낯 ?쒗쁽??諛곗썙遊낆떆??
 
-## 1. 공항 표현
+## 1. 怨듯빆 ?쒗쁽
 
-### 체크인
-- **I'd like to check in.** (체크인하고 싶습니다.)
-- **Here's my passport.** (여기 제 여권입니다.)
-- **I have a reservation.** (예약이 있습니다.)
+### 泥댄겕??
+- **I'd like to check in.** (泥댄겕?명븯怨??띠뒿?덈떎.)
+- **Here's my passport.** (?ш린 ???ш텒?낅땲??)
+- **I have a reservation.** (?덉빟???덉뒿?덈떎.)
 
-### 탑승
-- **Where is gate 5?** (5번 게이트는 어디에 있나요?)
-- **What time does the flight leave?** (비행기는 몇 시에 출발하나요?)
+### ?묒듅
+- **Where is gate 5?** (5踰?寃뚯씠?몃뒗 ?대뵒???덈굹??)
+- **What time does the flight leave?** (鍮꾪뻾湲곕뒗 紐??쒖뿉 異쒕컻?섎굹??)
 
-## 2. 호텔 표현
+## 2. ?명뀛 ?쒗쁽
 
-### 체크인/체크아웃
-- **I have a reservation.** (예약이 있습니다.)
-- **I'd like to check out.** (체크아웃하고 싶습니다.)
-- **What time is checkout?** (체크아웃 시간은 언제인가요?)
+### 泥댄겕??泥댄겕?꾩썐
+- **I have a reservation.** (?덉빟???덉뒿?덈떎.)
+- **I'd like to check out.** (泥댄겕?꾩썐?섍퀬 ?띠뒿?덈떎.)
+- **What time is checkout?** (泥댄겕?꾩썐 ?쒓컙? ?몄젣?멸???)
 
-### 요청
-- **Can I have extra towels?** (수건을 더 주실 수 있나요?)
-- **Is there Wi-Fi?** (와이파이가 있나요?)
+### ?붿껌
+- **Can I have extra towels?** (?섍굔????二쇱떎 ???덈굹??)
+- **Is there Wi-Fi?** (??댄뙆?닿? ?덈굹??)
 
-## 3. 관광지 표현
+## 3. 愿愿묒? ?쒗쁽
 
-### 정보 요청
-- **Where is the museum?** (박물관은 어디에 있나요?)
-- **How much is the ticket?** (티켓은 얼마인가요?)
-- **What time does it open?** (몇 시에 열리나요?)
+### ?뺣낫 ?붿껌
+- **Where is the museum?** (諛뺣Ъ愿? ?대뵒???덈굹??)
+- **How much is the ticket?** (?곗폆? ?쇰쭏?멸???)
+- **What time does it open?** (紐??쒖뿉 ?대━?섏슂?)
 
-## 4. 실전 연습
+## 4. ?ㅼ쟾 ?곗뒿
 
-### 연습 1: 여행 표현
-다음 상황에 맞는 표현을 선택하세요:
-- 공항 체크인: **I'd like to check in.**
-- 호텔 예약 확인: **I have a reservation.**
-- 관광지 정보: **Where is the museum?**
+### ?곗뒿 1: ?ы뻾 ?쒗쁽
+?ㅼ쓬 ?곹솴??留욌뒗 ?쒗쁽???좏깮?섏꽭??
+- 怨듯빆 泥댄겕?? **I'd like to check in.**
+- ?명뀛 ?덉빟 ?뺤씤: **I have a reservation.**
+- 愿愿묒? ?뺣낫: **Where is the museum?**
 
-## 5. 핵심 요약
+## 5. ?듭떖 ?붿빟
 
-- **공항**: check in, passport, flight, gate
-- **호텔**: reservation, check in, check out
-- **관광지**: museum, ticket, open, close
+- **怨듯빆**: check in, passport, flight, gate
+- **?명뀛**: reservation, check in, check out
+- **愿愿묒?**: museum, ticket, open, close
 
-## 6. 다음 단계
+## 6. ?ㅼ쓬 ?④퀎
 
-여행 영어 기초를 배우셨나요? 다음 글에서는 **이메일과 메시지 쓰기**에 대해 배워보겠습니다. 영어로 이메일과 메시지를 작성하는 방법을 익혀봅시다!
+?ы뻾 ?곸뼱 湲곗큹瑜?諛곗슦?⑤굹?? ?ㅼ쓬 湲?먯꽌??**?대찓?쇨낵 硫붿떆吏 ?곌린**?????諛곗썙蹂닿쿋?듬땲?? ?곸뼱濡??대찓?쇨낵 硫붿떆吏瑜??묒꽦?섎뒗 諛⑸쾿???듯?遊낆떆??
 
-**추가 학습 팁:**
-- 여행 상황을 상상하며 연습하세요
-- 여행 표현을 외워서 사용하세요
+**異붽? ?숈뒿 ??**
+- ?ы뻾 ?곹솴???곸긽?섎ŉ ?곗뒿?섏꽭??
+- ?ы뻾 ?쒗쁽???몄썙???ъ슜?섏꽭??
 
-여행 영어를 익히면 해외 여행이 훨씬 쉬워집니다! ✈️🌍
+?ы뻾 ?곸뼱瑜??듯엳硫??댁쇅 ?ы뻾???⑥뵮 ?ъ썙吏묐땲?? ?덌툘?뙇
 

@@ -1,65 +1,65 @@
 ---
 layout: post
-title:  "파이썬 강의 8편: 문자열 처리"
-date:   2026-01-30 10:00:00 +0900
-categories: [IT, 파이썬 강의]
-tags: [파이썬, 문자열, string, 텍스트처리]
-description: "파이썬의 문자열 메서드, 포맷팅, 슬라이싱, 정규표현식 기초 등 문자열 처리의 모든 기능을 배웁니다."
+title:  "?뚯씠??媛뺤쓽 8?? 臾몄옄??泥섎━"
+date:   2025-01-30 10:00:00 +0900
+categories: [IT, ?뚯씠??媛뺤쓽]
+tags: [?뚯씠?? 臾몄옄?? string, ?띿뒪?몄쿂由?
+description: "?뚯씠?ъ쓽 臾몄옄??硫붿꽌?? ?щ㎎?? ?щ씪?댁떛, ?뺢퇋?쒗쁽??湲곗큹 ??臾몄옄??泥섎━??紐⑤뱺 湲곕뒫??諛곗썎?덈떎."
 ---
 
-# 파이썬 강의 8편: 문자열 처리
+# ?뚯씠??媛뺤쓽 8?? 臾몄옄??泥섎━
 
-## 문자열이란?
+## 臾몄옄?댁씠??
 
-문자열(String)은 문자들의 시퀀스입니다. 파이썬에서 문자열은 매우 강력하고 유연하게 처리할 수 있습니다.
+臾몄옄??String)? 臾몄옄?ㅼ쓽 ?쒗?ㅼ엯?덈떎. ?뚯씠?ъ뿉??臾몄옄?댁? 留ㅼ슦 媛뺣젰?섍퀬 ?좎뿰?섍쾶 泥섎━?????덉뒿?덈떎.
 
-## 문자열 생성
+## 臾몄옄???앹꽦
 
 ```python
-# 작은따옴표
+# ?묒??곗샂??
 str1 = 'Hello'
 
-# 큰따옴표
+# ?곕뵲?댄몴
 str2 = "World"
 
-# 삼중따옴표 (여러 줄)
-str3 = """여러 줄
-문자열입니다"""
+# ?쇱쨷?곗샂??(?щ윭 以?
+str3 = """?щ윭 以?
+臾몄옄?댁엯?덈떎"""
 
-# 이스케이프 문자
-str4 = "안녕하세요\n줄바꿈입니다"
+# ?댁뒪耳?댄봽 臾몄옄
+str4 = "?덈뀞?섏꽭??n以꾨컮轅덉엯?덈떎"
 ```
 
-## 문자열 접근
+## 臾몄옄???묎렐
 
-인덱스로 문자에 접근할 수 있습니다:
+?몃뜳?ㅻ줈 臾몄옄???묎렐?????덉뒿?덈떎:
 
 ```python
 text = "Python"
 
-print(text[0])   # P (첫 번째 문자)
-print(text[-1])  # n (마지막 문자)
-print(text[1:4]) # yth (슬라이싱)
+print(text[0])   # P (泥?踰덉㎏ 臾몄옄)
+print(text[-1])  # n (留덉?留?臾몄옄)
+print(text[1:4]) # yth (?щ씪?댁떛)
 ```
 
-## 문자열 연산
+## 臾몄옄???곗궛
 
 ```python
-# 연결
-greeting = "안녕" + "하세요"
-print(greeting)  # 안녕하세요
+# ?곌껐
+greeting = "?덈뀞" + "?섏꽭??
+print(greeting)  # ?덈뀞?섏꽭??
 
-# 반복
+# 諛섎났
 print("Hello" * 3)  # HelloHelloHello
 
-# 길이
+# 湲몄씠
 text = "Python"
 print(len(text))  # 6
 ```
 
-## 문자열 메서드
+## 臾몄옄??硫붿꽌??
 
-### 대소문자 변환
+### ??뚮Ц??蹂??
 
 ```python
 text = "Hello World"
@@ -70,43 +70,43 @@ print(text.capitalize())  # Hello world
 print(text.title())    # Hello World
 ```
 
-### 공백 제거
+### 怨듬갚 ?쒓굅
 
 ```python
 text = "  Python  "
 
-print(text.strip())    # Python (양쪽 공백 제거)
-print(text.lstrip())   # Python  (왼쪽 공백 제거)
-print(text.rstrip())   #   Python (오른쪽 공백 제거)
+print(text.strip())    # Python (?묒そ 怨듬갚 ?쒓굅)
+print(text.lstrip())   # Python  (?쇱そ 怨듬갚 ?쒓굅)
+print(text.rstrip())   #   Python (?ㅻⅨ履?怨듬갚 ?쒓굅)
 ```
 
-### 문자열 찾기
+### 臾몄옄??李얘린
 
 ```python
 text = "Hello World"
 
-print(text.find("World"))    # 6 (인덱스 반환)
-print(text.find("Python"))   # -1 (없으면 -1)
+print(text.find("World"))    # 6 (?몃뜳??諛섑솚)
+print(text.find("Python"))   # -1 (?놁쑝硫?-1)
 print(text.index("World"))   # 6
 print("World" in text)       # True
-print(text.count("l"))       # 3 (개수)
+print(text.count("l"))       # 3 (媛쒖닔)
 ```
 
-### 문자열 분할과 결합
+### 臾몄옄??遺꾪븷怨?寃고빀
 
 ```python
-# split(): 문자열 분할
-text = "사과,바나나,오렌지"
+# split(): 臾몄옄??遺꾪븷
+text = "?ш낵,諛붾굹???ㅻ젋吏"
 fruits = text.split(",")
-print(fruits)  # ['사과', '바나나', '오렌지']
+print(fruits)  # ['?ш낵', '諛붾굹??, '?ㅻ젋吏']
 
-# join(): 문자열 결합
-fruits = ["사과", "바나나", "오렌지"]
+# join(): 臾몄옄??寃고빀
+fruits = ["?ш낵", "諛붾굹??, "?ㅻ젋吏"]
 text = ", ".join(fruits)
-print(text)  # 사과, 바나나, 오렌지
+print(text)  # ?ш낵, 諛붾굹?? ?ㅻ젋吏
 ```
 
-### 문자열 교체
+### 臾몄옄??援먯껜
 
 ```python
 text = "Hello World"
@@ -115,79 +115,79 @@ new_text = text.replace("World", "Python")
 print(new_text)  # Hello Python
 ```
 
-### 문자열 검사
+### 臾몄옄??寃??
 
 ```python
 text = "Hello123"
 
-print(text.isdigit())    # False (모두 숫자인지)
-print(text.isalpha())    # False (모두 문자인지)
-print(text.isalnum())    # True (문자 또는 숫자인지)
+print(text.isdigit())    # False (紐⑤몢 ?レ옄?몄?)
+print(text.isalpha())    # False (紐⑤몢 臾몄옄?몄?)
+print(text.isalnum())    # True (臾몄옄 ?먮뒗 ?レ옄?몄?)
 print(text.startswith("Hello"))  # True
 print(text.endswith("123"))      # True
 ```
 
-## 문자열 포맷팅
+## 臾몄옄???щ㎎??
 
-### f-string (권장, Python 3.6+)
+### f-string (沅뚯옣, Python 3.6+)
 
 ```python
-name = "홍길동"
+name = "?띻만??
 age = 25
 
-text = f"이름: {name}, 나이: {age}세"
-print(text)  # 이름: 홍길동, 나이: 25세
+text = f"?대쫫: {name}, ?섏씠: {age}??
+print(text)  # ?대쫫: ?띻만?? ?섏씠: 25??
 
-# 표현식 사용
-text = f"내년 나이: {age + 1}세"
-print(text)  # 내년 나이: 26세
+# ?쒗쁽???ъ슜
+text = f"?대뀈 ?섏씠: {age + 1}??
+print(text)  # ?대뀈 ?섏씠: 26??
 
-# 포맷 지정
+# ?щ㎎ 吏??
 pi = 3.14159
-print(f"원주율: {pi:.2f}")  # 원주율: 3.14
+print(f"?먯＜?? {pi:.2f}")  # ?먯＜?? 3.14
 ```
 
-### format() 메서드
+### format() 硫붿꽌??
 
 ```python
-name = "홍길동"
+name = "?띻만??
 age = 25
 
-text = "이름: {}, 나이: {}세".format(name, age)
-print(text)  # 이름: 홍길동, 나이: 25세
+text = "?대쫫: {}, ?섏씠: {}??.format(name, age)
+print(text)  # ?대쫫: ?띻만?? ?섏씠: 25??
 
-# 인덱스 사용
-text = "이름: {0}, 나이: {1}세, 이름: {0}".format(name, age)
+# ?몃뜳???ъ슜
+text = "?대쫫: {0}, ?섏씠: {1}?? ?대쫫: {0}".format(name, age)
 
-# 키워드 사용
-text = "이름: {name}, 나이: {age}세".format(name=name, age=age)
+# ?ㅼ썙???ъ슜
+text = "?대쫫: {name}, ?섏씠: {age}??.format(name=name, age=age)
 ```
 
-### % 포맷팅 (구식)
+### % ?щ㎎??(援ъ떇)
 
 ```python
-name = "홍길동"
+name = "?띻만??
 age = 25
 
-text = "이름: %s, 나이: %d세" % (name, age)
-print(text)  # 이름: 홍길동, 나이: 25세
+text = "?대쫫: %s, ?섏씠: %d?? % (name, age)
+print(text)  # ?대쫫: ?띻만?? ?섏씠: 25??
 ```
 
-## 실전 예제: 문자열 뒤집기
+## ?ㅼ쟾 ?덉젣: 臾몄옄???ㅼ쭛湲?
 
 ```python
 text = "Python"
 
-# 방법 1: 슬라이싱
+# 諛⑸쾿 1: ?щ씪?댁떛
 reversed_text = text[::-1]
 print(reversed_text)  # nohtyP
 
-# 방법 2: reversed()와 join()
+# 諛⑸쾿 2: reversed()? join()
 reversed_text = "".join(reversed(text))
 print(reversed_text)  # nohtyP
 ```
 
-## 실전 예제: 회문(Palindrome) 확인
+## ?ㅼ쟾 ?덉젣: ?뚮Ц(Palindrome) ?뺤씤
 
 ```python
 def is_palindrome(text):
@@ -199,20 +199,20 @@ print(is_palindrome("hello"))     # False
 print(is_palindrome("A man a plan a canal Panama"))  # True
 ```
 
-## 실전 예제: 단어 개수 세기
+## ?ㅼ쟾 ?덉젣: ?⑥뼱 媛쒖닔 ?멸린
 
 ```python
 text = "Hello World Python Programming"
 
 words = text.split()
-print(f"단어 개수: {len(words)}")  # 4
+print(f"?⑥뼱 媛쒖닔: {len(words)}")  # 4
 
-# 각 단어의 길이
+# 媛??⑥뼱??湲몄씠
 for word in words:
-    print(f"{word}: {len(word)}글자")
+    print(f"{word}: {len(word)}湲??)
 ```
 
-## 실전 예제: 이메일 검증
+## ?ㅼ쟾 ?덉젣: ?대찓??寃利?
 
 ```python
 def is_valid_email(email):
@@ -236,17 +236,17 @@ print(is_valid_email("test@example.com"))  # True
 print(is_valid_email("invalid.email"))     # False
 ```
 
-## 실전 예제: 텍스트 통계
+## ?ㅼ쟾 ?덉젣: ?띿뒪???듦퀎
 
 ```python
 def text_statistics(text):
     stats = {
-        "문자 수": len(text),
-        "단어 수": len(text.split()),
-        "줄 수": text.count("\n") + 1,
-        "대문자": sum(1 for c in text if c.isupper()),
-        "소문자": sum(1 for c in text if c.islower()),
-        "숫자": sum(1 for c in text if c.isdigit())
+        "臾몄옄 ??: len(text),
+        "?⑥뼱 ??: len(text.split()),
+        "以???: text.count("\n") + 1,
+        "?臾몄옄": sum(1 for c in text if c.isupper()),
+        "?뚮Ц??: sum(1 for c in text if c.islower()),
+        "?レ옄": sum(1 for c in text if c.isdigit())
     }
     return stats
 
@@ -259,41 +259,41 @@ for key, value in stats.items():
     print(f"{key}: {value}")
 ```
 
-## 정규표현식 기초 (re 모듈)
+## ?뺢퇋?쒗쁽??湲곗큹 (re 紐⑤뱢)
 
 ```python
 import re
 
-text = "연락처: 010-XXXX-XXXX"
+text = "?곕씫泥? 010-XXXX-XXXX"
 
-# 전화번호 패턴 찾기 (예시)
+# ?꾪솕踰덊샇 ?⑦꽩 李얘린 (?덉떆)
 pattern = r"\d{3}-[X\d]{4}-[X\d]{4}"
 match = re.search(pattern, text)
 if match:
-    print(f"전화번호 패턴: {match.group()}")  # 010-XXXX-XXXX
+    print(f"?꾪솕踰덊샇 ?⑦꽩: {match.group()}")  # 010-XXXX-XXXX
 
-# 이메일 찾기
-text = "이메일: test@example.com"
+# ?대찓??李얘린
+text = "?대찓?? test@example.com"
 pattern = r"\b[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Z|a-z]{2,}\b"
 match = re.search(pattern, text)
 if match:
-    print(f"이메일: {match.group()}")  # test@example.com
+    print(f"?대찓?? {match.group()}")  # test@example.com
 ```
 
-## 문자열 인코딩/디코딩
+## 臾몄옄???몄퐫???붿퐫??
 
 ```python
-# 문자열을 바이트로
-text = "안녕하세요"
+# 臾몄옄?댁쓣 諛붿씠?몃줈
+text = "?덈뀞?섏꽭??
 encoded = text.encode("utf-8")
 print(encoded)  # b'\xec\x95\x88\xeb\x85\x95...'
 
-# 바이트를 문자열로
+# 諛붿씠?몃? 臾몄옄?대줈
 decoded = encoded.decode("utf-8")
-print(decoded)  # 안녕하세요
+print(decoded)  # ?덈뀞?섏꽭??
 ```
 
-## 다음에 공부할 내용
+## ?ㅼ쓬??怨듬????댁슜
 
-다음 포스트에서는 파일 입출력에 대해 공부해보겠습니다.
+?ㅼ쓬 ?ъ뒪?몄뿉?쒕뒗 ?뚯씪 ?낆텧?μ뿉 ???怨듬??대낫寃좎뒿?덈떎.
 

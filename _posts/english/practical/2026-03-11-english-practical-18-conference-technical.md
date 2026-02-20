@@ -1,151 +1,151 @@
 ---
 layout: post
-title:  "출장 영어 8편: AI 컨퍼런스 기술 질문과 데모"
-date:   2026-03-11 09:00:00 +0900
-categories: [영어, 실전 영어]
-tags: [영어, 출장, business travel, conference, technical questions, AI technology]
-description: "AI 컨퍼런스에서 기술적인 질문을 하고 데모를 요청할 때 필요한 영어 표현을 배우고 전문적인 대화를 나누는 방법을 익힙니다."
+title:  "異쒖옣 ?곸뼱 8?? AI 而⑦띁?곗뒪 湲곗닠 吏덈Ц怨??곕え"
+date:   2025-03-11 09:00:00 +0900
+categories: [?곸뼱, ?ㅼ쟾 ?곸뼱]
+tags: [?곸뼱, 異쒖옣, business travel, conference, technical questions, AI technology]
+description: "AI 而⑦띁?곗뒪?먯꽌 湲곗닠?곸씤 吏덈Ц???섍퀬 ?곕え瑜??붿껌?????꾩슂???곸뼱 ?쒗쁽??諛곗슦怨??꾨Ц?곸씤 ??붾? ?섎늻??諛⑸쾿???듯옓?덈떎."
 ---
 
-# 출장 영어 8편: AI 컨퍼런스 기술 질문과 데모
+# 異쒖옣 ?곸뼱 8?? AI 而⑦띁?곗뒪 湲곗닠 吏덈Ц怨??곕え
 
-AI 컨퍼런스에서 기술적인 질문을 하는 것은 제품을 깊이 이해하는 데 중요합니다. 기술 질문과 데모에 필요한 영어 표현을 배워봅시다.
+AI 而⑦띁?곗뒪?먯꽌 湲곗닠?곸씤 吏덈Ц???섎뒗 寃껋? ?쒗뭹??源딆씠 ?댄빐?섎뒗 ??以묒슂?⑸땲?? 湲곗닠 吏덈Ц怨??곕え???꾩슂???곸뼱 ?쒗쁽??諛곗썙遊낆떆??
 
-## 1. AI 모델 및 기술 질문
+## 1. AI 紐⑤뜽 諛?湲곗닠 吏덈Ц
 
-### AI 모델 문의
-- **What AI models do you use?** (어떤 AI 모델을 사용하나요?)
-- **Do you use GPT, BERT, or custom models?** (GPT, BERT, 또는 커스텀 모델을 사용하나요?)
-- **What's the architecture of your model?** (모델의 아키텍처가 무엇인가요?)
-- **Is this based on transformer architecture?** (이것은 트랜스포머 아키텍처 기반인가요?)
+### AI 紐⑤뜽 臾몄쓽
+- **What AI models do you use?** (?대뼡 AI 紐⑤뜽???ъ슜?섎굹??)
+- **Do you use GPT, BERT, or custom models?** (GPT, BERT, ?먮뒗 而ㅼ뒪? 紐⑤뜽???ъ슜?섎굹??)
+- **What's the architecture of your model?** (紐⑤뜽???꾪궎?띿쿂媛 臾댁뾿?멸???)
+- **Is this based on transformer architecture?** (?닿쾬? ?몃옖?ㅽ룷癒??꾪궎?띿쿂 湲곕컲?멸???)
 
-### 모델 성능
-- **What's the accuracy rate?** (정확도는 얼마나 되나요?)
-- **What's the precision and recall?** (정밀도와 재현율이 얼마인가요?)
-- **How does it perform on benchmark tests?** (벤치마크 테스트에서 성능이 어떤가요?)
-- **What's the inference speed?** (추론 속도가 얼마인가요?)
+### 紐⑤뜽 ?깅뒫
+- **What's the accuracy rate?** (?뺥솗?꾨뒗 ?쇰쭏???섎굹??)
+- **What's the precision and recall?** (?뺣??꾩? ?ы쁽?⑥씠 ?쇰쭏?멸???)
+- **How does it perform on benchmark tests?** (踰ㅼ튂留덊겕 ?뚯뒪?몄뿉???깅뒫???대뼡媛??)
+- **What's the inference speed?** (異붾줎 ?띾룄媛 ?쇰쭏?멸???)
 
-### 데이터 관련
-- **What's the training data size?** (훈련 데이터 크기는 얼마인가요?)
-- **What kind of data do you use?** (어떤 종류의 데이터를 사용하나요?)
-- **How do you handle data preprocessing?** (데이터 전처리는 어떻게 처리하나요?)
-- **Is the data labeled or unlabeled?** (데이터가 레이블이 있는가요, 없는가요?)
+### ?곗씠??愿??
+- **What's the training data size?** (?덈젴 ?곗씠???ш린???쇰쭏?멸???)
+- **What kind of data do you use?** (?대뼡 醫낅쪟???곗씠?곕? ?ъ슜?섎굹??)
+- **How do you handle data preprocessing?** (?곗씠???꾩쿂由щ뒗 ?대뼸寃?泥섎━?섎굹??)
+- **Is the data labeled or unlabeled?** (?곗씠?곌? ?덉씠釉붿씠 ?덈뒗媛?? ?녿뒗媛??)
 
-## 2. 데이터 프라이버시 및 보안
+## 2. ?곗씠???꾨씪?대쾭??諛?蹂댁븞
 
-### 프라이버시 질문
-- **How do you handle data privacy?** (데이터 프라이버시는 어떻게 처리하나요?)
-- **Is the data encrypted?** (데이터가 암호화되어 있나요?)
-- **Where is the data stored?** (데이터는 어디에 저장되나요?)
-- **Do you comply with GDPR?** (GDPR을 준수하나요?)
+### ?꾨씪?대쾭??吏덈Ц
+- **How do you handle data privacy?** (?곗씠???꾨씪?대쾭?쒕뒗 ?대뼸寃?泥섎━?섎굹??)
+- **Is the data encrypted?** (?곗씠?곌? ?뷀샇?붾릺???덈굹??)
+- **Where is the data stored?** (?곗씠?곕뒗 ?대뵒????λ릺?섏슂?)
+- **Do you comply with GDPR?** (GDPR??以?섑븯?섏슂?)
 
-### 보안 질문
-- **What security measures do you have?** (어떤 보안 조치가 있나요?)
-- **How do you protect user data?** (사용자 데이터를 어떻게 보호하나요?)
-- **Is there two-factor authentication?** (2단계 인증이 있나요?)
-- **What's your data retention policy?** (데이터 보관 정책이 무엇인가요?)
+### 蹂댁븞 吏덈Ц
+- **What security measures do you have?** (?대뼡 蹂댁븞 議곗튂媛 ?덈굹??)
+- **How do you protect user data?** (?ъ슜???곗씠?곕? ?대뼸寃?蹂댄샇?섎굹??)
+- **Is there two-factor authentication?** (2?④퀎 ?몄쬆???덈굹??)
+- **What's your data retention policy?** (?곗씠??蹂닿? ?뺤콉??臾댁뾿?멸???)
 
-## 3. 통합 및 호환성
+## 3. ?듯빀 諛??명솚??
 
-### 시스템 통합
-- **Can it integrate with existing systems?** (기존 시스템과 통합 가능한가요?)
-- **What APIs do you provide?** (어떤 API를 제공하나요?)
-- **Is there a REST API?** (REST API가 있나요?)
-- **Can I integrate this with my CRM?** (이것을 제 CRM과 통합할 수 있나요?)
+### ?쒖뒪???듯빀
+- **Can it integrate with existing systems?** (湲곗〈 ?쒖뒪?쒓낵 ?듯빀 媛?ν븳媛??)
+- **What APIs do you provide?** (?대뼡 API瑜??쒓났?섎굹??)
+- **Is there a REST API?** (REST API媛 ?덈굹??)
+- **Can I integrate this with my CRM?** (?닿쾬????CRM怨??듯빀?????덈굹??)
 
-### 호환성
-- **What platforms does it support?** (어떤 플랫폼을 지원하나요?)
-- **Does it work with cloud services?** (클라우드 서비스와 작동하나요?)
-- **Is it compatible with AWS/Azure/GCP?** (AWS/Azure/GCP와 호환되나요?)
-- **What programming languages are supported?** (어떤 프로그래밍 언어를 지원하나요?)
+### ?명솚??
+- **What platforms does it support?** (?대뼡 ?뚮옯?쇱쓣 吏?먰븯?섏슂?)
+- **Does it work with cloud services?** (?대씪?곕뱶 ?쒕퉬?ㅼ? ?묐룞?섎굹??)
+- **Is it compatible with AWS/Azure/GCP?** (AWS/Azure/GCP? ?명솚?섎굹??)
+- **What programming languages are supported?** (?대뼡 ?꾨줈洹몃옒諛??몄뼱瑜?吏?먰븯?섏슂?)
 
-## 4. 데모 및 실습
+## 4. ?곕え 諛??ㅼ뒿
 
-### 데모 요청
-- **Can you show me a live demo?** (라이브 데모를 보여주실 수 있나요?)
-- **I'd like to see it in action.** (실제 작동하는 것을 보고 싶습니다.)
-- **Can you walk me through the process?** (과정을 설명해 주실 수 있나요?)
-- **Is there a sandbox environment I can try?** (시도해볼 수 있는 샌드박스 환경이 있나요?)
+### ?곕え ?붿껌
+- **Can you show me a live demo?** (?쇱씠釉??곕え瑜?蹂댁뿬二쇱떎 ???덈굹??)
+- **I'd like to see it in action.** (?ㅼ젣 ?묐룞?섎뒗 寃껋쓣 蹂닿퀬 ?띠뒿?덈떎.)
+- **Can you walk me through the process?** (怨쇱젙???ㅻ챸??二쇱떎 ???덈굹??)
+- **Is there a sandbox environment I can try?** (?쒕룄?대낵 ???덈뒗 ?뚮뱶諛뺤뒪 ?섍꼍???덈굹??)
 
-### 데모 중 질문
-- **How long does the training take?** (훈련하는 데 얼마나 걸리나요?)
-- **What's the deployment process?** (배포 과정이 어떤가요?)
-- **Can I customize this?** (이것을 커스터마이징할 수 있나요?)
-- **How do I monitor the performance?** (성능을 어떻게 모니터링하나요?)
+### ?곕え 以?吏덈Ц
+- **How long does the training take?** (?덈젴?섎뒗 ???쇰쭏??嫄몃━?섏슂?)
+- **What's the deployment process?** (諛고룷 怨쇱젙???대뼡媛??)
+- **Can I customize this?** (?닿쾬??而ㅼ뒪?곕쭏?댁쭠?????덈굹??)
+- **How do I monitor the performance?** (?깅뒫???대뼸寃?紐⑤땲?곕쭅?섎굹??)
 
-## 5. 확장성 및 성능
+## 5. ?뺤옣??諛??깅뒫
 
-### 확장성 질문
-- **How scalable is this solution?** (이 솔루션의 확장성은 어떤가요?)
-- **Can it handle large volumes of data?** (대용량 데이터를 처리할 수 있나요?)
-- **What's the maximum number of users?** (최대 사용자 수가 얼마인가요?)
-- **How does it perform under load?** (부하 하에서 성능이 어떤가요?)
+### ?뺤옣??吏덈Ц
+- **How scalable is this solution?** (???붾（?섏쓽 ?뺤옣?깆? ?대뼡媛??)
+- **Can it handle large volumes of data?** (??⑸웾 ?곗씠?곕? 泥섎━?????덈굹??)
+- **What's the maximum number of users?** (理쒕? ?ъ슜???섍? ?쇰쭏?멸???)
+- **How does it perform under load?** (遺???섏뿉???깅뒫???대뼡媛??)
 
-### 성능 최적화
-- **How do you optimize performance?** (성능을 어떻게 최적화하나요?)
-- **What's the response time?** (응답 시간이 얼마인가요?)
-- **Can it process real-time data?** (실시간 데이터를 처리할 수 있나요?)
-- **What's the throughput?** (처리량이 얼마인가요?)
+### ?깅뒫 理쒖쟻??
+- **How do you optimize performance?** (?깅뒫???대뼸寃?理쒖쟻?뷀븯?섏슂?)
+- **What's the response time?** (?묐떟 ?쒓컙???쇰쭏?멸???)
+- **Can it process real-time data?** (?ㅼ떆媛??곗씠?곕? 泥섎━?????덈굹??)
+- **What's the throughput?** (泥섎━?됱씠 ?쇰쭏?멸???)
 
-## 6. 실전 대화 예문
+## 6. ?ㅼ쟾 ????덈Ц
 
-### 대화 1: 기술 질문
+### ???1: 湲곗닠 吏덈Ц
 **You:** What AI models do you use in your platform?
-(플랫폼에서 어떤 AI 모델을 사용하나요?)
+(?뚮옯?쇱뿉???대뼡 AI 紐⑤뜽???ъ슜?섎굹??)
 
 **Technical Staff:** We use a combination of transformer-based models and custom neural networks.
-(트랜스포머 기반 모델과 커스텀 신경망의 조합을 사용합니다.)
+(?몃옖?ㅽ룷癒?湲곕컲 紐⑤뜽怨?而ㅼ뒪? ?좉꼍留앹쓽 議고빀???ъ슜?⑸땲??)
 
 **You:** What's the accuracy rate?
-(정확도는 얼마나 되나요?)
+(?뺥솗?꾨뒗 ?쇰쭏???섎굹??)
 
 **Technical Staff:** We achieve 95% accuracy on our benchmark dataset. Would you like to see the performance metrics?
-(벤치마크 데이터셋에서 95% 정확도를 달성합니다. 성능 지표를 보시겠어요?)
+(踰ㅼ튂留덊겕 ?곗씠?곗뀑?먯꽌 95% ?뺥솗?꾨? ?ъ꽦?⑸땲?? ?깅뒫 吏?쒕? 蹂댁떆寃좎뼱??)
 
-### 대화 2: 통합 질문
+### ???2: ?듯빀 吏덈Ц
 **You:** Can it integrate with existing systems?
-(기존 시스템과 통합 가능한가요?)
+(湲곗〈 ?쒖뒪?쒓낵 ?듯빀 媛?ν븳媛??)
 
 **Technical Staff:** Yes, we provide REST APIs and SDKs for Python, Java, and JavaScript.
-(네, REST API와 Python, Java, JavaScript용 SDK를 제공합니다.)
+(?? REST API? Python, Java, JavaScript??SDK瑜??쒓났?⑸땲??)
 
 **You:** How long does the integration process take?
-(통합 과정은 얼마나 걸리나요?)
+(?듯빀 怨쇱젙? ?쇰쭏??嫄몃━?섏슂?)
 
 **Technical Staff:** Typically, it takes 2-3 weeks depending on your system complexity. We provide full documentation and support.
-(일반적으로 시스템 복잡도에 따라 2-3주 걸립니다. 전체 문서와 지원을 제공합니다.)
+(?쇰컲?곸쑝濡??쒖뒪??蹂듭옟?꾩뿉 ?곕씪 2-3二?嫄몃┰?덈떎. ?꾩껜 臾몄꽌? 吏?먯쓣 ?쒓났?⑸땲??)
 
-## 7. 실전 연습
+## 7. ?ㅼ쟾 ?곗뒿
 
-### 연습 1: 기술 질문
-다음 표현을 사용하여 기술 질문을 하세요:
-- AI 모델: **What AI models do you use?**
-- 정확도: **What's the accuracy rate?**
-- 데이터: **What's the training data size?**
+### ?곗뒿 1: 湲곗닠 吏덈Ц
+?ㅼ쓬 ?쒗쁽???ъ슜?섏뿬 湲곗닠 吏덈Ц???섏꽭??
+- AI 紐⑤뜽: **What AI models do you use?**
+- ?뺥솗?? **What's the accuracy rate?**
+- ?곗씠?? **What's the training data size?**
 
-### 연습 2: 통합 및 데모
-- 통합: **Can it integrate with existing systems?**
-- 데모 요청: **Can you show me a live demo?**
-- 성능: **How scalable is this solution?**
+### ?곗뒿 2: ?듯빀 諛??곕え
+- ?듯빀: **Can it integrate with existing systems?**
+- ?곕え ?붿껌: **Can you show me a live demo?**
+- ?깅뒫: **How scalable is this solution?**
 
-## 8. 핵심 요약
+## 8. ?듭떖 ?붿빟
 
-- **AI 모델**: models, architecture, transformer, custom models
-- **성능**: accuracy, precision, recall, inference speed
-- **데이터**: training data, preprocessing, labeled, unlabeled
-- **프라이버시**: data privacy, encrypted, GDPR, security
-- **통합**: integrate, APIs, REST API, compatible
-- **데모**: live demo, sandbox, walk through, customize
-- **확장성**: scalable, handle large volumes, under load, throughput
+- **AI 紐⑤뜽**: models, architecture, transformer, custom models
+- **?깅뒫**: accuracy, precision, recall, inference speed
+- **?곗씠??*: training data, preprocessing, labeled, unlabeled
+- **?꾨씪?대쾭??*: data privacy, encrypted, GDPR, security
+- **?듯빀**: integrate, APIs, REST API, compatible
+- **?곕え**: live demo, sandbox, walk through, customize
+- **?뺤옣??*: scalable, handle large volumes, under load, throughput
 
-## 9. 다음 단계
+## 9. ?ㅼ쓬 ?④퀎
 
-기술 질문과 데모를 배우셨나요? 다음 글에서는 **AI 컨퍼런스 비즈니스 미팅과 네트워킹**에 대해 배워보겠습니다. 컨퍼런스에서 비즈니스 관계를 구축하는 표현을 익혀봅시다!
+湲곗닠 吏덈Ц怨??곕え瑜?諛곗슦?⑤굹?? ?ㅼ쓬 湲?먯꽌??**AI 而⑦띁?곗뒪 鍮꾩쫰?덉뒪 誘명똿怨??ㅽ듃?뚰궧**?????諛곗썙蹂닿쿋?듬땲?? 而⑦띁?곗뒪?먯꽌 鍮꾩쫰?덉뒪 愿怨꾨? 援ъ텞?섎뒗 ?쒗쁽???듯?遊낆떆??
 
-**추가 학습 팁:**
-- 기술 질문을 미리 준비하세요
-- 전문 용어를 정확히 사용하세요
-- 데모를 요청하고 직접 체험해보세요
+**異붽? ?숈뒿 ??**
+- 湲곗닠 吏덈Ц??誘몃━ 以鍮꾪븯?몄슂
+- ?꾨Ц ?⑹뼱瑜??뺥솗???ъ슜?섏꽭??
+- ?곕え瑜??붿껌?섍퀬 吏곸젒 泥댄뿕?대낫?몄슂
 
-기술적인 대화를 자신감 있게 나누는 표현을 기억하세요! 🤖💻
+湲곗닠?곸씤 ??붾? ?먯떊媛??덇쾶 ?섎늻???쒗쁽??湲곗뼲?섏꽭?? ?쨼?뮲
 

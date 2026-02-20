@@ -1,156 +1,156 @@
 ---
 layout: post
-title:  "출장 영어 4편: 호텔 시설 이용과 문제 해결"
-date:   2026-03-07 09:00:00 +0900
-categories: [영어, 실전 영어]
-tags: [영어, 출장, business travel, hotel, facilities, problem solving]
-description: "호텔 시설을 이용하고 문제가 발생했을 때 해결하는 영어 표현을 배우고 호텔에서 발생할 수 있는 상황에 대비합니다."
+title:  "異쒖옣 ?곸뼱 4?? ?명뀛 ?쒖꽕 ?댁슜怨?臾몄젣 ?닿껐"
+date:   2025-03-07 09:00:00 +0900
+categories: [?곸뼱, ?ㅼ쟾 ?곸뼱]
+tags: [?곸뼱, 異쒖옣, business travel, hotel, facilities, problem solving]
+description: "?명뀛 ?쒖꽕???댁슜?섍퀬 臾몄젣媛 諛쒖깮?덉쓣 ???닿껐?섎뒗 ?곸뼱 ?쒗쁽??諛곗슦怨??명뀛?먯꽌 諛쒖깮?????덈뒗 ?곹솴???鍮꾪빀?덈떎."
 ---
 
-# 출장 영어 4편: 호텔 시설 이용과 문제 해결
+# 異쒖옣 ?곸뼱 4?? ?명뀛 ?쒖꽕 ?댁슜怨?臾몄젣 ?닿껐
 
-호텔에서 시설을 이용하다 보면 문제가 발생할 수 있습니다. 시설 이용과 문제 해결에 필요한 영어 표현을 배워봅시다.
+?명뀛?먯꽌 ?쒖꽕???댁슜?섎떎 蹂대㈃ 臾몄젣媛 諛쒖깮?????덉뒿?덈떎. ?쒖꽕 ?댁슜怨?臾몄젣 ?닿껐???꾩슂???곸뼱 ?쒗쁽??諛곗썙遊낆떆??
 
-## 1. 호텔 시설 이용
+## 1. ?명뀛 ?쒖꽕 ?댁슜
 
-### 비즈니스 센터
-- **Can I use the business center?** (비즈니스 센터를 사용할 수 있나요?)
-- **Is there a printer I can use?** (사용할 수 있는 프린터가 있나요?)
-- **Can I use the computer?** (컴퓨터를 사용할 수 있나요?)
-- **How much does printing cost?** (인쇄 비용은 얼마인가요?)
+### 鍮꾩쫰?덉뒪 ?쇳꽣
+- **Can I use the business center?** (鍮꾩쫰?덉뒪 ?쇳꽣瑜??ъ슜?????덈굹??)
+- **Is there a printer I can use?** (?ъ슜?????덈뒗 ?꾨┛?곌? ?덈굹??)
+- **Can I use the computer?** (而댄벂?곕? ?ъ슜?????덈굹??)
+- **How much does printing cost?** (?몄뇙 鍮꾩슜? ?쇰쭏?멸???)
 
-### 회의실
-- **Can I reserve a meeting room?** (회의실을 예약할 수 있나요?)
-- **How much does it cost to use the conference room?** (회의실 사용 비용은 얼마인가요?)
-- **What equipment is available?** (어떤 장비가 있나요?)
-- **Is there a projector?** (프로젝터가 있나요?)
+### ?뚯쓽??
+- **Can I reserve a meeting room?** (?뚯쓽?ㅼ쓣 ?덉빟?????덈굹??)
+- **How much does it cost to use the conference room?** (?뚯쓽???ъ슜 鍮꾩슜? ?쇰쭏?멸???)
+- **What equipment is available?** (?대뼡 ?λ퉬媛 ?덈굹??)
+- **Is there a projector?** (?꾨줈?앺꽣媛 ?덈굹??)
 
-### 체육관과 수영장
-- **What time does the gym open?** (체육관은 몇 시에 열리나요?)
-- **Is the gym open 24 hours?** (체육관이 24시간 운영되나요?)
-- **Where is the swimming pool?** (수영장은 어디에 있나요?)
-- **Do I need to bring a towel?** (수건을 가져와야 하나요?)
+### 泥댁쑁愿怨??섏쁺??
+- **What time does the gym open?** (泥댁쑁愿? 紐??쒖뿉 ?대━?섏슂?)
+- **Is the gym open 24 hours?** (泥댁쑁愿??24?쒓컙 ?댁쁺?섎굹??)
+- **Where is the swimming pool?** (?섏쁺?μ? ?대뵒???덈굹??)
+- **Do I need to bring a towel?** (?섍굔??媛?몄????섎굹??)
 
-### 레스토랑과 바
-- **What time does the restaurant open?** (레스토랑은 몇 시에 열리나요?)
-- **Do I need a reservation?** (예약이 필요한가요?)
-- **What's on the menu?** (메뉴에 뭐가 있나요?)
-- **Is breakfast included?** (아침 식사가 포함되어 있나요?)
+### ?덉뒪?좊옉怨?諛?
+- **What time does the restaurant open?** (?덉뒪?좊옉? 紐??쒖뿉 ?대━?섏슂?)
+- **Do I need a reservation?** (?덉빟???꾩슂?쒓???)
+- **What's on the menu?** (硫붾돱??萸먭? ?덈굹??)
+- **Is breakfast included?** (?꾩묠 ?앹궗媛 ?ы븿?섏뼱 ?덈굹??)
 
-## 2. 문제 해결
+## 2. 臾몄젣 ?닿껐
 
-### 키 카드 문제
-- **The key card doesn't work.** (키 카드가 작동하지 않습니다.)
-- **My key card isn't opening the door.** (키 카드로 문이 열리지 않습니다.)
-- **Can I get a new key card?** (새 키 카드를 받을 수 있나요?)
-- **I lost my key card.** (키 카드를 잃어버렸습니다.)
+### ??移대뱶 臾몄젣
+- **The key card doesn't work.** (??移대뱶媛 ?묐룞?섏? ?딆뒿?덈떎.)
+- **My key card isn't opening the door.** (??移대뱶濡?臾몄씠 ?대━吏 ?딆뒿?덈떎.)
+- **Can I get a new key card?** (????移대뱶瑜?諛쏆쓣 ???덈굹??)
+- **I lost my key card.** (??移대뱶瑜??껋뼱踰꾨졇?듬땲??)
 
-### 방 문제
-- **There's no hot water.** (온수가 없습니다.)
-- **The air conditioning isn't working.** (에어컨이 작동하지 않습니다.)
-- **The TV isn't working.** (TV가 작동하지 않습니다.)
-- **The lights don't work.** (불이 켜지지 않습니다.)
-- **The room is too noisy.** (방이 너무 시끄럽습니다.)
+### 諛?臾몄젣
+- **There's no hot water.** (?⑥닔媛 ?놁뒿?덈떎.)
+- **The air conditioning isn't working.** (?먯뼱而⑥씠 ?묐룞?섏? ?딆뒿?덈떎.)
+- **The TV isn't working.** (TV媛 ?묐룞?섏? ?딆뒿?덈떎.)
+- **The lights don't work.** (遺덉씠 耳쒖?吏 ?딆뒿?덈떎.)
+- **The room is too noisy.** (諛⑹씠 ?덈Т ?쒕걚?쎌뒿?덈떎.)
 
-### 청소 문제
-- **The room hasn't been cleaned.** (방이 청소되지 않았습니다.)
-- **I need fresh towels.** (새 수건이 필요합니다.)
-- **The bed sheets need to be changed.** (침대 시트를 교체해야 합니다.)
-- **Can you clean the room now?** (지금 방을 청소해 주실 수 있나요?)
+### 泥?냼 臾몄젣
+- **The room hasn't been cleaned.** (諛⑹씠 泥?냼?섏? ?딆븯?듬땲??)
+- **I need fresh towels.** (???섍굔???꾩슂?⑸땲??)
+- **The bed sheets need to be changed.** (移⑤? ?쒗듃瑜?援먯껜?댁빞 ?⑸땲??)
+- **Can you clean the room now?** (吏湲?諛⑹쓣 泥?냼??二쇱떎 ???덈굹??)
 
-### 인터넷 문제
-- **The Wi-Fi isn't working.** (와이파이가 작동하지 않습니다.)
-- **The internet is very slow.** (인터넷이 매우 느립니다.)
-- **I can't connect to the Wi-Fi.** (와이파이에 연결할 수 없습니다.)
-- **Can you reset the Wi-Fi?** (와이파이를 재설정해 주실 수 있나요?)
+### ?명꽣??臾몄젣
+- **The Wi-Fi isn't working.** (??댄뙆?닿? ?묐룞?섏? ?딆뒿?덈떎.)
+- **The internet is very slow.** (?명꽣?룹씠 留ㅼ슦 ?먮┰?덈떎.)
+- **I can't connect to the Wi-Fi.** (??댄뙆?댁뿉 ?곌껐?????놁뒿?덈떎.)
+- **Can you reset the Wi-Fi?** (??댄뙆?대? ?ъ꽕?뺥빐 二쇱떎 ???덈굹??)
 
-## 3. 방 변경 요청
+## 3. 諛?蹂寃??붿껌
 
-### 방 변경 이유
-- **I'd like to change rooms.** (방을 바꾸고 싶습니다.)
-- **This room is too noisy.** (이 방이 너무 시끄럽습니다.)
-- **The room is too small.** (방이 너무 작습니다.)
-- **I need a room with better Wi-Fi.** (와이파이가 더 좋은 방이 필요합니다.)
+### 諛?蹂寃??댁쑀
+- **I'd like to change rooms.** (諛⑹쓣 諛붽씀怨??띠뒿?덈떎.)
+- **This room is too noisy.** (??諛⑹씠 ?덈Т ?쒕걚?쎌뒿?덈떎.)
+- **The room is too small.** (諛⑹씠 ?덈Т ?묒뒿?덈떎.)
+- **I need a room with better Wi-Fi.** (??댄뙆?닿? ??醫뗭? 諛⑹씠 ?꾩슂?⑸땲??)
 
-### 방 변경 요청
-- **Do you have another room available?** (다른 방이 있나요?)
-- **Can I move to a quieter room?** (더 조용한 방으로 옮길 수 있나요?)
-- **I'd like a room on a different floor.** (다른 층의 방을 원합니다.)
+### 諛?蹂寃??붿껌
+- **Do you have another room available?** (?ㅻⅨ 諛⑹씠 ?덈굹??)
+- **Can I move to a quieter room?** (??議곗슜??諛⑹쑝濡???만 ???덈굹??)
+- **I'd like a room on a different floor.** (?ㅻⅨ 痢듭쓽 諛⑹쓣 ?먰빀?덈떎.)
 
-## 4. 체크아웃
+## 4. 泥댄겕?꾩썐
 
-### 체크아웃 요청
-- **I'd like to check out.** (체크아웃하고 싶습니다.)
-- **Can I check out now?** (지금 체크아웃할 수 있나요?)
-- **What time do I need to check out?** (체크아웃은 몇 시까지 해야 하나요?)
+### 泥댄겕?꾩썐 ?붿껌
+- **I'd like to check out.** (泥댄겕?꾩썐?섍퀬 ?띠뒿?덈떎.)
+- **Can I check out now?** (吏湲?泥댄겕?꾩썐?????덈굹??)
+- **What time do I need to check out?** (泥댄겕?꾩썐? 紐??쒓퉴吏 ?댁빞 ?섎굹??)
 
-### 수하물 보관
-- **Can I leave my luggage here?** (수하물을 여기에 맡길 수 있나요?)
-- **How long can I leave my bags?** (가방을 얼마나 오래 맡길 수 있나요?)
-- **Is there a storage room?** (보관실이 있나요?)
+### ?섑븯臾?蹂닿?
+- **Can I leave my luggage here?** (?섑븯臾쇱쓣 ?ш린??留↔만 ???덈굹??)
+- **How long can I leave my bags?** (媛諛⑹쓣 ?쇰쭏???ㅻ옒 留↔만 ???덈굹??)
+- **Is there a storage room?** (蹂닿??ㅼ씠 ?덈굹??)
 
-### 계산 및 영수증
-- **Can I get a receipt?** (영수증 받을 수 있나요?)
-- **Can I see my bill?** (계산서를 볼 수 있나요?)
-- **Do you accept credit cards?** (신용카드 받으시나요?)
-- **Can I pay in cash?** (현금으로 결제할 수 있나요?)
+### 怨꾩궛 諛??곸닔利?
+- **Can I get a receipt?** (?곸닔利?諛쏆쓣 ???덈굹??)
+- **Can I see my bill?** (怨꾩궛?쒕? 蹂????덈굹??)
+- **Do you accept credit cards?** (?좎슜移대뱶 諛쏆쑝?쒕굹??)
+- **Can I pay in cash?** (?꾧툑?쇰줈 寃곗젣?????덈굹??)
 
-## 5. 실전 대화 예문
+## 5. ?ㅼ쟾 ????덈Ц
 
-### 대화 1: 문제 해결
+### ???1: 臾몄젣 ?닿껐
 **You:** Excuse me, the key card isn't working.
-(실례합니다, 키 카드가 작동하지 않습니다.)
+(?ㅻ??⑸땲?? ??移대뱶媛 ?묐룞?섏? ?딆뒿?덈떎.)
 
 **Receptionist:** Let me check. I'll make you a new key card.
-(확인해보겠습니다. 새 키 카드를 만들어드리겠습니다.)
+(?뺤씤?대낫寃좎뒿?덈떎. ????移대뱶瑜?留뚮뱾?대뱶由ш쿋?듬땲??)
 
 **You:** Also, there's no hot water in my room.
-(그리고 방에 온수가 없습니다.)
+(洹몃━怨?諛⑹뿉 ?⑥닔媛 ?놁뒿?덈떎.)
 
 **Receptionist:** I'll send maintenance right away. I apologize for the inconvenience.
-(바로 수리 담당자를 보내드리겠습니다. 불편을 드려 죄송합니다.)
+(諛붾줈 ?섎━ ?대떦?먮? 蹂대궡?쒕━寃좎뒿?덈떎. 遺덊렪???쒕젮 二꾩넚?⑸땲??)
 
-### 대화 2: 체크아웃
+### ???2: 泥댄겕?꾩썐
 **You:** I'd like to check out, please.
-(체크아웃하고 싶습니다.)
+(泥댄겕?꾩썐?섍퀬 ?띠뒿?덈떎.)
 
 **Receptionist:** Of course. Here's your bill. How was your stay?
-(물론입니다. 여기 계산서입니다. 숙박은 어떠셨나요?)
+(臾쇰줎?낅땲?? ?ш린 怨꾩궛?쒖엯?덈떎. ?숇컯? ?대뼚?⑤굹??)
 
 **You:** It was good, thank you. Can I leave my luggage here for a few hours?
-(좋았습니다, 감사합니다. 수하물을 몇 시간 맡길 수 있나요?)
+(醫뗭븯?듬땲?? 媛먯궗?⑸땲?? ?섑븯臾쇱쓣 紐??쒓컙 留↔만 ???덈굹??)
 
 **Receptionist:** Yes, you can leave it until 6 PM.
-(네, 오후 6시까지 맡기실 수 있습니다.)
+(?? ?ㅽ썑 6?쒓퉴吏 留↔린?????덉뒿?덈떎.)
 
-## 6. 실전 연습
+## 6. ?ㅼ쟾 ?곗뒿
 
-### 연습 1: 문제 해결
-다음 상황에 맞는 표현을 사용하세요:
-- 키 카드 문제: **The key card doesn't work.**
-- 온수 문제: **There's no hot water.**
-- 와이파이 문제: **The Wi-Fi isn't working.**
+### ?곗뒿 1: 臾몄젣 ?닿껐
+?ㅼ쓬 ?곹솴??留욌뒗 ?쒗쁽???ъ슜?섏꽭??
+- ??移대뱶 臾몄젣: **The key card doesn't work.**
+- ?⑥닔 臾몄젣: **There's no hot water.**
+- ??댄뙆??臾몄젣: **The Wi-Fi isn't working.**
 
-### 연습 2: 체크아웃
-- 체크아웃 요청: **I'd like to check out.**
-- 수하물 보관: **Can I leave my luggage here?**
-- 영수증 요청: **Can I get a receipt?**
+### ?곗뒿 2: 泥댄겕?꾩썐
+- 泥댄겕?꾩썐 ?붿껌: **I'd like to check out.**
+- ?섑븯臾?蹂닿?: **Can I leave my luggage here?**
+- ?곸닔利??붿껌: **Can I get a receipt?**
 
-## 7. 핵심 요약
+## 7. ?듭떖 ?붿빟
 
-- **시설 이용**: business center, meeting room, gym, restaurant
-- **문제 해결**: key card, hot water, air conditioning, Wi-Fi
-- **방 변경**: change rooms, noisy, quiet room
-- **체크아웃**: check out, luggage storage, receipt, bill
+- **?쒖꽕 ?댁슜**: business center, meeting room, gym, restaurant
+- **臾몄젣 ?닿껐**: key card, hot water, air conditioning, Wi-Fi
+- **諛?蹂寃?*: change rooms, noisy, quiet room
+- **泥댄겕?꾩썐**: check out, luggage storage, receipt, bill
 
-## 8. 다음 단계
+## 8. ?ㅼ쓬 ?④퀎
 
-호텔 시설 이용과 문제 해결을 배우셨나요? 다음 글에서는 **레스토랑 예약과 주문**에 대해 배워보겠습니다. 출장 중 식사를 할 때 필요한 영어 표현을 익혀봅시다!
+?명뀛 ?쒖꽕 ?댁슜怨?臾몄젣 ?닿껐??諛곗슦?⑤굹?? ?ㅼ쓬 湲?먯꽌??**?덉뒪?좊옉 ?덉빟怨?二쇰Ц**?????諛곗썙蹂닿쿋?듬땲?? 異쒖옣 以??앹궗瑜??????꾩슂???곸뼱 ?쒗쁽???듯?遊낆떆??
 
-**추가 학습 팁:**
-- 문제가 발생하면 즉시 호텔 직원에게 알리세요
-- 체크아웃 전에 계산서를 확인하세요
-- 수하물 보관 서비스를 활용하세요
+**異붽? ?숈뒿 ??**
+- 臾몄젣媛 諛쒖깮?섎㈃ 利됱떆 ?명뀛 吏곸썝?먭쾶 ?뚮━?몄슂
+- 泥댄겕?꾩썐 ?꾩뿉 怨꾩궛?쒕? ?뺤씤?섏꽭??
+- ?섑븯臾?蹂닿? ?쒕퉬?ㅻ? ?쒖슜?섏꽭??
 
-호텔에서 발생하는 문제를 해결하는 표현을 기억하세요! 🏨🔧
+?명뀛?먯꽌 諛쒖깮?섎뒗 臾몄젣瑜??닿껐?섎뒗 ?쒗쁽??湲곗뼲?섏꽭?? ?룳?뵩
 

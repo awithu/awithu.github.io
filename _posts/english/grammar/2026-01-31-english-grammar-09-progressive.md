@@ -1,267 +1,267 @@
 ---
 layout: post
-title:  "현재진행형과 과거진행형: ~하고 있다 표현하기"
-date:   2026-01-31 09:00:00 +0900
-categories: [영어, 문법 기초]
-tags: [영어, 문법, 진행형, 현재진행형, 과거진행형, -ing]
-description: "현재진행형과 과거진행형을 배우고 '~하고 있다'는 표현을 정확하게 사용하는 방법을 익힙니다."
+title:  "?꾩옱吏꾪뻾?뺢낵 怨쇨굅吏꾪뻾?? ~?섍퀬 ?덈떎 ?쒗쁽?섍린"
+date:   2025-01-31 09:00:00 +0900
+categories: [?곸뼱, 臾몃쾿 湲곗큹]
+tags: [?곸뼱, 臾몃쾿, 吏꾪뻾?? ?꾩옱吏꾪뻾?? 怨쇨굅吏꾪뻾?? -ing]
+description: "?꾩옱吏꾪뻾?뺢낵 怨쇨굅吏꾪뻾?뺤쓣 諛곗슦怨?'~?섍퀬 ?덈떎'???쒗쁽???뺥솗?섍쾶 ?ъ슜?섎뒗 諛⑸쾿???듯옓?덈떎."
 ---
 
-# 현재진행형과 과거진행형: ~하고 있다 표현하기
+# ?꾩옱吏꾪뻾?뺢낵 怨쇨굅吏꾪뻾?? ~?섍퀬 ?덈떎 ?쒗쁽?섍린
 
-진행형(Progressive Tense)은 **지금 하고 있는 일**이나 **과거에 하고 있던 일**을 나타내는 시제입니다. "~하고 있다"는 의미를 표현하는 중요한 문법입니다.
+吏꾪뻾??Progressive Tense)? **吏湲??섍퀬 ?덈뒗 ??*?대굹 **怨쇨굅???섍퀬 ?덈뜕 ??*???섑??대뒗 ?쒖젣?낅땲?? "~?섍퀬 ?덈떎"???섎?瑜??쒗쁽?섎뒗 以묒슂??臾몃쾿?낅땲??
 
-## 1. 진행형이란?
+## 1. 吏꾪뻾?뺤씠??
 
-진행형은 **어떤 행동이 진행 중**임을 나타내는 시제입니다.
+吏꾪뻾?뺤? **?대뼡 ?됰룞??吏꾪뻾 以?*?꾩쓣 ?섑??대뒗 ?쒖젣?낅땲??
 
-### 진행형의 의미
-- **현재진행형**: 지금 ~하고 있다
-- **과거진행형**: 과거에 ~하고 있었다
+### 吏꾪뻾?뺤쓽 ?섎?
+- **?꾩옱吏꾪뻾??*: 吏湲?~?섍퀬 ?덈떎
+- **怨쇨굅吏꾪뻾??*: 怨쇨굅??~?섍퀬 ?덉뿀??
 
-## 2. 현재진행형 (Present Progressive)
+## 2. ?꾩옱吏꾪뻾??(Present Progressive)
 
-### 현재진행형 구조
-**주어 + be동사 (am/is/are) + 동사-ing**
+### ?꾩옱吏꾪뻾??援ъ“
+**二쇱뼱 + be?숈궗 (am/is/are) + ?숈궗-ing**
 
-### 현재진행형의 용도
+### ?꾩옱吏꾪뻾?뺤쓽 ?⑸룄
 
-#### 1. 지금 하고 있는 일
-- I **am studying** now. (나는 지금 공부하고 있다.)
-- She **is eating** breakfast. (그녀는 아침을 먹고 있다.)
-- They **are playing** soccer. (그들은 축구를 하고 있다.)
+#### 1. 吏湲??섍퀬 ?덈뒗 ??
+- I **am studying** now. (?섎뒗 吏湲?怨듬??섍퀬 ?덈떎.)
+- She **is eating** breakfast. (洹몃????꾩묠??癒밴퀬 ?덈떎.)
+- They **are playing** soccer. (洹몃뱾? 異뺢뎄瑜??섍퀬 ?덈떎.)
 
-#### 2. 현재 진행 중인 상황
-- It **is raining**. (비가 오고 있다.)
-- The phone **is ringing**. (전화가 울리고 있다.)
-- He **is sleeping**. (그는 자고 있다.)
+#### 2. ?꾩옱 吏꾪뻾 以묒씤 ?곹솴
+- It **is raining**. (鍮꾧? ?ㅺ퀬 ?덈떎.)
+- The phone **is ringing**. (?꾪솕媛 ?몃━怨??덈떎.)
+- He **is sleeping**. (洹몃뒗 ?먭퀬 ?덈떎.)
 
-#### 3. 가까운 미래 계획
-- I **am meeting** my friend tomorrow. (나는 내일 친구를 만날 예정이다.)
-- She **is leaving** next week. (그녀는 다음 주에 떠날 예정이다.)
+#### 3. 媛源뚯슫 誘몃옒 怨꾪쉷
+- I **am meeting** my friend tomorrow. (?섎뒗 ?댁씪 移쒓뎄瑜?留뚮궇 ?덉젙?대떎.)
+- She **is leaving** next week. (洹몃????ㅼ쓬 二쇱뿉 ?좊궇 ?덉젙?대떎.)
 
-### 현재진행형 예문
+### ?꾩옱吏꾪뻾???덈Ц
 
-#### 1인칭 단수 (I)
-- I **am studying** English. (나는 영어를 공부하고 있다.)
-- I **am eating** lunch. (나는 점심을 먹고 있다.)
-- I **am reading** a book. (나는 책을 읽고 있다.)
+#### 1?몄묶 ?⑥닔 (I)
+- I **am studying** English. (?섎뒗 ?곸뼱瑜?怨듬??섍퀬 ?덈떎.)
+- I **am eating** lunch. (?섎뒗 ?먯떖??癒밴퀬 ?덈떎.)
+- I **am reading** a book. (?섎뒗 梨낆쓣 ?쎄퀬 ?덈떎.)
 
-#### 3인칭 단수 (He/She/It)
-- He **is playing** games. (그는 게임을 하고 있다.)
-- She **is cooking** dinner. (그녀는 저녁을 요리하고 있다.)
-- It **is raining**. (비가 오고 있다.)
+#### 3?몄묶 ?⑥닔 (He/She/It)
+- He **is playing** games. (洹몃뒗 寃뚯엫???섍퀬 ?덈떎.)
+- She **is cooking** dinner. (洹몃?????곸쓣 ?붾━?섍퀬 ?덈떎.)
+- It **is raining**. (鍮꾧? ?ㅺ퀬 ?덈떎.)
 
-#### 복수 (We/They)
-- We **are watching** TV. (우리는 TV를 보고 있다.)
-- They **are studying** together. (그들은 함께 공부하고 있다.)
+#### 蹂듭닔 (We/They)
+- We **are watching** TV. (?곕━??TV瑜?蹂닿퀬 ?덈떎.)
+- They **are studying** together. (洹몃뱾? ?④퍡 怨듬??섍퀬 ?덈떎.)
 
-### 현재진행형 축약형
-- I **am** → I**'m**
-- You **are** → You**'re**
-- He/She/It **is** → He/She/It**'s**
-- We/They **are** → We/They**'re**
+### ?꾩옱吏꾪뻾??異뺤빟??
+- I **am** ??I**'m**
+- You **are** ??You**'re**
+- He/She/It **is** ??He/She/It**'s**
+- We/They **are** ??We/They**'re**
 
-### 축약형 예문
-- I**'m** studying. (나는 공부하고 있다.)
-- She**'s** eating. (그녀는 먹고 있다.)
-- They**'re** playing. (그들은 놀고 있다.)
+### 異뺤빟???덈Ц
+- I**'m** studying. (?섎뒗 怨듬??섍퀬 ?덈떎.)
+- She**'s** eating. (洹몃???癒밴퀬 ?덈떎.)
+- They**'re** playing. (洹몃뱾? ?怨??덈떎.)
 
-## 3. 동사-ing 형태 만들기
+## 3. ?숈궗-ing ?뺥깭 留뚮뱾湲?
 
-### 규칙 1: 일반적인 경우 -ing 추가
-- study → **studying**
-- play → **playing**
-- read → **reading**
-- eat → **eating**
+### 洹쒖튃 1: ?쇰컲?곸씤 寃쎌슦 -ing 異붽?
+- study ??**studying**
+- play ??**playing**
+- read ??**reading**
+- eat ??**eating**
 
-### 규칙 2: -e로 끝나는 경우 -e 제거 후 -ing 추가
-- make → **making**
-- take → **taking**
-- write → **writing**
-- come → **coming**
+### 洹쒖튃 2: -e濡??앸굹??寃쎌슦 -e ?쒓굅 ??-ing 異붽?
+- make ??**making**
+- take ??**taking**
+- write ??**writing**
+- come ??**coming**
 
-### 규칙 3: 단모음 + 단자음으로 끝나는 경우 - 자음 중복 + -ing
-- run → **running**
-- sit → **sitting**
-- swim → **swimming**
-- stop → **stopping**
+### 洹쒖튃 3: ?⑤え??+ ?⑥옄?뚯쑝濡??앸굹??寃쎌슦 - ?먯쓬 以묐났 + -ing
+- run ??**running**
+- sit ??**sitting**
+- swim ??**swimming**
+- stop ??**stopping**
 
-### 규칙 4: -ie로 끝나는 경우 -ie를 y로 바꾸고 -ing 추가
-- die → **dying**
-- lie → **lying**
-- tie → **tying**
+### 洹쒖튃 4: -ie濡??앸굹??寃쎌슦 -ie瑜?y濡?諛붽씀怨?-ing 異붽?
+- die ??**dying**
+- lie ??**lying**
+- tie ??**tying**
 
-### 규칙 5: -y로 끝나는 경우 - 그대로 -ing 추가
-- study → **studying**
-- play → **playing**
-- enjoy → **enjoying**
+### 洹쒖튃 5: -y濡??앸굹??寃쎌슦 - 洹몃?濡?-ing 異붽?
+- study ??**studying**
+- play ??**playing**
+- enjoy ??**enjoying**
 
-## 4. 과거진행형 (Past Progressive)
+## 4. 怨쇨굅吏꾪뻾??(Past Progressive)
 
-### 과거진행형 구조
-**주어 + be동사 (was/were) + 동사-ing**
+### 怨쇨굅吏꾪뻾??援ъ“
+**二쇱뼱 + be?숈궗 (was/were) + ?숈궗-ing**
 
-### 과거진행형의 용도
+### 怨쇨굅吏꾪뻾?뺤쓽 ?⑸룄
 
-#### 1. 과거 특정 시점에 하고 있던 일
-- I **was studying** at 3 PM yesterday. (나는 어제 오후 3시에 공부하고 있었다.)
-- She **was eating** when I called. (내가 전화했을 때 그녀는 먹고 있었다.)
-- They **were playing** soccer yesterday. (그들은 어제 축구를 하고 있었다.)
+#### 1. 怨쇨굅 ?뱀젙 ?쒖젏???섍퀬 ?덈뜕 ??
+- I **was studying** at 3 PM yesterday. (?섎뒗 ?댁젣 ?ㅽ썑 3?쒖뿉 怨듬??섍퀬 ?덉뿀??)
+- She **was eating** when I called. (?닿? ?꾪솕?덉쓣 ??洹몃???癒밴퀬 ?덉뿀??)
+- They **were playing** soccer yesterday. (洹몃뱾? ?댁젣 異뺢뎄瑜??섍퀬 ?덉뿀??)
 
-#### 2. 과거에 진행 중이었던 상황
-- It **was raining** all day. (하루 종일 비가 오고 있었다.)
-- He **was sleeping** when I arrived. (내가 도착했을 때 그는 자고 있었다.)
+#### 2. 怨쇨굅??吏꾪뻾 以묒씠?덈뜕 ?곹솴
+- It **was raining** all day. (?섎（ 醫낆씪 鍮꾧? ?ㅺ퀬 ?덉뿀??)
+- He **was sleeping** when I arrived. (?닿? ?꾩갑?덉쓣 ??洹몃뒗 ?먭퀬 ?덉뿀??)
 
-### 과거진행형 예문
+### 怨쇨굅吏꾪뻾???덈Ц
 
-#### 1인칭/3인칭 단수 (I/He/She/It)
-- I **was studying** English. (나는 영어를 공부하고 있었다.)
-- He **was playing** games. (그는 게임을 하고 있었다.)
-- She **was cooking** dinner. (그녀는 저녁을 요리하고 있었다.)
+#### 1?몄묶/3?몄묶 ?⑥닔 (I/He/She/It)
+- I **was studying** English. (?섎뒗 ?곸뼱瑜?怨듬??섍퀬 ?덉뿀??)
+- He **was playing** games. (洹몃뒗 寃뚯엫???섍퀬 ?덉뿀??)
+- She **was cooking** dinner. (洹몃?????곸쓣 ?붾━?섍퀬 ?덉뿀??)
 
-#### 복수/2인칭 (You/We/They)
-- You **were studying**. (너는 공부하고 있었다.)
-- We **were watching** TV. (우리는 TV를 보고 있었다.)
-- They **were playing** soccer. (그들은 축구를 하고 있었다.)
+#### 蹂듭닔/2?몄묶 (You/We/They)
+- You **were studying**. (?덈뒗 怨듬??섍퀬 ?덉뿀??)
+- We **were watching** TV. (?곕━??TV瑜?蹂닿퀬 ?덉뿀??)
+- They **were playing** soccer. (洹몃뱾? 異뺢뎄瑜??섍퀬 ?덉뿀??)
 
-## 5. 현재진행형 vs 현재 시제 비교
+## 5. ?꾩옱吏꾪뻾??vs ?꾩옱 ?쒖젣 鍮꾧탳
 
-### 현재 시제: 습관적인 행동
-- I **study** English every day. (나는 매일 영어를 공부한다.)
-- She **goes** to school. (그녀는 학교에 간다.)
+### ?꾩옱 ?쒖젣: ?듦??곸씤 ?됰룞
+- I **study** English every day. (?섎뒗 留ㅼ씪 ?곸뼱瑜?怨듬??쒕떎.)
+- She **goes** to school. (洹몃????숆탳??媛꾨떎.)
 
-### 현재진행형: 지금 하고 있는 일
-- I **am studying** English now. (나는 지금 영어를 공부하고 있다.)
-- She **is going** to school. (그녀는 지금 학교에 가고 있다.)
+### ?꾩옱吏꾪뻾?? 吏湲??섍퀬 ?덈뒗 ??
+- I **am studying** English now. (?섎뒗 吏湲??곸뼱瑜?怨듬??섍퀬 ?덈떎.)
+- She **is going** to school. (洹몃???吏湲??숆탳??媛怨??덈떎.)
 
-### 비교 예문
-- I **eat** breakfast every morning. (나는 매일 아침 아침을 먹는다.) - 습관
-- I **am eating** breakfast now. (나는 지금 아침을 먹고 있다.) - 지금
+### 鍮꾧탳 ?덈Ц
+- I **eat** breakfast every morning. (?섎뒗 留ㅼ씪 ?꾩묠 ?꾩묠??癒밸뒗??) - ?듦?
+- I **am eating** breakfast now. (?섎뒗 吏湲??꾩묠??癒밴퀬 ?덈떎.) - 吏湲?
 
-## 6. 진행형을 사용하지 않는 동사
+## 6. 吏꾪뻾?뺤쓣 ?ъ슜?섏? ?딅뒗 ?숈궗
 
-일부 동사는 진행형을 사용하지 않습니다. **상태를 나타내는 동사**들입니다.
+?쇰? ?숈궗??吏꾪뻾?뺤쓣 ?ъ슜?섏? ?딆뒿?덈떎. **?곹깭瑜??섑??대뒗 ?숈궗**?ㅼ엯?덈떎.
 
-### 진행형을 사용하지 않는 동사
+### 吏꾪뻾?뺤쓣 ?ъ슜?섏? ?딅뒗 ?숈궗
 
-#### 1. 감각 동사
-- **see** (보다)
-- **hear** (듣다)
-- **smell** (냄새 맡다)
-- **taste** (맛보다)
+#### 1. 媛먭컖 ?숈궗
+- **see** (蹂대떎)
+- **hear** (?ｋ떎)
+- **smell** (?꾩깉 留〓떎)
+- **taste** (留쏅낫??
 
-#### 2. 인지 동사
-- **know** (알다)
-- **understand** (이해하다)
-- **believe** (믿다)
-- **remember** (기억하다)
+#### 2. ?몄? ?숈궗
+- **know** (?뚮떎)
+- **understand** (?댄빐?섎떎)
+- **believe** (誘용떎)
+- **remember** (湲곗뼲?섎떎)
 
-#### 3. 소유/관계 동사
-- **have** (가지다 - 소유 의미)
-- **own** (소유하다)
-- **belong** (속하다)
+#### 3. ?뚯쑀/愿怨??숈궗
+- **have** (媛吏??- ?뚯쑀 ?섎?)
+- **own** (?뚯쑀?섎떎)
+- **belong** (?랁븯??
 
-#### 4. 감정/상태 동사
-- **like** (좋아하다)
-- **love** (사랑하다)
-- **hate** (미워하다)
-- **want** (원하다)
+#### 4. 媛먯젙/?곹깭 ?숈궗
+- **like** (醫뗭븘?섎떎)
+- **love** (?щ옉?섎떎)
+- **hate** (誘몄썙?섎떎)
+- **want** (?먰븯??
 
-### 올바른 사용
-- ❌ I **am knowing** English.
-- ✅ I **know** English. (나는 영어를 안다.)
+### ?щ컮瑜??ъ슜
+- ??I **am knowing** English.
+- ??I **know** English. (?섎뒗 ?곸뼱瑜??덈떎.)
 
-- ❌ I **am liking** pizza.
-- ✅ I **like** pizza. (나는 피자를 좋아한다.)
+- ??I **am liking** pizza.
+- ??I **like** pizza. (?섎뒗 ?쇱옄瑜?醫뗭븘?쒕떎.)
 
-## 7. 실전 연습
+## 7. ?ㅼ쟾 ?곗뒿
 
-### 연습 1: 현재진행형 만들기
-다음 동사를 -ing 형태로 바꾸세요:
+### ?곗뒿 1: ?꾩옱吏꾪뻾??留뚮뱾湲?
+?ㅼ쓬 ?숈궗瑜?-ing ?뺥깭濡?諛붽씀?몄슂:
 
-1. study → **studying**
-2. make → **making**
-3. run → **running**
-4. play → **playing**
+1. study ??**studying**
+2. make ??**making**
+3. run ??**running**
+4. play ??**playing**
 
-### 연습 2: 현재진행형 문장 만들기
-다음 단어들로 현재진행형 문장을 만드세요:
+### ?곗뒿 2: ?꾩옱吏꾪뻾??臾몄옣 留뚮뱾湲?
+?ㅼ쓬 ?⑥뼱?ㅻ줈 ?꾩옱吏꾪뻾??臾몄옣??留뚮뱶?몄슂:
 
 1. I / study / English
 2. She / eat / breakfast
 3. They / play / soccer
 
-**정답:**
-1. I **am studying** English. (나는 영어를 공부하고 있다.)
-2. She **is eating** breakfast. (그녀는 아침을 먹고 있다.)
-3. They **are playing** soccer. (그들은 축구를 하고 있다.)
+**?뺣떟:**
+1. I **am studying** English. (?섎뒗 ?곸뼱瑜?怨듬??섍퀬 ?덈떎.)
+2. She **is eating** breakfast. (洹몃????꾩묠??癒밴퀬 ?덈떎.)
+3. They **are playing** soccer. (洹몃뱾? 異뺢뎄瑜??섍퀬 ?덈떎.)
 
-### 연습 3: 과거진행형 문장 만들기
-다음 단어들로 과거진행형 문장을 만드세요:
+### ?곗뒿 3: 怨쇨굅吏꾪뻾??臾몄옣 留뚮뱾湲?
+?ㅼ쓬 ?⑥뼱?ㅻ줈 怨쇨굅吏꾪뻾??臾몄옣??留뚮뱶?몄슂:
 
 1. I / study / yesterday
 2. She / eat / when I called
 3. They / play / at 3 PM
 
-**정답:**
-1. I **was studying** yesterday. (나는 어제 공부하고 있었다.)
-2. She **was eating** when I called. (내가 전화했을 때 그녀는 먹고 있었다.)
-3. They **were playing** at 3 PM. (그들은 오후 3시에 놀고 있었다.)
+**?뺣떟:**
+1. I **was studying** yesterday. (?섎뒗 ?댁젣 怨듬??섍퀬 ?덉뿀??)
+2. She **was eating** when I called. (?닿? ?꾪솕?덉쓣 ??洹몃???癒밴퀬 ?덉뿀??)
+3. They **were playing** at 3 PM. (洹몃뱾? ?ㅽ썑 3?쒖뿉 ?怨??덉뿀??)
 
-## 8. 자주 하는 실수
+## 8. ?먯＜ ?섎뒗 ?ㅼ닔
 
-### 실수 1: be동사 빼먹기
-- ❌ I **studying** English.
-- ✅ I **am studying** English.
+### ?ㅼ닔 1: be?숈궗 鍮쇰㉨湲?
+- ??I **studying** English.
+- ??I **am studying** English.
 
-### 실수 2: -ing 빼먹기
-- ❌ I am **study** English.
-- ✅ I am **studying** English.
+### ?ㅼ닔 2: -ing 鍮쇰㉨湲?
+- ??I am **study** English.
+- ??I am **studying** English.
 
-### 실수 3: 진행형을 사용하지 않는 동사에 -ing 사용
-- ❌ I am **knowing** English.
-- ✅ I **know** English.
+### ?ㅼ닔 3: 吏꾪뻾?뺤쓣 ?ъ슜?섏? ?딅뒗 ?숈궗??-ing ?ъ슜
+- ??I am **knowing** English.
+- ??I **know** English.
 
-### 실수 4: was/were 구분 못하기
-- ❌ I **were** studying.
-- ✅ I **was** studying.
+### ?ㅼ닔 4: was/were 援щ텇 紐삵븯湲?
+- ??I **were** studying.
+- ??I **was** studying.
 
-## 9. 진행형의 부정문과 의문문
+## 9. 吏꾪뻾?뺤쓽 遺?뺣Ц怨??섎Ц臾?
 
-### 현재진행형 부정문
-- I **am not** studying. (나는 공부하고 있지 않다.)
-- She **is not** eating. (그녀는 먹고 있지 않다.)
-- They **are not** playing. (그들은 놀고 있지 않다.)
+### ?꾩옱吏꾪뻾??遺?뺣Ц
+- I **am not** studying. (?섎뒗 怨듬??섍퀬 ?덉? ?딅떎.)
+- She **is not** eating. (洹몃???癒밴퀬 ?덉? ?딅떎.)
+- They **are not** playing. (洹몃뱾? ?怨??덉? ?딅떎.)
 
-### 현재진행형 의문문
-- **Are** you studying? (너는 공부하고 있니?)
-- **Is** she eating? (그녀는 먹고 있니?)
-- **Are** they playing? (그들은 놀고 있니?)
+### ?꾩옱吏꾪뻾???섎Ц臾?
+- **Are** you studying? (?덈뒗 怨듬??섍퀬 ?덈땲?)
+- **Is** she eating? (洹몃???癒밴퀬 ?덈땲?)
+- **Are** they playing? (洹몃뱾? ?怨??덈땲?)
 
-### 과거진행형 부정문
-- I **was not** studying. (나는 공부하고 있지 않았다.)
-- They **were not** playing. (그들은 놀고 있지 않았다.)
+### 怨쇨굅吏꾪뻾??遺?뺣Ц
+- I **was not** studying. (?섎뒗 怨듬??섍퀬 ?덉? ?딆븯??)
+- They **were not** playing. (洹몃뱾? ?怨??덉? ?딆븯??)
 
-### 과거진행형 의문문
-- **Were** you studying? (너는 공부하고 있었니?)
-- **Was** she eating? (그녀는 먹고 있었니?)
+### 怨쇨굅吏꾪뻾???섎Ц臾?
+- **Were** you studying? (?덈뒗 怨듬??섍퀬 ?덉뿀??)
+- **Was** she eating? (洹몃???癒밴퀬 ?덉뿀??)
 
-## 10. 핵심 요약
+## 10. ?듭떖 ?붿빟
 
-- **현재진행형**: am/is/are + 동사-ing (지금 ~하고 있다)
-- **과거진행형**: was/were + 동사-ing (과거에 ~하고 있었다)
-- **동사-ing 만들기**: 일반적으로 -ing 추가, 예외 규칙 기억
-- **주의**: 상태 동사는 진행형 사용 안 함 (know, like 등)
+- **?꾩옱吏꾪뻾??*: am/is/are + ?숈궗-ing (吏湲?~?섍퀬 ?덈떎)
+- **怨쇨굅吏꾪뻾??*: was/were + ?숈궗-ing (怨쇨굅??~?섍퀬 ?덉뿀??
+- **?숈궗-ing 留뚮뱾湲?*: ?쇰컲?곸쑝濡?-ing 異붽?, ?덉쇅 洹쒖튃 湲곗뼲
+- **二쇱쓽**: ?곹깭 ?숈궗??吏꾪뻾???ъ슜 ????(know, like ??
 
-## 11. 다음 단계
+## 11. ?ㅼ쓬 ?④퀎
 
-진행형을 이해하셨나요? 다음 글에서는 **조동사 기초 (can, should, must 등)**에 대해 배워보겠습니다. 조동사는 가능성, 의무, 허가 등을 표현하는 중요한 문법입니다!
+吏꾪뻾?뺤쓣 ?댄빐?섏뀲?섏슂? ?ㅼ쓬 湲?먯꽌??**議곕룞??湲곗큹 (can, should, must ??**?????諛곗썙蹂닿쿋?듬땲?? 議곕룞?щ뒗 媛?μ꽦, ?섎Т, ?덇? ?깆쓣 ?쒗쁽?섎뒗 以묒슂??臾몃쾿?낅땲??
 
-**추가 학습 팁:**
-- 지금 하고 있는 일을 영어로 표현해보세요
-- 동사-ing 형태를 만드는 연습을 많이 하세요
-- 진행형을 사용하지 않는 동사를 외워두세요
+**異붽? ?숈뒿 ??**
+- 吏湲??섍퀬 ?덈뒗 ?쇱쓣 ?곸뼱濡??쒗쁽?대낫?몄슂
+- ?숈궗-ing ?뺥깭瑜?留뚮뱶???곗뒿??留롮씠 ?섏꽭??
+- 吏꾪뻾?뺤쓣 ?ъ슜?섏? ?딅뒗 ?숈궗瑜??몄썙?먯꽭??
 
-진행형을 정확히 사용하면 영어 표현력이 크게 향상됩니다! 🔄📚
+吏꾪뻾?뺤쓣 ?뺥솗???ъ슜?섎㈃ ?곸뼱 ?쒗쁽?μ씠 ?ш쾶 ?μ긽?⑸땲?? ?봽?뱴
 

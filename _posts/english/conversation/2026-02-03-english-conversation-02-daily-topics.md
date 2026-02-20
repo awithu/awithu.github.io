@@ -1,242 +1,242 @@
 ---
 layout: post
-title:  "일상 대화 기초: 날씨, 취미, 음식 이야기하기"
-date:   2026-02-03 09:00:00 +0900
-categories: [영어, 일상 회화]
-tags: [영어, 회화, 일상대화, 날씨, 취미, 음식]
-description: "날씨, 취미, 음식 등 일상적인 주제로 대화를 나누는 표현을 배우고 자연스러운 영어 대화를 만드는 방법을 익힙니다."
+title:  "?쇱긽 ???湲곗큹: ?좎뵪, 痍⑤?, ?뚯떇 ?댁빞湲고븯湲?
+date:   2025-02-03 09:00:00 +0900
+categories: [?곸뼱, ?쇱긽 ?뚰솕]
+tags: [?곸뼱, ?뚰솕, ?쇱긽??? ?좎뵪, 痍⑤?, ?뚯떇]
+description: "?좎뵪, 痍⑤?, ?뚯떇 ???쇱긽?곸씤 二쇱젣濡???붾? ?섎늻???쒗쁽??諛곗슦怨??먯뿰?ㅻ윭???곸뼱 ??붾? 留뚮뱶??諛⑸쾿???듯옓?덈떎."
 ---
 
-# 일상 대화 기초: 날씨, 취미, 음식 이야기하기
+# ?쇱긽 ???湲곗큹: ?좎뵪, 痍⑤?, ?뚯떇 ?댁빞湲고븯湲?
 
-일상 대화는 영어 실력을 기르는 가장 좋은 방법입니다. 날씨, 취미, 음식 같은 친근한 주제로 대화를 시작해봅시다.
+?쇱긽 ??붾뒗 ?곸뼱 ?ㅻ젰??湲곕Ⅴ??媛??醫뗭? 諛⑸쾿?낅땲?? ?좎뵪, 痍⑤?, ?뚯떇 媛숈? 移쒓렐??二쇱젣濡???붾? ?쒖옉?대큶?쒕떎.
 
-## 1. 날씨 이야기하기
+## 1. ?좎뵪 ?댁빞湲고븯湲?
 
-### 날씨 묻기
-- **How's the weather?** (날씨가 어떠세요?)
-- **What's the weather like?** (날씨가 어떤가요?)
-- **How's the weather today?** (오늘 날씨가 어떠세요?)
+### ?좎뵪 臾산린
+- **How's the weather?** (?좎뵪媛 ?대뼚?몄슂?)
+- **What's the weather like?** (?좎뵪媛 ?대뼡媛??)
+- **How's the weather today?** (?ㅻ뒛 ?좎뵪媛 ?대뼚?몄슂?)
 
-### 날씨 답하기
+### ?좎뵪 ?듯븯湲?
 
-#### 좋은 날씨
-- **It's sunny.** (맑아요.)
-- **It's nice.** (좋아요.)
-- **It's beautiful.** (아름다워요.)
-- **It's warm.** (따뜻해요.)
+#### 醫뗭? ?좎뵪
+- **It's sunny.** (留묒븘??)
+- **It's nice.** (醫뗭븘??)
+- **It's beautiful.** (?꾨쫫?ㅼ썙??)
+- **It's warm.** (?곕쑜?댁슂.)
 
-#### 나쁜 날씨
-- **It's rainy.** (비가 와요.)
-- **It's cloudy.** (흐려요.)
-- **It's cold.** (추워요.)
-- **It's windy.** (바람이 불어요.)
+#### ?섏걶 ?좎뵪
+- **It's rainy.** (鍮꾧? ???)
+- **It's cloudy.** (?먮젮??)
+- **It's cold.** (異붿썙??)
+- **It's windy.** (諛붾엺??遺덉뼱??)
 
-#### 날씨 상태
-- **It's hot.** (더워요.)
-- **It's cool.** (시원해요.)
-- **It's snowing.** (눈이 와요.)
-- **It's foggy.** (안개가 껴요.)
+#### ?좎뵪 ?곹깭
+- **It's hot.** (?붿썙??)
+- **It's cool.** (?쒖썝?댁슂.)
+- **It's snowing.** (?덉씠 ???)
+- **It's foggy.** (?덇컻媛 猿댁슂.)
 
-### 날씨 대화 예문
+### ?좎뵪 ????덈Ц
 **A:** How's the weather today?
-(오늘 날씨가 어떠세요?)
+(?ㅻ뒛 ?좎뵪媛 ?대뼚?몄슂?)
 
 **B:** It's sunny and warm. Perfect for a walk!
-(맑고 따뜻해요. 산책하기 완벽한 날씨예요!)
+(留묎퀬 ?곕쑜?댁슂. ?곗콉?섍린 ?꾨꼍???좎뵪?덉슂!)
 
 **A:** That sounds nice! I think I'll go to the park.
-(좋아 보이네요! 공원에 가볼 생각이에요.)
+(醫뗭븘 蹂댁씠?ㅼ슂! 怨듭썝??媛蹂??앷컖?댁뿉??)
 
-## 2. 취미 이야기하기
+## 2. 痍⑤? ?댁빞湲고븯湲?
 
-### 취미 물어보기
-- **What's your hobby?** (당신의 취미는 무엇인가요?)
-- **What do you like to do in your free time?** (여가 시간에 무엇을 하시나요?)
-- **What are your hobbies?** (당신의 취미들은 무엇인가요?)
-- **Do you have any hobbies?** (취미가 있으신가요?)
+### 痍⑤? 臾쇱뼱蹂닿린
+- **What's your hobby?** (?뱀떊??痍⑤???臾댁뾿?멸???)
+- **What do you like to do in your free time?** (?ш? ?쒓컙??臾댁뾿???섏떆?섏슂?)
+- **What are your hobbies?** (?뱀떊??痍⑤??ㅼ? 臾댁뾿?멸???)
+- **Do you have any hobbies?** (痍⑤?媛 ?덉쑝?좉???)
 
-### 취미 말하기
-- **My hobby is reading.** (제 취미는 독서입니다.)
-- **I like to read books.** (저는 책 읽기를 좋아합니다.)
-- **I enjoy playing soccer.** (저는 축구하는 것을 즐깁니다.)
-- **I'm interested in photography.** (저는 사진에 관심이 있습니다.)
+### 痍⑤? 留먰븯湲?
+- **My hobby is reading.** (??痍⑤????낆꽌?낅땲??)
+- **I like to read books.** (???梨??쎄린瑜?醫뗭븘?⑸땲??)
+- **I enjoy playing soccer.** (???異뺢뎄?섎뒗 寃껋쓣 利먭퉩?덈떎.)
+- **I'm interested in photography.** (????ъ쭊??愿?ъ씠 ?덉뒿?덈떎.)
 
-### 취미 표현하기
+### 痍⑤? ?쒗쁽?섍린
 
-#### 운동
-- **I like playing sports.** (저는 운동하는 것을 좋아합니다.)
-- **I enjoy swimming.** (저는 수영을 즐깁니다.)
-- **I love playing tennis.** (저는 테니스하는 것을 사랑합니다.)
+#### ?대룞
+- **I like playing sports.** (????대룞?섎뒗 寃껋쓣 醫뗭븘?⑸땲??)
+- **I enjoy swimming.** (????섏쁺??利먭퉩?덈떎.)
+- **I love playing tennis.** (????뚮땲?ㅽ븯??寃껋쓣 ?щ옉?⑸땲??)
 
-#### 음악
-- **I like listening to music.** (저는 음악 듣기를 좋아합니다.)
-- **I play the piano.** (저는 피아노를 칩니다.)
-- **I enjoy singing.** (저는 노래하는 것을 즐깁니다.)
+#### ?뚯븙
+- **I like listening to music.** (????뚯븙 ?ｊ린瑜?醫뗭븘?⑸땲??)
+- **I play the piano.** (????쇱븘?몃? 移⑸땲??)
+- **I enjoy singing.** (????몃옒?섎뒗 寃껋쓣 利먭퉩?덈떎.)
 
-#### 독서
-- **I love reading books.** (저는 책 읽기를 사랑합니다.)
-- **I'm a bookworm.** (저는 책벌레입니다.)
-- **Reading is my favorite hobby.** (독서는 제가 가장 좋아하는 취미입니다.)
+#### ?낆꽌
+- **I love reading books.** (???梨??쎄린瑜??щ옉?⑸땲??)
+- **I'm a bookworm.** (???梨낅쾶?덉엯?덈떎.)
+- **Reading is my favorite hobby.** (?낆꽌???쒓? 媛??醫뗭븘?섎뒗 痍⑤??낅땲??)
 
-#### 영화
-- **I like watching movies.** (저는 영화 보기를 좋아합니다.)
-- **I'm a movie buff.** (저는 영화 매니아입니다.)
-- **I enjoy going to the cinema.** (저는 영화관에 가는 것을 즐깁니다.)
+#### ?곹솕
+- **I like watching movies.** (????곹솕 蹂닿린瑜?醫뗭븘?⑸땲??)
+- **I'm a movie buff.** (????곹솕 留ㅻ땲?꾩엯?덈떎.)
+- **I enjoy going to the cinema.** (????곹솕愿??媛??寃껋쓣 利먭퉩?덈떎.)
 
-### 취미 대화 예문
+### 痍⑤? ????덈Ц
 **A:** What do you like to do in your free time?
-(여가 시간에 무엇을 하시나요?)
+(?ш? ?쒓컙??臾댁뾿???섏떆?섏슂?)
 
 **B:** I love reading books and playing soccer. How about you?
-(저는 책 읽기와 축구하는 것을 사랑합니다. 당신은 어떠세요?)
+(???梨??쎄린? 異뺢뎄?섎뒗 寃껋쓣 ?щ옉?⑸땲?? ?뱀떊? ?대뼚?몄슂?)
 
 **A:** I enjoy watching movies and listening to music.
-(저는 영화 보기와 음악 듣기를 즐깁니다.)
+(????곹솕 蹂닿린? ?뚯븙 ?ｊ린瑜?利먭퉩?덈떎.)
 
-## 3. 음식 이야기하기
+## 3. ?뚯떇 ?댁빞湲고븯湲?
 
-### 음식 좋아하는지 물어보기
-- **Do you like pizza?** (피자를 좋아하시나요?)
-- **What's your favorite food?** (당신이 가장 좋아하는 음식은 무엇인가요?)
-- **What kind of food do you like?** (어떤 종류의 음식을 좋아하시나요?)
+### ?뚯떇 醫뗭븘?섎뒗吏 臾쇱뼱蹂닿린
+- **Do you like pizza?** (?쇱옄瑜?醫뗭븘?섏떆?섏슂?)
+- **What's your favorite food?** (?뱀떊??媛??醫뗭븘?섎뒗 ?뚯떇? 臾댁뾿?멸???)
+- **What kind of food do you like?** (?대뼡 醫낅쪟???뚯떇??醫뗭븘?섏떆?섏슂?)
 
-### 음식 좋아한다고 말하기
-- **I like pizza.** (저는 피자를 좋아합니다.)
-- **I love Italian food.** (저는 이탈리아 음식을 사랑합니다.)
-- **My favorite food is sushi.** (제가 가장 좋아하는 음식은 초밥입니다.)
-- **I'm a big fan of Korean food.** (저는 한국 음식을 매우 좋아합니다.)
+### ?뚯떇 醫뗭븘?쒕떎怨?留먰븯湲?
+- **I like pizza.** (????쇱옄瑜?醫뗭븘?⑸땲??)
+- **I love Italian food.** (????댄깉由ъ븘 ?뚯떇???щ옉?⑸땲??)
+- **My favorite food is sushi.** (?쒓? 媛??醫뗭븘?섎뒗 ?뚯떇? 珥덈갈?낅땲??)
+- **I'm a big fan of Korean food.** (????쒓뎅 ?뚯떇??留ㅼ슦 醫뗭븘?⑸땲??)
 
-### 음식 싫어한다고 말하기
-- **I don't like spicy food.** (저는 매운 음식을 좋아하지 않습니다.)
-- **I'm not a fan of seafood.** (저는 해산물을 좋아하지 않습니다.)
-- **I can't stand fast food.** (저는 패스트푸드를 견딜 수 없습니다.)
+### ?뚯떇 ?レ뼱?쒕떎怨?留먰븯湲?
+- **I don't like spicy food.** (???留ㅼ슫 ?뚯떇??醫뗭븘?섏? ?딆뒿?덈떎.)
+- **I'm not a fan of seafood.** (????댁궛臾쇱쓣 醫뗭븘?섏? ?딆뒿?덈떎.)
+- **I can't stand fast food.** (????⑥뒪?명뫖?쒕? 寃щ뵜 ???놁뒿?덈떎.)
 
-### 음식 주문하기
-- **I'd like a pizza, please.** (피자 하나 주세요.)
-- **Can I have a coffee?** (커피 한 잔 주실 수 있나요?)
-- **I'll have the pasta.** (파스타로 하겠습니다.)
-- **Could I get a menu?** (메뉴를 볼 수 있을까요?)
+### ?뚯떇 二쇰Ц?섍린
+- **I'd like a pizza, please.** (?쇱옄 ?섎굹 二쇱꽭??)
+- **Can I have a coffee?** (而ㅽ뵾 ????二쇱떎 ???덈굹??)
+- **I'll have the pasta.** (?뚯뒪?濡??섍쿋?듬땲??)
+- **Could I get a menu?** (硫붾돱瑜?蹂????덉쓣源뚯슂?)
 
-### 음식 대화 예문
+### ?뚯떇 ????덈Ц
 **A:** What's your favorite food?
-(당신이 가장 좋아하는 음식은 무엇인가요?)
+(?뱀떊??媛??醫뗭븘?섎뒗 ?뚯떇? 臾댁뾿?멸???)
 
 **B:** I love pizza! Especially pepperoni pizza. How about you?
-(저는 피자를 사랑합니다! 특히 페퍼로니 피자를요. 당신은 어떠세요?)
+(????쇱옄瑜??щ옉?⑸땲?? ?뱁엳 ?섑띁濡쒕땲 ?쇱옄瑜쇱슂. ?뱀떊? ?대뼚?몄슂?)
 
 **A:** I'm a big fan of Korean food. I love kimchi and bulgogi.
-(저는 한국 음식을 매우 좋아합니다. 김치와 불고기를 사랑합니다.)
+(????쒓뎅 ?뚯떇??留ㅼ슦 醫뗭븘?⑸땲?? 源移섏? 遺덇퀬湲곕? ?щ옉?⑸땲??)
 
-## 4. 실전 대화 예문
+## 4. ?ㅼ쟾 ????덈Ц
 
-### 대화 1: 날씨와 취미
+### ???1: ?좎뵪? 痍⑤?
 **A:** Nice weather today, isn't it?
-(오늘 날씨 좋네요, 그렇지 않나요?)
+(?ㅻ뒛 ?좎뵪 醫뗫꽕?? 洹몃젃吏 ?딅굹??)
 
 **B:** Yes, it's perfect! I'm thinking of going for a walk.
-(네, 완벽해요! 산책을 가볼 생각이에요.)
+(?? ?꾨꼍?댁슂! ?곗콉??媛蹂??앷컖?댁뿉??)
 
 **A:** That sounds great! What do you usually do on nice days like this?
-(좋아 보이네요! 이런 좋은 날에는 보통 무엇을 하시나요?)
+(醫뗭븘 蹂댁씠?ㅼ슂! ?대윴 醫뗭? ?좎뿉??蹂댄넻 臾댁뾿???섏떆?섏슂?)
 
 **B:** I like to read in the park or play tennis. Do you play tennis?
-(저는 공원에서 책을 읽거나 테니스를 치는 것을 좋아합니다. 테니스를 치시나요?)
+(???怨듭썝?먯꽌 梨낆쓣 ?쎄굅???뚮땲?ㅻ? 移섎뒗 寃껋쓣 醫뗭븘?⑸땲?? ?뚮땲?ㅻ? 移섏떆?섏슂?)
 
 **A:** No, but I'd love to learn! Maybe you can teach me?
-(아니요, 하지만 배우고 싶어요! 아마 당신이 가르쳐주실 수 있을까요?)
+(?꾨땲?? ?섏?留?諛곗슦怨??띠뼱?? ?꾨쭏 ?뱀떊??媛瑜댁퀜二쇱떎 ???덉쓣源뚯슂?)
 
-### 대화 2: 음식과 취미
+### ???2: ?뚯떇怨?痍⑤?
 **A:** What did you have for lunch?
-(점심에 무엇을 드셨나요?)
+(?먯떖??臾댁뾿???쒖뀲?섏슂?)
 
 **B:** I had pizza. It's my favorite food. What about you?
-(피자를 먹었어요. 제가 가장 좋아하는 음식이에요. 당신은 어떠세요?)
+(?쇱옄瑜?癒뱀뿀?댁슂. ?쒓? 媛??醫뗭븘?섎뒗 ?뚯떇?댁뿉?? ?뱀떊? ?대뼚?몄슂?)
 
 **A:** I had Korean food. I love kimchi!
-(한국 음식을 먹었어요. 저는 김치를 사랑합니다!)
+(?쒓뎅 ?뚯떇??癒뱀뿀?댁슂. ???源移섎? ?щ옉?⑸땲??)
 
 **B:** That sounds delicious! By the way, what do you like to do on weekends?
-(맛있어 보이네요! 그런데 주말에 무엇을 하시는 것을 좋아하시나요?)
+(留쏆엳??蹂댁씠?ㅼ슂! 洹몃윴??二쇰쭚??臾댁뾿???섏떆??寃껋쓣 醫뗭븘?섏떆?섏슂?)
 
 **A:** I usually watch movies or read books. How about you?
-(저는 보통 영화를 보거나 책을 읽어요. 당신은 어떠세요?)
+(???蹂댄넻 ?곹솕瑜?蹂닿굅??梨낆쓣 ?쎌뼱?? ?뱀떊? ?대뼚?몄슂?)
 
 **B:** I enjoy playing sports and cooking. I love trying new recipes!
-(저는 운동하고 요리하는 것을 즐깁니다. 새로운 레시피를 시도하는 것을 사랑합니다!)
+(????대룞?섍퀬 ?붾━?섎뒗 寃껋쓣 利먭퉩?덈떎. ?덈줈???덉떆?쇰? ?쒕룄?섎뒗 寃껋쓣 ?щ옉?⑸땲??)
 
-## 5. 대화를 이어가는 표현
+## 5. ??붾? ?댁뼱媛???쒗쁽
 
-### 공감 표현
-- **That sounds great!** (그것은 훌륭해 보이네요!)
-- **I see.** (알겠습니다.)
-- **Really?** (정말요?)
-- **That's interesting!** (그것은 흥미롭네요!)
-- **Me too!** (저도요!)
+### 怨듦컧 ?쒗쁽
+- **That sounds great!** (洹멸쾬? ?뚮???蹂댁씠?ㅼ슂!)
+- **I see.** (?뚭쿋?듬땲??)
+- **Really?** (?뺣쭚??)
+- **That's interesting!** (洹멸쾬? ?λ?濡?꽕??)
+- **Me too!** (??꾩슂!)
 
-### 질문 이어가기
-- **How about you?** (당신은 어떠세요?)
-- **What about you?** (당신은 어떠세요?)
-- **And you?** (그리고 당신은요?)
-- **Do you like it too?** (당신도 그것을 좋아하시나요?)
+### 吏덈Ц ?댁뼱媛湲?
+- **How about you?** (?뱀떊? ?대뼚?몄슂?)
+- **What about you?** (?뱀떊? ?대뼚?몄슂?)
+- **And you?** (洹몃━怨??뱀떊???)
+- **Do you like it too?** (?뱀떊??洹멸쾬??醫뗭븘?섏떆?섏슂?)
 
-### 대화 계속하기
-- **By the way...** (그런데...)
-- **Speaking of...** (...에 대해 말하자면)
-- **That reminds me...** (그것이 생각나게 하네요...)
+### ???怨꾩냽?섍린
+- **By the way...** (洹몃윴??..)
+- **Speaking of...** (...?????留먰븯?먮㈃)
+- **That reminds me...** (洹멸쾬???앷컖?섍쾶 ?섎꽕??..)
 
-## 6. 실전 연습
+## 6. ?ㅼ쟾 ?곗뒿
 
-### 연습 1: 날씨 표현
-다음 상황에 맞는 표현을 선택하세요:
+### ?곗뒿 1: ?좎뵪 ?쒗쁽
+?ㅼ쓬 ?곹솴??留욌뒗 ?쒗쁽???좏깮?섏꽭??
 
-1. 맑은 날: **It's sunny.**
-2. 비 오는 날: **It's rainy.**
-3. 추운 날: **It's cold.**
+1. 留묒? ?? **It's sunny.**
+2. 鍮??ㅻ뒗 ?? **It's rainy.**
+3. 異붿슫 ?? **It's cold.**
 
-### 연습 2: 취미 표현
-다음 취미를 영어로 표현하세요:
+### ?곗뒿 2: 痍⑤? ?쒗쁽
+?ㅼ쓬 痍⑤?瑜??곸뼱濡??쒗쁽?섏꽭??
 
-1. 책 읽기: **I like reading books.**
-2. 영화 보기: **I enjoy watching movies.**
-3. 운동하기: **I love playing sports.**
+1. 梨??쎄린: **I like reading books.**
+2. ?곹솕 蹂닿린: **I enjoy watching movies.**
+3. ?대룞?섍린: **I love playing sports.**
 
-### 연습 3: 음식 표현
-다음 음식에 대한 의견을 영어로 표현하세요:
+### ?곗뒿 3: ?뚯떇 ?쒗쁽
+?ㅼ쓬 ?뚯떇??????섍껄???곸뼱濡??쒗쁽?섏꽭??
 
-1. 피자를 좋아함: **I love pizza.**
-2. 매운 음식을 싫어함: **I don't like spicy food.**
-3. 가장 좋아하는 음식: **My favorite food is sushi.**
+1. ?쇱옄瑜?醫뗭븘?? **I love pizza.**
+2. 留ㅼ슫 ?뚯떇???レ뼱?? **I don't like spicy food.**
+3. 媛??醫뗭븘?섎뒗 ?뚯떇: **My favorite food is sushi.**
 
-## 7. 자주 하는 실수
+## 7. ?먯＜ ?섎뒗 ?ㅼ닔
 
-### 실수 1: 날씨 표현에서 주어 생략
-- ❌ **Is** sunny.
-- ✅ **It's** sunny. (날씨는 항상 It으로 표현)
+### ?ㅼ닔 1: ?좎뵪 ?쒗쁽?먯꽌 二쇱뼱 ?앸왂
+- ??**Is** sunny.
+- ??**It's** sunny. (?좎뵪????긽 It?쇰줈 ?쒗쁽)
 
-### 실수 2: 취미 표현에서 동명사/부정사 혼동
-- ❌ I like **to read** books. (둘 다 가능하지만 일관성 유지)
-- ✅ I like **reading** books. / I like **to read** books. (둘 다 맞음)
+### ?ㅼ닔 2: 痍⑤? ?쒗쁽?먯꽌 ?숇챸??遺?뺤궗 ?쇰룞
+- ??I like **to read** books. (????媛?ν븯吏留??쇨????좎?)
+- ??I like **reading** books. / I like **to read** books. (????留욎쓬)
 
-### 실수 3: 음식 좋아한다고 말할 때 too 사용
-- ❌ I like pizza **too**.
-- ✅ I like pizza **as well**. / I **also** like pizza. (too는 문장 끝에)
+### ?ㅼ닔 3: ?뚯떇 醫뗭븘?쒕떎怨?留먰븷 ??too ?ъ슜
+- ??I like pizza **too**.
+- ??I like pizza **as well**. / I **also** like pizza. (too??臾몄옣 ?앹뿉)
 
-## 8. 핵심 요약
+## 8. ?듭떖 ?붿빟
 
-- **날씨**: It's sunny/rainy/cold 등
-- **취미**: I like/enjoy/love + 동명사/부정사
-- **음식**: I like/love/don't like + 음식명
-- **대화 이어가기**: How about you? / That sounds great!
+- **?좎뵪**: It's sunny/rainy/cold ??
+- **痍⑤?**: I like/enjoy/love + ?숇챸??遺?뺤궗
+- **?뚯떇**: I like/love/don't like + ?뚯떇紐?
+- **????댁뼱媛湲?*: How about you? / That sounds great!
 
-## 9. 다음 단계
+## 9. ?ㅼ쓬 ?④퀎
 
-일상 대화 기초를 배우셨나요? 다음 글에서는 **쇼핑과 주문하기**에 대해 배워보겠습니다. 상점에서 물건을 사고 음식을 주문하는 표현을 익혀봅시다!
+?쇱긽 ???湲곗큹瑜?諛곗슦?⑤굹?? ?ㅼ쓬 湲?먯꽌??**?쇳븨怨?二쇰Ц?섍린**?????諛곗썙蹂닿쿋?듬땲?? ?곸젏?먯꽌 臾쇨굔???ш퀬 ?뚯떇??二쇰Ц?섎뒗 ?쒗쁽???듯?遊낆떆??
 
-**추가 학습 팁:**
-- 일상적인 주제로 대화를 많이 연습하세요
-- 날씨, 취미, 음식에 대한 자신의 의견을 영어로 표현해보세요
-- 대화를 자연스럽게 이어가는 표현을 외워두세요
+**異붽? ?숈뒿 ??**
+- ?쇱긽?곸씤 二쇱젣濡???붾? 留롮씠 ?곗뒿?섏꽭??
+- ?좎뵪, 痍⑤?, ?뚯떇??????먯떊???섍껄???곸뼱濡??쒗쁽?대낫?몄슂
+- ??붾? ?먯뿰?ㅻ읇寃??댁뼱媛???쒗쁽???몄썙?먯꽭??
 
-일상 대화를 잘하면 영어 실력이 크게 향상됩니다! 💬🌤️
+?쇱긽 ??붾? ?섑븯硫??곸뼱 ?ㅻ젰???ш쾶 ?μ긽?⑸땲?? ?뮠?뙟截?
 

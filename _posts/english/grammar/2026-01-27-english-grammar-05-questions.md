@@ -1,185 +1,185 @@
 ---
 layout: post
-title:  "의문문 만들기: Yes/No 질문과 Wh-질문 완벽 정리"
-date:   2026-01-27 09:00:00 +0900
-categories: [영어, 문법 기초]
-tags: [영어, 문법, 의문문, 질문, Yes/No, Wh-질문]
-description: "Yes/No 질문과 Wh-질문을 만드는 방법을 배우고 올바르게 질문하는 방법을 익힙니다."
+title:  "?섎Ц臾?留뚮뱾湲? Yes/No 吏덈Ц怨?Wh-吏덈Ц ?꾨꼍 ?뺣━"
+date:   2025-01-27 09:00:00 +0900
+categories: [?곸뼱, 臾몃쾿 湲곗큹]
+tags: [?곸뼱, 臾몃쾿, ?섎Ц臾? 吏덈Ц, Yes/No, Wh-吏덈Ц]
+description: "Yes/No 吏덈Ц怨?Wh-吏덈Ц??留뚮뱶??諛⑸쾿??諛곗슦怨??щ컮瑜닿쾶 吏덈Ц?섎뒗 諛⑸쾿???듯옓?덈떎."
 ---
 
-# 의문문 만들기: Yes/No 질문과 Wh-질문 완벽 정리
+# ?섎Ц臾?留뚮뱾湲? Yes/No 吏덈Ц怨?Wh-吏덈Ц ?꾨꼍 ?뺣━
 
-질문을 하는 것은 대화에서 매우 중요합니다. 영어에서 질문은 크게 **Yes/No 질문**과 **Wh-질문**으로 나뉩니다. 두 가지 질문 유형을 완벽하게 마스터해봅시다.
+吏덈Ц???섎뒗 寃껋? ??붿뿉??留ㅼ슦 以묒슂?⑸땲?? ?곸뼱?먯꽌 吏덈Ц? ?ш쾶 **Yes/No 吏덈Ц**怨?**Wh-吏덈Ц**?쇰줈 ?섎돥?덈떎. ??媛吏 吏덈Ц ?좏삎???꾨꼍?섍쾶 留덉뒪?고빐遊낆떆??
 
-## 1. 의문문의 종류
+## 1. ?섎Ц臾몄쓽 醫낅쪟
 
-### 1. Yes/No 질문
-- **Yes** 또는 **No**로 답할 수 있는 질문
-- 예: Are you a student? → Yes, I am. / No, I'm not.
+### 1. Yes/No 吏덈Ц
+- **Yes** ?먮뒗 **No**濡??듯븷 ???덈뒗 吏덈Ц
+- ?? Are you a student? ??Yes, I am. / No, I'm not.
 
-### 2. Wh-질문
-- **What, Who, Where, When, Why, How** 등으로 시작하는 질문
-- 구체적인 정보를 묻는 질문
-- 예: What is your name? → My name is Tom.
+### 2. Wh-吏덈Ц
+- **What, Who, Where, When, Why, How** ?깆쑝濡??쒖옉?섎뒗 吏덈Ц
+- 援ъ껜?곸씤 ?뺣낫瑜?臾삳뒗 吏덈Ц
+- ?? What is your name? ??My name is Tom.
 
-## 2. Yes/No 질문 만들기
+## 2. Yes/No 吏덈Ц 留뚮뱾湲?
 
-### be동사 의문문
+### be?숈궗 ?섎Ц臾?
 
-#### 규칙: be동사를 주어 앞으로 이동
+#### 洹쒖튃: be?숈궗瑜?二쇱뼱 ?욎쑝濡??대룞
 
-**긍정문 → 의문문**
-- 긍정문: You **are** a student.
-- 의문문: **Are** you a student?
+**湲띿젙臾????섎Ц臾?*
+- 湲띿젙臾? You **are** a student.
+- ?섎Ц臾? **Are** you a student?
 
-#### 예문
-- **Am** I right? (내가 맞나요?)
-- **Is** she a teacher? (그녀는 선생님인가요?)
-- **Are** they friends? (그들은 친구들인가요?)
-- **Was** he happy? (그는 행복했나요?)
-- **Were** you at home? (너는 집에 있었니?)
+#### ?덈Ц
+- **Am** I right? (?닿? 留욌굹??)
+- **Is** she a teacher? (洹몃????좎깮?섏씤媛??)
+- **Are** they friends? (洹몃뱾? 移쒓뎄?ㅼ씤媛??)
+- **Was** he happy? (洹몃뒗 ?됰났?덈굹??)
+- **Were** you at home? (?덈뒗 吏묒뿉 ?덉뿀??)
 
-### 일반동사 의문문
+### ?쇰컲?숈궗 ?섎Ц臾?
 
-#### 규칙: Do/Does/Did를 문장 앞에 추가
+#### 洹쒖튃: Do/Does/Did瑜?臾몄옣 ?욎뿉 異붽?
 
-**현재 시제**
-- 1인칭/2인칭/복수: **Do** + 주어 + 동사 원형
-- 3인칭 단수: **Does** + 주어 + 동사 원형
+**?꾩옱 ?쒖젣**
+- 1?몄묶/2?몄묶/蹂듭닔: **Do** + 二쇱뼱 + ?숈궗 ?먰삎
+- 3?몄묶 ?⑥닔: **Does** + 二쇱뼱 + ?숈궗 ?먰삎
 
-**과거 시제**
-- 모든 인칭: **Did** + 주어 + 동사 원형
+**怨쇨굅 ?쒖젣**
+- 紐⑤뱺 ?몄묶: **Did** + 二쇱뼱 + ?숈궗 ?먰삎
 
-#### 예문
+#### ?덈Ц
 
-**현재 시제**
-- **Do** you like pizza? (너는 피자를 좋아하니?)
-- **Does** she study English? (그녀는 영어를 공부하니?)
-- **Do** they play soccer? (그들은 축구를 하니?)
+**?꾩옱 ?쒖젣**
+- **Do** you like pizza? (?덈뒗 ?쇱옄瑜?醫뗭븘?섎땲?)
+- **Does** she study English? (洹몃????곸뼱瑜?怨듬??섎땲?)
+- **Do** they play soccer? (洹몃뱾? 異뺢뎄瑜??섎땲?)
 
-**과거 시제**
-- **Did** you go to school? (너는 학교에 갔니?)
-- **Did** she eat breakfast? (그녀는 아침을 먹었니?)
-- **Did** they watch a movie? (그들은 영화를 봤니?)
+**怨쇨굅 ?쒖젣**
+- **Did** you go to school? (?덈뒗 ?숆탳??媛붾땲?)
+- **Did** she eat breakfast? (洹몃????꾩묠??癒뱀뿀??)
+- **Did** they watch a movie? (洹몃뱾? ?곹솕瑜?遊ㅻ땲?)
 
-### Yes/No 질문에 답하기
+### Yes/No 吏덈Ц???듯븯湲?
 
-#### be동사 질문에 답하기
+#### be?숈궗 吏덈Ц???듯븯湲?
 - Q: **Are** you a student?
 - A: **Yes, I am.** / **No, I'm not.**
 
 - Q: **Is** she happy?
 - A: **Yes, she is.** / **No, she isn't.**
 
-#### 일반동사 질문에 답하기
+#### ?쇰컲?숈궗 吏덈Ц???듯븯湲?
 - Q: **Do** you like coffee?
 - A: **Yes, I do.** / **No, I don't.**
 
 - Q: **Does** he play tennis?
 - A: **Yes, he does.** / **No, he doesn't.**
 
-## 3. Wh-질문 만들기
+## 3. Wh-吏덈Ц 留뚮뱾湲?
 
-### Wh-질문 단어들
+### Wh-吏덈Ц ?⑥뼱??
 
-#### 1. What (무엇)
-- **What** is your name? (너의 이름은 무엇이니?)
-- **What** do you like? (너는 무엇을 좋아하니?)
-- **What** time is it? (지금 몇 시니?)
+#### 1. What (臾댁뾿)
+- **What** is your name? (?덉쓽 ?대쫫? 臾댁뾿?대땲?)
+- **What** do you like? (?덈뒗 臾댁뾿??醫뗭븘?섎땲?)
+- **What** time is it? (吏湲?紐??쒕땲?)
 
-#### 2. Who (누구)
-- **Who** is she? (그녀는 누구니?)
-- **Who** did you meet? (너는 누구를 만났니?)
-- **Who** are you? (너는 누구니?)
+#### 2. Who (?꾧뎄)
+- **Who** is she? (洹몃????꾧뎄??)
+- **Who** did you meet? (?덈뒗 ?꾧뎄瑜?留뚮궗??)
+- **Who** are you? (?덈뒗 ?꾧뎄??)
 
-#### 3. Where (어디)
-- **Where** are you? (너는 어디에 있니?)
-- **Where** do you live? (너는 어디에 사니?)
-- **Where** did you go? (너는 어디에 갔니?)
+#### 3. Where (?대뵒)
+- **Where** are you? (?덈뒗 ?대뵒???덈땲?)
+- **Where** do you live? (?덈뒗 ?대뵒???щ땲?)
+- **Where** did you go? (?덈뒗 ?대뵒??媛붾땲?)
 
-#### 4. When (언제)
-- **When** is your birthday? (너의 생일은 언제니?)
-- **When** do you study? (너는 언제 공부하니?)
-- **When** did you arrive? (너는 언제 도착했니?)
+#### 4. When (?몄젣)
+- **When** is your birthday? (?덉쓽 ?앹씪? ?몄젣??)
+- **When** do you study? (?덈뒗 ?몄젣 怨듬??섎땲?)
+- **When** did you arrive? (?덈뒗 ?몄젣 ?꾩갑?덈땲?)
 
-#### 5. Why (왜)
-- **Why** are you sad? (너는 왜 슬프니?)
-- **Why** do you study English? (너는 왜 영어를 공부하니?)
-- **Why** did you leave? (너는 왜 떠났니?)
+#### 5. Why (??
+- **Why** are you sad? (?덈뒗 ???ы봽??)
+- **Why** do you study English? (?덈뒗 ???곸뼱瑜?怨듬??섎땲?)
+- **Why** did you leave? (?덈뒗 ???좊궗??)
 
-#### 6. How (어떻게, 얼마나)
-- **How** are you? (너는 어떻게 지내니?)
-- **How** do you go to school? (너는 어떻게 학교에 가니?)
-- **How** much is it? (그것은 얼마니?)
-- **How** many books do you have? (너는 책을 몇 권 가지고 있니?)
+#### 6. How (?대뼸寃? ?쇰쭏??
+- **How** are you? (?덈뒗 ?대뼸寃?吏?대땲?)
+- **How** do you go to school? (?덈뒗 ?대뼸寃??숆탳??媛??)
+- **How** much is it? (洹멸쾬? ?쇰쭏??)
+- **How** many books do you have? (?덈뒗 梨낆쓣 紐?沅?媛吏怨??덈땲?)
 
-### Wh-질문 구조
+### Wh-吏덈Ц 援ъ“
 
-#### be동사 Wh-질문
-**Wh-단어 + be동사 + 주어 + (나머지)?**
+#### be?숈궗 Wh-吏덈Ц
+**Wh-?⑥뼱 + be?숈궗 + 二쇱뼱 + (?섎㉧吏)?**
 
 - **What** is your name?
 - **Where** are you?
 - **Who** is she?
 
-#### 일반동사 Wh-질문
-**Wh-단어 + Do/Does/Did + 주어 + 동사 원형 + (나머지)?**
+#### ?쇰컲?숈궗 Wh-吏덈Ц
+**Wh-?⑥뼱 + Do/Does/Did + 二쇱뼱 + ?숈궗 ?먰삎 + (?섎㉧吏)?**
 
 - **What** do you like?
 - **Where** does she live?
 - **When** did you arrive?
 
-## 4. Wh-질문 예문
+## 4. Wh-吏덈Ц ?덈Ц
 
-### What 질문
-- **What** is this? (이것은 무엇이니?)
-- **What** do you want? (너는 무엇을 원하니?)
-- **What** time do you wake up? (너는 몇 시에 일어나니?)
+### What 吏덈Ц
+- **What** is this? (?닿쾬? 臾댁뾿?대땲?)
+- **What** do you want? (?덈뒗 臾댁뾿???먰븯??)
+- **What** time do you wake up? (?덈뒗 紐??쒖뿉 ?쇱뼱?섎땲?)
 
-### Who 질문
-- **Who** is your teacher? (너의 선생님은 누구니?)
-- **Who** did you call? (너는 누구에게 전화했니?)
-- **Who** are you waiting for? (너는 누구를 기다리니?)
+### Who 吏덈Ц
+- **Who** is your teacher? (?덉쓽 ?좎깮?섏? ?꾧뎄??)
+- **Who** did you call? (?덈뒗 ?꾧뎄?먭쾶 ?꾪솕?덈땲?)
+- **Who** are you waiting for? (?덈뒗 ?꾧뎄瑜?湲곕떎由щ땲?)
 
-### Where 질문
-- **Where** is the library? (도서관은 어디에 있니?)
-- **Where** do you work? (너는 어디에서 일하니?)
-- **Where** did you go yesterday? (너는 어제 어디에 갔니?)
+### Where 吏덈Ц
+- **Where** is the library? (?꾩꽌愿? ?대뵒???덈땲?)
+- **Where** do you work? (?덈뒗 ?대뵒?먯꽌 ?쇳븯??)
+- **Where** did you go yesterday? (?덈뒗 ?댁젣 ?대뵒??媛붾땲?)
 
-### When 질문
-- **When** is the meeting? (회의는 언제니?)
-- **When** do you study? (너는 언제 공부하니?)
-- **When** did you arrive? (너는 언제 도착했니?)
+### When 吏덈Ц
+- **When** is the meeting? (?뚯쓽???몄젣??)
+- **When** do you study? (?덈뒗 ?몄젣 怨듬??섎땲?)
+- **When** did you arrive? (?덈뒗 ?몄젣 ?꾩갑?덈땲?)
 
-### Why 질문
-- **Why** are you late? (너는 왜 늦었니?)
-- **Why** do you like English? (너는 왜 영어를 좋아하니?)
-- **Why** did you leave? (너는 왜 떠났니?)
+### Why 吏덈Ц
+- **Why** are you late? (?덈뒗 ????뿀??)
+- **Why** do you like English? (?덈뒗 ???곸뼱瑜?醫뗭븘?섎땲?)
+- **Why** did you leave? (?덈뒗 ???좊궗??)
 
-### How 질문
-- **How** are you? (너는 어떻게 지내니?)
-- **How** do you go to school? (너는 어떻게 학교에 가니?)
-- **How** much does it cost? (그것은 얼마나 비싸니?)
-- **How** many students are there? (학생이 몇 명 있니?)
+### How 吏덈Ц
+- **How** are you? (?덈뒗 ?대뼸寃?吏?대땲?)
+- **How** do you go to school? (?덈뒗 ?대뼸寃??숆탳??媛??)
+- **How** much does it cost? (洹멸쾬? ?쇰쭏??鍮꾩떥??)
+- **How** many students are there? (?숈깮??紐?紐??덈땲?)
 
-## 5. 실전 연습
+## 5. ?ㅼ쟾 ?곗뒿
 
-### 연습 1: Yes/No 질문 만들기
-다음 긍정문을 Yes/No 질문으로 바꾸세요:
+### ?곗뒿 1: Yes/No 吏덈Ц 留뚮뱾湲?
+?ㅼ쓬 湲띿젙臾몄쓣 Yes/No 吏덈Ц?쇰줈 諛붽씀?몄슂:
 
-1. You are a student. → **Are** you a student?
-2. She likes pizza. → **Does** she like pizza?
-3. They went to school. → **Did** they go to school?
+1. You are a student. ??**Are** you a student?
+2. She likes pizza. ??**Does** she like pizza?
+3. They went to school. ??**Did** they go to school?
 
-### 연습 2: Wh-질문 만들기
-다음 문장에 대한 Wh-질문을 만드세요:
+### ?곗뒿 2: Wh-吏덈Ц 留뚮뱾湲?
+?ㅼ쓬 臾몄옣?????Wh-吏덈Ц??留뚮뱶?몄슂:
 
-1. My name is Tom. → **What** is your name?
-2. I live in Seoul. → **Where** do you live?
-3. I study at 7 PM. → **When** do you study?
+1. My name is Tom. ??**What** is your name?
+2. I live in Seoul. ??**Where** do you live?
+3. I study at 7 PM. ??**When** do you study?
 
-### 연습 3: 질문에 답하기
-다음 질문에 답하세요:
+### ?곗뒿 3: 吏덈Ц???듯븯湲?
+?ㅼ쓬 吏덈Ц???듯븯?몄슂:
 
 1. Q: Do you like coffee?
    A: Yes, I **do**. / No, I **don't**.
@@ -190,63 +190,63 @@ description: "Yes/No 질문과 Wh-질문을 만드는 방법을 배우고 올바
 3. Q: What time is it?
    A: It **is** 3 o'clock.
 
-## 6. 자주 하는 실수
+## 6. ?먯＜ ?섎뒗 ?ㅼ닔
 
-### 실수 1: 일반동사 의문문에서 동사에 -s/-es 추가
-- ❌ Does she **likes** pizza?
-- ✅ Does she **like** pizza? (does가 있으면 동사는 원형)
+### ?ㅼ닔 1: ?쇰컲?숈궗 ?섎Ц臾몄뿉???숈궗??-s/-es 異붽?
+- ??Does she **likes** pizza?
+- ??Does she **like** pizza? (does媛 ?덉쑝硫??숈궗???먰삎)
 
-### 실수 2: Wh-질문에서 주어와 동사 순서 바꿈
-- ❌ What you like?
-- ✅ What **do you** like?
+### ?ㅼ닔 2: Wh-吏덈Ц?먯꽌 二쇱뼱? ?숈궗 ?쒖꽌 諛붽퓞
+- ??What you like?
+- ??What **do you** like?
 
-### 실수 3: be동사 의문문에서 be동사 빼먹기
-- ❌ You are a student?
-- ✅ **Are** you a student?
+### ?ㅼ닔 3: be?숈궗 ?섎Ц臾몄뿉??be?숈궗 鍮쇰㉨湲?
+- ??You are a student?
+- ??**Are** you a student?
 
-### 실수 4: Yes/No 질문에 구체적으로 답하기
+### ?ㅼ닔 4: Yes/No 吏덈Ц??援ъ껜?곸쑝濡??듯븯湲?
 - Q: Do you like pizza?
-- ❌ A: I like pizza very much. (너무 길게 답함)
-- ✅ A: Yes, I do. (간단하게)
+- ??A: I like pizza very much. (?덈Т 湲멸쾶 ?듯븿)
+- ??A: Yes, I do. (媛꾨떒?섍쾶)
 
-## 7. 질문의 예의
+## 7. 吏덈Ц???덉쓽
 
-### 정중한 질문 표현
-- **Could** you help me? (도와주실 수 있나요?)
-- **Would** you like some coffee? (커피 좀 드시겠어요?)
-- **May** I ask a question? (질문해도 될까요?)
+### ?뺤쨷??吏덈Ц ?쒗쁽
+- **Could** you help me? (?꾩?二쇱떎 ???덈굹??)
+- **Would** you like some coffee? (而ㅽ뵾 醫 ?쒖떆寃좎뼱??)
+- **May** I ask a question? (吏덈Ц?대룄 ?좉퉴??)
 
-### 친근한 질문 표현
-- **Can** you help me? (도와줄 수 있니?)
-- **Do** you want some coffee? (커피 좀 마실래?)
+### 移쒓렐??吏덈Ц ?쒗쁽
+- **Can** you help me? (?꾩?以????덈땲?)
+- **Do** you want some coffee? (而ㅽ뵾 醫 留덉떎??)
 
-## 8. 특수한 Wh-질문
+## 8. ?뱀닔??Wh-吏덈Ц
 
-### What + 명사
-- **What** color do you like? (너는 무슨 색을 좋아하니?)
-- **What** time is it? (지금 몇 시니?)
-- **What** kind of music do you listen to? (너는 어떤 종류의 음악을 듣니?)
+### What + 紐낆궗
+- **What** color do you like? (?덈뒗 臾댁뒯 ?됱쓣 醫뗭븘?섎땲?)
+- **What** time is it? (吏湲?紐??쒕땲?)
+- **What** kind of music do you listen to? (?덈뒗 ?대뼡 醫낅쪟???뚯븙???ｋ땲?)
 
-### How + 형용사/부사
-- **How** old are you? (너는 몇 살이니?)
-- **How** tall is he? (그는 키가 얼마나 되니?)
-- **How** often do you exercise? (너는 얼마나 자주 운동하니?)
+### How + ?뺤슜??遺??
+- **How** old are you? (?덈뒗 紐??댁씠??)
+- **How** tall is he? (洹몃뒗 ?ㅺ? ?쇰쭏???섎땲?)
+- **How** often do you exercise? (?덈뒗 ?쇰쭏???먯＜ ?대룞?섎땲?)
 
-## 9. 핵심 요약
+## 9. ?듭떖 ?붿빟
 
-- **Yes/No 질문**: be동사는 앞으로, 일반동사는 Do/Does/Did 추가
-- **Wh-질문**: Wh-단어 + be동사/Do/Does/Did + 주어 + (나머지)
-- **주요 Wh-단어**: What, Who, Where, When, Why, How
-- **답변**: Yes/No 질문은 간단하게, Wh-질문은 구체적으로
+- **Yes/No 吏덈Ц**: be?숈궗???욎쑝濡? ?쇰컲?숈궗??Do/Does/Did 異붽?
+- **Wh-吏덈Ц**: Wh-?⑥뼱 + be?숈궗/Do/Does/Did + 二쇱뼱 + (?섎㉧吏)
+- **二쇱슂 Wh-?⑥뼱**: What, Who, Where, When, Why, How
+- **?듬?**: Yes/No 吏덈Ц? 媛꾨떒?섍쾶, Wh-吏덈Ц? 援ъ껜?곸쑝濡?
 
-## 10. 다음 단계
+## 10. ?ㅼ쓬 ?④퀎
 
-의문문 만드는 방법을 이해하셨나요? 다음 글에서는 **부정문 만들기**에 대해 배워보겠습니다. 긍정문을 부정문으로 바꾸는 방법을 익혀봅시다!
+?섎Ц臾?留뚮뱶??諛⑸쾿???댄빐?섏뀲?섏슂? ?ㅼ쓬 湲?먯꽌??**遺?뺣Ц 留뚮뱾湲?*?????諛곗썙蹂닿쿋?듬땲?? 湲띿젙臾몄쓣 遺?뺣Ц?쇰줈 諛붽씀??諛⑸쾿???듯?遊낆떆??
 
-**추가 학습 팁:**
-- 일상 생활에서 질문을 많이 만들어보세요
-- Wh-단어를 외워두면 매우 유용합니다
-- 질문에 답하는 연습도 함께 하세요
+**異붽? ?숈뒿 ??**
+- ?쇱긽 ?앺솢?먯꽌 吏덈Ц??留롮씠 留뚮뱾?대낫?몄슂
+- Wh-?⑥뼱瑜??몄썙?먮㈃ 留ㅼ슦 ?좎슜?⑸땲??
+- 吏덈Ц???듯븯???곗뒿???④퍡 ?섏꽭??
 
-질문을 잘하는 것은 대화의 핵심입니다! 💬❓
+吏덈Ц???섑븯??寃껋? ??붿쓽 ?듭떖?낅땲?? ?뮠??
 

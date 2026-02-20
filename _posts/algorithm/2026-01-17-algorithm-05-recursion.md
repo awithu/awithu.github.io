@@ -1,212 +1,212 @@
 ---
 layout: post
-title:  "재귀 알고리즘: 함수가 자신을 부르는 마법"
-date:   2026-01-17 09:00:00 +0900
-categories: [IT, 알고리즘]
-tags: [알고리즘, 재귀, 재귀함수, 콜스택]
-description: "재귀의 개념과 원리, 콜 스택 메모리, 재귀를 이용한 문제 해결 방법을 배웁니다."
+title:  "?ш? ?뚭퀬由ъ쬁: ?⑥닔媛 ?먯떊??遺瑜대뒗 留덈쾿"
+date:   2025-01-17 09:00:00 +0900
+categories: [IT, ?뚭퀬由ъ쬁]
+tags: [?뚭퀬由ъ쬁, ?ш?, ?ш??⑥닔, 肄쒖뒪??
+description: "?ш???媛쒕뀗怨??먮━, 肄??ㅽ깮 硫붾え由? ?ш?瑜??댁슜??臾몄젣 ?닿껐 諛⑸쾿??諛곗썎?덈떎."
 ---
 
-# 재귀 알고리즘: 함수가 자신을 부르는 마법
+# ?ш? ?뚭퀬由ъ쬁: ?⑥닔媛 ?먯떊??遺瑜대뒗 留덈쾿
 
-프로그래밍에서 가장 아름답고 강력한 개념 중 하나가 바로 **재귀(Recursion)**입니다. 함수가 자신을 호출하는 이 마법 같은 기법은 복잡한 문제를 우아하게 해결할 수 있게 해줍니다. 이번 글에서는 재귀의 원리와 실전 적용 방법을 자세히 알아보겠습니다.
+?꾨줈洹몃옒諛띿뿉??媛???꾨쫫?듦퀬 媛뺣젰??媛쒕뀗 以??섎굹媛 諛붾줈 **?ш?(Recursion)**?낅땲?? ?⑥닔媛 ?먯떊???몄텧?섎뒗 ??留덈쾿 媛숈? 湲곕쾿? 蹂듭옟??臾몄젣瑜??곗븘?섍쾶 ?닿껐?????덇쾶 ?댁쨳?덈떎. ?대쾲 湲?먯꽌???ш????먮━? ?ㅼ쟾 ?곸슜 諛⑸쾿???먯꽭???뚯븘蹂닿쿋?듬땲??
 
-## 1. 재귀의 기초 개념
+## 1. ?ш???湲곗큹 媛쒕뀗
 
-### 재귀의 정의
-함수가 **직접 또는 간접적으로 자신을 호출**하는 프로그래밍 기법입니다.
+### ?ш????뺤쓽
+?⑥닔媛 **吏곸젒 ?먮뒗 媛꾩젒?곸쑝濡??먯떊???몄텧**?섎뒗 ?꾨줈洹몃옒諛?湲곕쾿?낅땲??
 
-### 재귀 vs 반복
+### ?ш? vs 諛섎났
 ```python
-# 반복적 접근
+# 諛섎났???묎렐
 def factorial_iterative(n):
     result = 1
     for i in range(1, n + 1):
         result *= i
     return result
 
-# 재귀적 접근
+# ?ш????묎렐
 def factorial_recursive(n):
-    if n <= 1:          # 기저 조건 (Base Case)
+    if n <= 1:          # 湲곗? 議곌굔 (Base Case)
         return 1
-    return n * factorial_recursive(n - 1)  # 재귀 호출
+    return n * factorial_recursive(n - 1)  # ?ш? ?몄텧
 ```
 
-### 재귀의 세 가지 법칙
-1. **기저 조건(Base Case)**: 재귀 호출을 멈추는 조건
-2. **진행 방향(Progress)**: 기저 조건을 향해 나아가는 것
-3. **재귀 호출(Recursive Call)**: 함수가 자신을 호출하는 부분
+### ?ш?????媛吏 踰뺤튃
+1. **湲곗? 議곌굔(Base Case)**: ?ш? ?몄텧??硫덉텛??議곌굔
+2. **吏꾪뻾 諛⑺뼢(Progress)**: 湲곗? 議곌굔???ν빐 ?섏븘媛??寃?
+3. **?ш? ?몄텧(Recursive Call)**: ?⑥닔媛 ?먯떊???몄텧?섎뒗 遺遺?
 
-## 2. 재귀의 작동 원리
+## 2. ?ш????묐룞 ?먮━
 
-### 콜 스택 (Call Stack)
-재귀 함수가 호출될 때마다 **스택 프레임**이 생성됩니다.
+### 肄??ㅽ깮 (Call Stack)
+?ш? ?⑥닔媛 ?몄텧???뚮쭏??**?ㅽ깮 ?꾨젅??*???앹꽦?⑸땲??
 
 ```
-factorial_recursive(5)의 실행 과정:
+factorial_recursive(5)???ㅽ뻾 怨쇱젙:
 
 factorial_recursive(5)
-├── factorial_recursive(4)
-│   ├── factorial_recursive(3)
-│   │   ├── factorial_recursive(2)
-│   │   │   ├── factorial_recursive(1)
-│   │   │   │   └── return 1          # 기저 조건 도달
-│   │   │   └── return 2 * 1 = 2
-│   │   └── return 3 * 2 = 6
-│   └── return 4 * 6 = 24
-└── return 5 * 24 = 120
+?쒋?? factorial_recursive(4)
+??  ?쒋?? factorial_recursive(3)
+??  ??  ?쒋?? factorial_recursive(2)
+??  ??  ??  ?쒋?? factorial_recursive(1)
+??  ??  ??  ??  ?붴?? return 1          # 湲곗? 議곌굔 ?꾨떖
+??  ??  ??  ?붴?? return 2 * 1 = 2
+??  ??  ?붴?? return 3 * 2 = 6
+??  ?붴?? return 4 * 6 = 24
+?붴?? return 5 * 24 = 120
 ```
 
-### 메모리 관점에서의 재귀
+### 硫붾え由?愿?먯뿉?쒖쓽 ?ш?
 ```python
-# 각 호출마다 스택에 저장되는 정보:
-# - 지역 변수들
-# - 매개변수들
-# - 반환 주소
+# 媛??몄텧留덈떎 ?ㅽ깮????λ릺???뺣낫:
+# - 吏??蹂?섎뱾
+# - 留ㅺ컻蹂?섎뱾
+# - 諛섑솚 二쇱냼
 
 def factorial_recursive(n):
-    print(f"호출: factorial_recursive({n})")
+    print(f"?몄텧: factorial_recursive({n})")
     if n <= 1:
-        print(f"기저 조건 도달: factorial_recursive({n}) = 1")
+        print(f"湲곗? 議곌굔 ?꾨떖: factorial_recursive({n}) = 1")
         return 1
 
     result = n * factorial_recursive(n - 1)
-    print(f"반환: factorial_recursive({n}) = {result}")
+    print(f"諛섑솚: factorial_recursive({n}) = {result}")
     return result
 
 factorial_recursive(5)
 ```
 
-**출력 결과:**
+**異쒕젰 寃곌낵:**
 ```
-호출: factorial_recursive(5)
-호출: factorial_recursive(4)
-호출: factorial_recursive(3)
-호출: factorial_recursive(2)
-호출: factorial_recursive(1)
-기저 조건 도달: factorial_recursive(1) = 1
-반환: factorial_recursive(2) = 2
-반환: factorial_recursive(3) = 6
-반환: factorial_recursive(4) = 24
-반환: factorial_recursive(5) = 120
+?몄텧: factorial_recursive(5)
+?몄텧: factorial_recursive(4)
+?몄텧: factorial_recursive(3)
+?몄텧: factorial_recursive(2)
+?몄텧: factorial_recursive(1)
+湲곗? 議곌굔 ?꾨떖: factorial_recursive(1) = 1
+諛섑솚: factorial_recursive(2) = 2
+諛섑솚: factorial_recursive(3) = 6
+諛섑솚: factorial_recursive(4) = 24
+諛섑솚: factorial_recursive(5) = 120
 ```
 
-## 3. 재귀 알고리즘 구현 사례
+## 3. ?ш? ?뚭퀬由ъ쬁 援ы쁽 ?щ?
 
-### 1. 피보나치 수열 (Fibonacci Sequence)
+### 1. ?쇰낫?섏튂 ?섏뿴 (Fibonacci Sequence)
 
 ```python
 def fibonacci_recursive(n):
     """
-    피보나치 수열의 n번째 항을 구하는 재귀 함수
+    ?쇰낫?섏튂 ?섏뿴??n踰덉㎏ ??쓣 援ы븯???ш? ?⑥닔
 
     Args:
-        n (int): 구할 항의 위치 (0부터 시작)
+        n (int): 援ы븷 ??쓽 ?꾩튂 (0遺???쒖옉)
 
     Returns:
-        int: n번째 피보나치 수
+        int: n踰덉㎏ ?쇰낫?섏튂 ??
     """
-    if n <= 1:          # 기저 조건
+    if n <= 1:          # 湲곗? 議곌굔
         return n
     return fibonacci_recursive(n - 1) + fibonacci_recursive(n - 2)
 
-# 테스트
+# ?뚯뒪??
 for i in range(10):
     print(f"F({i}) = {fibonacci_recursive(i)}")
 ```
 
-**문제점**: 중복 계산이 많아 비효율적
-- fibonacci_recursive(5)는 fibonacci_recursive(3)을 2번 호출
-- 지수 시간 복잡도 O(2ⁿ)
+**臾몄젣??*: 以묐났 怨꾩궛??留롮븘 鍮꾪슚?⑥쟻
+- fibonacci_recursive(5)??fibonacci_recursive(3)??2踰??몄텧
+- 吏???쒓컙 蹂듭옟??O(2??
 
-### 2. 하노이 탑 (Tower of Hanoi)
+### 2. ?섎끂????(Tower of Hanoi)
 
 ```python
 def hanoi(n, source, target, auxiliary):
     """
-    하노이 탑 문제를 해결하는 재귀 함수
+    ?섎끂????臾몄젣瑜??닿껐?섎뒗 ?ш? ?⑥닔
 
     Args:
-        n (int): 이동할 원판 개수
-        source (str): 출발 기둥
-        target (str): 목표 기둥
-        auxiliary (str): 보조 기둥
+        n (int): ?대룞???먰뙋 媛쒖닔
+        source (str): 異쒕컻 湲곕뫁
+        target (str): 紐⑺몴 湲곕뫁
+        auxiliary (str): 蹂댁“ 湲곕뫁
     """
-    if n == 1:  # 기저 조건
-        print(f"원판 1을 {source}에서 {target}로 이동")
+    if n == 1:  # 湲곗? 議곌굔
+        print(f"?먰뙋 1??{source}?먯꽌 {target}濡??대룞")
         return
 
-    # n-1개의 원판을 보조 기둥으로 이동
+    # n-1媛쒖쓽 ?먰뙋??蹂댁“ 湲곕뫁?쇰줈 ?대룞
     hanoi(n-1, source, auxiliary, target)
 
-    # 가장 큰 원판을 목표 기둥으로 이동
-    print(f"원판 {n}을 {source}에서 {target}로 이동")
+    # 媛?????먰뙋??紐⑺몴 湲곕뫁?쇰줈 ?대룞
+    print(f"?먰뙋 {n}??{source}?먯꽌 {target}濡??대룞")
 
-    # 보조 기둥의 n-1개 원판을 목표 기둥으로 이동
+    # 蹂댁“ 湲곕뫁??n-1媛??먰뙋??紐⑺몴 湲곕뫁?쇰줈 ?대룞
     hanoi(n-1, auxiliary, target, source)
 
-# 테스트
-print("3개의 원판으로 하노이 탑 풀기:")
+# ?뚯뒪??
+print("3媛쒖쓽 ?먰뙋?쇰줈 ?섎끂?????湲?")
 hanoi(3, 'A', 'C', 'B')
 ```
 
-### 3. 디렉토리 구조 탐색
+### 3. ?붾젆?좊━ 援ъ“ ?먯깋
 
 ```python
 import os
 
 def list_files_recursive(path, level=0):
     """
-    디렉토리 구조를 재귀적으로 탐색하는 함수
+    ?붾젆?좊━ 援ъ“瑜??ш??곸쑝濡??먯깋?섎뒗 ?⑥닔
 
     Args:
-        path (str): 탐색할 경로
-        level (int): 들여쓰기 레벨
+        path (str): ?먯깋??寃쎈줈
+        level (int): ?ㅼ뿬?곌린 ?덈꺼
     """
     indent = "  " * level
 
     try:
         items = os.listdir(path)
     except PermissionError:
-        print(f"{indent}[접근 거부] {path}")
+        print(f"{indent}[?묎렐 嫄곕?] {path}")
         return
 
     for item in items:
         item_path = os.path.join(path, item)
 
         if os.path.isdir(item_path):
-            print(f"{indent}📁 {item}/")
-            list_files_recursive(item_path, level + 1)  # 재귀 호출
+            print(f"{indent}?뱚 {item}/")
+            list_files_recursive(item_path, level + 1)  # ?ш? ?몄텧
         else:
-            print(f"{indent}📄 {item}")
+            print(f"{indent}?뱞 {item}")
 
-# 테스트
+# ?뚯뒪??
 list_files_recursive(".", 0)
 ```
 
-## 4. 재귀의 장단점
+## 4. ?ш????λ떒??
 
-### 장점
-1. **코드 간결성**: 복잡한 로직을 간단하게 표현
-2. **수학적 증명 용이**: 수학적 귀납법과 유사
-3. **문제 분해**: 큰 문제를 작은 문제로 분해
-4. **트리/그래프 문제에 강함**: 자연스러운 구현
+### ?μ젏
+1. **肄붾뱶 媛꾧껐??*: 蹂듭옟??濡쒖쭅??媛꾨떒?섍쾶 ?쒗쁽
+2. **?섑븰??利앸챸 ?⑹씠**: ?섑븰??洹?⑸쾿怨??좎궗
+3. **臾몄젣 遺꾪빐**: ??臾몄젣瑜??묒? 臾몄젣濡?遺꾪빐
+4. **?몃━/洹몃옒??臾몄젣??媛뺥븿**: ?먯뿰?ㅻ윭??援ы쁽
 
-### 단점
-1. **스택 오버플로우**: 콜 스택 메모리 제한
-2. **중복 계산**: 같은 계산 반복 (피보나치 예시)
-3. **디버깅 어려움**: 콜 스택 추적 복잡
-4. **성능 저하**: 함수 호출 오버헤드
+### ?⑥젏
+1. **?ㅽ깮 ?ㅻ쾭?뚮줈??*: 肄??ㅽ깮 硫붾え由??쒗븳
+2. **以묐났 怨꾩궛**: 媛숈? 怨꾩궛 諛섎났 (?쇰낫?섏튂 ?덉떆)
+3. **?붾쾭源??대젮?**: 肄??ㅽ깮 異붿쟻 蹂듭옟
+4. **?깅뒫 ???*: ?⑥닔 ?몄텧 ?ㅻ쾭?ㅻ뱶
 
-### 단점 극복 방법
+### ?⑥젏 洹밸났 諛⑸쾿
 
-#### 1. 메모이제이션 (Memoization)
+#### 1. 硫붾え?댁젣?댁뀡 (Memoization)
 ```python
 def fibonacci_memo(n, memo=None):
     if memo is None:
         memo = {}
 
-    if n in memo:        # 이미 계산한 값이면 반환
+    if n in memo:        # ?대? 怨꾩궛??媛믪씠硫?諛섑솚
         return memo[n]
 
     if n <= 1:
@@ -215,29 +215,29 @@ def fibonacci_memo(n, memo=None):
     memo[n] = fibonacci_memo(n-1, memo) + fibonacci_memo(n-2, memo)
     return memo[n]
 
-# 테스트
-print(f"F(10) = {fibonacci_memo(10)}")  # 캐시 활용
+# ?뚯뒪??
+print(f"F(10) = {fibonacci_memo(10)}")  # 罹먯떆 ?쒖슜
 ```
 
-#### 2. 꼬리 재귀 (Tail Recursion)
+#### 2. 瑗щ━ ?ш? (Tail Recursion)
 ```python
 def factorial_tail_recursive(n, accumulator=1):
     """
-    꼬리 재귀를 사용한 팩토리얼
-    컴파일러 최적화로 스택 오버플로우 방지 가능
+    瑗щ━ ?ш?瑜??ъ슜???⑺넗由ъ뼹
+    而댄뙆?쇰윭 理쒖쟻?붾줈 ?ㅽ깮 ?ㅻ쾭?뚮줈??諛⑹? 媛??
     """
     if n <= 1:
         return accumulator
     return factorial_tail_recursive(n - 1, n * accumulator)
 
-# 테스트
+# ?뚯뒪??
 print(f"5! = {factorial_tail_recursive(5)}")
 ```
 
-#### 3. 반복문으로 변환
+#### 3. 諛섎났臾몄쑝濡?蹂??
 ```python
 def fibonacci_iterative(n):
-    """반복문을 사용한 피보나치 (메모리 효율적)"""
+    """諛섎났臾몄쓣 ?ъ슜???쇰낫?섏튂 (硫붾え由??⑥쑉??"""
     if n <= 1:
         return n
 
@@ -246,33 +246,33 @@ def fibonacci_iterative(n):
         a, b = b, a + b
     return b
 
-# 테스트
+# ?뚯뒪??
 print(f"F(10) = {fibonacci_iterative(10)}")
 ```
 
-## 5. 재귀적 사고 훈련
+## 5. ?ш????ш퀬 ?덈젴
 
-### 1. 문자열 뒤집기
+### 1. 臾몄옄???ㅼ쭛湲?
 ```python
 def reverse_string(s):
-    if len(s) <= 1:      # 기저 조건
+    if len(s) <= 1:      # 湲곗? 議곌굔
         return s
-    return reverse_string(s[1:]) + s[0]  # 재귀 호출
+    return reverse_string(s[1:]) + s[0]  # ?ш? ?몄텧
 
 print(reverse_string("Hello"))  # "olleH"
 ```
 
-### 2. 배열의 합 구하기
+### 2. 諛곗뿴????援ы븯湲?
 ```python
 def array_sum(arr):
-    if not arr:           # 기저 조건
+    if not arr:           # 湲곗? 議곌굔
         return 0
-    return arr[0] + array_sum(arr[1:])  # 재귀 호출
+    return arr[0] + array_sum(arr[1:])  # ?ш? ?몄텧
 
 print(array_sum([1, 2, 3, 4, 5]))  # 15
 ```
 
-### 3. 이진 탐색 트리 순회
+### 3. ?댁쭊 ?먯깋 ?몃━ ?쒗쉶
 ```python
 class TreeNode:
     def __init__(self, val=0, left=None, right=None):
@@ -281,7 +281,7 @@ class TreeNode:
         self.right = right
 
 def inorder_traversal(root):
-    """중위 순회 (Left → Root → Right)"""
+    """以묒쐞 ?쒗쉶 (Left ??Root ??Right)"""
     if root is None:
         return []
 
@@ -289,7 +289,7 @@ def inorder_traversal(root):
             [root.val] +
             inorder_traversal(root.right))
 
-# 테스트 트리 생성
+# ?뚯뒪???몃━ ?앹꽦
 root = TreeNode(1)
 root.right = TreeNode(2)
 root.right.left = TreeNode(3)
@@ -297,39 +297,39 @@ root.right.left = TreeNode(3)
 print(inorder_traversal(root))  # [1, 3, 2]
 ```
 
-## 6. 재귀의 시간 복잡도와 공간 복잡도
+## 6. ?ш????쒓컙 蹂듭옟?꾩? 怨듦컙 蹂듭옟??
 
-### 시간 복잡도
-- **재귀 호출 트리**의 크기에 따라 결정
-- 피보나치: O(2ⁿ), 메모이제이션 적용 시 O(n)
+### ?쒓컙 蹂듭옟??
+- **?ш? ?몄텧 ?몃━**???ш린???곕씪 寃곗젙
+- ?쇰낫?섏튂: O(2??, 硫붾え?댁젣?댁뀡 ?곸슜 ??O(n)
 
-### 공간 복잡도
-- **콜 스택 깊이**가 공간 복잡도 결정
-- 선형 재귀: O(n), 트리 재귀: O(log n) ~ O(n)
+### 怨듦컙 蹂듭옟??
+- **肄??ㅽ깮 源딆씠**媛 怨듦컙 蹂듭옟??寃곗젙
+- ?좏삎 ?ш?: O(n), ?몃━ ?ш?: O(log n) ~ O(n)
 
-### 최적화 고려사항
-1. **꼬리 재귀**: 컴파일러 최적화로 스택 오버플로우 방지
-2. **반복문 변환**: 메모리 효율성 향상
-3. **메모이제이션**: 중복 계산 제거
+### 理쒖쟻??怨좊젮?ы빆
+1. **瑗щ━ ?ш?**: 而댄뙆?쇰윭 理쒖쟻?붾줈 ?ㅽ깮 ?ㅻ쾭?뚮줈??諛⑹?
+2. **諛섎났臾?蹂??*: 硫붾え由??⑥쑉???μ긽
+3. **硫붾え?댁젣?댁뀡**: 以묐났 怨꾩궛 ?쒓굅
 
-## 7. 재귀 vs 반복문 비교
+## 7. ?ш? vs 諛섎났臾?鍮꾧탳
 
-| 측면 | 재귀 | 반복문 |
+| 痢〓㈃ | ?ш? | 諛섎났臾?|
 |------|------|--------|
-| 코드 간결성 | 높음 | 낮음 |
-| 메모리 사용 | 스택 | 변수 |
-| 디버깅 | 어려움 | 쉬움 |
-| 성능 | 함수 호출 오버헤드 | 효율적 |
-| 적용 | 트리, 그래프 | 선형 처리 |
+| 肄붾뱶 媛꾧껐??| ?믪쓬 | ??쓬 |
+| 硫붾え由??ъ슜 | ?ㅽ깮 | 蹂??|
+| ?붾쾭源?| ?대젮? | ?ъ? |
+| ?깅뒫 | ?⑥닔 ?몄텧 ?ㅻ쾭?ㅻ뱶 | ?⑥쑉??|
+| ?곸슜 | ?몃━, 洹몃옒??| ?좏삎 泥섎━ |
 
-### 선택 가이드라인
-- **재귀 사용**: 문제 구조가 재귀적일 때 (트리, 분할 정복)
-- **반복문 사용**: 성능이 중요하고 스택 오버플로우 우려될 때
-- **하이브리드**: 메모이제이션과 함께 사용
+### ?좏깮 媛?대뱶?쇱씤
+- **?ш? ?ъ슜**: 臾몄젣 援ъ“媛 ?ш??곸씪 ??(?몃━, 遺꾪븷 ?뺣났)
+- **諛섎났臾??ъ슜**: ?깅뒫??以묒슂?섍퀬 ?ㅽ깮 ?ㅻ쾭?뚮줈???곕젮????
+- **?섏씠釉뚮━??*: 硫붾え?댁젣?댁뀡怨??④퍡 ?ъ슜
 
-## 8. 연습 문제
+## 8. ?곗뒿 臾몄젣
 
-1. 다음 재귀 함수의 콜 스택을 그려보세요:
+1. ?ㅼ쓬 ?ш? ?⑥닔??肄??ㅽ깮??洹몃젮蹂댁꽭??
 ```python
 def mystery(n):
     if n <= 1:
@@ -337,23 +337,23 @@ def mystery(n):
     return n + mystery(n-2)
 ```
 
-2. 재귀를 사용한 이진 검색을 구현해보세요.
+2. ?ш?瑜??ъ슜???댁쭊 寃?됱쓣 援ы쁽?대낫?몄슂.
 
-3. 피보나치 재귀 함수를 메모이제이션으로 최적화해보세요.
+3. ?쇰낫?섏튂 ?ш? ?⑥닔瑜?硫붾え?댁젣?댁뀡?쇰줈 理쒖쟻?뷀빐蹂댁꽭??
 
-4. 재귀를 사용하지 않고 하노이 탑 문제를 해결하는 방법을 생각해보세요.
+4. ?ш?瑜??ъ슜?섏? ?딄퀬 ?섎끂????臾몄젣瑜??닿껐?섎뒗 諛⑸쾿???앷컖?대낫?몄슂.
 
-## 마무리
+## 留덈Т由?
 
-재귀는 프로그래밍의 핵심 개념 중 하나입니다. 처음에는 어렵게 느껴질 수 있지만, 연습하다 보면 복잡한 문제를 우아하게 해결하는 강력한 도구가 됩니다.
+?ш????꾨줈洹몃옒諛띿쓽 ?듭떖 媛쒕뀗 以??섎굹?낅땲?? 泥섏쓬?먮뒗 ?대졄寃??먭뺨吏????덉?留? ?곗뒿?섎떎 蹂대㈃ 蹂듭옟??臾몄젣瑜??곗븘?섍쾶 ?닿껐?섎뒗 媛뺣젰???꾧뎄媛 ?⑸땲??
 
-**핵심 요약:**
-- 재귀 = 함수가 자신을 호출하는 기법
-- 기저 조건 + 재귀 호출 + 진행 방향이 필수
-- 장점: 코드 간결성, 수학적 증명 용이
-- 단점: 스택 오버플로우, 중복 계산
-- 해결책: 메모이제이션, 꼬리 재귀, 반복문 변환
+**?듭떖 ?붿빟:**
+- ?ш? = ?⑥닔媛 ?먯떊???몄텧?섎뒗 湲곕쾿
+- 湲곗? 議곌굔 + ?ш? ?몄텧 + 吏꾪뻾 諛⑺뼢???꾩닔
+- ?μ젏: 肄붾뱶 媛꾧껐?? ?섑븰??利앸챸 ?⑹씠
+- ?⑥젏: ?ㅽ깮 ?ㅻ쾭?뚮줈?? 以묐났 怨꾩궛
+- ?닿껐梨? 硫붾え?댁젣?댁뀡, 瑗щ━ ?ш?, 諛섎났臾?蹂??
 
-이제 기초 알고리즘 커리큘럼이 끝났습니다! 다음 글부터는 **고급 알고리즘**인 동적 계획법부터 시작합니다. 재귀의 마법 같은 세계를 잘 즐기셨나요? 🎭✨
+?댁젣 湲곗큹 ?뚭퀬由ъ쬁 而ㅻ━?섎읆???앸궗?듬땲?? ?ㅼ쓬 湲遺?곕뒗 **怨좉툒 ?뚭퀬由ъ쬁**???숈쟻 怨꾪쉷踰뺣????쒖옉?⑸땲?? ?ш???留덈쾿 媛숈? ?멸퀎瑜???利먭린?⑤굹?? ?렚??
 
-**추가 학습:** 다양한 재귀 문제를 풀어보며 재귀적 사고를 익히세요. 처음에는 헷갈릴 수 있지만, 익숙해지면 프로그래밍의 새로운 차원을 경험할 수 있습니다! 🌀
+**異붽? ?숈뒿:** ?ㅼ뼇???ш? 臾몄젣瑜???대낫硫??ш????ш퀬瑜??듯엳?몄슂. 泥섏쓬?먮뒗 ?룰컝由????덉?留? ?듭닕?댁?硫??꾨줈洹몃옒諛띿쓽 ?덈줈??李⑥썝??寃쏀뿕?????덉뒿?덈떎! ??

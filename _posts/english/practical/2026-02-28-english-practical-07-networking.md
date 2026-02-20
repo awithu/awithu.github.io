@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "네트워킹 영어: 비즈니스 네트워킹 표현하기"
-date:   2026-02-28 09:00:00 +0900
+date:   2025-11-28 09:00:00 +0900
 categories: [영어, 실전 영어]
 tags: [영어, 네트워킹, networking, business networking]
 description: "비즈니스 네트워킹에서 사용하는 영어 표현을 배우고 효과적으로 네트워킹하는 방법을 익힙니다."
@@ -9,47 +9,69 @@ description: "비즈니스 네트워킹에서 사용하는 영어 표현을 배�
 
 # 네트워킹 영어: 비즈니스 네트워킹 표현하기
 
-네트워킹은 비즈니스 성공의 핵심입니다. 네트워킹 표현을 배워봅시다.
+네트워킹은 **첫 인상 + 짧은 자기소개 + 후속 연락**으로 결정됩니다. 아래 표현은 행사, 컨퍼런스, 미팅에서 바로 사용할 수 있도록 구성했습니다.
 
-## 1. 첫 만남
+## 1. 학습 목표
 
-### 인사 표현
-- **Nice to meet you!** (만나서 반갑습니다!)
-- **I'm Tom. What's your name?** (저는 톰입니다. 이름이 무엇인가요?)
-- **What do you do?** (무엇을 하시나요?)
+- 첫 만남에서 자연스럽게 자기소개를 할 수 있다.
+- 대화를 확장하는 질문을 던질 수 있다.
+- 후속 연락을 예의 있게 요청할 수 있다.
 
-## 2. 대화 이어가기
+## 2. 첫 만남 표현
 
-### 관심 표현
-- **That's interesting!** (흥미롭네요!)
-- **Tell me more about that.** (그것에 대해 더 말씀해주세요.)
-- **How long have you been...?** (얼마나 오래 ...하셨나요?)
+- **Hi, I'm Jisoo from ABC Labs.** (안녕하세요, ABC Labs의 지수입니다.)
+- **Nice to meet you. What brings you here?** (만나서 반갑습니다. 이번 행사엔 어떤 일로 오셨어요?)
+- **What line of work are you in?** (어떤 일을 하시나요?)
 
-### 명함 교환
-- **Here's my business card.** (여기 제 명함입니다.)
-- **May I have your card?** (명함을 받을 수 있을까요?)
-- **Let's keep in touch.** (연락 유지합시다.)
+## 3. 짧은 자기소개 (30초)
 
-## 3. 마무리
+- **I work on data pipelines for AI products.** (AI 제품 데이터 파이프라인을 담당합니다.)
+- **Recently, we've been focusing on...** (최근에는 ...에 집중하고 있습니다.)
+- **I'm looking to learn more about...** (...에 대해 더 알아보고 싶습니다.)
 
-### 작별 인사
-- **It was great meeting you!** (만나서 반가웠습니다!)
-- **I hope we can work together.** (함께 일할 수 있기를 바랍니다.)
-- **See you around!** (나중에 봐요!)
+## 4. 대화 이어가기 질문
 
-## 4. 핵심 요약
+- **How did you get into this field?** (어떻게 이 분야에 오게 되셨나요?)
+- **What projects are you excited about?** (요즘 기대되는 프로젝트가 있나요?)
+- **What's the biggest challenge you're facing?** (가장 큰 과제가 무엇인가요?)
 
-- **첫 만남**: Nice to meet you, What do you do
-- **대화**: That's interesting, Tell me more
-- **마무리**: It was great meeting you, Let's keep in touch
+## 5. 명함/연락처 교환
 
-## 5. 다음 단계
+- **Here's my card.** (제 명함입니다.)
+- **Would you like to connect on LinkedIn?** (링크드인으로 연결할까요?)
+- **May I follow up by email?** (이메일로 후속 연락드려도 될까요?)
 
-네트워킹 영어를 배우셨나요? 다음 글에서는 **영어 프레젠테이션 스킬**에 대해 배워보겠습니다. 효과적인 프레젠테이션을 위한 스킬을 익혀봅시다!
+## 6. 마무리와 후속 연락
 
-**추가 학습 팁:**
-- 네트워킹 표현을 외워서 사용하세요
-- 자신감 있게 대화하세요
+- **It was great talking with you.** (대화 즐거웠습니다.)
+- **Let's keep in touch.** (계속 연락해요.)
+- **I'll send a quick note after the event.** (행사 후 간단히 연락드릴게요.)
 
-네트워킹 영어를 익히면 비즈니스 기회가 넓어집니다! 🤝💼
+## 7. 미니 대화 예시
+
+**A:** Hi, I'm Jisoo from ABC Labs. What brings you here?  
+**B:** I'm here to learn about LLM ops.  
+**A:** Same here. I'm working on AI infrastructure.  
+**B:** Great. Let's connect on LinkedIn.
+
+## 8. 흔한 실수
+
+- "What do you do?"만 반복 → **맥락 질문**으로 확장  
+- 자기소개가 너무 길다 → **1~2문장 요약**  
+- 후속 연락 없이 종료 → **연락처 요청**  
+
+## 9. 연습 과제
+
+1) 간단한 자기소개 2문장을 만들어 보세요.  
+2) 상대방의 프로젝트를 묻는 질문을 적어 보세요.  
+3) 후속 연락 요청 문장을 영어로 작성해 보세요.  
+
+## 10. 핵심 요약
+
+- 첫 만남 → 자기소개 → 질문 → 후속 연락  
+- 짧고 명확한 메시지가 기억에 남는다.
+
+## 11. 다음 단계
+
+다음 글에서는 **영어 프레젠테이션 스킬**로 넘어가 발표 전달력을 높이는 방법을 다룹니다.
 

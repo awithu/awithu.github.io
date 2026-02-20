@@ -1,227 +1,227 @@
 ---
 layout: post
-title:  "부정문 만들기: not의 올바른 사용법"
-date:   2026-01-28 09:00:00 +0900
-categories: [영어, 문법 기초]
-tags: [영어, 문법, 부정문, not, don't, doesn't]
-description: "영어 부정문을 만드는 방법을 배우고 be동사와 일반동사의 부정문을 올바르게 만드는 방법을 익힙니다."
+title:  "遺?뺣Ц 留뚮뱾湲? not???щ컮瑜??ъ슜踰?
+date:   2025-01-28 09:00:00 +0900
+categories: [?곸뼱, 臾몃쾿 湲곗큹]
+tags: [?곸뼱, 臾몃쾿, 遺?뺣Ц, not, don't, doesn't]
+description: "?곸뼱 遺?뺣Ц??留뚮뱶??諛⑸쾿??諛곗슦怨?be?숈궗? ?쇰컲?숈궗??遺?뺣Ц???щ컮瑜닿쾶 留뚮뱶??諛⑸쾿???듯옓?덈떎."
 ---
 
-# 부정문 만들기: not의 올바른 사용법
+# 遺?뺣Ц 留뚮뱾湲? not???щ컮瑜??ъ슜踰?
 
-부정문은 "~하지 않다", "~이 아니다"를 표현하는 문장입니다. be동사와 일반동사의 부정문 만드는 방법이 다르므로 정확히 구분해서 사용해야 합니다.
+遺?뺣Ц? "~?섏? ?딅떎", "~???꾨땲??瑜??쒗쁽?섎뒗 臾몄옣?낅땲?? be?숈궗? ?쇰컲?숈궗??遺?뺣Ц 留뚮뱶??諛⑸쾿???ㅻⅤ誘濡??뺥솗??援щ텇?댁꽌 ?ъ슜?댁빞 ?⑸땲??
 
-## 1. 부정문이란?
+## 1. 遺?뺣Ц?대??
 
-부정문은 **긍정의 반대**를 나타내는 문장입니다.
+遺?뺣Ц? **湲띿젙??諛섎?**瑜??섑??대뒗 臾몄옣?낅땲??
 
-### 부정문의 의미
-- "~하지 않다"
-- "~이 아니다"
-- "~없다"
+### 遺?뺣Ц???섎?
+- "~?섏? ?딅떎"
+- "~???꾨땲??
+- "~?녿떎"
 
-## 2. be동사 부정문
+## 2. be?숈궗 遺?뺣Ц
 
-### 규칙: be동사 뒤에 not 추가
+### 洹쒖튃: be?숈궗 ?ㅼ뿉 not 異붽?
 
-**긍정문 → 부정문**
-- 긍정문: I **am** a student.
-- 부정문: I **am not** a student.
+**湲띿젙臾???遺?뺣Ц**
+- 湲띿젙臾? I **am** a student.
+- 遺?뺣Ц: I **am not** a student.
 
-### be동사 부정문 형태
+### be?숈궗 遺?뺣Ц ?뺥깭
 
-#### 현재 시제
-- I **am not** happy. (나는 행복하지 않다.)
-- You **are not** tired. (너는 피곤하지 않다.)
-- He **is not** a teacher. (그는 선생님이 아니다.)
-- She **is not** at home. (그녀는 집에 없다.)
-- It **is not** easy. (그것은 쉽지 않다.)
-- We **are not** students. (우리는 학생들이 아니다.)
-- They **are not** friends. (그들은 친구들이 아니다.)
+#### ?꾩옱 ?쒖젣
+- I **am not** happy. (?섎뒗 ?됰났?섏? ?딅떎.)
+- You **are not** tired. (?덈뒗 ?쇨낀?섏? ?딅떎.)
+- He **is not** a teacher. (洹몃뒗 ?좎깮?섏씠 ?꾨땲??)
+- She **is not** at home. (洹몃???吏묒뿉 ?녿떎.)
+- It **is not** easy. (洹멸쾬? ?쎌? ?딅떎.)
+- We **are not** students. (?곕━???숈깮?ㅼ씠 ?꾨땲??)
+- They **are not** friends. (洹몃뱾? 移쒓뎄?ㅼ씠 ?꾨땲??)
 
-#### 과거 시제
-- I **was not** happy. (나는 행복하지 않았다.)
-- You **were not** tired. (너는 피곤하지 않았다.)
-- He **was not** a teacher. (그는 선생님이 아니었다.)
-- They **were not** at home. (그들은 집에 없었다.)
+#### 怨쇨굅 ?쒖젣
+- I **was not** happy. (?섎뒗 ?됰났?섏? ?딆븯??)
+- You **were not** tired. (?덈뒗 ?쇨낀?섏? ?딆븯??)
+- He **was not** a teacher. (洹몃뒗 ?좎깮?섏씠 ?꾨땲?덈떎.)
+- They **were not** at home. (洹몃뱾? 吏묒뿉 ?놁뿀??)
 
-### be동사 부정문 축약형
+### be?숈궗 遺?뺣Ц 異뺤빟??
 
-#### 현재 시제 축약형
-- **am not** → **'m not** (I'm not)
-- **is not** → **isn't**
-- **are not** → **aren't**
+#### ?꾩옱 ?쒖젣 異뺤빟??
+- **am not** ??**'m not** (I'm not)
+- **is not** ??**isn't**
+- **are not** ??**aren't**
 
-#### 과거 시제 축약형
-- **was not** → **wasn't**
-- **were not** → **weren't**
+#### 怨쇨굅 ?쒖젣 異뺤빟??
+- **was not** ??**wasn't**
+- **were not** ??**weren't**
 
-### 축약형 예문
-- I **'m not** a student. (나는 학생이 아니다.)
-- She **isn't** happy. (그녀는 행복하지 않다.)
-- They **aren't** friends. (그들은 친구들이 아니다.)
-- He **wasn't** at home. (그는 집에 없었다.)
-- We **weren't** tired. (우리는 피곤하지 않았다.)
+### 異뺤빟???덈Ц
+- I **'m not** a student. (?섎뒗 ?숈깮???꾨땲??)
+- She **isn't** happy. (洹몃????됰났?섏? ?딅떎.)
+- They **aren't** friends. (洹몃뱾? 移쒓뎄?ㅼ씠 ?꾨땲??)
+- He **wasn't** at home. (洹몃뒗 吏묒뿉 ?놁뿀??)
+- We **weren't** tired. (?곕━???쇨낀?섏? ?딆븯??)
 
-## 3. 일반동사 부정문
+## 3. ?쇰컲?숈궗 遺?뺣Ц
 
-### 규칙: Do/Does/Did + not + 동사 원형
+### 洹쒖튃: Do/Does/Did + not + ?숈궗 ?먰삎
 
-**현재 시제**
-- 1인칭/2인칭/복수: **do not** + 동사 원형
-- 3인칭 단수: **does not** + 동사 원형
+**?꾩옱 ?쒖젣**
+- 1?몄묶/2?몄묶/蹂듭닔: **do not** + ?숈궗 ?먰삎
+- 3?몄묶 ?⑥닔: **does not** + ?숈궗 ?먰삎
 
-**과거 시제**
-- 모든 인칭: **did not** + 동사 원형
+**怨쇨굅 ?쒖젣**
+- 紐⑤뱺 ?몄묶: **did not** + ?숈궗 ?먰삎
 
-### 일반동사 부정문 형태
+### ?쇰컲?숈궗 遺?뺣Ц ?뺥깭
 
-#### 현재 시제
-- I **do not** like pizza. (나는 피자를 좋아하지 않는다.)
-- You **do not** study English. (너는 영어를 공부하지 않는다.)
-- He **does not** play soccer. (그는 축구를 하지 않는다.)
-- She **does not** eat meat. (그녀는 고기를 먹지 않는다.)
-- It **does not** work. (그것은 작동하지 않는다.)
-- We **do not** watch TV. (우리는 TV를 보지 않는다.)
-- They **do not** go to school. (그들은 학교에 가지 않는다.)
+#### ?꾩옱 ?쒖젣
+- I **do not** like pizza. (?섎뒗 ?쇱옄瑜?醫뗭븘?섏? ?딅뒗??)
+- You **do not** study English. (?덈뒗 ?곸뼱瑜?怨듬??섏? ?딅뒗??)
+- He **does not** play soccer. (洹몃뒗 異뺢뎄瑜??섏? ?딅뒗??)
+- She **does not** eat meat. (洹몃???怨좉린瑜?癒뱀? ?딅뒗??)
+- It **does not** work. (洹멸쾬? ?묐룞?섏? ?딅뒗??)
+- We **do not** watch TV. (?곕━??TV瑜?蹂댁? ?딅뒗??)
+- They **do not** go to school. (洹몃뱾? ?숆탳??媛吏 ?딅뒗??)
 
-#### 과거 시제
-- I **did not** go to school. (나는 학교에 가지 않았다.)
-- She **did not** study yesterday. (그녀는 어제 공부하지 않았다.)
-- They **did not** play games. (그들은 게임을 하지 않았다.)
+#### 怨쇨굅 ?쒖젣
+- I **did not** go to school. (?섎뒗 ?숆탳??媛吏 ?딆븯??)
+- She **did not** study yesterday. (洹몃????댁젣 怨듬??섏? ?딆븯??)
+- They **did not** play games. (洹몃뱾? 寃뚯엫???섏? ?딆븯??)
 
-### 일반동사 부정문 축약형
+### ?쇰컲?숈궗 遺?뺣Ц 異뺤빟??
 
-#### 현재 시제 축약형
-- **do not** → **don't**
-- **does not** → **doesn't**
+#### ?꾩옱 ?쒖젣 異뺤빟??
+- **do not** ??**don't**
+- **does not** ??**doesn't**
 
-#### 과거 시제 축약형
-- **did not** → **didn't**
+#### 怨쇨굅 ?쒖젣 異뺤빟??
+- **did not** ??**didn't**
 
-### 축약형 예문
-- I **don't** like pizza. (나는 피자를 좋아하지 않는다.)
-- She **doesn't** study English. (그녀는 영어를 공부하지 않는다.)
-- They **didn't** go to school. (그들은 학교에 가지 않았다.)
+### 異뺤빟???덈Ц
+- I **don't** like pizza. (?섎뒗 ?쇱옄瑜?醫뗭븘?섏? ?딅뒗??)
+- She **doesn't** study English. (洹몃????곸뼱瑜?怨듬??섏? ?딅뒗??)
+- They **didn't** go to school. (洹몃뱾? ?숆탳??媛吏 ?딆븯??)
 
-## 4. be동사 vs 일반동사 부정문 비교
+## 4. be?숈궗 vs ?쇰컲?숈궗 遺?뺣Ц 鍮꾧탳
 
-### be동사 부정문
-- **be동사 + not**
-- 예: I **am not** happy.
-- 예: She **isn't** a teacher.
+### be?숈궗 遺?뺣Ц
+- **be?숈궗 + not**
+- ?? I **am not** happy.
+- ?? She **isn't** a teacher.
 
-### 일반동사 부정문
-- **Do/Does/Did + not + 동사 원형**
-- 예: I **do not** like coffee.
-- 예: She **doesn't** study.
+### ?쇰컲?숈궗 遺?뺣Ц
+- **Do/Does/Did + not + ?숈궗 ?먰삎**
+- ?? I **do not** like coffee.
+- ?? She **doesn't** study.
 
-## 5. 부정문 예문
+## 5. 遺?뺣Ц ?덈Ц
 
-### be동사 부정문 예문
+### be?숈궗 遺?뺣Ц ?덈Ц
 
-#### 상태 표현
-- I **am not** tired. (나는 피곤하지 않다.)
-- She **is not** sad. (그녀는 슬프지 않다.)
-- They **are not** busy. (그들은 바쁘지 않다.)
+#### ?곹깭 ?쒗쁽
+- I **am not** tired. (?섎뒗 ?쇨낀?섏? ?딅떎.)
+- She **is not** sad. (洹몃????ы봽吏 ?딅떎.)
+- They **are not** busy. (洹몃뱾? 諛붿걯吏 ?딅떎.)
 
-#### 직업/신분 표현
-- I **am not** a doctor. (나는 의사가 아니다.)
-- She **is not** a student. (그녀는 학생이 아니다.)
+#### 吏곸뾽/?좊텇 ?쒗쁽
+- I **am not** a doctor. (?섎뒗 ?섏궗媛 ?꾨땲??)
+- She **is not** a student. (洹몃????숈깮???꾨땲??)
 
-#### 위치 표현
-- I **am not** at home. (나는 집에 없다.)
-- They **are not** in the library. (그들은 도서관에 없다.)
+#### ?꾩튂 ?쒗쁽
+- I **am not** at home. (?섎뒗 吏묒뿉 ?녿떎.)
+- They **are not** in the library. (洹몃뱾? ?꾩꽌愿???녿떎.)
 
-### 일반동사 부정문 예문
+### ?쇰컲?숈궗 遺?뺣Ц ?덈Ц
 
-#### 행동 표현
-- I **don't** eat breakfast. (나는 아침을 먹지 않는다.)
-- She **doesn't** play tennis. (그녀는 테니스를 하지 않는다.)
-- They **don't** watch movies. (그들은 영화를 보지 않는다.)
+#### ?됰룞 ?쒗쁽
+- I **don't** eat breakfast. (?섎뒗 ?꾩묠??癒뱀? ?딅뒗??)
+- She **doesn't** play tennis. (洹몃????뚮땲?ㅻ? ?섏? ?딅뒗??)
+- They **don't** watch movies. (洹몃뱾? ?곹솕瑜?蹂댁? ?딅뒗??)
 
-#### 선호 표현
-- I **don't** like coffee. (나는 커피를 좋아하지 않는다.)
-- He **doesn't** want to go. (그는 가고 싶지 않다.)
+#### ?좏샇 ?쒗쁽
+- I **don't** like coffee. (?섎뒗 而ㅽ뵾瑜?醫뗭븘?섏? ?딅뒗??)
+- He **doesn't** want to go. (洹몃뒗 媛怨??띠? ?딅떎.)
 
-## 6. 실전 연습
+## 6. ?ㅼ쟾 ?곗뒿
 
-### 연습 1: be동사 부정문 만들기
-다음 긍정문을 부정문으로 바꾸세요:
+### ?곗뒿 1: be?숈궗 遺?뺣Ц 留뚮뱾湲?
+?ㅼ쓬 湲띿젙臾몄쓣 遺?뺣Ц?쇰줈 諛붽씀?몄슂:
 
-1. I am happy. → I **am not** happy.
-2. She is a teacher. → She **is not** a teacher.
-3. They are friends. → They **are not** friends.
+1. I am happy. ??I **am not** happy.
+2. She is a teacher. ??She **is not** a teacher.
+3. They are friends. ??They **are not** friends.
 
-### 연습 2: 일반동사 부정문 만들기
-다음 긍정문을 부정문으로 바꾸세요:
+### ?곗뒿 2: ?쇰컲?숈궗 遺?뺣Ц 留뚮뱾湲?
+?ㅼ쓬 湲띿젙臾몄쓣 遺?뺣Ц?쇰줈 諛붽씀?몄슂:
 
-1. I like pizza. → I **do not** like pizza. / I **don't** like pizza.
-2. She studies English. → She **does not** study English. / She **doesn't** study English.
-3. They played soccer. → They **did not** play soccer. / They **didn't** play soccer.
+1. I like pizza. ??I **do not** like pizza. / I **don't** like pizza.
+2. She studies English. ??She **does not** study English. / She **doesn't** study English.
+3. They played soccer. ??They **did not** play soccer. / They **didn't** play soccer.
 
-### 연습 3: 축약형 사용하기
-다음 부정문을 축약형으로 바꾸세요:
+### ?곗뒿 3: 異뺤빟???ъ슜?섍린
+?ㅼ쓬 遺?뺣Ц??異뺤빟?뺤쑝濡?諛붽씀?몄슂:
 
-1. I am not tired. → I **'m not** tired.
-2. She does not like it. → She **doesn't** like it.
-3. They did not go. → They **didn't** go.
+1. I am not tired. ??I **'m not** tired.
+2. She does not like it. ??She **doesn't** like it.
+3. They did not go. ??They **didn't** go.
 
-## 7. 자주 하는 실수
+## 7. ?먯＜ ?섎뒗 ?ㅼ닔
 
-### 실수 1: 일반동사 부정문에서 동사에 -s/-es 추가
-- ❌ She **doesn't likes** pizza.
-- ✅ She **doesn't like** pizza. (doesn't가 있으면 동사는 원형)
+### ?ㅼ닔 1: ?쇰컲?숈궗 遺?뺣Ц?먯꽌 ?숈궗??-s/-es 異붽?
+- ??She **doesn't likes** pizza.
+- ??She **doesn't like** pizza. (doesn't媛 ?덉쑝硫??숈궗???먰삎)
 
-### 실수 2: be동사와 일반동사 함께 사용
-- ❌ I **am not** study English.
-- ✅ I **do not** study English.
+### ?ㅼ닔 2: be?숈궗? ?쇰컲?숈궗 ?④퍡 ?ъ슜
+- ??I **am not** study English.
+- ??I **do not** study English.
 
-### 실수 3: not 위치 잘못 배치
-- ❌ I **not** am happy.
-- ✅ I **am not** happy.
+### ?ㅼ닔 3: not ?꾩튂 ?섎せ 諛곗튂
+- ??I **not** am happy.
+- ??I **am not** happy.
 
-### 실수 4: 일반동사 부정문에서 do/does 빼먹기
-- ❌ I **not** like pizza.
-- ✅ I **do not** like pizza.
+### ?ㅼ닔 4: ?쇰컲?숈궗 遺?뺣Ц?먯꽌 do/does 鍮쇰㉨湲?
+- ??I **not** like pizza.
+- ??I **do not** like pizza.
 
-## 8. 부정문의 강조
+## 8. 遺?뺣Ц??媛뺤“
 
-### 강조 표현
-- I **really don't** like it. (나는 정말 그것을 좋아하지 않는다.)
-- She **definitely isn't** happy. (그녀는 확실히 행복하지 않다.)
-- They **absolutely don't** want to go. (그들은 절대 가고 싶지 않다.)
+### 媛뺤“ ?쒗쁽
+- I **really don't** like it. (?섎뒗 ?뺣쭚 洹멸쾬??醫뗭븘?섏? ?딅뒗??)
+- She **definitely isn't** happy. (洹몃????뺤떎???됰났?섏? ?딅떎.)
+- They **absolutely don't** want to go. (洹몃뱾? ?덈? 媛怨??띠? ?딅떎.)
 
-### 완전 부정
-- I **never** eat meat. (나는 절대 고기를 먹지 않는다.)
-- She **hardly ever** goes out. (그녀는 거의 나가지 않는다.)
-- They **seldom** watch TV. (그들은 거의 TV를 보지 않는다.)
+### ?꾩쟾 遺??
+- I **never** eat meat. (?섎뒗 ?덈? 怨좉린瑜?癒뱀? ?딅뒗??)
+- She **hardly ever** goes out. (洹몃???嫄곗쓽 ?섍?吏 ?딅뒗??)
+- They **seldom** watch TV. (洹몃뱾? 嫄곗쓽 TV瑜?蹂댁? ?딅뒗??)
 
-## 9. 이중 부정 (피해야 할 표현)
+## 9. ?댁쨷 遺??(?쇳빐?????쒗쁽)
 
-### 잘못된 이중 부정
-- ❌ I **don't** have **no** money. (표준 영어에서는 피해야 함)
-- ✅ I **don't** have **any** money. (나는 돈이 전혀 없다.)
+### ?섎せ???댁쨷 遺??
+- ??I **don't** have **no** money. (?쒖? ?곸뼱?먯꽌???쇳빐????
+- ??I **don't** have **any** money. (?섎뒗 ?덉씠 ?꾪? ?녿떎.)
 
-### 올바른 부정 표현
-- I **don't** have **any** friends. (나는 친구가 전혀 없다.)
-- She **doesn't** see **anything**. (그녀는 아무것도 보지 않는다.)
+### ?щ컮瑜?遺???쒗쁽
+- I **don't** have **any** friends. (?섎뒗 移쒓뎄媛 ?꾪? ?녿떎.)
+- She **doesn't** see **anything**. (洹몃????꾨Т寃껊룄 蹂댁? ?딅뒗??)
 
-## 10. 핵심 요약
+## 10. ?듭떖 ?붿빟
 
-- **be동사 부정문**: be동사 + not
-- **일반동사 부정문**: Do/Does/Did + not + 동사 원형
-- **축약형**: isn't, aren't, don't, doesn't, didn't
-- **주의사항**: 일반동사 부정문에서는 동사 원형 사용
+- **be?숈궗 遺?뺣Ц**: be?숈궗 + not
+- **?쇰컲?숈궗 遺?뺣Ц**: Do/Does/Did + not + ?숈궗 ?먰삎
+- **異뺤빟??*: isn't, aren't, don't, doesn't, didn't
+- **二쇱쓽?ы빆**: ?쇰컲?숈궗 遺?뺣Ц?먯꽌???숈궗 ?먰삎 ?ъ슜
 
-## 11. 다음 단계
+## 11. ?ㅼ쓬 ?④퀎
 
-부정문 만드는 방법을 이해하셨나요? 다음 글에서는 **형용사와 부사**에 대해 배워보겠습니다. 형용사는 명사를 꾸며주고, 부사는 동사를 꾸며주는 역할을 합니다!
+遺?뺣Ц 留뚮뱶??諛⑸쾿???댄빐?섏뀲?섏슂? ?ㅼ쓬 湲?먯꽌??**?뺤슜?ъ? 遺??*?????諛곗썙蹂닿쿋?듬땲?? ?뺤슜?щ뒗 紐낆궗瑜?袁몃ŉ二쇨퀬, 遺?щ뒗 ?숈궗瑜?袁몃ŉ二쇰뒗 ??븷???⑸땲??
 
-**추가 학습 팁:**
-- 긍정문을 부정문으로 바꾸는 연습을 많이 하세요
-- 축약형을 자주 사용하면 자연스러운 영어가 됩니다
-- 일상 생활의 부정 표현을 영어로 연습해보세요
+**異붽? ?숈뒿 ??**
+- 湲띿젙臾몄쓣 遺?뺣Ц?쇰줈 諛붽씀???곗뒿??留롮씠 ?섏꽭??
+- 異뺤빟?뺤쓣 ?먯＜ ?ъ슜?섎㈃ ?먯뿰?ㅻ윭???곸뼱媛 ?⑸땲??
+- ?쇱긽 ?앺솢??遺???쒗쁽???곸뼱濡??곗뒿?대낫?몄슂
 
-부정문을 정확히 사용하면 표현력이 크게 향상됩니다! ✖️📝
+遺?뺣Ц???뺥솗???ъ슜?섎㈃ ?쒗쁽?μ씠 ?ш쾶 ?μ긽?⑸땲?? ?뽳툘?뱷
 

@@ -6,14 +6,14 @@ baseurl: ""
 
 # Author
 author: "AI 연구원"
-email: "your.email@example.com"
+email: ""
 github_username: "awithu"
 
 # Social
 github: "awithu"
 linkedin: ""
 twitter: ""
-email: "your.email@example.com"
+email: ""
 
 # Build Settings
 # GitHub Pages는 기본 테마를 사용하지만, 커스텀 레이아웃이 우선됩니다
@@ -35,7 +35,7 @@ nav-links:
     url: "/about"
 social-links:
   github: awithu
-  email: your.email@example.com
+  email: ""
 
 # Pagination
 paginate: 5

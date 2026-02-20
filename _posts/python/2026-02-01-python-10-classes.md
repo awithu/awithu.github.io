@@ -1,34 +1,34 @@
 ---
 layout: post
-title:  "파이썬 강의 10편: 클래스와 객체"
-date:   2026-02-01 10:00:00 +0900
-categories: [IT, 파이썬 강의]
-tags: [파이썬, 클래스, 객체, OOP, 객체지향]
-description: "파이썬의 클래스와 객체, 생성자, 메서드, 상속 등 객체지향 프로그래밍의 기초를 배웁니다."
+title:  "?뚯씠??媛뺤쓽 10?? ?대옒?ㅼ? 媛앹껜"
+date:   2025-02-01 10:00:00 +0900
+categories: [IT, ?뚯씠??媛뺤쓽]
+tags: [?뚯씠?? ?대옒?? 媛앹껜, OOP, 媛앹껜吏??
+description: "?뚯씠?ъ쓽 ?대옒?ㅼ? 媛앹껜, ?앹꽦?? 硫붿꽌?? ?곸냽 ??媛앹껜吏???꾨줈洹몃옒諛띿쓽 湲곗큹瑜?諛곗썎?덈떎."
 ---
 
-# 파이썬 강의 10편: 클래스와 객체
+# ?뚯씠??媛뺤쓽 10?? ?대옒?ㅼ? 媛앹껜
 
-## 클래스와 객체란?
+## ?대옒?ㅼ? 媛앹껜??
 
-클래스(Class)는 객체를 만들기 위한 설계도이고, 객체(Object)는 클래스로부터 생성된 인스턴스입니다. 객체지향 프로그래밍의 핵심 개념입니다.
+?대옒??Class)??媛앹껜瑜?留뚮뱾湲??꾪븳 ?ㅺ퀎?꾩씠怨? 媛앹껜(Object)???대옒?ㅻ줈遺???앹꽦???몄뒪?댁뒪?낅땲?? 媛앹껜吏???꾨줈洹몃옒諛띿쓽 ?듭떖 媛쒕뀗?낅땲??
 
-## 클래스 정의
+## ?대옒???뺤쓽
 
-### 기본 형식
+### 湲곕낯 ?뺤떇
 
 ```python
-class 클래스명:
+class ?대옒?ㅻ챸:
     def __init__(self):
-        # 초기화 메서드
+        # 珥덇린??硫붿꽌??
         pass
     
-    def 메서드명(self):
-        # 메서드 정의
+    def 硫붿꽌?쒕챸(self):
+        # 硫붿꽌???뺤쓽
         pass
 ```
 
-### 간단한 예시
+### 媛꾨떒???덉떆
 
 ```python
 class Person:
@@ -37,16 +37,16 @@ class Person:
         self.age = age
     
     def introduce(self):
-        print(f"안녕하세요, 저는 {self.name}이고 {self.age}세입니다.")
+        print(f"?덈뀞?섏꽭?? ???{self.name}?닿퀬 {self.age}?몄엯?덈떎.")
 
-# 객체 생성
-person1 = Person("홍길동", 25)
-person1.introduce()  # 안녕하세요, 저는 홍길동이고 25세입니다.
+# 媛앹껜 ?앹꽦
+person1 = Person("?띻만??, 25)
+person1.introduce()  # ?덈뀞?섏꽭?? ????띻만?숈씠怨?25?몄엯?덈떎.
 ```
 
-## 생성자 (__init__)
+## ?앹꽦??(__init__)
 
-객체가 생성될 때 자동으로 호출되는 메서드입니다:
+媛앹껜媛 ?앹꽦?????먮룞?쇰줈 ?몄텧?섎뒗 硫붿꽌?쒖엯?덈떎:
 
 ```python
 class Student:
@@ -54,53 +54,53 @@ class Student:
         self.name = name
         self.age = age
         self.grade = grade
-        print(f"{name} 학생이 생성되었습니다.")
+        print(f"{name} ?숈깮???앹꽦?섏뿀?듬땲??")
 
-student = Student("홍길동", 20, "A")
+student = Student("?띻만??, 20, "A")
 ```
 
-## 인스턴스 변수와 메서드
+## ?몄뒪?댁뒪 蹂?섏? 硫붿꽌??
 
 ```python
 class Dog:
     def __init__(self, name, breed):
-        self.name = name      # 인스턴스 변수
-        self.breed = breed    # 인스턴스 변수
+        self.name = name      # ?몄뒪?댁뒪 蹂??
+        self.breed = breed    # ?몄뒪?댁뒪 蹂??
     
-    def bark(self):           # 인스턴스 메서드
-        print(f"{self.name}가 멍멍 짖습니다!")
+    def bark(self):           # ?몄뒪?댁뒪 硫붿꽌??
+        print(f"{self.name}媛 硫띾찉 吏뽰뒿?덈떎!")
     
-    def get_info(self):       # 인스턴스 메서드
-        return f"{self.name}는 {self.breed}입니다."
+    def get_info(self):       # ?몄뒪?댁뒪 硫붿꽌??
+        return f"{self.name}??{self.breed}?낅땲??"
 
-dog1 = Dog("뽀삐", "골든리트리버")
-dog1.bark()              # 뽀삐가 멍멍 짖습니다!
-print(dog1.get_info())   # 뽀삐는 골든리트리버입니다.
+dog1 = Dog("戮??, "怨⑤뱺由ы듃由щ쾭")
+dog1.bark()              # 戮?먭? 硫띾찉 吏뽰뒿?덈떎!
+print(dog1.get_info())   # 戮?먮뒗 怨⑤뱺由ы듃由щ쾭?낅땲??
 ```
 
-## 클래스 변수
+## ?대옒??蹂??
 
-모든 인스턴스가 공유하는 변수입니다:
+紐⑤뱺 ?몄뒪?댁뒪媛 怨듭쑀?섎뒗 蹂?섏엯?덈떎:
 
 ```python
 class Student:
-    school = "서울대학교"  # 클래스 변수
+    school = "?쒖슱??숆탳"  # ?대옒??蹂??
     
     def __init__(self, name):
-        self.name = name      # 인스턴스 변수
+        self.name = name      # ?몄뒪?댁뒪 蹂??
 
-student1 = Student("홍길동")
-student2 = Student("김철수")
+student1 = Student("?띻만??)
+student2 = Student("源泥좎닔")
 
-print(student1.school)  # 서울대학교
-print(student2.school)  # 서울대학교
+print(student1.school)  # ?쒖슱??숆탳
+print(student2.school)  # ?쒖슱??숆탳
 
-# 클래스 변수 변경
-Student.school = "연세대학교"
-print(student1.school)  # 연세대학교
+# ?대옒??蹂??蹂寃?
+Student.school = "?곗꽭??숆탳"
+print(student1.school)  # ?곗꽭??숆탳
 ```
 
-## 실전 예제: 은행 계좌 클래스
+## ?ㅼ쟾 ?덉젣: ???怨꾩쥖 ?대옒??
 
 ```python
 class BankAccount:
@@ -109,36 +109,36 @@ class BankAccount:
         self.balance = balance
     
     def deposit(self, amount):
-        """입금"""
+        """?낃툑"""
         if amount > 0:
             self.balance += amount
-            print(f"{amount}원 입금되었습니다. 잔액: {self.balance}원")
+            print(f"{amount}???낃툑?섏뿀?듬땲?? ?붿븸: {self.balance}??)
         else:
-            print("입금 금액은 0보다 커야 합니다.")
+            print("?낃툑 湲덉븸? 0蹂대떎 而ㅼ빞 ?⑸땲??")
     
     def withdraw(self, amount):
-        """출금"""
+        """異쒓툑"""
         if amount > 0:
             if amount <= self.balance:
                 self.balance -= amount
-                print(f"{amount}원 출금되었습니다. 잔액: {self.balance}원")
+                print(f"{amount}??異쒓툑?섏뿀?듬땲?? ?붿븸: {self.balance}??)
             else:
-                print("잔액이 부족합니다.")
+                print("?붿븸??遺議깊빀?덈떎.")
         else:
-            print("출금 금액은 0보다 커야 합니다.")
+            print("異쒓툑 湲덉븸? 0蹂대떎 而ㅼ빞 ?⑸땲??")
     
     def get_balance(self):
-        """잔액 조회"""
+        """?붿븸 議고쉶"""
         return self.balance
 
-# 사용
-account = BankAccount("홍길동", 10000)
+# ?ъ슜
+account = BankAccount("?띻만??, 10000)
 account.deposit(5000)
 account.withdraw(3000)
-print(f"현재 잔액: {account.get_balance()}원")
+print(f"?꾩옱 ?붿븸: {account.get_balance()}??)
 ```
 
-## 실전 예제: 학생 관리 클래스
+## ?ㅼ쟾 ?덉젣: ?숈깮 愿由??대옒??
 
 ```python
 class Student:
@@ -148,20 +148,20 @@ class Student:
         self.scores = []
     
     def add_score(self, score):
-        """점수 추가"""
+        """?먯닔 異붽?"""
         if 0 <= score <= 100:
             self.scores.append(score)
         else:
-            print("점수는 0-100 사이여야 합니다.")
+            print("?먯닔??0-100 ?ъ씠?ъ빞 ?⑸땲??")
     
     def get_average(self):
-        """평균 점수 계산"""
+        """?됯퇏 ?먯닔 怨꾩궛"""
         if len(self.scores) == 0:
             return 0
         return sum(self.scores) / len(self.scores)
     
     def get_grade(self):
-        """등급 반환"""
+        """?깃툒 諛섑솚"""
         average = self.get_average()
         if average >= 90:
             return "A"
@@ -175,11 +175,11 @@ class Student:
             return "F"
     
     def __str__(self):
-        """문자열 표현"""
-        return f"{self.name} (학번: {self.student_id}, 평균: {self.get_average():.2f}, 등급: {self.get_grade()})"
+        """臾몄옄???쒗쁽"""
+        return f"{self.name} (?숇쾲: {self.student_id}, ?됯퇏: {self.get_average():.2f}, ?깃툒: {self.get_grade()})"
 
-# 사용
-student = Student("홍길동", "2024001")
+# ?ъ슜
+student = Student("?띻만??, "2024001")
 student.add_score(85)
 student.add_score(90)
 student.add_score(78)
@@ -187,9 +187,9 @@ student.add_score(78)
 print(student)
 ```
 
-## 상속 (Inheritance)
+## ?곸냽 (Inheritance)
 
-기존 클래스를 확장하여 새로운 클래스를 만들 수 있습니다:
+湲곗〈 ?대옒?ㅻ? ?뺤옣?섏뿬 ?덈줈???대옒?ㅻ? 留뚮뱾 ???덉뒿?덈떎:
 
 ```python
 class Animal:
@@ -201,22 +201,22 @@ class Animal:
 
 class Dog(Animal):
     def speak(self):
-        return f"{self.name}가 멍멍 짖습니다!"
+        return f"{self.name}媛 硫띾찉 吏뽰뒿?덈떎!"
 
 class Cat(Animal):
     def speak(self):
-        return f"{self.name}가 야옹 웁니다!"
+        return f"{self.name}媛 ?쇱샊 ?곷땲??"
 
-dog = Dog("뽀삐")
-cat = Cat("나비")
+dog = Dog("戮??)
+cat = Cat("?섎퉬")
 
-print(dog.speak())  # 뽀삐가 멍멍 짖습니다!
-print(cat.speak())  # 나비가 야옹 웁니다!
+print(dog.speak())  # 戮?먭? 硫띾찉 吏뽰뒿?덈떎!
+print(cat.speak())  # ?섎퉬媛 ?쇱샊 ?곷땲??
 ```
 
-## 특수 메서드 (Magic Methods)
+## ?뱀닔 硫붿꽌??(Magic Methods)
 
-### __str__: 문자열 표현
+### __str__: 臾몄옄???쒗쁽
 
 ```python
 class Person:
@@ -227,11 +227,11 @@ class Person:
     def __str__(self):
         return f"Person(name={self.name}, age={self.age})"
 
-person = Person("홍길동", 25)
-print(person)  # Person(name=홍길동, age=25)
+person = Person("?띻만??, 25)
+print(person)  # Person(name=?띻만?? age=25)
 ```
 
-### __len__: 길이 반환
+### __len__: 湲몄씠 諛섑솚
 
 ```python
 class ShoppingCart:
@@ -245,21 +245,21 @@ class ShoppingCart:
         return len(self.items)
 
 cart = ShoppingCart()
-cart.add_item("사과")
-cart.add_item("바나나")
+cart.add_item("?ш낵")
+cart.add_item("諛붾굹??)
 print(len(cart))  # 2
 ```
 
-## 캡슐화 (Encapsulation)
+## 罹≪뒓??(Encapsulation)
 
-파이썬은 접근 제어자가 없지만, 관례적으로 사용합니다:
+?뚯씠?ъ? ?묎렐 ?쒖뼱?먭? ?놁?留? 愿濡?곸쑝濡??ъ슜?⑸땲??
 
 ```python
 class BankAccount:
     def __init__(self, owner, balance=0):
         self.owner = owner
-        self._balance = balance      # 보호된 변수 (관례)
-        self.__account_number = 12345  # 비공개 변수 (이름 변경됨)
+        self._balance = balance      # 蹂댄샇??蹂??(愿濡)
+        self.__account_number = 12345  # 鍮꾧났媛?蹂??(?대쫫 蹂寃쎈맖)
     
     def get_balance(self):
         return self._balance
@@ -268,11 +268,11 @@ class BankAccount:
         if amount >= 0:
             self._balance = amount
 
-account = BankAccount("홍길동", 1000)
+account = BankAccount("?띻만??, 1000)
 print(account.get_balance())  # 1000
 ```
 
-## 실전 예제: 도서 관리 시스템
+## ?ㅼ쟾 ?덉젣: ?꾩꽌 愿由??쒖뒪??
 
 ```python
 class Book:
@@ -295,7 +295,7 @@ class Book:
         return False
     
     def __str__(self):
-        status = "대출 중" if self.is_borrowed else "대출 가능"
+        status = "?異?以? if self.is_borrowed else "?異?媛??
         return f"{self.title} - {self.author} ({status})"
 
 class Library:
@@ -314,32 +314,32 @@ class Library:
     def list_available_books(self):
         return [book for book in self.books if not book.is_borrowed]
 
-# 사용
+# ?ъ슜
 library = Library()
-library.add_book(Book("파이썬 프로그래밍", "홍길동", "123-456"))
-library.add_book(Book("자료구조", "김철수", "789-012"))
+library.add_book(Book("?뚯씠???꾨줈洹몃옒諛?, "?띻만??, "123-456"))
+library.add_book(Book("?먮즺援ъ“", "源泥좎닔", "789-012"))
 
-book = library.find_book("파이썬 프로그래밍")
+book = library.find_book("?뚯씠???꾨줈洹몃옒諛?)
 if book:
     book.borrow()
     print(book)
 
 available = library.list_available_books()
-print(f"대출 가능한 책: {len(available)}권")
+print(f"?異?媛?ν븳 梨? {len(available)}沅?)
 ```
 
-## 다음 단계
+## ?ㅼ쓬 ?④퀎
 
-이제 파이썬의 기본 개념들을 모두 배웠습니다! 다음에는:
-- 모듈과 패키지
-- 예외 처리
-- 데코레이터
-- 제너레이터
-- 프로젝트 실습
+?댁젣 ?뚯씠?ъ쓽 湲곕낯 媛쒕뀗?ㅼ쓣 紐⑤몢 諛곗썱?듬땲?? ?ㅼ쓬?먮뒗:
+- 紐⑤뱢怨??⑦궎吏
+- ?덉쇅 泥섎━
+- ?곗퐫?덉씠??
+- ?쒕꼫?덉씠??
+- ?꾨줈?앺듃 ?ㅼ뒿
 
-등을 통해 실력을 더 향상시킬 수 있습니다.
+?깆쓣 ?듯빐 ?ㅻ젰?????μ긽?쒗궗 ???덉뒿?덈떎.
 
-## 마무리
+## 留덈Т由?
 
-파이썬 공부를 이렇게 정리해봤어요! 이제 기본기를 바탕으로 다양한 프로젝트를 만들어보려고 해요. 파이썬의 풍부한 라이브러리를 활용하면 웹 개발, 데이터 분석, 인공지능 등 다양한 분야에서 활용할 수 있을 것 같아요.
+?뚯씠??怨듬?瑜??대젃寃??뺣━?대뇬?댁슂! ?댁젣 湲곕낯湲곕? 諛뷀깢?쇰줈 ?ㅼ뼇???꾨줈?앺듃瑜?留뚮뱾?대낫?ㅺ퀬 ?댁슂. ?뚯씠?ъ쓽 ?띾????쇱씠釉뚮윭由щ? ?쒖슜?섎㈃ ??媛쒕컻, ?곗씠??遺꾩꽍, ?멸났吏?????ㅼ뼇??遺꾩빞?먯꽌 ?쒖슜?????덉쓣 寃?媛숈븘??
 

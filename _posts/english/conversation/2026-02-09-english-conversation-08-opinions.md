@@ -1,185 +1,185 @@
 ---
 layout: post
-title:  "의견 말하기: 자신의 생각 표현하기"
-date:   2026-02-09 09:00:00 +0900
-categories: [영어, 일상 회화]
-tags: [영어, 회화, 의견, 생각, opinion, expressing thoughts]
-description: "자신의 의견을 표현하고 다른 사람의 의견을 듣는 방법을 배우고 자연스럽게 생각을 나누는 방법을 익힙니다."
+title:  "?섍껄 留먰븯湲? ?먯떊???앷컖 ?쒗쁽?섍린"
+date:   2025-02-09 09:00:00 +0900
+categories: [?곸뼱, ?쇱긽 ?뚰솕]
+tags: [?곸뼱, ?뚰솕, ?섍껄, ?앷컖, opinion, expressing thoughts]
+description: "?먯떊???섍껄???쒗쁽?섍퀬 ?ㅻⅨ ?щ엺???섍껄???ｋ뒗 諛⑸쾿??諛곗슦怨??먯뿰?ㅻ읇寃??앷컖???섎늻??諛⑸쾿???듯옓?덈떎."
 ---
 
-# 의견 말하기: 자신의 생각 표현하기
+# ?섍껄 留먰븯湲? ?먯떊???앷컖 ?쒗쁽?섍린
 
-의견을 표현하는 것은 대화에서 매우 중요합니다. 자신의 생각을 말하고 다른 사람의 의견을 듣는 방법을 배워봅시다.
+?섍껄???쒗쁽?섎뒗 寃껋? ??붿뿉??留ㅼ슦 以묒슂?⑸땲?? ?먯떊???앷컖??留먰븯怨??ㅻⅨ ?щ엺???섍껄???ｋ뒗 諛⑸쾿??諛곗썙遊낆떆??
 
-## 1. 의견 표현하기
+## 1. ?섍껄 ?쒗쁽?섍린
 
-### 의견 시작하기
-- **I think...** (저는 ...라고 생각해요.)
-- **In my opinion...** (제 의견으로는...)
-- **I believe...** (저는 ...라고 믿어요.)
-- **I feel...** (저는 ...라고 느껴요.)
-- **From my point of view...** (제 관점에서...)
-- **It seems to me that...** (제게는 ...처럼 보여요.)
+### ?섍껄 ?쒖옉?섍린
+- **I think...** (???...?쇨퀬 ?앷컖?댁슂.)
+- **In my opinion...** (???섍껄?쇰줈??..)
+- **I believe...** (???...?쇨퀬 誘우뼱??)
+- **I feel...** (???...?쇨퀬 ?먭뺨??)
+- **From my point of view...** (??愿?먯뿉??..)
+- **It seems to me that...** (?쒓쾶??...泥섎읆 蹂댁뿬??)
 
-### 예문
-- **I think** this is a good idea. (저는 이것이 좋은 생각이라고 생각해요.)
-- **In my opinion**, we should wait. (제 의견으로는, 우리는 기다려야 해요.)
-- **I believe** it's important. (저는 그것이 중요하다고 믿어요.)
+### ?덈Ц
+- **I think** this is a good idea. (????닿쾬??醫뗭? ?앷컖?대씪怨??앷컖?댁슂.)
+- **In my opinion**, we should wait. (???섍껄?쇰줈?? ?곕━??湲곕떎?ㅼ빞 ?댁슂.)
+- **I believe** it's important. (???洹멸쾬??以묒슂?섎떎怨?誘우뼱??)
 
-## 2. 동의하기
+## 2. ?숈쓽?섍린
 
-### 동의 표현
-- **I agree.** (동의해요.)
-- **I think so too.** (저도 그렇게 생각해요.)
-- **That's true.** (그것은 맞아요.)
-- **You're right.** (맞아요.)
-- **Exactly!** (정확해요!)
-- **That's a good point.** (좋은 지적이에요.)
+### ?숈쓽 ?쒗쁽
+- **I agree.** (?숈쓽?댁슂.)
+- **I think so too.** (???洹몃젃寃??앷컖?댁슂.)
+- **That's true.** (洹멸쾬? 留욎븘??)
+- **You're right.** (留욎븘??)
+- **Exactly!** (?뺥솗?댁슂!)
+- **That's a good point.** (醫뗭? 吏?곸씠?먯슂.)
 
-### 동의 대화 예문
+### ?숈쓽 ????덈Ц
 **A:** I think we should start early.
-(저는 우리가 일찍 시작해야 한다고 생각해요.)
+(????곕━媛 ?쇱컢 ?쒖옉?댁빞 ?쒕떎怨??앷컖?댁슂.)
 
 **B:** I agree. That's a good idea.
-(동의해요. 좋은 생각이에요.)
+(?숈쓽?댁슂. 醫뗭? ?앷컖?댁뿉??)
 
-## 3. 반대하기
+## 3. 諛섎??섍린
 
-### 반대 표현
-- **I disagree.** (동의하지 않아요.)
-- **I don't think so.** (저는 그렇게 생각하지 않아요.)
-- **I'm not sure about that.** (그것에 대해 확실하지 않아요.)
-- **I see it differently.** (저는 다르게 봐요.)
-- **That's not how I see it.** (저는 그렇게 보지 않아요.)
+### 諛섎? ?쒗쁽
+- **I disagree.** (?숈쓽?섏? ?딆븘??)
+- **I don't think so.** (???洹몃젃寃??앷컖?섏? ?딆븘??)
+- **I'm not sure about that.** (洹멸쾬??????뺤떎?섏? ?딆븘??)
+- **I see it differently.** (????ㅻⅤ寃?遊먯슂.)
+- **That's not how I see it.** (???洹몃젃寃?蹂댁? ?딆븘??)
 
-### 정중한 반대
-- **I understand, but...** (이해하지만...)
-- **I see your point, but...** (당신의 말씀을 이해하지만...)
-- **That's interesting, but...** (흥미롭지만...)
+### ?뺤쨷??諛섎?
+- **I understand, but...** (?댄빐?섏?留?..)
+- **I see your point, but...** (?뱀떊??留먯????댄빐?섏?留?..)
+- **That's interesting, but...** (?λ?濡??留?..)
 
-### 반대 대화 예문
+### 諛섎? ????덈Ц
 **A:** I think this is the best solution.
-(저는 이것이 최선의 해결책이라고 생각해요.)
+(????닿쾬??理쒖꽑???닿껐梨낆씠?쇨퀬 ?앷컖?댁슂.)
 
 **B:** I see it differently. I think we need more time.
-(저는 다르게 봐요. 저는 우리가 더 많은 시간이 필요하다고 생각해요.)
+(????ㅻⅤ寃?遊먯슂. ????곕━媛 ??留롮? ?쒓컙???꾩슂?섎떎怨??앷컖?댁슂.)
 
-## 4. 의견 물어보기
+## 4. ?섍껄 臾쇱뼱蹂닿린
 
-### 의견 물어보기
-- **What do you think?** (어떻게 생각하세요?)
-- **What's your opinion?** (당신의 의견은 무엇인가요?)
-- **How do you feel about this?** (이것에 대해 어떻게 느끼세요?)
-- **Do you agree?** (동의하시나요?)
-- **What's your view?** (당신의 견해는 무엇인가요?)
+### ?섍껄 臾쇱뼱蹂닿린
+- **What do you think?** (?대뼸寃??앷컖?섏꽭??)
+- **What's your opinion?** (?뱀떊???섍껄? 臾댁뾿?멸???)
+- **How do you feel about this?** (?닿쾬??????대뼸寃??먮겮?몄슂?)
+- **Do you agree?** (?숈쓽?섏떆?섏슂?)
+- **What's your view?** (?뱀떊??寃ы빐??臾댁뾿?멸???)
 
-### 예문
-- **What do you think** about this plan? (이 계획에 대해 어떻게 생각하세요?)
-- **How do you feel** about the new policy? (새 정책에 대해 어떻게 느끼세요?)
+### ?덈Ц
+- **What do you think** about this plan? (??怨꾪쉷??????대뼸寃??앷컖?섏꽭??)
+- **How do you feel** about the new policy? (???뺤콉??????대뼸寃??먮겮?몄슂?)
 
-## 5. 의견 대화 예문
+## 5. ?섍껄 ????덈Ц
 
-### 대화 1: 의견 나누기
+### ???1: ?섍껄 ?섎늻湲?
 **A:** What do you think about the new restaurant?
-(새 식당에 대해 어떻게 생각하세요?)
+(???앸떦??????대뼸寃??앷컖?섏꽭??)
 
 **B:** I think it's great! The food is delicious.
-(저는 그것이 훌륭하다고 생각해요! 음식이 맛있어요.)
+(???洹멸쾬???뚮??섎떎怨??앷컖?댁슂! ?뚯떇??留쏆엳?댁슂.)
 
 **A:** I agree! I really like the atmosphere too.
-(동의해요! 분위기도 정말 좋아요.)
+(?숈쓽?댁슂! 遺꾩쐞湲곕룄 ?뺣쭚 醫뗭븘??)
 
 **B:** Exactly! I think we should go there again.
-(정확해요! 저는 우리가 다시 거기에 가야 한다고 생각해요.)
+(?뺥솗?댁슂! ????곕━媛 ?ㅼ떆 嫄곌린??媛???쒕떎怨??앷컖?댁슂.)
 
-### 대화 2: 의견 차이
+### ???2: ?섍껄 李⑥씠
 **A:** I think we should work on weekends.
-(저는 우리가 주말에 일해야 한다고 생각해요.)
+(????곕━媛 二쇰쭚???쇳빐???쒕떎怨??앷컖?댁슂.)
 
 **B:** I see it differently. I think we need rest.
-(저는 다르게 봐요. 저는 우리가 휴식이 필요하다고 생각해요.)
+(????ㅻⅤ寃?遊먯슂. ????곕━媛 ?댁떇???꾩슂?섎떎怨??앷컖?댁슂.)
 
 **A:** I understand your point, but we have a deadline.
-(당신의 말씀을 이해하지만, 우리에게 마감이 있어요.)
+(?뱀떊??留먯????댄빐?섏?留? ?곕━?먭쾶 留덇컧???덉뼱??)
 
 **B:** That's true, but I still think rest is important.
-(맞아요, 하지만 저는 여전히 휴식이 중요하다고 생각해요.)
+(留욎븘?? ?섏?留?????ъ쟾???댁떇??以묒슂?섎떎怨??앷컖?댁슂.)
 
-## 6. 의견 강도 표현하기
+## 6. ?섍껄 媛뺣룄 ?쒗쁽?섍린
 
-### 강한 의견
-- **I strongly believe...** (저는 강하게 믿어요...)
-- **I'm absolutely sure...** (저는 절대적으로 확신해요...)
-- **I'm certain that...** (저는 확신해요...)
+### 媛뺥븳 ?섍껄
+- **I strongly believe...** (???媛뺥븯寃?誘우뼱??..)
+- **I'm absolutely sure...** (????덈??곸쑝濡??뺤떊?댁슂...)
+- **I'm certain that...** (????뺤떊?댁슂...)
 
-### 약한 의견
-- **I think...** (저는 ...라고 생각해요.)
-- **I guess...** (저는 ...라고 추측해요.)
-- **Maybe...** (아마도...)
-- **Perhaps...** (아마도...)
-- **I'm not sure, but...** (확실하지 않지만...)
+### ?쏀븳 ?섍껄
+- **I think...** (???...?쇨퀬 ?앷컖?댁슂.)
+- **I guess...** (???...?쇨퀬 異붿륫?댁슂.)
+- **Maybe...** (?꾨쭏??..)
+- **Perhaps...** (?꾨쭏??..)
+- **I'm not sure, but...** (?뺤떎?섏? ?딆?留?..)
 
-### 예문
-- **I strongly believe** education is important. (저는 교육이 중요하다고 강하게 믿어요.)
-- **I think** it might rain tomorrow. (저는 내일 비가 올 수도 있다고 생각해요.)
+### ?덈Ц
+- **I strongly believe** education is important. (???援먯쑁??以묒슂?섎떎怨?媛뺥븯寃?誘우뼱??)
+- **I think** it might rain tomorrow. (????댁씪 鍮꾧? ???섎룄 ?덈떎怨??앷컖?댁슂.)
 
-## 7. 실전 연습
+## 7. ?ㅼ쟾 ?곗뒿
 
-### 연습 1: 의견 표현
-다음 상황에 맞는 표현을 선택하세요:
+### ?곗뒿 1: ?섍껄 ?쒗쁽
+?ㅼ쓬 ?곹솴??留욌뒗 ?쒗쁽???좏깮?섏꽭??
 
-1. 의견 시작: **I think...**
-2. 동의: **I agree.**
-3. 반대: **I disagree.**
+1. ?섍껄 ?쒖옉: **I think...**
+2. ?숈쓽: **I agree.**
+3. 諛섎?: **I disagree.**
 
-### 연습 2: 의견 말하기
-다음 의견을 영어로 표현하세요:
+### ?곗뒿 2: ?섍껄 留먰븯湲?
+?ㅼ쓬 ?섍껄???곸뼱濡??쒗쁽?섏꽭??
 
-1. 저는 이것이 좋은 생각이라고 생각해요: **I think this is a good idea.**
-2. 저는 동의해요: **I agree.**
-3. 저는 다르게 봐요: **I see it differently.**
+1. ????닿쾬??醫뗭? ?앷컖?대씪怨??앷컖?댁슂: **I think this is a good idea.**
+2. ????숈쓽?댁슂: **I agree.**
+3. ????ㅻⅤ寃?遊먯슂: **I see it differently.**
 
-### 연습 3: 대화 완성하기
-다음 대화를 완성하세요:
+### ?곗뒿 3: ????꾩꽦?섍린
+?ㅼ쓬 ??붾? ?꾩꽦?섏꽭??
 
-**A:** What do you ___ about this? (생각)
+**A:** What do you ___ about this? (?앷컖)
 **B:** I think it's a good idea. How about you?
-**A:** I ___ too. (동의)
+**A:** I ___ too. (?숈쓽)
 
-**정답:**
+**?뺣떟:**
 **A:** What do you **think** about this?
 **B:** I think it's a good idea. How about you?
 **A:** I **agree** too.
 
-## 8. 자주 하는 실수
+## 8. ?먯＜ ?섎뒗 ?ㅼ닔
 
-### 실수 1: 의견 표현이 너무 강함
-- ❌ You're wrong!
-- ✅ **I see it differently.** (정중하게)
+### ?ㅼ닔 1: ?섍껄 ?쒗쁽???덈Т 媛뺥븿
+- ??You're wrong!
+- ??**I see it differently.** (?뺤쨷?섍쾶)
 
-### 실수 2: 의견 표현이 너무 약함
-- ❌ Maybe I think...
-- ✅ **I think...** (명확하게)
+### ?ㅼ닔 2: ?섍껄 ?쒗쁽???덈Т ?쏀븿
+- ??Maybe I think...
+- ??**I think...** (紐낇솗?섍쾶)
 
-### 실수 3: 반대할 때 정중하지 않음
-- ❌ That's stupid.
-- ✅ **I understand, but I see it differently.** (정중하게)
+### ?ㅼ닔 3: 諛섎??????뺤쨷?섏? ?딆쓬
+- ??That's stupid.
+- ??**I understand, but I see it differently.** (?뺤쨷?섍쾶)
 
-## 9. 핵심 요약
+## 9. ?듭떖 ?붿빟
 
-- **의견 표현**: I think... / In my opinion... / I believe...
-- **동의**: I agree. / That's true. / You're right.
-- **반대**: I disagree. / I see it differently. / I'm not sure about that.
-- **의견 물어보기**: What do you think? / What's your opinion?
+- **?섍껄 ?쒗쁽**: I think... / In my opinion... / I believe...
+- **?숈쓽**: I agree. / That's true. / You're right.
+- **諛섎?**: I disagree. / I see it differently. / I'm not sure about that.
+- **?섍껄 臾쇱뼱蹂닿린**: What do you think? / What's your opinion?
 
-## 10. 다음 단계
+## 10. ?ㅼ쓬 ?④퀎
 
-의견 말하기를 배우셨나요? 다음 글에서는 **도움 요청하기**에 대해 배워보겠습니다. 도움이 필요할 때 정중하게 요청하는 방법을 익혀봅시다!
+?섍껄 留먰븯湲곕? 諛곗슦?⑤굹?? ?ㅼ쓬 湲?먯꽌??**?꾩? ?붿껌?섍린**?????諛곗썙蹂닿쿋?듬땲?? ?꾩????꾩슂?????뺤쨷?섍쾶 ?붿껌?섎뒗 諛⑸쾿???듯?遊낆떆??
 
-**추가 학습 팁:**
-- 의견 표현을 외워서 자주 사용하세요
-- 실제 상황을 상상하며 연습해보세요
-- 정중한 의견 표현을 사용하는 습관을 기르세요
+**異붽? ?숈뒿 ??**
+- ?섍껄 ?쒗쁽???몄썙???먯＜ ?ъ슜?섏꽭??
+- ?ㅼ젣 ?곹솴???곸긽?섎ŉ ?곗뒿?대낫?몄슂
+- ?뺤쨷???섍껄 ?쒗쁽???ъ슜?섎뒗 ?듦???湲곕Ⅴ?몄슂
 
-의견을 잘 표현하면 대화가 훨씬 풍부해집니다! 💭💬
+?섍껄?????쒗쁽?섎㈃ ??붽? ?⑥뵮 ?띾??댁쭛?덈떎! ?뮡?뮠
 

@@ -1,62 +1,62 @@
 ---
 layout: post
-title:  "파이썬 강의 5편: 반복문 (for, while)"
-date:   2026-01-27 10:00:00 +0900
-categories: [IT, 파이썬 강의]
-tags: [파이썬, 반복문, for문, while문, 반복]
-description: "파이썬의 for문과 while문을 배우고, 리스트 순회, 범위 함수, 중첩 반복문 등 다양한 반복문 활용법을 학습합니다."
+title:  "?뚯씠??媛뺤쓽 5?? 諛섎났臾?(for, while)"
+date:   2025-01-27 10:00:00 +0900
+categories: [IT, ?뚯씠??媛뺤쓽]
+tags: [?뚯씠?? 諛섎났臾? for臾? while臾? 諛섎났]
+description: "?뚯씠?ъ쓽 for臾멸낵 while臾몄쓣 諛곗슦怨? 由ъ뒪???쒗쉶, 踰붿쐞 ?⑥닔, 以묒꺽 諛섎났臾????ㅼ뼇??諛섎났臾??쒖슜踰뺤쓣 ?숈뒿?⑸땲??"
 ---
 
-# 파이썬 강의 5편: 반복문 (for, while)
+# ?뚯씠??媛뺤쓽 5?? 諛섎났臾?(for, while)
 
-## 반복문이란?
+## 諛섎났臾몄씠??
 
-반복문은 특정 코드를 여러 번 실행할 수 있게 해주는 제어문입니다. 같은 작업을 반복해야 할 때 유용합니다.
+諛섎났臾몄? ?뱀젙 肄붾뱶瑜??щ윭 踰??ㅽ뻾?????덇쾶 ?댁＜???쒖뼱臾몄엯?덈떎. 媛숈? ?묒뾽??諛섎났?댁빞 ?????좎슜?⑸땲??
 
-## for 문
+## for 臾?
 
-정해진 횟수만큼 또는 시퀀스의 각 요소에 대해 반복합니다:
+?뺥빐吏??잛닔留뚰겮 ?먮뒗 ?쒗?ㅼ쓽 媛??붿냼?????諛섎났?⑸땲??
 
-### 기본 형식
+### 湲곕낯 ?뺤떇
 
 ```python
-for 변수 in 시퀀스:
-    # 반복 실행할 코드
+for 蹂??in ?쒗??
+    # 諛섎났 ?ㅽ뻾??肄붾뱶
 ```
 
-### 리스트 순회
+### 由ъ뒪???쒗쉶
 
 ```python
-fruits = ["사과", "바나나", "오렌지"]
+fruits = ["?ш낵", "諛붾굹??, "?ㅻ젋吏"]
 
 for fruit in fruits:
     print(fruit)
 ```
 
-출력:
+異쒕젰:
 ```
-사과
-바나나
-오렌지
+?ш낵
+諛붾굹??
+?ㅻ젋吏
 ```
 
-### range() 함수 사용
+### range() ?⑥닔 ?ъ슜
 
 ```python
-# 0부터 9까지
+# 0遺??9源뚯?
 for i in range(10):
     print(i)
 
-# 1부터 10까지
+# 1遺??10源뚯?
 for i in range(1, 11):
     print(i)
 
-# 0부터 10까지, 2씩 증가
+# 0遺??10源뚯?, 2??利앷?
 for i in range(0, 11, 2):
     print(i)
 ```
 
-### 문자열 순회
+### 臾몄옄???쒗쉶
 
 ```python
 word = "Python"
@@ -65,7 +65,7 @@ for char in word:
     print(char)
 ```
 
-출력:
+異쒕젰:
 ```
 P
 y
@@ -75,18 +75,18 @@ o
 n
 ```
 
-## while 문
+## while 臾?
 
-조건이 참인 동안 반복합니다:
+議곌굔??李몄씤 ?숈븞 諛섎났?⑸땲??
 
-### 기본 형식
+### 湲곕낯 ?뺤떇
 
 ```python
-while 조건:
-    # 반복 실행할 코드
+while 議곌굔:
+    # 諛섎났 ?ㅽ뻾??肄붾뱶
 ```
 
-### 예시
+### ?덉떆
 
 ```python
 count = 0
@@ -96,7 +96,7 @@ while count < 5:
     count += 1
 ```
 
-출력:
+異쒕젰:
 ```
 0
 1
@@ -105,11 +105,11 @@ while count < 5:
 4
 ```
 
-## 반복문 제어
+## 諛섎났臾??쒖뼱
 
-### break 문
+### break 臾?
 
-반복문을 즉시 종료합니다:
+諛섎났臾몄쓣 利됱떆 醫낅즺?⑸땲??
 
 ```python
 for i in range(10):
@@ -118,7 +118,7 @@ for i in range(10):
     print(i)
 ```
 
-출력:
+異쒕젰:
 ```
 0
 1
@@ -127,18 +127,18 @@ for i in range(10):
 4
 ```
 
-### continue 문
+### continue 臾?
 
-현재 반복을 건너뛰고 다음 반복으로 넘어갑니다:
+?꾩옱 諛섎났??嫄대꼫?곌퀬 ?ㅼ쓬 諛섎났?쇰줈 ?섏뼱媛묐땲??
 
 ```python
 for i in range(10):
     if i % 2 == 0:
-        continue  # 짝수면 건너뛰기
+        continue  # 吏앹닔硫?嫄대꼫?곌린
     print(i)
 ```
 
-출력:
+異쒕젰:
 ```
 1
 3
@@ -147,54 +147,54 @@ for i in range(10):
 9
 ```
 
-### else 문
+### else 臾?
 
-반복문이 정상적으로 완료되면 실행됩니다:
+諛섎났臾몄씠 ?뺤긽?곸쑝濡??꾨즺?섎㈃ ?ㅽ뻾?⑸땲??
 
 ```python
 for i in range(5):
     print(i)
 else:
-    print("반복 완료!")
+    print("諛섎났 ?꾨즺!")
 ```
 
-**break로 종료되면 else 실행 안 됨:**
+**break濡?醫낅즺?섎㈃ else ?ㅽ뻾 ????**
 ```python
 for i in range(5):
     if i == 3:
         break
     print(i)
 else:
-    print("이 메시지는 출력되지 않습니다.")
+    print("??硫붿떆吏??異쒕젰?섏? ?딆뒿?덈떎.")
 ```
 
-## 중첩 반복문
+## 以묒꺽 諛섎났臾?
 
-반복문 안에 또 다른 반복문을 사용할 수 있습니다:
+諛섎났臾??덉뿉 ???ㅻⅨ 諛섎났臾몄쓣 ?ъ슜?????덉뒿?덈떎:
 
 ```python
-# 구구단 출력
+# 援ш뎄??異쒕젰
 for i in range(1, 10):
     for j in range(1, 10):
         print(f"{i} x {j} = {i * j}")
-    print()  # 줄바꿈
+    print()  # 以꾨컮轅?
 ```
 
-## 실전 예제: 숫자 합계 구하기
+## ?ㅼ쟾 ?덉젣: ?レ옄 ?⑷퀎 援ы븯湲?
 
 ```python
-# 1부터 100까지의 합
+# 1遺??100源뚯?????
 total = 0
 for i in range(1, 101):
     total += i
 
-print(f"1부터 100까지의 합: {total}")
+print(f"1遺??100源뚯????? {total}")
 ```
 
-## 실전 예제: 팩토리얼 계산
+## ?ㅼ쟾 ?덉젣: ?⑺넗由ъ뼹 怨꾩궛
 
 ```python
-n = int(input("숫자를 입력하세요: "))
+n = int(input("?レ옄瑜??낅젰?섏꽭?? "))
 factorial = 1
 
 for i in range(1, n + 1):
@@ -203,10 +203,10 @@ for i in range(1, n + 1):
 print(f"{n}! = {factorial}")
 ```
 
-## 실전 예제: 소수 찾기
+## ?ㅼ쟾 ?덉젣: ?뚯닔 李얘린
 
 ```python
-n = int(input("숫자를 입력하세요: "))
+n = int(input("?レ옄瑜??낅젰?섏꽭?? "))
 is_prime = True
 
 if n < 2:
@@ -218,32 +218,32 @@ else:
             break
 
 if is_prime:
-    print(f"{n}는 소수입니다.")
+    print(f"{n}???뚯닔?낅땲??")
 else:
-    print(f"{n}는 소수가 아닙니다.")
+    print(f"{n}???뚯닔媛 ?꾨떃?덈떎.")
 ```
 
-## 실전 예제: 별 찍기
+## ?ㅼ쟾 ?덉젣: 蹂?李띻린
 
 ```python
-# 직각삼각형
-n = int(input("줄 수를 입력하세요: "))
+# 吏곴컖?쇨컖??
+n = int(input("以??섎? ?낅젰?섏꽭?? "))
 
 for i in range(1, n + 1):
     print("*" * i)
 
-# 역직각삼각형
+# ??쭅媛곸궪媛곹삎
 for i in range(n, 0, -1):
     print("*" * i)
 
-# 피라미드
+# ?쇰씪誘몃뱶
 for i in range(1, n + 1):
     spaces = " " * (n - i)
     stars = "*" * (2 * i - 1)
     print(spaces + stars)
 ```
 
-## 실전 예제: 숫자 맞추기 게임
+## ?ㅼ쟾 ?덉젣: ?レ옄 留욎텛湲?寃뚯엫
 
 ```python
 import random
@@ -251,25 +251,25 @@ import random
 answer = random.randint(1, 100)
 attempts = 0
 
-print("1부터 100 사이의 숫자를 맞춰보세요!")
+print("1遺??100 ?ъ씠???レ옄瑜?留욎떠蹂댁꽭??")
 
 while True:
-    guess = int(input("숫자를 입력하세요: "))
+    guess = int(input("?レ옄瑜??낅젰?섏꽭?? "))
     attempts += 1
     
     if guess == answer:
-        print(f"정답입니다! {attempts}번 만에 맞췄습니다.")
+        print(f"?뺣떟?낅땲?? {attempts}踰?留뚯뿉 留욎톬?듬땲??")
         break
     elif guess < answer:
-        print("더 큰 숫자입니다.")
+        print("?????レ옄?낅땲??")
     else:
-        print("더 작은 숫자입니다.")
+        print("???묒? ?レ옄?낅땲??")
 ```
 
-## 실전 예제: 리스트 처리
+## ?ㅼ쟾 ?덉젣: 由ъ뒪??泥섎━
 
 ```python
-# 점수 리스트에서 평균 구하기
+# ?먯닔 由ъ뒪?몄뿉???됯퇏 援ы븯湲?
 scores = [85, 90, 78, 92, 88]
 total = 0
 
@@ -277,9 +277,9 @@ for score in scores:
     total += score
 
 average = total / len(scores)
-print(f"평균 점수: {average:.2f}")
+print(f"?됯퇏 ?먯닔: {average:.2f}")
 
-# 최고점과 최저점 찾기
+# 理쒓퀬?먭낵 理쒖???李얘린
 max_score = scores[0]
 min_score = scores[0]
 
@@ -289,65 +289,65 @@ for score in scores:
     if score < min_score:
         min_score = score
 
-print(f"최고점: {max_score}, 최저점: {min_score}")
+print(f"理쒓퀬?? {max_score}, 理쒖??? {min_score}")
 ```
 
-## enumerate() 함수
+## enumerate() ?⑥닔
 
-인덱스와 값을 함께 가져올 수 있습니다:
+?몃뜳?ㅼ? 媛믪쓣 ?④퍡 媛?몄삱 ???덉뒿?덈떎:
 
 ```python
-fruits = ["사과", "바나나", "오렌지"]
+fruits = ["?ш낵", "諛붾굹??, "?ㅻ젋吏"]
 
 for index, fruit in enumerate(fruits):
     print(f"{index + 1}. {fruit}")
 ```
 
-출력:
+異쒕젰:
 ```
-1. 사과
-2. 바나나
-3. 오렌지
+1. ?ш낵
+2. 諛붾굹??
+3. ?ㅻ젋吏
 ```
 
-## zip() 함수
+## zip() ?⑥닔
 
-여러 리스트를 동시에 순회할 수 있습니다:
+?щ윭 由ъ뒪?몃? ?숈떆???쒗쉶?????덉뒿?덈떎:
 
 ```python
-names = ["홍길동", "김철수", "이영희"]
+names = ["?띻만??, "源泥좎닔", "?댁쁺??]
 ages = [25, 30, 28]
 
 for name, age in zip(names, ages):
-    print(f"{name}: {age}세")
+    print(f"{name}: {age}??)
 ```
 
-출력:
+異쒕젰:
 ```
-홍길동: 25세
-김철수: 30세
-이영희: 28세
+?띻만?? 25??
+源泥좎닔: 30??
+?댁쁺?? 28??
 ```
 
-## 무한 루프
+## 臾댄븳 猷⑦봽
 
-조건이 항상 참인 반복문입니다:
+議곌굔????긽 李몄씤 諛섎났臾몄엯?덈떎:
 
 ```python
-# 무한 루프 (주의!)
+# 臾댄븳 猷⑦봽 (二쇱쓽!)
 while True:
-    user_input = input("명령어를 입력하세요 (종료: quit): ")
+    user_input = input("紐낅졊?대? ?낅젰?섏꽭??(醫낅즺: quit): ")
     if user_input == "quit":
         break
-    print(f"입력한 명령어: {user_input}")
+    print(f"?낅젰??紐낅졊?? {user_input}")
 ```
 
-## for vs while 언제 사용할까?
+## for vs while ?몄젣 ?ъ슜?좉퉴?
 
-- **for**: 반복 횟수가 정해져 있거나 시퀀스를 순회할 때
-- **while**: 조건에 따라 반복할 때
+- **for**: 諛섎났 ?잛닔媛 ?뺥빐???덇굅???쒗?ㅻ? ?쒗쉶????
+- **while**: 議곌굔???곕씪 諛섎났????
 
-## 다음에 공부할 내용
+## ?ㅼ쓬??怨듬????댁슜
 
-다음 포스트에서는 함수에 대해 공부해보겠습니다.
+?ㅼ쓬 ?ъ뒪?몄뿉?쒕뒗 ?⑥닔?????怨듬??대낫寃좎뒿?덈떎.
 

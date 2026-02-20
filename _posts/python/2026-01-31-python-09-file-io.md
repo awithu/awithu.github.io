@@ -1,40 +1,40 @@
 ---
 layout: post
-title:  "파이썬 강의 9편: 파일 입출력"
-date:   2026-01-31 10:00:00 +0900
-categories: [IT, 파이썬 강의]
-tags: [파이썬, 파일입출력, 파일처리, file, IO]
-description: "파이썬으로 파일을 읽고 쓰는 방법, with 문 사용, CSV/JSON 파일 처리 등 파일 입출력의 모든 기능을 배웁니다."
+title:  "?뚯씠??媛뺤쓽 9?? ?뚯씪 ?낆텧??
+date:   2025-01-31 10:00:00 +0900
+categories: [IT, ?뚯씠??媛뺤쓽]
+tags: [?뚯씠?? ?뚯씪?낆텧?? ?뚯씪泥섎━, file, IO]
+description: "?뚯씠?ъ쑝濡??뚯씪???쎄퀬 ?곕뒗 諛⑸쾿, with 臾??ъ슜, CSV/JSON ?뚯씪 泥섎━ ???뚯씪 ?낆텧?μ쓽 紐⑤뱺 湲곕뒫??諛곗썎?덈떎."
 ---
 
-# 파이썬 강의 9편: 파일 입출력
+# ?뚯씠??媛뺤쓽 9?? ?뚯씪 ?낆텧??
 
-## 파일 입출력이란?
+## ?뚯씪 ?낆텧?μ씠??
 
-파일 입출력은 파일에서 데이터를 읽거나 파일에 데이터를 쓰는 작업입니다. 파이썬은 파일 처리를 매우 쉽게 할 수 있습니다.
+?뚯씪 ?낆텧?μ? ?뚯씪?먯꽌 ?곗씠?곕? ?쎄굅???뚯씪???곗씠?곕? ?곕뒗 ?묒뾽?낅땲?? ?뚯씠?ъ? ?뚯씪 泥섎━瑜?留ㅼ슦 ?쎄쾶 ?????덉뒿?덈떎.
 
-## 파일 열기
+## ?뚯씪 ?닿린
 
-### 기본 형식
+### 湲곕낯 ?뺤떇
 
 ```python
-file = open("파일명", "모드")
-# 파일 작업
+file = open("?뚯씪紐?, "紐⑤뱶")
+# ?뚯씪 ?묒뾽
 file.close()
 ```
 
-### 파일 모드
+### ?뚯씪 紐⑤뱶
 
-- `"r"`: 읽기 모드 (기본값)
-- `"w"`: 쓰기 모드 (파일이 있으면 덮어쓰기)
-- `"a"`: 추가 모드 (파일 끝에 추가)
-- `"x"`: 생성 모드 (파일이 없을 때만 생성)
-- `"b"`: 바이너리 모드
-- `"t"`: 텍스트 모드 (기본값)
+- `"r"`: ?쎄린 紐⑤뱶 (湲곕낯媛?
+- `"w"`: ?곌린 紐⑤뱶 (?뚯씪???덉쑝硫???뼱?곌린)
+- `"a"`: 異붽? 紐⑤뱶 (?뚯씪 ?앹뿉 異붽?)
+- `"x"`: ?앹꽦 紐⑤뱶 (?뚯씪???놁쓣 ?뚮쭔 ?앹꽦)
+- `"b"`: 諛붿씠?덈━ 紐⑤뱶
+- `"t"`: ?띿뒪??紐⑤뱶 (湲곕낯媛?
 
-## 파일 읽기
+## ?뚯씪 ?쎄린
 
-### read(): 전체 읽기
+### read(): ?꾩껜 ?쎄린
 
 ```python
 file = open("example.txt", "r", encoding="utf-8")
@@ -43,7 +43,7 @@ print(content)
 file.close()
 ```
 
-### readline(): 한 줄 읽기
+### readline(): ??以??쎄린
 
 ```python
 file = open("example.txt", "r", encoding="utf-8")
@@ -52,17 +52,17 @@ print(line)
 file.close()
 ```
 
-### readlines(): 모든 줄 읽기
+### readlines(): 紐⑤뱺 以??쎄린
 
 ```python
 file = open("example.txt", "r", encoding="utf-8")
 lines = file.readlines()
 for line in lines:
-    print(line.strip())  # strip()으로 줄바꿈 제거
+    print(line.strip())  # strip()?쇰줈 以꾨컮轅??쒓굅
 file.close()
 ```
 
-### 파일을 직접 순회
+### ?뚯씪??吏곸젒 ?쒗쉶
 
 ```python
 file = open("example.txt", "r", encoding="utf-8")
@@ -71,43 +71,43 @@ for line in file:
 file.close()
 ```
 
-## 파일 쓰기
+## ?뚯씪 ?곌린
 
-### write(): 문자열 쓰기
+### write(): 臾몄옄???곌린
 
 ```python
 file = open("output.txt", "w", encoding="utf-8")
 file.write("Hello, World!\n")
-file.write("파이썬 파일 입출력")
+file.write("?뚯씠???뚯씪 ?낆텧??)
 file.close()
 ```
 
-### writelines(): 여러 줄 쓰기
+### writelines(): ?щ윭 以??곌린
 
 ```python
-lines = ["첫 번째 줄\n", "두 번째 줄\n", "세 번째 줄\n"]
+lines = ["泥?踰덉㎏ 以?n", "??踰덉㎏ 以?n", "??踰덉㎏ 以?n"]
 file = open("output.txt", "w", encoding="utf-8")
 file.writelines(lines)
 file.close()
 ```
 
-## with 문 사용 (권장)
+## with 臾??ъ슜 (沅뚯옣)
 
-파일을 자동으로 닫아줍니다:
+?뚯씪???먮룞?쇰줈 ?レ븘以띾땲??
 
 ```python
-# 읽기
+# ?쎄린
 with open("example.txt", "r", encoding="utf-8") as file:
     content = file.read()
     print(content)
-# 파일이 자동으로 닫힘
+# ?뚯씪???먮룞?쇰줈 ?ロ옒
 
-# 쓰기
+# ?곌린
 with open("output.txt", "w", encoding="utf-8") as file:
     file.write("Hello, World!\n")
 ```
 
-## 실전 예제: 파일 복사
+## ?ㅼ쟾 ?덉젣: ?뚯씪 蹂듭궗
 
 ```python
 def copy_file(source, destination):
@@ -117,12 +117,12 @@ def copy_file(source, destination):
     with open(destination, "w", encoding="utf-8") as dst:
         dst.write(content)
     
-    print(f"{source}를 {destination}로 복사했습니다.")
+    print(f"{source}瑜?{destination}濡?蹂듭궗?덉뒿?덈떎.")
 
 copy_file("source.txt", "copy.txt")
 ```
 
-## 실전 예제: 파일 통계
+## ?ㅼ쟾 ?덉젣: ?뚯씪 ?듦퀎
 
 ```python
 def file_statistics(filename):
@@ -131,10 +131,10 @@ def file_statistics(filename):
         lines = content.split("\n")
     
     stats = {
-        "문자 수": len(content),
-        "단어 수": len(content.split()),
-        "줄 수": len(lines),
-        "문장 수": content.count(".") + content.count("!") + content.count("?")
+        "臾몄옄 ??: len(content),
+        "?⑥뼱 ??: len(content.split()),
+        "以???: len(lines),
+        "臾몄옣 ??: content.count(".") + content.count("!") + content.count("?")
     }
     
     return stats
@@ -144,24 +144,24 @@ for key, value in stats.items():
     print(f"{key}: {value}")
 ```
 
-## CSV 파일 처리
+## CSV ?뚯씪 泥섎━
 
-CSV(Comma-Separated Values) 파일을 처리합니다:
+CSV(Comma-Separated Values) ?뚯씪??泥섎━?⑸땲??
 
 ```python
 import csv
 
-# CSV 파일 읽기
+# CSV ?뚯씪 ?쎄린
 with open("students.csv", "r", encoding="utf-8") as file:
     reader = csv.reader(file)
     for row in reader:
         print(row)
 
-# CSV 파일 쓰기
+# CSV ?뚯씪 ?곌린
 data = [
-    ["이름", "나이", "점수"],
-    ["홍길동", "25", "85"],
-    ["김철수", "23", "90"]
+    ["?대쫫", "?섏씠", "?먯닔"],
+    ["?띻만??, "25", "85"],
+    ["源泥좎닔", "23", "90"]
 ]
 
 with open("output.csv", "w", encoding="utf-8", newline="") as file:
@@ -169,21 +169,21 @@ with open("output.csv", "w", encoding="utf-8", newline="") as file:
     writer.writerows(data)
 ```
 
-## JSON 파일 처리
+## JSON ?뚯씪 泥섎━
 
-JSON(JavaScript Object Notation) 파일을 처리합니다:
+JSON(JavaScript Object Notation) ?뚯씪??泥섎━?⑸땲??
 
 ```python
 import json
 
-# JSON 파일 읽기
+# JSON ?뚯씪 ?쎄린
 with open("data.json", "r", encoding="utf-8") as file:
     data = json.load(file)
     print(data)
 
-# JSON 파일 쓰기
+# JSON ?뚯씪 ?곌린
 data = {
-    "name": "홍길동",
+    "name": "?띻만??,
     "age": 25,
     "scores": [85, 90, 88]
 }
@@ -192,7 +192,7 @@ with open("output.json", "w", encoding="utf-8") as file:
     json.dump(data, file, ensure_ascii=False, indent=2)
 ```
 
-## 실전 예제: 로그 파일 분석
+## ?ㅼ쟾 ?덉젣: 濡쒓렇 ?뚯씪 遺꾩꽍
 
 ```python
 def analyze_log(log_file):
@@ -206,13 +206,13 @@ def analyze_log(log_file):
             elif "WARNING" in line:
                 warning_count += 1
     
-    print(f"에러: {error_count}개")
-    print(f"경고: {warning_count}개")
+    print(f"?먮윭: {error_count}媛?)
+    print(f"寃쎄퀬: {warning_count}媛?)
 
 analyze_log("app.log")
 ```
 
-## 실전 예제: 설정 파일 읽기
+## ?ㅼ쟾 ?덉젣: ?ㅼ젙 ?뚯씪 ?쎄린
 
 ```python
 def read_config(config_file):
@@ -221,7 +221,7 @@ def read_config(config_file):
     with open(config_file, "r", encoding="utf-8") as file:
         for line in file:
             line = line.strip()
-            if line and not line.startswith("#"):  # 주석 제외
+            if line and not line.startswith("#"):  # 二쇱꽍 ?쒖쇅
                 key, value = line.split("=")
                 config[key.strip()] = value.strip()
     
@@ -231,7 +231,7 @@ config = read_config("config.txt")
 print(config)
 ```
 
-## 파일 존재 확인
+## ?뚯씪 議댁옱 ?뺤씤
 
 ```python
 import os
@@ -239,31 +239,31 @@ import os
 filename = "example.txt"
 
 if os.path.exists(filename):
-    print(f"{filename} 파일이 존재합니다.")
+    print(f"{filename} ?뚯씪??議댁옱?⑸땲??")
 else:
-    print(f"{filename} 파일이 없습니다.")
+    print(f"{filename} ?뚯씪???놁뒿?덈떎.")
 ```
 
-## 디렉토리 작업
+## ?붾젆?좊━ ?묒뾽
 
 ```python
 import os
 
-# 현재 디렉토리
+# ?꾩옱 ?붾젆?좊━
 print(os.getcwd())
 
-# 파일 목록
+# ?뚯씪 紐⑸줉
 files = os.listdir(".")
 for file in files:
     print(file)
 
-# 디렉토리 생성
+# ?붾젆?좊━ ?앹꽦
 os.makedirs("new_folder", exist_ok=True)
 ```
 
-## 예외 처리
+## ?덉쇅 泥섎━
 
-파일 작업 시 오류가 발생할 수 있으므로 예외 처리가 필요합니다:
+?뚯씪 ?묒뾽 ???ㅻ쪟媛 諛쒖깮?????덉쑝誘濡??덉쇅 泥섎━媛 ?꾩슂?⑸땲??
 
 ```python
 try:
@@ -271,35 +271,35 @@ try:
         content = file.read()
         print(content)
 except FileNotFoundError:
-    print("파일을 찾을 수 없습니다.")
+    print("?뚯씪??李얠쓣 ???놁뒿?덈떎.")
 except PermissionError:
-    print("파일 접근 권한이 없습니다.")
+    print("?뚯씪 ?묎렐 沅뚰븳???놁뒿?덈떎.")
 except Exception as e:
-    print(f"오류 발생: {e}")
+    print(f"?ㅻ쪟 諛쒖깮: {e}")
 ```
 
-## 실전 예제: 학생 정보 관리 시스템
+## ?ㅼ쟾 ?덉젣: ?숈깮 ?뺣낫 愿由??쒖뒪??
 
 ```python
 import json
 
 def save_students(students, filename):
-    """학생 정보를 JSON 파일로 저장"""
+    """?숈깮 ?뺣낫瑜?JSON ?뚯씪濡????""
     with open(filename, "w", encoding="utf-8") as file:
         json.dump(students, file, ensure_ascii=False, indent=2)
 
 def load_students(filename):
-    """JSON 파일에서 학생 정보 불러오기"""
+    """JSON ?뚯씪?먯꽌 ?숈깮 ?뺣낫 遺덈윭?ㅺ린"""
     try:
         with open(filename, "r", encoding="utf-8") as file:
             return json.load(file)
     except FileNotFoundError:
         return []
 
-# 사용
+# ?ъ슜
 students = [
-    {"name": "홍길동", "age": 25, "score": 85},
-    {"name": "김철수", "age": 23, "score": 90}
+    {"name": "?띻만??, "age": 25, "score": 85},
+    {"name": "源泥좎닔", "age": 23, "score": 90}
 ]
 
 save_students(students, "students.json")
@@ -307,14 +307,14 @@ loaded_students = load_students("students.json")
 print(loaded_students)
 ```
 
-## 주의사항
+## 二쇱쓽?ы빆
 
-1. **인코딩**: 한글 파일은 `encoding="utf-8"` 사용
-2. **파일 닫기**: `with` 문 사용 권장
-3. **예외 처리**: 파일이 없을 수 있으므로 처리 필요
-4. **경로**: 상대 경로와 절대 경로 구분
+1. **?몄퐫??*: ?쒓? ?뚯씪? `encoding="utf-8"` ?ъ슜
+2. **?뚯씪 ?リ린**: `with` 臾??ъ슜 沅뚯옣
+3. **?덉쇅 泥섎━**: ?뚯씪???놁쓣 ???덉쑝誘濡?泥섎━ ?꾩슂
+4. **寃쎈줈**: ?곷? 寃쎈줈? ?덈? 寃쎈줈 援щ텇
 
-## 다음에 공부할 내용
+## ?ㅼ쓬??怨듬????댁슜
 
-다음 포스트에서는 클래스와 객체에 대해 공부해보겠습니다.
+?ㅼ쓬 ?ъ뒪?몄뿉?쒕뒗 ?대옒?ㅼ? 媛앹껜?????怨듬??대낫寃좎뒿?덈떎.
 
